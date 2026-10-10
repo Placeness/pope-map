@@ -136,7 +136,7 @@
    "birth_date": null,
    "birthplace": {
     "label": "Bethsaida",
-    "country": "Sea of Galilee",
+    "country": "Galilee",
     "historical_name": "Bethsaida",
     "precision": "exact",
     "lat": 32.91,
@@ -150,7 +150,7 @@
      3,
      8
     ],
-    "place_id": "bethsaida-sea-of-galilee"
+    "place_id": "bethsaida-galilee"
    },
    "saint": {
     "status": "saint",
@@ -750,7 +750,7 @@
     ],
     "label": "Saint, venerated since early times, before the modern canonization process. Feast day 11 July"
    },
-   "short_bio": "Pius led the Church of Rome around 140-154. An ancient source names his brother Hermas as the author of The Shepherd, an influential early Christian book.",
+   "short_bio": "Pius led the Church of Rome in the 140s and 150s. An ancient source names his brother Hermas as the author of The Shepherd, an influential early Christian book.",
    "long_bio": "The Muratorian Fragment says The Shepherd was written in Rome by Hermas while his brother Pius was bishop. In Pius's time Marcion, who rejected the Old Testament, was excluded from the Roman community and founded his own church. Valentinus and Cerdo also taught in Rome.",
    "actions": [
     "Saw Marcion excluded from the Church, c. 144",
@@ -1205,7 +1205,7 @@
     "label": "Saint, venerated since early times, before the modern canonization process. Feast day 19 May"
    },
    "short_bio": "Urban led the Church of Rome for about eight years, from 222 to 230, during a time of peace. Little is known of him; the stories linking him to St Cecilia are legend.",
-   "long_bio": "The Liber Pontificalis makes Urban a Roman, son of a man called Pontianus. The Acts of St Cecilia, which have him baptise her husband and brother-in-law, are considered legendary, and his death was probably natural. He was buried in the catacomb of Praetextatus on the Via Appia.",
+   "long_bio": "The Liber Pontificalis makes Urban a Roman, son of a man called Pontianus. The Acts of St Cecilia, which have him baptise her husband and brother-in-law, are considered legendary, and his death was probably natural. He was probably buried in the catacomb of Praetextatus on the Via Appia, though some scholars place his tomb in the catacomb of Callistus.",
    "actions": [
     "Led the Roman Church in a time of peace, c. 222-230"
    ],
@@ -2242,7 +2242,7 @@
     ],
     "label": "Saint, venerated since early times, before the modern canonization process. Feast day 31 December"
    },
-   "short_bio": "Sylvester led the Church of Rome for twenty-one years, from 314 to 335, in the reign of Constantine. In his time the great Constantinian basilicas, including the Lateran and the first St Peter's, were built.",
+   "short_bio": "Sylvester led the Church of Rome for nearly twenty-two years, from 314 to 335, in the reign of Constantine. In his time the great Constantinian basilicas, including the Lateran and the first St Peter's, were built.",
    "long_bio": "He sent legates to the Council of Nicaea in 325, which condemned Arianism. Later legends, that he cured Constantine of leprosy, baptised him, and received the 'Donation of Constantine', are not historical; the Donation is a medieval forgery. He built a church over the catacomb of Priscilla and was buried there.",
    "actions": [
     "Sent legates to the Council of Nicaea, 325",
@@ -2888,7 +2888,7 @@
     "label": "Saint, venerated since early times, before the modern canonization process"
    },
    "short_bio": "Celestine led the Church during the Nestorian crisis. A Roman synod under him condemned Nestorius in 430, and his legates took part in the Council of Ephesus (431). He also sent Palladius as the first bishop to the Irish Christians.",
-   "long_bio": "Celestine was elected in 422. When Nestorius of Constantinople objected to calling Mary 'Mother of God', Celestine held a synod in Rome (430) that condemned him and asked Cyril of Alexandria to act. His legates joined Cyril at the Council of Ephesus in 431, which deposed Nestorius. He opposed the Pelagians, sent Palladius to the Irish believers, and later tradition links him with St Patrick's mission. He restored Roman churches, including Santa Sabina, and was buried in the catacomb of Priscilla.",
+   "long_bio": "Celestine was elected in 422. When Nestorius of Constantinople objected to calling Mary 'Mother of God', Celestine held a synod in Rome (430) that condemned him and asked Cyril of Alexandria to act. His legates joined Cyril at the Council of Ephesus in 431, which deposed Nestorius. He opposed the Pelagians, sent Palladius to the Irish believers, and later tradition links him with St Patrick's mission. He restored Roman churches, and Santa Sabina was built in his time, and was buried in the catacomb of Priscilla.",
    "actions": [
     "Condemned Nestorius at a Roman synod (430)",
     "Sent legates to the Council of Ephesus (431)",
@@ -4073,7 +4073,7 @@
    "short_bio": "A Roman of high-ranking family, John III reigned as the Lombards poured into Italy. Few records of his time survive. He persuaded the general Narses to return to Rome, and restored the catacombs.",
    "long_bio": "John, surnamed Catelinus, was the son of Anastasius, a man of senatorial rank. He waited months for imperial confirmation before consecration in 561. The Lombard invasion of 568 began during his pontificate, and almost all records of it were lost. When the general Narses fell out of favour, John persuaded him to come back to Rome, which made the pope unpopular, and for a time he withdrew to the catacomb of Praetextatus. He repaired cemeteries and churches and died in 574.",
    "actions": [
-    "Persuaded Narses to return to Rome (571)",
+    "Persuaded Narses to return to Rome",
     "Restored Roman catacombs",
     "Ruled on Gallic bishops condemned at Lyon"
    ],
@@ -4269,13 +4269,13 @@
     "label": "Saint, venerated since early times, before the modern canonization process. Feast day 3 September"
    },
    "short_bio": "Born in Rome around 540 to a patrician family, Gregory was city prefect, then a monk, papal envoy and finally pope from 590. He fed Rome in famine, negotiated with the Lombards and sent Augustine to the English. He is a Doctor of the Church.",
-   "long_bio": "Gregory came from a wealthy Roman family; his parents Gordian and Silvia are honoured as saints. After serving as prefect of the city (c. 572) he turned his family home on the Caelian into the monastery of St Andrew. Pelagius II sent him as envoy to Constantinople. Elected in 590 during a plague, he governed the Church and much of Rome's civic life: organising food supplies from church estates, ransoming captives and negotiating with the Lombards. In 596 he sent Augustine and monks to evangelise the English. His Pastoral Rule, Dialogues, Moralia on Job, homilies and some 800 letters shaped medieval Christianity. He styled himself 'servant of the servants of God'. He died on 12 March 604.",
+   "long_bio": "Gregory came from a wealthy Roman family; his mother Silvia is honoured as a saint. After serving as prefect of the city (c. 572) he turned his family home on the Caelian into the monastery of St Andrew. Pelagius II sent him as envoy to Constantinople. Elected in 590 during a plague, he governed the Church and much of Rome's civic life: organising food supplies from church estates, ransoming captives and negotiating with the Lombards. In 596 he sent Augustine and monks to evangelise the English. His Pastoral Rule, Dialogues, Moralia on Job, homilies and some 850 letters shaped medieval Christianity. He styled himself 'servant of the servants of God'. He died on 12 March 604.",
    "actions": [
     "Sent Augustine and monks to the Anglo-Saxons (596)",
     "Organised famine relief and administration of church estates",
     "Negotiated with the Lombards to protect Rome",
     "Wrote the Pastoral Rule, Dialogues and Moralia",
-    "Left a register of about 800 letters"
+    "Left a register of about 850 letters"
    ],
    "context": "From 568 the Lombards invaded Italy, splitting the peninsula between Lombard duchies and Byzantine-held territories governed from Ravenna by an exarch. Rome was often isolated, short of food and hit by plague and floods, and popes increasingly took on civic responsibilities. Imperial confirmation from Constantinople was still needed before a new pope could be consecrated. Gregory's own letters are the richest record of this world.",
    "public_uncertainty": null,
@@ -5573,7 +5573,7 @@
     "label": "Saint, venerated since early times, before the modern canonization process. Feast day 8 September"
    },
    "short_bio": "Born in Palermo to a Syrian family, pope from 687 to 701. He refused to accept the Council in Trullo and is credited with adding the Agnus Dei to the Mass.",
-   "long_bio": "Sergius, son of Tiberius, was born in Palermo to a family from Antioch and came to Rome under Pope Adeodatus II. He was elected after a disputed contest in 687. He refused to sign the canons of the Council in Trullo (692), several of which criticised Roman practice; when Justinian II sent an officer to arrest him, the soldiers of Rome and Ravenna protected him. He baptised the West Saxon king Caedwalla, consecrated Willibrord for the Frisians, and added the Agnus Dei to the Mass.",
+   "long_bio": "Sergius, son of Tiberius, was born in Palermo to a family from Antioch and came to Rome under Pope Adeodatus II. He was elected after a disputed contest in 687. He refused to sign the canons of the Council in Trullo (692), several of which criticised Roman practice; when Justinian II sent an officer to arrest him, the soldiers of Rome and Ravenna protected him. He baptised the West Saxon king Caedwalla, consecrated Willibrord for the Frisians, and is credited with adding the Agnus Dei to the Mass.",
    "actions": [
     "Rejected the canons of the Council in Trullo (692)",
     "Consecrated Willibrord, apostle of the Frisians",

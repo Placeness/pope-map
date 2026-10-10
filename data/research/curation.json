@@ -19,7 +19,14 @@
   },
   "celestine-i": {
    "saint.feast": null,
-   "_why": "Feast day not checked against a source (research worker note, rows 39-76)."
+   "_why": "Feast day not checked against a source (research worker note, rows 39-76). Independent fact review 2026-10-10: Santa Sabina was a new building of his time, not a restoration.",
+   "_replace": [
+    [
+     "long_bio",
+     "He restored Roman churches, including Santa Sabina,",
+     "He restored Roman churches, and Santa Sabina was built in his time,"
+    ]
+   ]
   },
   "sixtus-iii": {
    "saint.feast": null,
@@ -78,8 +85,8 @@
    "_why": "Feast day not checked against a source (research worker note, rows 39-76)."
   },
   "peter": {
-   "birthplace.country": "Sea of Galilee",
-   "_why": "Neutral geographic label; both candidate Bethsaida sites lie on the north shore of the Sea of Galilee.",
+   "birthplace.country": "Galilee",
+   "_why": "Neutral geographic label; both candidate Bethsaida sites lie on the north shore of the Sea of Galilee. Country set to the region Galilee, avoiding a modern border claim (review 2026-10-10).",
    "birthplace.label": "Bethsaida"
   },
   "theodore-i": {
@@ -94,6 +101,76 @@
    "saint.date": null,
    "saint.public_note": "Sources disagree on the year his cult was confirmed (1736 or 1773).",
    "_why": "Year conflict: Catholic Encyclopedia 1773 vs uncited 1736."
+  },
+  "pius-i": {
+   "_replace": [
+    [
+     "short_bio",
+     "around 140-154",
+     "in the 140s and 150s"
+    ]
+   ],
+   "_why": "Independent fact review 2026-10-10: range contradicted the Vatican roster dates."
+  },
+  "gregory-i": {
+   "_replace": [
+    [
+     "long_bio",
+     "his parents Gordian and Silvia are honoured as saints",
+     "his mother Silvia is honoured as a saint"
+    ],
+    [
+     "long_bio",
+     "some 800 letters",
+     "some 850 letters"
+    ],
+    [
+     "actions",
+     "about 800 letters",
+     "about 850 letters"
+    ]
+   ],
+   "_why": "Independent fact review 2026-10-10: only his mother Silvia is venerated as a saint; about 854 letters survive."
+  },
+  "urban-i": {
+   "_replace": [
+    [
+     "long_bio",
+     "He was buried in the catacomb of Praetextatus on the Via Appia.",
+     "He was probably buried in the catacomb of Praetextatus on the Via Appia, though some scholars place his tomb in the catacomb of Callistus."
+    ]
+   ],
+   "_why": "Independent fact review 2026-10-10: burial site disputed (Praetextatus or Callistus)."
+  },
+  "john-iii": {
+   "_replace": [
+    [
+     "actions",
+     "Persuaded Narses to return to Rome (571)",
+     "Persuaded Narses to return to Rome"
+    ]
+   ],
+   "_why": "Independent fact review 2026-10-10: year 571 not found in any source."
+  },
+  "sergius-i": {
+   "_replace": [
+    [
+     "long_bio",
+     "and added the Agnus Dei to the Mass.",
+     "and is credited with adding the Agnus Dei to the Mass."
+    ]
+   ],
+   "_why": "Independent fact review 2026-10-10: Agnus Dei attribution rests on the Liber Pontificalis."
+  },
+  "sylvester-i": {
+   "_replace": [
+    [
+     "short_bio",
+     "for twenty-one years",
+     "for nearly twenty-two years"
+    ]
+   ],
+   "_why": "Independent fact review 2026-10-10: 31.I.314 to 31.XII.335 is almost 22 years."
   }
  }
 }

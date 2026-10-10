@@ -233,6 +233,19 @@ def main():
             if pid not in people:
                 print('curation: unknown person', pid)
                 continue
+            # "_replace": [[field, old text, new text], ...] corrects one phrase without rewriting the field
+            for field, a, b in ov.get('_replace', []):
+                cur = people[pid].get(field)
+                if isinstance(cur, list):
+                    hit = [i for i, x in enumerate(cur) if isinstance(x, str) and a in x]
+                    if not hit:
+                        raise SystemExit('curation: %s.%s does not contain %r' % (pid, field, a))
+                    for i in hit:
+                        cur[i] = cur[i].replace(a, b)
+                else:
+                    if not cur or a not in cur:
+                        raise SystemExit('curation: %s.%s does not contain %r' % (pid, field, a))
+                    people[pid][field] = cur.replace(a, b)
             for k, v in ov.items():
                 if k.startswith('_'):
                     continue
