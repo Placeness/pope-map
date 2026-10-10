@@ -187,13 +187,16 @@
     });
   }
 
-  function siteKey(p) { return p.birthplace.place_id || (p.birthplace.lat.toFixed(3) + ',' + p.birthplace.lon.toFixed(3)); }
+  // Same coordinates (to about 1 km) form one site, so a probable birthplace in Rome joins the Rome group.
+  function siteKey(p) { return p.birthplace.lat.toFixed(2) + ',' + p.birthplace.lon.toFixed(2); }
 
   function computeClusters(people) {
     var sites = {}, order = [];
     people.forEach(function (p) {
       var k = siteKey(p);
       if (!sites[k]) { sites[k] = { key: k, label: p.birthplace.label, country: p.birthplace.country, lat: p.birthplace.lat, lon: p.birthplace.lon, precision: p.birthplace.precision, people: [] }; order.push(sites[k]); }
+      else if (sites[k].precision === 'region' && p.birthplace.precision === 'exact') { sites[k].label = p.birthplace.label; sites[k].precision = 'exact'; }
+      if (p.birthplace.precision === 'region') sites[k].mixed = true;
       sites[k].people.push(p.id);
     });
     order.forEach(function (s) { s.pt = map.latLngToLayerPoint([s.lat, s.lon]); });
@@ -292,8 +295,8 @@
   function openGroup(c) {
     state.group = {
       kind: c.kind, key: c.key, members: c.people.slice(),
-      label: c.kind === 'shared' ? c.anchor.label : c.anchor.label,
-      precision: c.anchor.precision,
+      label: c.anchor.label,
+      precision: c.anchor.precision, mixed: !!c.anchor.mixed && c.anchor.precision === 'exact',
       sites: c.sites.length,
       center: [c.anchor.lat, c.anchor.lon]
     };
@@ -308,7 +311,9 @@
     var members = D.people.filter(function (q) { return hasPlace(q) && siteKey(q) === k; }).map(function (q) { return q.id; });
     if (members.length < 2) return null;
     members.sort(function (a, b) { return firstEntry(person(a)) - firstEntry(person(b)); });
-    return { kind: 'shared', key: 'site:' + k, members: members, label: p.birthplace.label, precision: p.birthplace.precision };
+    var exact = members.map(person).filter(function (q) { return q.birthplace.precision === 'exact'; })[0];
+    var mixed = members.some(function (id) { return person(id).birthplace.precision === 'region'; });
+    return { kind: 'shared', key: 'site:' + k, members: members, label: (exact || p).birthplace.label, precision: exact ? 'exact' : 'region', mixed: mixed && !!exact };
   }
 
   // ---------- antipopes on the map ----------
@@ -513,11 +518,12 @@
     var g = state.group; if (!g) return '';
     var i = g.members.indexOf(state.person); if (i < 0) return '';
     var p = person(state.person);
-    var title = g.kind === 'shared' ? (g.precision === 'region' ? 'Born in the region of ' : 'Born in ') + g.label : 'Popes in this area';
+    var title = g.kind === 'shared' ? (g.precision === 'region' ? 'Born in the region of ' : g.mixed ? 'Born in or near ' : 'Born in ') + g.label : 'Popes in this area';
     var kind = g.kind === 'shared' ? 'Shared birthplace' : 'Nearby birthplaces, grouped at this zoom';
     var opts = g.members.map(function (id, k) {
       var q = person(id);
-      return '<option value="' + esc(id) + '"' + (k === i ? ' selected' : '') + '>' + (k + 1) + '. ' + esc(q.display_name) + ' · ' + esc(entry(firstEntry(q)).years_label) + (g.kind === 'area' ? ' · ' + esc(placeShort(q)) : '') + '</option>';
+      var showPlace = g.kind === 'area' || q.birthplace.precision === 'region';
+      return '<option value="' + esc(id) + '"' + (k === i ? ' selected' : '') + '>' + (k + 1) + '. ' + esc(q.display_name) + ' · ' + esc(entry(firstEntry(q)).years_label) + (showPlace ? ' · ' + esc(placeShort(q)) : '') + '</option>';
     }).join('');
     return '<section class="chooser' + (g.kind === 'area' ? ' is-area' : '') + '" aria-label="Location chooser">' +
       '<div class="chooser-top"><span class="chooser-active" style="--active:' + eraOf(p).color + '" aria-hidden="true"></span><div><div class="chooser-kind">' + esc(kind) + '</div><div class="chooser-title">' + esc(title) + '</div></div>' +

@@ -85,6 +85,10 @@
   "theodore-i": {
    "birthplace.country": null,
    "_why": "Jerusalem shown without a modern country label, as a neutral convention."
+  },
+  "leo-ix": {
+   "saint.date": null,
+   "_why": "The 1082 elevation date rests on Wikipedia alone; withheld until checked."
   }
  }
 }
