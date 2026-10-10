@@ -383,7 +383,11 @@
     $$('.filter-modes .chip').forEach(function (b) { b.setAttribute('aria-pressed', String(b.dataset.mode === mode)); });
     if (mode === 'antipopes' && state.person && !(person(state.person).antipopes || []).length) { /* keep selection, it may be hidden */ }
     renderMarkers();
-    if (mode !== 'all' && map) map.setZoom(Math.min(map.getZoom(), 4.5), { animate: !reduceMotion });
+    if (mode === 'antipopes' && map) {
+      // every antipope birthplace lies between Spain, the Low Countries and Egypt
+      var off = panelOffsetPx();
+      map.fitBounds(L.latLngBounds([[30, -6], [53, 31]]), { paddingTopLeft: [off + 20, 70], paddingBottomRight: [20, mqMobile.matches ? 140 : 150], animate: !reduceMotion });
+    } else if (mode !== 'all' && map) map.setZoom(Math.min(map.getZoom(), 4.5), { animate: !reduceMotion });
   }
 
   // ---------- resources ----------

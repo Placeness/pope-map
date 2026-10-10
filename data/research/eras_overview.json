@@ -1,0 +1,359 @@
+{
+  "note": "These are this project's working groupings for colour-coding the map, modelled on the section headings of Britannica's 'Papacy' article. They are not an official Vatican classification; the Holy See publishes the sequence of popes but does not divide it into eras.",
+  "eras": [
+    {
+      "id": "early",
+      "label": "Early Church",
+      "years": "c. 30s to 590",
+      "britannica_heading": "The early papacy: from St. Peter to 590 ce",
+      "first_n": 1,
+      "last_n": 63,
+      "first_pope": "St Peter",
+      "last_pope": "Pelagius II",
+      "summary": "From St Peter to the late sixth century, the bishops of Rome led a young Church through persecution, the conversion of the empire and the fall of the West. Many are honoured as saints, though records of their lives are often slight.",
+      "rationale": "Opens with St Peter (roster 1). Ends with Pelagius II (d. 7 Feb 590, roster 63); the boundary is the election of Gregory I in 590, whom the Catholic Encyclopedia (quoting Milman) calls 'the real father of the medieval papacy': he negotiated with the Lombards when Byzantine help failed, sent the mission to England and administered the Church's estates and Rome's civic needs, foreshadowing papal temporal power. Britannica's first section runs 'from St. Peter to 590 ce'. Alternative: Duffy's first chapter, 'Upon this Rock', ends earlier, with Leo the Great (461).",
+      "sources": [
+        "S1",
+        "S14",
+        "S22",
+        "S23"
+      ]
+    },
+    {
+      "id": "medieval",
+      "label": "Medieval",
+      "years": "590 to 1303",
+      "britannica_heading": "The medieval papacy: from 590 to 1303",
+      "first_n": 64,
+      "last_n": 193,
+      "first_pope": "St Gregory I (the Great)",
+      "last_pope": "Boniface VIII",
+      "summary": "From Gregory the Great to Boniface VIII, popes became major figures in a Christian Europe, crowning emperors, reforming the Church and calling crusades and councils. The era closes amid a bitter clash with the French crown.",
+      "rationale": "Opens with Gregory I (elected 590, consecrated 3 Sept 590; roster 64). Ends with Boniface VIII (roster 193): his conflict with Philip IV of France (Clericis laicos 1296, Unam Sanctam 1302), his seizure at Anagni on 7 Sept 1303 and his death on 11 Oct 1303 mark the end of high-medieval papal claims. After the brief pontificate of Benedict XI, Clement V (elected 1305) settled in France and the popes resided at Avignon c. 1309-1377. Britannica: 'from 590 to 1303'. Alternative: Duffy splits this span into 'Between Two Empires' and 'Set Above Nations' (the latter beginning with the Gregorian reform).",
+      "sources": [
+        "S1",
+        "S14",
+        "S15",
+        "S16",
+        "S17",
+        "S22"
+      ]
+    },
+    {
+      "id": "renaissance_reformation",
+      "label": "Renaissance and Reformation",
+      "years": "1303 to 1565",
+      "britannica_heading": "The Renaissance and Reformation papacy: from 1303 to 1565",
+      "first_n": 194,
+      "last_n": 224,
+      "first_pope": "Bl. Benedict XI",
+      "last_pope": "Pius IV",
+      "summary": "From Benedict XI to Pius IV, the papacy lived through the Avignon years, the Great Western Schism, Renaissance splendour and the Protestant Reformation. It ends with the Council of Trent, which set the course of Catholic renewal.",
+      "rationale": "Opens with Benedict XI (elected Oct 1303; roster 194), the first pope after Boniface VIII's death, on the eve of the Avignon residence (Clement V; c. 1309-1377). Ends with Pius IV (d. 9 Dec 1565; roster 224), who brought the Council of Trent (opened 13 Dec 1545) to its close on 4 Dec 1563 and confirmed its decrees by the bull Benedictus Deus (26 Jan 1564). Britannica: 'from 1303 to 1565'. Alternative: Duffy treats the Renaissance and Reformation in a single chapter, not separated from the late Middle Ages at 1303.",
+      "sources": [
+        "S1",
+        "S15",
+        "S16",
+        "S17",
+        "S18",
+        "S22"
+      ]
+    },
+    {
+      "id": "early_modern",
+      "label": "Early modern",
+      "years": "1566 to 1774",
+      "britannica_heading": "The early modern papacy: from 1566 to 1774",
+      "first_n": 225,
+      "last_n": 249,
+      "first_pope": "St Pius V",
+      "last_pope": "Clement XIV",
+      "summary": "From Pius V to Clement XIV, popes put the reforms of Trent into practice and sent missionaries across the world, while Catholic monarchs grew ever more powerful. The era ends with the suppression of the Jesuits in 1773.",
+      "rationale": "Opens with Pius V (elected 7 Jan 1566; roster 225), who enforced the discipline of Trent (the Tridentine catechism, breviary and missal followed under him; dates of those not confirmed from the fetched CE page). Ends with Clement XIV (d. 22 Sept 1774; roster 249), who under pressure from the Bourbon courts suppressed the Society of Jesus by the brief Dominus ac Redemptor, dated 21 July 1773. Britannica: 'from 1566 to 1774'. Alternative: Duffy's fifth chapter, 'The Pope and the People', begins in 1774.",
+      "sources": [
+        "S1",
+        "S18",
+        "S19",
+        "S20",
+        "S22"
+      ]
+    },
+    {
+      "id": "modern",
+      "label": "Modern",
+      "years": "1775 to today",
+      "britannica_heading": "The modern papacy: from 1775 to the 21st century",
+      "first_n": 250,
+      "last_n": 267,
+      "first_pope": "Pius VI",
+      "last_pope": "Leo XIV",
+      "summary": "From Pius VI to Leo XIV, the papacy passed through revolution, the loss of the Papal States and two Vatican Councils. Today's popes are spiritual leaders with a worldwide voice, travelling far beyond Rome.",
+      "rationale": "Opens with Pius VI (elected 15 Feb 1775; roster 250), whose pontificate ran into the French Revolution: he rejected the Civil Constitution of the Clergy (1791), was removed from Rome by French forces in Feb 1798 and died in custody at Valence on 29 Aug 1799. Runs to Leo XIV (elected 8 May 2025; roster 267). Britannica: 'from 1775 to the 21st century'. Alternative: Duffy divides this span at 1903 ('The Pope and the People', 1774-1903; 'The Oracles of God', 1903 onward).",
+      "sources": [
+        "S1",
+        "S21",
+        "S22",
+        "S23"
+      ]
+    }
+  ],
+  "overview": {
+    "intro": {
+      "text": "The pope is the Bishop of Rome. Catholics believe he is the successor of St Peter, the apostle Christ made the rock of his Church and shepherd of his flock. Together with the bishops, who succeed the other apostles, the pope serves the whole Church, and the Catechism calls him the lasting, visible source and foundation of its unity. This map follows that line of bishops of Rome, from Peter to Leo XIV, and the places they came from.",
+      "sources": [
+        "S2",
+        "S13",
+        "S23"
+      ]
+    },
+    "succession": {
+      "text": "In the early centuries the clergy and people of Rome chose their bishop, often with neighbouring bishops and, later, emperors and kings pressing their claims. In 1059 Pope Nicholas II reserved the election to the cardinals. After a vacancy of almost three years, Gregory X created the conclave in 1274: the cardinals are shut in until they agree. Today the rules are set by Universi Dominici Gregis. Cardinals under 80 vote in the Sistine Chapel, a two-thirds majority is needed, and the ballots are burned after voting. Black smoke means no pope yet; white smoke tells the world a pope has been chosen.",
+      "sources": [
+        "S4",
+        "S5",
+        "S10",
+        "S11"
+      ]
+    },
+    "saints": {
+      "text": "The Church honours as saints those whose holiness she formally recognises, as models and intercessors. For the first thousand years, saints such as martyred popes were honoured by local veneration approved by bishops, and many appear in the Roman Martyrology without any formal process. The first person known to have been canonized by a pope is St Ulrich of Augsburg, in 993, by John XV. Today a cause passes through four stages: Servant of God, Venerable, Blessed and Saint, with miracles usually required for the last two.",
+      "sources": [
+        "S3",
+        "S6",
+        "S7",
+        "S8",
+        "S9"
+      ]
+    },
+    "saints_short": {
+      "text": "Early popes are often honoured as saints by ancient tradition rather than formal canonization. Modern causes pass through four stages: Servant of God, Venerable, Blessed and Saint.",
+      "sources": [
+        "S6",
+        "S7"
+      ]
+    },
+    "eras_note": {
+      "text": "The five colours group the popes into broad eras: the early Church, the Middle Ages, the Renaissance and Reformation, the early modern period and the modern age. The boundaries fall between pontificates, so each pope belongs to one era. These are this project's own groupings, modelled on common historical divisions, not an official classification of the Church.",
+      "sources": [
+        "S1"
+      ]
+    },
+    "antipopes": {
+      "text": "An antipope is someone who claimed to be pope in opposition to the one lawfully elected. Older Catholic reference works count about thirty, from Hippolytus in the third century to Felix V in the fifteenth, including rival claimants in the Great Western Schism. This map follows the Vatican's official list of popes, so antipopes are not shown.",
+      "sources": [
+        "S12",
+        "S23"
+      ]
+    }
+  },
+  "sources": [
+    {
+      "id": "S1",
+      "title": "Papacy",
+      "url": "https://www.britannica.com/topic/papacy",
+      "publisher": "Encyclopaedia Britannica (Frank J. Coppa)",
+      "tier": "scholarly",
+      "locator": "Table of contents: 'The early papacy: from St. Peter to 590 ce'; 'The medieval papacy: from 590 to 1303'; 'The Renaissance and Reformation papacy: from 1303 to 1565'; 'The early modern papacy: from 1566 to 1774'; 'The modern papacy: from 1775 to the 21st century'",
+      "accessed": "2026-10-10"
+    },
+    {
+      "id": "S2",
+      "title": "Catechism of the Catholic Church, Part One, Section Two, Article 9, Paragraph 4: Christ's Faithful - Hierarchy, Laity, Consecrated Life",
+      "url": "https://www.vatican.va/archive/ENG0015/__P2A.HTM",
+      "publisher": "Holy See (vatican.va)",
+      "tier": "vatican",
+      "locator": "nos. 880-882",
+      "accessed": "2026-10-10"
+    },
+    {
+      "id": "S3",
+      "title": "Catechism of the Catholic Church, Article 9, Paragraph 3: The Church is One, Holy, Catholic and Apostolic",
+      "url": "https://www.vatican.va/archive/ENG0015/__P29.HTM",
+      "publisher": "Holy See (vatican.va)",
+      "tier": "vatican",
+      "locator": "no. 828",
+      "accessed": "2026-10-10"
+    },
+    {
+      "id": "S4",
+      "title": "The Conclave from the Middle Ages to the present day (Lisa Zengarini, 5 May 2025)",
+      "url": "https://www.vaticannews.va/en/pope/news/2025-05/the-conclave-from-the-middle-ages-to-our-days.html",
+      "publisher": "Vatican News",
+      "tier": "vatican",
+      "locator": "Sections on early elections, Nicholas II 1059 (In nomine Domini), Alexander III 1179 (two-thirds), Gregory X 1274 (Ubi periculum), Paul VI (electors under 80)",
+      "accessed": "2026-10-10"
+    },
+    {
+      "id": "S5",
+      "title": "Universi Dominici Gregis, Apostolic Constitution on the vacancy of the Apostolic See and the election of the Roman Pontiff (22 February 1996)",
+      "url": "https://www.vatican.va/content/john-paul-ii/en/apost_constitutions/documents/hf_jp-ii_apc_22021996_universi-dominici-gregis.html",
+      "publisher": "Holy See (vatican.va)",
+      "tier": "vatican",
+      "locator": "nos. 33 (electors under 80, max 120), 51 (Sistine Chapel), 62 (two-thirds, as amended by Normas Nonnullas 2013), 70 (ballots burned)",
+      "accessed": "2026-10-10"
+    },
+    {
+      "id": "S6",
+      "title": "Dicastery for the Causes of Saints (Alessandro Di Bussolo, 22 July 2025)",
+      "url": "https://www.vaticannews.va/en/vatican-city/news/2025-07/dicastery-for-the-causes-of-saints.html",
+      "publisher": "Vatican News",
+      "tier": "vatican",
+      "locator": "Stages of a cause: Servant of God, Venerable, Blessed, Saint; miracle requirements",
+      "accessed": "2026-10-10"
+    },
+    {
+      "id": "S7",
+      "title": "Beatification and Canonization (Catholic Encyclopedia, 1907)",
+      "url": "https://www.newadvent.org/cathen/02364b.htm",
+      "publisher": "Robert Appleton Company / New Advent",
+      "tier": "local_ecclesiastical_approval",
+      "locator": "Sections on early local cult of martyrs under bishops, Alexander III, Urban VIII 1634",
+      "accessed": "2026-10-10"
+    },
+    {
+      "id": "S8",
+      "title": "St. Ulrich (Catholic Encyclopedia, 1912)",
+      "url": "https://www.newadvent.org/cathen/15123a.htm",
+      "publisher": "Robert Appleton Company / New Advent",
+      "tier": "local_ecclesiastical_approval",
+      "locator": "'canonized by John XV' in 993",
+      "accessed": "2026-10-10"
+    },
+    {
+      "id": "S9",
+      "title": "Saint Ulrich",
+      "url": "https://www.britannica.com/biography/Saint-Ulrich",
+      "publisher": "Encyclopaedia Britannica",
+      "tier": "scholarly",
+      "locator": "'the first person known to have been canonized by a pope' (993, John XV)",
+      "accessed": "2026-10-10"
+    },
+    {
+      "id": "S10",
+      "title": "Conclave (Catholic Encyclopedia, 1908)",
+      "url": "https://www.newadvent.org/cathen/04192a.htm",
+      "publisher": "Robert Appleton Company / New Advent",
+      "tier": "local_ecclesiastical_approval",
+      "locator": "Origin at Viterbo and Ubi periculum (Lyons II, 1274); ballots burned, smoke signal",
+      "accessed": "2026-10-10"
+    },
+    {
+      "id": "S11",
+      "title": "Papal Elections (Catholic Encyclopedia, 1911)",
+      "url": "https://www.newadvent.org/cathen/11456a.htm",
+      "publisher": "Robert Appleton Company / New Advent",
+      "tier": "local_ecclesiastical_approval",
+      "locator": "Early elections by clergy and people of Rome; Nicholas II 1059; Lateran 1139, 1179",
+      "accessed": "2026-10-10"
+    },
+    {
+      "id": "S12",
+      "title": "Antipope (Catholic Encyclopedia, 1907)",
+      "url": "https://www.newadvent.org/cathen/01582a.htm",
+      "publisher": "Robert Appleton Company / New Advent",
+      "tier": "local_ecclesiastical_approval",
+      "locator": "Definition; list from Hippolytus (3rd c.) to Felix V (1439-1449); c. thirty after Hergenroether",
+      "accessed": "2026-10-10"
+    },
+    {
+      "id": "S13",
+      "title": "The Pope (Catholic Encyclopedia, 1911)",
+      "url": "https://www.newadvent.org/cathen/12260a.htm",
+      "publisher": "Robert Appleton Company / New Advent",
+      "tier": "local_ecclesiastical_approval",
+      "locator": "Opening definition: Bishop of Rome, successor of St Peter, Vicar of Christ",
+      "accessed": "2026-10-10"
+    },
+    {
+      "id": "S14",
+      "title": "Pope St. Gregory I ('the Great') (Catholic Encyclopedia, 1909)",
+      "url": "https://www.newadvent.org/cathen/06780a.htm",
+      "publisher": "Robert Appleton Company / New Advent",
+      "tier": "local_ecclesiastical_approval",
+      "locator": "Election 590, consecration 3 Sept 590; Milman 'father of the medieval papacy'; Lombards; English mission; estates",
+      "accessed": "2026-10-10"
+    },
+    {
+      "id": "S15",
+      "title": "Pope Boniface VIII (Catholic Encyclopedia, 1907)",
+      "url": "https://www.newadvent.org/cathen/02662a.htm",
+      "publisher": "Robert Appleton Company / New Advent",
+      "tier": "local_ecclesiastical_approval",
+      "locator": "Unam Sanctam 1302; Philip IV; Anagni 7 Sept 1303; death 11 Oct 1303",
+      "accessed": "2026-10-10"
+    },
+    {
+      "id": "S16",
+      "title": "Pope Clement V (Catholic Encyclopedia, 1908)",
+      "url": "https://www.newadvent.org/cathen/04020a.htm",
+      "publisher": "Robert Appleton Company / New Advent",
+      "tier": "local_ecclesiastical_approval",
+      "locator": "Election at Perugia 1305; coronation at Lyons; settled at Avignon",
+      "accessed": "2026-10-10"
+    },
+    {
+      "id": "S17",
+      "title": "Avignon papacy",
+      "url": "https://www.britannica.com/event/Avignon-papacy",
+      "publisher": "Encyclopaedia Britannica",
+      "tier": "scholarly",
+      "locator": "Quick facts: 1309-1377; Clement V and the move to Avignon",
+      "accessed": "2026-10-10"
+    },
+    {
+      "id": "S18",
+      "title": "Council of Trent (Catholic Encyclopedia, 1912)",
+      "url": "https://www.newadvent.org/cathen/15030c.htm",
+      "publisher": "Robert Appleton Company / New Advent",
+      "tier": "local_ecclesiastical_approval",
+      "locator": "Opened 13 Dec 1545; closed 4 Dec 1563; confirmed by Pius IV, Benedictus Deus, 26 Jan 1564",
+      "accessed": "2026-10-10"
+    },
+    {
+      "id": "S19",
+      "title": "Pope St. Pius V (Catholic Encyclopedia, 1911)",
+      "url": "https://www.newadvent.org/cathen/12130a.htm",
+      "publisher": "Robert Appleton Company / New Advent",
+      "tier": "local_ecclesiastical_approval",
+      "locator": "Elected 7 Jan 1566; enforced Tridentine discipline; Lepanto 1571",
+      "accessed": "2026-10-10"
+    },
+    {
+      "id": "S20",
+      "title": "Breve Dominus ac Redemptor (21 July 1773)",
+      "url": "https://www.vatican.va/content/clemens-xiv/pt/documents/breve-dominus-ac-redemptor-21-luglio-1773.html",
+      "publisher": "Holy See (vatican.va)",
+      "tier": "vatican",
+      "locator": "Para. 25: suppression of the Society of Jesus; dated Rome, 21 July 1773",
+      "accessed": "2026-10-10"
+    },
+    {
+      "id": "S21",
+      "title": "Pope Pius VI (Catholic Encyclopedia, 1911)",
+      "url": "https://www.newadvent.org/cathen/12131a.htm",
+      "publisher": "Robert Appleton Company / New Advent",
+      "tier": "local_ecclesiastical_approval",
+      "locator": "Elected 15 Feb 1775; rejected Civil Constitution of the Clergy 1791; removed from Rome 1798; died Valence 29 Aug 1799",
+      "accessed": "2026-10-10"
+    },
+    {
+      "id": "S22",
+      "title": "Review of Eamon Duffy, Saints and Sinners: A History of the Popes, 4th ed. (2014)",
+      "url": "https://catholicbooksreview.org/2015/duffy.html",
+      "publisher": "Catholic Books Review",
+      "tier": "supplementary",
+      "locator": "Six chapters: 'Upon this Rock' (33-461) ... 'The Pope and the People' (1774-1903), 'The Oracles of God' (1903-2014)",
+      "accessed": "2026-10-10"
+    },
+    {
+      "id": "S23",
+      "title": "Supreme Pontiffs (roster)",
+      "url": "https://www.vatican.va/content/vatican/en/holy-father.html",
+      "publisher": "Holy See (vatican.va)",
+      "tier": "vatican",
+      "locator": "Sequence St Peter to Leo XIV; project roster rows 1-267",
+      "accessed": "2026-10-10"
+    }
+  ],
+  "notes": "Era headings and year ranges verified on Britannica 'Papacy' table of contents (S1); boundary turning points from Catholic Encyclopedia and vatican.va. Roster boundary rows checked: 63 Pelagius II d. 7.II.590; 64 Gregory I 3.IX.590; 193 Boniface VIII d. 11.X.1303; 194 Benedict XI X.1303; 224 Pius IV d. 9.XII.1565; 225 Pius V I.1566; 249 Clement XIV d. 22.IX.1774; 250 Pius VI II.1775; 267 Leo XIV V.2025. Vatican News conclave article does not mention smoke colours; smoke from CE Conclave (S10) and general knowledge; UDG no. 70 covers burning of ballots. Vatican News dicastery article does not mention Ulrich; 'first known' papal canonization is from Britannica (S9), CE (S8) gives date and pope only. Catechism 828 does not itself use the terms Servant of God/Venerable. Early era 'years' start given as 'c. 30s' because Peter's dates are traditional."
+}

@@ -303,12 +303,16 @@ def main():
     pending = sum(1 for p in people_list if p['research_status'] == 'pending')
 
     ov = eo.get('overview', {})
+    def ov_text(k):
+        v = ov.get(k) or ''
+        return v.get('text', '') if isinstance(v, dict) else v
     overview = {
-        'intro': ov.get('intro', ''), 'succession': ov.get('succession', ''), 'saints': ov.get('saints', ''),
-        'antipopes': ov.get('antipopes') or ap_doc.get('intro_long', ''),
+        'intro': ov_text('intro'), 'succession': ov_text('succession'), 'saints': ov_text('saints'),
+        # the antipope research text describes what the map shows; the era worker's version predates antipope mode
+        'antipopes': ap_doc.get('intro_long') or ov_text('antipopes'),
         'antipopes_short': ap_doc.get('intro_short', ''),
-        'saints_short': ov.get('saints_short', ''),
-        'eras_note': ov.get('eras_note', ''),
+        'saints_short': ov_text('saints_short'),
+        'eras_note': ov_text('eras_note'),
         'refs': sorted(set(eo_local.values())),
     }
     resources = eo.get('resources_public') or [

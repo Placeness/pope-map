@@ -503,7 +503,7 @@ body.panel-closed .tour-dock { left: 16px; }
   .profile-head { grid-template-columns: 1fr; }
   .facts { grid-template-columns: 1fr; gap: 2px 0; }
   .facts dd { margin-bottom: 8px; }
-  body.panel-open .tour-dock, body.panel-open .map-tools, body.panel-open .resources-toggle { visibility: hidden; }
+  body.panel-open .tour-dock, body.panel-open .map-tools, body.panel-open .resources-toggle, body.panel-open .leaflet-control-attribution { visibility: hidden; }
 }
 
 @media (prefers-reduced-motion: reduce) {
