@@ -452,7 +452,8 @@ body.panel-closed .tour-dock { left: 16px; }
 }
 .resources h2 { color: var(--white); }
 .resources .eyebrow { color: var(--gold); }
-.resources-art { width: min(300px, 45%); float: right; margin: -6px 0 6px 14px; }
+.resources-art { width: min(170px, 30%); height: auto; float: right; margin: 0 60px 0 14px; }
+.resource-cards { clear: both; }
 .close-resources { position: absolute; top: 14px; right: 14px; z-index: 2; }
 .resource-cards { clear: both; display: grid; grid-template-columns: repeat(3, minmax(0,1fr)); gap: 14px; margin: 18px 0 8px; }
 .resource-card {

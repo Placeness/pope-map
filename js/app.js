@@ -128,6 +128,7 @@
     lineLayer = L.layerGroup().addTo(map);
     markerLayer = L.layerGroup().addTo(map);
     map.on('zoomend', function () { renderMarkers(); updateLabelClass(); });
+    renderMarkers(); updateLabelClass();
     // markers are focusable buttons: Enter or Space activates them like a click
     $('#map').addEventListener('keydown', function (ev) {
       var t = ev.target;
