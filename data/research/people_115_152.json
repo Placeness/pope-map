@@ -1,0 +1,2555 @@
+{
+ "range": [
+  115,
+  152
+ ],
+ "people": [
+  {
+   "roster_n": [
+    115
+   ],
+   "id": "theodore-ii",
+   "papal_name": "Theodore II",
+   "display_name": "Theodore II",
+   "alt_names": [
+    "Teodoro II"
+   ],
+   "secular_name": null,
+   "birth_date": null,
+   "birthplace": {
+    "label": "Rome",
+    "country": "Italy",
+    "historical_name": "Roma",
+    "precision": "exact",
+    "lat": 41.8933,
+    "lon": 12.4829,
+    "radius_km": null,
+    "roster_birth_field": "Rome",
+    "note": "Vatican table: 'Romano'. CE gives no birthplace, only that he was the son of Photius. Roman origin rests on the Vatican list.",
+    "public_note": null,
+    "sources": [
+     "S1",
+     "S2",
+     "S3"
+    ]
+   },
+   "saint": {
+    "status": "none",
+    "recognition": null,
+    "date": null,
+    "feast": null,
+    "note": "Not marked S./B. in the Vatican Italian table; no saint or blessed recognition found in Vatican sources or the Catholic Encyclopedia.",
+    "public_note": null,
+    "sources": [
+     "S2",
+     "S3"
+    ]
+   },
+   "short_bio": "A Roman, son of Photius, who was pope for only about twenty days, probably in December 897. In that short time he moved to undo the humiliation of Pope Formosus.",
+   "long_bio": "Theodore II reigned for only about twenty days, probably in December 897. He called a synod that restored the clergy degraded by Stephen VI and recognised the orders conferred by Formosus. He also had Formosus's body, which had been thrown into the Tiber, given honourable burial again in St Peter's.",
+   "actions": [
+    "Restored clergy degraded under Stephen VI",
+    "Recognised the validity of Formosus's ordinations",
+    "Reburied the body of Formosus in St Peter's"
+   ],
+   "context": "Rome was torn between factions over the memory of Pope Formosus, whose corpse had been put on trial in 897. Rival claimants fought over the imperial crown in Italy, and Saracen raiders threatened the coasts.",
+   "bio_sources": [
+    "S2",
+    "S3"
+   ],
+   "public_uncertainty": "His exact dates and the cause of his early death are unknown.",
+   "research_status": "partial",
+   "open_questions": []
+  },
+  {
+   "roster_n": [
+    116
+   ],
+   "id": "john-ix",
+   "papal_name": "John IX",
+   "display_name": "John IX",
+   "alt_names": [
+    "Giovanni IX"
+   ],
+   "secular_name": null,
+   "birth_date": null,
+   "birthplace": {
+    "label": "Tivoli",
+    "country": "Italy",
+    "historical_name": "Tibur",
+    "precision": "exact",
+    "lat": 41.9637,
+    "lon": 12.798,
+    "radius_km": null,
+    "roster_birth_field": "Tivoli",
+    "note": "Vatican table: 'Tivoli'. CE: native of Tivoli, son of Rampoald.",
+    "public_note": null,
+    "sources": [
+     "S1",
+     "S2",
+     "S4"
+    ]
+   },
+   "saint": {
+    "status": "none",
+    "recognition": null,
+    "date": null,
+    "feast": null,
+    "note": "Not marked S./B. in the Vatican Italian table; no saint or blessed recognition found in Vatican sources or the Catholic Encyclopedia.",
+    "public_note": null,
+    "sources": [
+     "S2",
+     "S4"
+    ]
+   },
+   "short_bio": "A Benedictine monk from Tivoli, ordained priest by Formosus, who was pope from about 898 to 900. His synods tried to end the bitter quarrel over Formosus's memory.",
+   "long_bio": "John IX, son of Rampoald, was elected in early 898 against a rival, Sergius, who was driven out of Rome. In synods at Rome and Ravenna he condemned the 'cadaver synod' of Stephen VI, forbade re-ordinations and restored deposed clergy. To curb violence at papal elections, he required that a new pope be consecrated only in the presence of imperial envoys. He backed Emperor Lambert and approved a church hierarchy for Moravia.",
+   "actions": [
+    "Annulled the synod that had tried the corpse of Formosus",
+    "Required imperial envoys at papal consecrations",
+    "Supported Emperor Lambert",
+    "Approved a metropolitan and bishops for Moravia"
+   ],
+   "context": "Rome was torn between factions over the memory of Pope Formosus, whose corpse had been put on trial in 897. Rival claimants fought over the imperial crown in Italy, and Saracen raiders threatened the coasts.",
+   "bio_sources": [
+    "S2",
+    "S4"
+   ],
+   "public_uncertainty": null,
+   "research_status": "partial",
+   "open_questions": []
+  },
+  {
+   "roster_n": [
+    117
+   ],
+   "id": "benedict-iv",
+   "papal_name": "Benedict IV",
+   "display_name": "Benedict IV",
+   "alt_names": [
+    "Benedetto IV"
+   ],
+   "secular_name": null,
+   "birth_date": null,
+   "birthplace": {
+    "label": "Rome",
+    "country": "Italy",
+    "historical_name": "Roma",
+    "precision": "exact",
+    "lat": 41.8933,
+    "lon": 12.4829,
+    "radius_km": null,
+    "roster_birth_field": "Rome",
+    "note": "Vatican table: 'Romano'. CE: a Roman, son of Mammalus.",
+    "public_note": null,
+    "sources": [
+     "S1",
+     "S2",
+     "S5"
+    ]
+   },
+   "saint": {
+    "status": "none",
+    "recognition": null,
+    "date": null,
+    "feast": null,
+    "note": "Not marked S./B. in the Vatican Italian table; no saint or blessed recognition found in Vatican sources or the Catholic Encyclopedia.",
+    "public_note": null,
+    "sources": [
+     "S2",
+     "S5"
+    ]
+   },
+   "short_bio": "A Roman, son of Mammalus, pope from 900 to 903. He crowned Louis the Blind as emperor.",
+   "long_bio": "Benedict IV was elected in the first half of 900. He crowned Louis of Provence, known as Louis the Blind, as emperor. He excommunicated the murderers of Archbishop Fulk of Reims, helped a Greek bishop driven from his see by the Saracens, and granted privileges to monasteries such as Fulda. He died in the summer of 903 and was buried before St Peter's.",
+   "actions": [
+    "Crowned Louis the Blind emperor",
+    "Excommunicated the murderers of Archbishop Fulk of Reims",
+    "Granted privileges to Fulda and other monasteries"
+   ],
+   "context": "Rome was torn between factions over the memory of Pope Formosus, whose corpse had been put on trial in 897. Rival claimants fought over the imperial crown in Italy, and Saracen raiders threatened the coasts.",
+   "bio_sources": [
+    "S2",
+    "S5"
+   ],
+   "public_uncertainty": null,
+   "research_status": "partial",
+   "open_questions": []
+  },
+  {
+   "roster_n": [
+    118
+   ],
+   "id": "leo-v",
+   "papal_name": "Leo V",
+   "display_name": "Leo V",
+   "alt_names": [
+    "Leone V"
+   ],
+   "secular_name": null,
+   "birth_date": null,
+   "birthplace": {
+    "label": "Ardea",
+    "country": "Italy",
+    "historical_name": null,
+    "precision": "region",
+    "lat": 41.6131,
+    "lon": 12.5414,
+    "radius_km": 10,
+    "roster_birth_field": "Ardea",
+    "note": "Vatican table: 'Ardea'. CE: native of Priapi, a small place in the district of Ardea; Priapi has not been located, so the point is Ardea with a small radius.",
+    "public_note": "He came from a small place called Priapi, near Ardea.",
+    "sources": [
+     "S1",
+     "S2",
+     "S6"
+    ]
+   },
+   "saint": {
+    "status": "none",
+    "recognition": null,
+    "date": null,
+    "feast": null,
+    "note": "Not marked S./B. in the Vatican Italian table; no saint or blessed recognition found in Vatican sources or the Catholic Encyclopedia.",
+    "public_note": null,
+    "sources": [
+     "S2",
+     "S6"
+    ]
+   },
+   "short_bio": "A priest from the countryside near Ardea, pope for little more than a month in 903. He was overthrown and imprisoned by the priest Christopher.",
+   "long_bio": "Leo V was not one of the cardinal-priests of Rome but served a church outside the city. Elected probably in 903, he reigned only a little over a month; one bull exempting the canons of Bologna from taxes survives. Christopher, cardinal-priest of San Damaso, seized him and took the papal seat, only to be displaced in turn by Sergius III. How Leo died is not known.",
+   "actions": [
+    "Exempted the canons of Bologna from taxes"
+   ],
+   "context": "Rome was torn between factions over the memory of Pope Formosus, whose corpse had been put on trial in 897. Rival claimants fought over the imperial crown in Italy, and Saracen raiders threatened the coasts.",
+   "bio_sources": [
+    "S2",
+    "S6"
+   ],
+   "public_uncertainty": "His dates and the manner of his death are uncertain; a hostile source says he was killed in prison.",
+   "research_status": "partial",
+   "open_questions": []
+  },
+  {
+   "roster_n": [
+    119
+   ],
+   "id": "sergius-iii",
+   "papal_name": "Sergius III",
+   "display_name": "Sergius III",
+   "alt_names": [
+    "Sergio III"
+   ],
+   "secular_name": null,
+   "birth_date": null,
+   "birthplace": {
+    "label": "Rome",
+    "country": "Italy",
+    "historical_name": "Roma",
+    "precision": "exact",
+    "lat": 41.8933,
+    "lon": 12.4829,
+    "radius_km": null,
+    "roster_birth_field": "Rome",
+    "note": "Vatican table: 'Romano'. CE: Roman of noble birth, son of Benedict.",
+    "public_note": null,
+    "sources": [
+     "S1",
+     "S2",
+     "S7"
+    ]
+   },
+   "saint": {
+    "status": "none",
+    "recognition": null,
+    "date": null,
+    "feast": null,
+    "note": "Not marked S./B. in the Vatican Italian table; no saint or blessed recognition found in Vatican sources or the Catholic Encyclopedia.",
+    "public_note": null,
+    "sources": [
+     "S2",
+     "S7"
+    ]
+   },
+   "short_bio": "A Roman noble who had been passed over in 898 and took the papacy in 904 with the help of the Roman aristocracy. He rebuilt the Lateran Basilica but is remembered for his ties to the powerful family of Theophylact.",
+   "long_bio": "Sergius, son of Benedict, had been a rival candidate in 898 and spent years in exile. Consecrated in January 904 after the Romans overthrew Christopher, he declared the ordinations of Formosus null, reopening old wounds. He restored the Lateran Basilica, which had collapsed, and recognised the fourth marriage of the Byzantine emperor Leo VI. Hostile writers claimed he killed his predecessors and fathered the future John XI with Marozia; the Catholic Encyclopedia judges these charges doubtful. He died in April 911.",
+   "actions": [
+    "Rebuilt the Lateran Basilica",
+    "Declared the ordinations of Formosus invalid",
+    "Recognised the fourth marriage of Emperor Leo VI"
+   ],
+   "context": "Real power in Rome lay with the family of the noble Theophylact, his wife Theodora and their daughter Marozia, who made and unmade popes. Italy had no strong emperor, and Saracen raiders held a base on the Garigliano river.",
+   "bio_sources": [
+    "S2",
+    "S7"
+   ],
+   "public_uncertainty": "The scandals told about him come from hostile sources and are disputed.",
+   "research_status": "partial",
+   "open_questions": []
+  },
+  {
+   "roster_n": [
+    120
+   ],
+   "id": "anastasius-iii",
+   "papal_name": "Anastasius III",
+   "display_name": "Anastasius III",
+   "alt_names": [
+    "Anastasio III"
+   ],
+   "secular_name": null,
+   "birth_date": null,
+   "birthplace": {
+    "label": "Rome",
+    "country": "Italy",
+    "historical_name": "Roma",
+    "precision": "exact",
+    "lat": 41.8933,
+    "lon": 12.4829,
+    "radius_km": null,
+    "roster_birth_field": "Rome",
+    "note": "Vatican table: 'Romano'. CE: a Roman, son of Lucian.",
+    "public_note": null,
+    "sources": [
+     "S1",
+     "S2",
+     "S8"
+    ]
+   },
+   "saint": {
+    "status": "none",
+    "recognition": null,
+    "date": null,
+    "feast": null,
+    "note": "Not marked S./B. in the Vatican Italian table; no saint or blessed recognition found in Vatican sources or the Catholic Encyclopedia.",
+    "public_note": null,
+    "sources": [
+     "S2",
+     "S8"
+    ]
+   },
+   "short_bio": "A Roman, son of Lucian, pope for about two years from 911 to 913. His short reign was quiet, under the shadow of the Roman nobility.",
+   "long_bio": "Anastasius III was elected in 911 and reigned for at most about two years. Little is known of him beyond some decisions on the church boundaries of Germany. His reign is described as moderate, at a time when Theophylact and his family dominated Rome.",
+   "actions": [
+    "Settled church divisions in Germany"
+   ],
+   "context": "Real power in Rome lay with the family of the noble Theophylact, his wife Theodora and their daughter Marozia, who made and unmade popes. Italy had no strong emperor, and Saracen raiders held a base on the Garigliano river.",
+   "bio_sources": [
+    "S2",
+    "S8"
+   ],
+   "public_uncertainty": "His exact dates are uncertain.",
+   "research_status": "minimal",
+   "open_questions": []
+  },
+  {
+   "roster_n": [
+    121
+   ],
+   "id": "lando",
+   "papal_name": "Lando",
+   "display_name": "Lando",
+   "alt_names": [
+    "Landone",
+    "Landus"
+   ],
+   "secular_name": null,
+   "birth_date": null,
+   "birthplace": {
+    "label": "Sabina",
+    "country": "Italy",
+    "historical_name": "Sabina",
+    "precision": "region",
+    "lat": 42.27,
+    "lon": 12.69,
+    "radius_km": 30,
+    "roster_birth_field": "Sabina",
+    "note": "Vatican table: 'Sabina'. CE: native of the Sabina, son of Taino. No town is recorded; point placed in the Sabine hills (near Poggio Mirteto) with a 30 km radius.",
+    "public_note": "Only his home region, the Sabina north-east of Rome, is known.",
+    "sources": [
+     "S1",
+     "S2",
+     "S9"
+    ]
+   },
+   "saint": {
+    "status": "none",
+    "recognition": null,
+    "date": null,
+    "feast": null,
+    "note": "Not marked S./B. in the Vatican Italian table; no saint or blessed recognition found in Vatican sources or the Catholic Encyclopedia.",
+    "public_note": null,
+    "sources": [
+     "S2",
+     "S9"
+    ]
+   },
+   "short_bio": "A man from the Sabine country, son of Taino, who was pope for a little over six months in 913-914.",
+   "long_bio": "Almost nothing is known of Lando beyond his origin and a privilege he granted to a church in his native Sabina. Sources remember him as a worthy man.",
+   "actions": [
+    "Granted a privilege to a church in the Sabina"
+   ],
+   "context": "Real power in Rome lay with the family of the noble Theophylact, his wife Theodora and their daughter Marozia, who made and unmade popes. Italy had no strong emperor, and Saracen raiders held a base on the Garigliano river.",
+   "bio_sources": [
+    "S2",
+    "S9"
+   ],
+   "public_uncertainty": "His dates are uncertain and very little is known about him.",
+   "research_status": "minimal",
+   "open_questions": []
+  },
+  {
+   "roster_n": [
+    122
+   ],
+   "id": "john-x",
+   "papal_name": "John X",
+   "display_name": "John X",
+   "alt_names": [
+    "Giovanni X"
+   ],
+   "secular_name": null,
+   "birth_date": null,
+   "birthplace": {
+    "label": "Tossignano",
+    "country": "Italy",
+    "historical_name": null,
+    "precision": "exact",
+    "lat": 44.2675,
+    "lon": 11.5822,
+    "radius_km": null,
+    "roster_birth_field": "Tossignano (Imola)",
+    "note": "Vatican table: 'Tossignano (Imola)'. CE: born at Tossignano in Romagna. Treccani: 'nato forse a Tossignano' (probably).",
+    "public_note": "He was probably born at Tossignano, near Imola.",
+    "sources": [
+     "S1",
+     "S2",
+     "S10",
+     "S18"
+    ]
+   },
+   "saint": {
+    "status": "none",
+    "recognition": null,
+    "date": null,
+    "feast": null,
+    "note": "Not marked S./B. in the Vatican Italian table; no saint or blessed recognition found in Vatican sources or the Catholic Encyclopedia.",
+    "public_note": null,
+    "sources": [
+     "S2",
+     "S10"
+    ]
+   },
+   "short_bio": "An archbishop of Ravenna who became pope in 914 and led an Italian alliance that drove the Saracens from the Garigliano. He fell foul of Marozia and died in prison.",
+   "long_bio": "John was a deacon and then archbishop of Ravenna before Theodora, wife of the senator Theophylact, helped bring him to Rome as pope in 914. He built an alliance of Italian rulers and took part himself in the victory over the Saracens on the Garigliano in 915; he crowned Berengar of Friuli emperor. He later backed Hugh of Provence. Marozia and her husband Guy of Tuscany turned against him: his brother Peter was murdered, and John was deposed and imprisoned in 928, dying soon after, perhaps by violence.",
+   "actions": [
+    "Helped lead the victory over the Saracens at the Garigliano (915)",
+    "Crowned Berengar I emperor",
+    "Sent legates to the German synod of Hohenaltheim (916)"
+   ],
+   "context": "Real power in Rome lay with the family of the noble Theophylact, his wife Theodora and their daughter Marozia, who made and unmade popes. Italy had no strong emperor, and Saracen raiders held a base on the Garigliano river.",
+   "bio_sources": [
+    "S2",
+    "S10",
+    "S18"
+   ],
+   "public_uncertainty": "The circumstances of his death in prison are uncertain.",
+   "research_status": "verified",
+   "open_questions": []
+  },
+  {
+   "roster_n": [
+    123
+   ],
+   "id": "leo-vi",
+   "papal_name": "Leo VI",
+   "display_name": "Leo VI",
+   "alt_names": [
+    "Leone VI"
+   ],
+   "secular_name": null,
+   "birth_date": null,
+   "birthplace": {
+    "label": "Rome",
+    "country": "Italy",
+    "historical_name": "Roma",
+    "precision": "exact",
+    "lat": 41.8933,
+    "lon": 12.4829,
+    "radius_km": null,
+    "roster_birth_field": "Rome",
+    "note": "Vatican table: 'Romano'. CE: a Roman, son of the primicerius Christopher.",
+    "public_note": null,
+    "sources": [
+     "S1",
+     "S2",
+     "S11"
+    ]
+   },
+   "saint": {
+    "status": "none",
+    "recognition": null,
+    "date": null,
+    "feast": null,
+    "note": "Not marked S./B. in the Vatican Italian table; no saint or blessed recognition found in Vatican sources or the Catholic Encyclopedia.",
+    "public_note": null,
+    "sources": [
+     "S2",
+     "S11"
+    ]
+   },
+   "short_bio": "A Roman, cardinal-priest of Santa Susanna, who was pope for about seven months in 928. He was elected after the fall of John X.",
+   "long_bio": "Leo VI, son of Christopher, was elected in 928, after Marozia's party had overthrown John X. His few known acts concern Dalmatia: he gave the pallium to Archbishop John of Split and ordered the Dalmatian bishops to obey him and keep within their own dioceses. He was buried in St Peter's.",
+   "actions": [
+    "Settled church disputes in Dalmatia",
+    "Granted the pallium to the archbishop of Split"
+   ],
+   "context": "Real power in Rome lay with the family of the noble Theophylact, his wife Theodora and their daughter Marozia, who made and unmade popes. Italy had no strong emperor, and Saracen raiders held a base on the Garigliano river.",
+   "bio_sources": [
+    "S2",
+    "S11"
+   ],
+   "public_uncertainty": "His dates are uncertain.",
+   "research_status": "partial",
+   "open_questions": []
+  },
+  {
+   "roster_n": [
+    124
+   ],
+   "id": "stephen-vii",
+   "papal_name": "Stephen VII",
+   "display_name": "Stephen VII",
+   "alt_names": [
+    "Stefano VII",
+    "Stephen VIII (older numbering)"
+   ],
+   "secular_name": null,
+   "birth_date": null,
+   "birthplace": {
+    "label": "Rome",
+    "country": "Italy",
+    "historical_name": "Roma",
+    "precision": "exact",
+    "lat": 41.8933,
+    "lon": 12.4829,
+    "radius_km": null,
+    "roster_birth_field": "Rome",
+    "note": "Vatican table: 'Romano'. CE (as 'Stephen VIII'): a Roman, son of Teudemund.",
+    "public_note": null,
+    "sources": [
+     "S1",
+     "S2",
+     "S12"
+    ]
+   },
+   "saint": {
+    "status": "none",
+    "recognition": null,
+    "date": null,
+    "feast": null,
+    "note": "Not marked S./B. in the Vatican Italian table; no saint or blessed recognition found in Vatican sources or the Catholic Encyclopedia.",
+    "public_note": null,
+    "sources": [
+     "S2",
+     "S12"
+    ]
+   },
+   "short_bio": "A Roman, cardinal-priest of Sant'Anastasia, who was pope from about 929 to 931.",
+   "long_bio": "Stephen, son of Teudemund, reigned for about two years. The only known acts of his pontificate are privileges for monasteries in France and Italy. He was buried in St Peter's.",
+   "actions": [
+    "Granted privileges to monasteries in France and Italy"
+   ],
+   "context": "Real power in Rome lay with the family of the noble Theophylact, his wife Theodora and their daughter Marozia, who made and unmade popes. Italy had no strong emperor, and Saracen raiders held a base on the Garigliano river.",
+   "bio_sources": [
+    "S2",
+    "S12"
+   ],
+   "public_uncertainty": "Older reference works number him Stephen VIII.",
+   "research_status": "minimal",
+   "open_questions": []
+  },
+  {
+   "roster_n": [
+    125
+   ],
+   "id": "john-xi",
+   "papal_name": "John XI",
+   "display_name": "John XI",
+   "alt_names": [
+    "Giovanni XI"
+   ],
+   "secular_name": null,
+   "birth_date": null,
+   "birthplace": {
+    "label": "Rome",
+    "country": "Italy",
+    "historical_name": "Roma",
+    "precision": "exact",
+    "lat": 41.8933,
+    "lon": 12.4829,
+    "radius_km": null,
+    "roster_birth_field": "Rome",
+    "note": "Vatican table: 'Romano'. CE: Roman; Liber Pontificalis says son of Pope Sergius; CE prefers Alberic I as father. Mother Marozia.",
+    "public_note": null,
+    "sources": [
+     "S1",
+     "S2",
+     "S13"
+    ]
+   },
+   "saint": {
+    "status": "none",
+    "recognition": null,
+    "date": null,
+    "feast": null,
+    "note": "Not marked S./B. in the Vatican Italian table; no saint or blessed recognition found in Vatican sources or the Catholic Encyclopedia.",
+    "public_note": null,
+    "sources": [
+     "S2",
+     "S13"
+    ]
+   },
+   "short_bio": "The son of Marozia, made pope in 931 while still young. He was controlled first by his mother and then by his half-brother Alberic II, but he favoured the reforming monks of Cluny.",
+   "long_bio": "John was raised to the papacy through his mother Marozia, the most powerful figure in Rome. Ancient sources call him the son of Pope Sergius III; others make him the son of Marozia's husband Alberic. In 932 Alberic II overthrew Marozia and kept John under close watch, leaving him free only in spiritual matters. He granted the pallium to the archbishop of Reims and to the patriarch of Constantinople, and many privileges to Cluny.",
+   "actions": [
+    "Granted wide privileges to the abbey of Cluny",
+    "Sent the pallium to Patriarch Theophylact of Constantinople"
+   ],
+   "context": "Real power in Rome lay with the family of the noble Theophylact, his wife Theodora and their daughter Marozia, who made and unmade popes. Italy had no strong emperor, and Saracen raiders held a base on the Garigliano river.",
+   "bio_sources": [
+    "S2",
+    "S13"
+   ],
+   "public_uncertainty": "Who his father was is disputed.",
+   "research_status": "partial",
+   "open_questions": []
+  },
+  {
+   "roster_n": [
+    126
+   ],
+   "id": "leo-vii",
+   "papal_name": "Leo VII",
+   "display_name": "Leo VII",
+   "alt_names": [
+    "Leone VII"
+   ],
+   "secular_name": null,
+   "birth_date": null,
+   "birthplace": {
+    "label": "Rome",
+    "country": "Italy",
+    "historical_name": "Roma",
+    "precision": "exact",
+    "lat": 41.8933,
+    "lon": 12.4829,
+    "radius_km": null,
+    "roster_birth_field": "Rome",
+    "note": "Vatican table: 'Romano'. CE: Roman, priest of San Sisto, probably a Benedictine monk.",
+    "public_note": null,
+    "sources": [
+     "S1",
+     "S2",
+     "S14"
+    ]
+   },
+   "saint": {
+    "status": "none",
+    "recognition": null,
+    "date": null,
+    "feast": null,
+    "note": "Not marked S./B. in the Vatican Italian table; no saint or blessed recognition found in Vatican sources or the Catholic Encyclopedia.",
+    "public_note": null,
+    "sources": [
+     "S2",
+     "S14"
+    ]
+   },
+   "short_bio": "A Roman priest, probably a monk, who was pope from 936 to 939 under Alberic II. He called Odo of Cluny to Rome and supported monastic reform.",
+   "long_bio": "Leo VII owed his election to Alberic, prince of the Romans. He invited Abbot Odo of Cluny to Rome, where Odo helped make peace between Alberic and King Hugh of Italy. He named Archbishop Frederick of Mainz his vicar in Germany to promote reform; he forbade the forced baptism of Jews but allowed their expulsion from cities. Most of his bulls favour monasteries, especially Cluny. He died in July 939.",
+   "actions": [
+    "Brought Odo of Cluny to Rome",
+    "Named Frederick of Mainz papal vicar in Germany",
+    "Granted privileges to Cluny and other monasteries"
+   ],
+   "context": "From 932 to 954 Alberic II, son of Marozia, ruled Rome as 'prince and senator of the Romans'. He chose the popes and kept them out of politics, while encouraging monastic reform led by Cluny. North of the Alps, the German kings Henry I and Otto I were building a strong realm.",
+   "bio_sources": [
+    "S2",
+    "S14"
+   ],
+   "public_uncertainty": null,
+   "research_status": "partial",
+   "open_questions": []
+  },
+  {
+   "roster_n": [
+    127
+   ],
+   "id": "stephen-viii",
+   "papal_name": "Stephen VIII",
+   "display_name": "Stephen VIII",
+   "alt_names": [
+    "Stefano VIII",
+    "Stephen IX (older numbering)"
+   ],
+   "secular_name": null,
+   "birth_date": null,
+   "birthplace": {
+    "label": "Rome",
+    "country": "Italy",
+    "historical_name": "Roma",
+    "precision": "exact",
+    "lat": 41.8933,
+    "lon": 12.4829,
+    "radius_km": null,
+    "roster_birth_field": "Rome",
+    "note": "Vatican table: 'Romano'. CE (as 'Stephen IX'): Roman, 'no doubt', despite later claims that he was German.",
+    "public_note": "A later tradition calls him German, but the early evidence points to Rome.",
+    "sources": [
+     "S1",
+     "S2",
+     "S15"
+    ]
+   },
+   "saint": {
+    "status": "none",
+    "recognition": null,
+    "date": null,
+    "feast": null,
+    "note": "Not marked S./B. in the Vatican Italian table; no saint or blessed recognition found in Vatican sources or the Catholic Encyclopedia.",
+    "public_note": null,
+    "sources": [
+     "S2",
+     "S15"
+    ]
+   },
+   "short_bio": "A Roman, cardinal-priest of Santi Silvestro e Martino, pope from 939 to 942. He supported the Carolingian king Louis IV of France.",
+   "long_bio": "Stephen VIII was subject to Alberic II throughout his reign. He backed King Louis IV d'Outremer and threatened French nobles with excommunication unless they stayed loyal to him. He died around the end of October 942.",
+   "actions": [
+    "Backed King Louis IV of France against rebellious nobles"
+   ],
+   "context": "From 932 to 954 Alberic II, son of Marozia, ruled Rome as 'prince and senator of the Romans'. He chose the popes and kept them out of politics, while encouraging monastic reform led by Cluny. North of the Alps, the German kings Henry I and Otto I were building a strong realm.",
+   "bio_sources": [
+    "S2",
+    "S15"
+   ],
+   "public_uncertainty": "Older reference works number him Stephen IX.",
+   "research_status": "partial",
+   "open_questions": []
+  },
+  {
+   "roster_n": [
+    128
+   ],
+   "id": "marinus-ii",
+   "papal_name": "Marinus II",
+   "display_name": "Marinus II",
+   "alt_names": [
+    "Marino II"
+   ],
+   "secular_name": null,
+   "birth_date": null,
+   "birthplace": {
+    "label": "Rome",
+    "country": "Italy",
+    "historical_name": "Roma",
+    "precision": "exact",
+    "lat": 41.8933,
+    "lon": 12.4829,
+    "radius_km": null,
+    "roster_birth_field": "Rome",
+    "note": "Vatican table: 'Romano'. CE: Roman, cardinal of San Ciriaco.",
+    "public_note": null,
+    "sources": [
+     "S1",
+     "S2",
+     "S16"
+    ]
+   },
+   "saint": {
+    "status": "none",
+    "recognition": null,
+    "date": null,
+    "feast": null,
+    "note": "Not marked S./B. in the Vatican Italian table; no saint or blessed recognition found in Vatican sources or the Catholic Encyclopedia.",
+    "public_note": null,
+    "sources": [
+     "S2",
+     "S16"
+    ]
+   },
+   "short_bio": "A Roman cardinal installed by Alberic II, pope from 942 to 946. He worked for church reform and supported the monks of Cluny.",
+   "long_bio": "Marinus II could do little without Alberic's permission. He pursued reform through legates abroad, supported the growing monastic movement, and is said to have repaired basilicas and cared for the poor. He died in the spring of 946.",
+   "actions": [
+    "Supported monastic reform",
+    "Repaired Roman basilicas"
+   ],
+   "context": "From 932 to 954 Alberic II, son of Marozia, ruled Rome as 'prince and senator of the Romans'. He chose the popes and kept them out of politics, while encouraging monastic reform led by Cluny. North of the Alps, the German kings Henry I and Otto I were building a strong realm.",
+   "bio_sources": [
+    "S2",
+    "S16"
+   ],
+   "public_uncertainty": null,
+   "research_status": "minimal",
+   "open_questions": []
+  },
+  {
+   "roster_n": [
+    129
+   ],
+   "id": "agapetus-ii",
+   "papal_name": "Agapetus II",
+   "display_name": "Agapetus II",
+   "alt_names": [
+    "Agapito II"
+   ],
+   "secular_name": null,
+   "birth_date": null,
+   "birthplace": {
+    "label": "Rome",
+    "country": "Italy",
+    "historical_name": "Roma",
+    "precision": "exact",
+    "lat": 41.8933,
+    "lon": 12.4829,
+    "radius_km": null,
+    "roster_birth_field": "Rome",
+    "note": "Vatican table: 'Romano'. CE: Roman by birth.",
+    "public_note": null,
+    "sources": [
+     "S1",
+     "S2",
+     "S17"
+    ]
+   },
+   "saint": {
+    "status": "none",
+    "recognition": null,
+    "date": null,
+    "feast": null,
+    "note": "Not marked S./B. in the Vatican Italian table; no saint or blessed recognition found in Vatican sources or the Catholic Encyclopedia.",
+    "public_note": null,
+    "sources": [
+     "S2",
+     "S17"
+    ]
+   },
+   "short_bio": "A Roman, pope for about ten years from 946, under the rule of Alberic II. He supported Otto I's missions to the North and helped settle the troubles at Reims.",
+   "long_bio": "Agapetus II worked to restore discipline in churches and monasteries and helped end the dispute over the see of Reims. He supported Otto I's plans to evangelise the peoples of the North. Before he died, Alberic made the Romans swear to elect his son Octavian as the next pope.",
+   "actions": [
+    "Helped settle the dispute over the see of Reims",
+    "Supported Otto I's missions to the North"
+   ],
+   "context": "From 932 to 954 Alberic II, son of Marozia, ruled Rome as 'prince and senator of the Romans'. He chose the popes and kept them out of politics, while encouraging monastic reform led by Cluny. North of the Alps, the German kings Henry I and Otto I were building a strong realm.",
+   "bio_sources": [
+    "S2",
+    "S17"
+   ],
+   "public_uncertainty": null,
+   "research_status": "partial",
+   "open_questions": [
+    "CE dates his death to August 956; the Vatican roster gives December 955."
+   ]
+  },
+  {
+   "roster_n": [
+    130
+   ],
+   "id": "john-xii",
+   "papal_name": "John XII",
+   "display_name": "John XII",
+   "alt_names": [
+    "Giovanni XII",
+    "Octavian"
+   ],
+   "secular_name": "Ottaviano (Octavian)",
+   "birth_date": "c. 937",
+   "birthplace": {
+    "label": "Rome",
+    "country": "Italy",
+    "historical_name": "Roma",
+    "precision": "region",
+    "lat": 41.8933,
+    "lon": 12.4829,
+    "radius_km": 15,
+    "roster_birth_field": "Counts of Tusculum",
+    "note": "The roster field is a family, not a place. John XII was son of Alberic II, prince of Rome, and Alda, daughter of King Hugh (Treccani). The 'Counts of Tusculum' were the later branch of the same Theophylact-Alberic family; the label is anachronistic for 955. No source names his birthplace; his father ruled from Rome, so Rome is probable. Vatican Italian table leaves the origin blank.",
+    "public_note": "His birthplace is not recorded; he was probably born in Rome, where his father ruled.",
+    "sources": [
+     "S1",
+     "S2",
+     "S20",
+     "S33"
+    ]
+   },
+   "saint": {
+    "status": "none",
+    "recognition": null,
+    "date": null,
+    "feast": null,
+    "note": "Not marked S./B. in the Vatican Italian table; no saint or blessed recognition found in Vatican sources or the Catholic Encyclopedia.",
+    "public_note": null,
+    "sources": [
+     "S2",
+     "S20"
+    ]
+   },
+   "short_bio": "Octavian, son of Alberic II, ruler of Rome, became pope at about eighteen in 955. He crowned Otto I emperor in 962, then plotted against him and was deposed, dying in 964.",
+   "long_bio": "Before his death Alberic II had the Romans swear to elect his son Octavian pope; he was chosen in December 955, aged at most eighteen, and took the name John. Threatened by King Berengar II, he called on Otto I of Germany, whom he crowned emperor on 2 February 962. He soon intrigued against Otto, who returned to Rome; a synod deposed John in December 963 and chose Leo VIII. John came back early in 964, took revenge on his opponents and annulled Leo's election, but died on 14 May 964. Hostile writers, chiefly Liutprand of Cremona, describe his life as scandalous.",
+   "actions": [
+    "Crowned Otto I emperor (962)",
+    "Called the German king into Italy against Berengar II",
+    "Was deposed by a synod under Otto (963) and returned in 964"
+   ],
+   "context": "Otto I of Germany was crowned emperor in Rome in 962, beginning the Holy Roman Empire's long involvement in papal elections. Emperors deposed and installed popes, while Roman noble families, especially the Crescentii, fought to keep control of the city.",
+   "bio_sources": [
+    "S2",
+    "S20",
+    "S33"
+   ],
+   "public_uncertainty": "Much of what is told about his private life comes from a hostile chronicler.",
+   "research_status": "verified",
+   "open_questions": [
+    "Roster 'birth' field 'Counts of Tusculum' is a family label; birthplace undocumented."
+   ]
+  },
+  {
+   "roster_n": [
+    131
+   ],
+   "id": "leo-viii",
+   "papal_name": "Leo VIII",
+   "display_name": "Leo VIII",
+   "alt_names": [
+    "Leone VIII"
+   ],
+   "secular_name": null,
+   "birth_date": null,
+   "birthplace": {
+    "label": "Rome",
+    "country": "Italy",
+    "historical_name": "Roma",
+    "precision": "exact",
+    "lat": 41.8933,
+    "lon": 12.4829,
+    "radius_km": null,
+    "roster_birth_field": "Rome",
+    "note": "Vatican table: 'Romano'. CE: a Roman, son of John, of a family known in the Clivus Argentarii.",
+    "public_note": null,
+    "sources": [
+     "S1",
+     "S2",
+     "S21"
+    ]
+   },
+   "saint": {
+    "status": "none",
+    "recognition": null,
+    "date": null,
+    "feast": null,
+    "note": "Not marked S./B. in the Vatican Italian table; no saint or blessed recognition found in Vatican sources or the Catholic Encyclopedia.",
+    "public_note": null,
+    "sources": [
+     "S2",
+     "S21"
+    ]
+   },
+   "short_bio": "A Roman layman, a senior official of the papal court, chosen pope at Otto I's wish when John XII was deposed in 963. He was twice driven out of Rome and died in 965.",
+   "long_bio": "Leo, the 'protonotary', was a layman when a synod under Otto I deposed John XII and elected him in December 963; he received all the orders within days. When Otto left, the Romans expelled him; after John's death they chose Benedict V. Otto returned in the summer of 964, and Leo had Benedict deposed. He died early in 965. The Vatican list counts him as pope from 963, though the Catholic Encyclopedia considers him a true pope only from 964, after Benedict V was deposed.",
+   "actions": [
+    "Was installed by Otto I in place of John XII",
+    "Presided over the deposition of Benedict V (964)"
+   ],
+   "context": "Otto I of Germany was crowned emperor in Rome in 962, beginning the Holy Roman Empire's long involvement in papal elections. Emperors deposed and installed popes, while Roman noble families, especially the Crescentii, fought to keep control of the city.",
+   "bio_sources": [
+    "S1",
+    "S2",
+    "S21"
+   ],
+   "public_uncertainty": "Whether he was a legitimate pope before mid-964 has long been debated; the official list counts him from 963.",
+   "research_status": "verified",
+   "open_questions": [
+    "Overlaps Benedict V (row 132) in 964; the Vatican list includes both. Grants of papal rights to Otto attributed to him are thought to be forgeries."
+   ]
+  },
+  {
+   "roster_n": [
+    132
+   ],
+   "id": "benedict-v",
+   "papal_name": "Benedict V",
+   "display_name": "Benedict V",
+   "alt_names": [
+    "Benedetto V",
+    "Benedictus Grammaticus"
+   ],
+   "secular_name": null,
+   "birth_date": null,
+   "birthplace": {
+    "label": "Rome",
+    "country": "Italy",
+    "historical_name": "Roma",
+    "precision": "exact",
+    "lat": 41.8933,
+    "lon": 12.4829,
+    "radius_km": null,
+    "roster_birth_field": "Rome",
+    "note": "Vatican table: 'Romano'. CE gives no birthplace. Roman origin rests on the Vatican list.",
+    "public_note": null,
+    "sources": [
+     "S1",
+     "S2",
+     "S22"
+    ]
+   },
+   "saint": {
+    "status": "none",
+    "recognition": null,
+    "date": null,
+    "feast": null,
+    "note": "Not marked S./B. in the Vatican Italian table; no saint or blessed recognition found in Vatican sources or the Catholic Encyclopedia.",
+    "public_note": null,
+    "sources": [
+     "S2",
+     "S22"
+    ]
+   },
+   "short_bio": "A learned Roman deacon, nicknamed 'the Grammarian', elected by the Romans in 964 against Otto I's pope, Leo VIII. Otto deposed him within weeks and sent him into exile in Hamburg, where he died.",
+   "long_bio": "On the death of John XII in May 964 the Romans elected Benedict, a cardinal-deacon known for his learning, rather than accept Leo VIII. Otto I besieged Rome, and in June 964 Benedict was deposed and taken to Germany. Archbishop Adaldag of Hamburg-Bremen kept him with kindness, and some German clergy still treated him as pope. He died at Hamburg on 4 July 965; his remains were later brought back to Rome.",
+   "actions": [
+    "Was elected by the Romans against the imperial candidate",
+    "Died in exile at Hamburg"
+   ],
+   "context": "Otto I of Germany was crowned emperor in Rome in 962, beginning the Holy Roman Empire's long involvement in papal elections. Emperors deposed and installed popes, while Roman noble families, especially the Crescentii, fought to keep control of the city.",
+   "bio_sources": [
+    "S2",
+    "S22"
+   ],
+   "public_uncertainty": "His time as pope overlaps that of Leo VIII, and their claims were disputed.",
+   "research_status": "verified",
+   "open_questions": [
+    "Roster gives his end as 4.VII.964 or 965; CE gives his deposition 23 June 964 and death 4 July 965."
+   ]
+  },
+  {
+   "roster_n": [
+    133
+   ],
+   "id": "john-xiii",
+   "papal_name": "John XIII",
+   "display_name": "John XIII",
+   "alt_names": [
+    "Giovanni XIII"
+   ],
+   "secular_name": null,
+   "birth_date": null,
+   "birthplace": {
+    "label": "Rome",
+    "country": "Italy",
+    "historical_name": "Roma",
+    "precision": "exact",
+    "lat": 41.8933,
+    "lon": 12.4829,
+    "radius_km": null,
+    "roster_birth_field": "Rome",
+    "note": "Vatican table: 'Romano'. CE: of the family of the elder Theodora; father the consul John; entered the clergy in Rome.",
+    "public_note": null,
+    "sources": [
+     "S1",
+     "S2",
+     "S23"
+    ]
+   },
+   "saint": {
+    "status": "none",
+    "recognition": null,
+    "date": null,
+    "feast": null,
+    "note": "Not marked S./B. in the Vatican Italian table; no saint or blessed recognition found in Vatican sources or the Catholic Encyclopedia.",
+    "public_note": null,
+    "sources": [
+     "S2",
+     "S23"
+    ]
+   },
+   "short_bio": "A Roman bishop of Narni, elected with Otto I's support in 965. Briefly imprisoned by Roman nobles, he returned with imperial help and crowned Otto II co-emperor.",
+   "long_bio": "John was from a Roman noble family and had been bishop of Narni. Elected in 965, he was seized by hostile nobles that December and held in Castel Sant'Angelo and the Campagna, but escaped to Capua and returned in November 966 when Otto I's army approached. He crowned Otto II co-emperor on Christmas Day 967 and blessed his marriage to the Byzantine princess Theophano in 972. He raised Magdeburg, Capua and Benevento to archbishoprics and favoured Cluny. He died on 6 September 972.",
+   "actions": [
+    "Crowned Otto II co-emperor (967)",
+    "Made Magdeburg a metropolitan see",
+    "Raised Capua and Benevento to archbishoprics",
+    "Married Otto II to Theophano (972)"
+   ],
+   "context": "Otto I of Germany was crowned emperor in Rome in 962, beginning the Holy Roman Empire's long involvement in papal elections. Emperors deposed and installed popes, while Roman noble families, especially the Crescentii, fought to keep control of the city.",
+   "bio_sources": [
+    "S2",
+    "S23"
+   ],
+   "public_uncertainty": null,
+   "research_status": "verified",
+   "open_questions": []
+  },
+  {
+   "roster_n": [
+    134
+   ],
+   "id": "benedict-vi",
+   "papal_name": "Benedict VI",
+   "display_name": "Benedict VI",
+   "alt_names": [
+    "Benedetto VI"
+   ],
+   "secular_name": null,
+   "birth_date": null,
+   "birthplace": {
+    "label": "Rome",
+    "country": "Italy",
+    "historical_name": "Roma",
+    "precision": "exact",
+    "lat": 41.8933,
+    "lon": 12.4829,
+    "radius_km": null,
+    "roster_birth_field": "Rome",
+    "note": "Vatican table: 'Romano'. CE: a Roman, son of Hildebrand.",
+    "public_note": null,
+    "sources": [
+     "S1",
+     "S2",
+     "S24"
+    ]
+   },
+   "saint": {
+    "status": "none",
+    "recognition": null,
+    "date": null,
+    "feast": null,
+    "note": "Not marked S./B. in the Vatican Italian table; no saint or blessed recognition found in Vatican sources or the Catholic Encyclopedia.",
+    "public_note": null,
+    "sources": [
+     "S2",
+     "S24"
+    ]
+   },
+   "short_bio": "A Roman cardinal-deacon whose consecration in 973 waited for imperial approval. After Otto I died, a noble faction imprisoned him and had him strangled in 974.",
+   "long_bio": "Benedict VI was consecrated on 19 January 973 once Emperor Otto I had approved his election. Little is known of his acts beyond confirming privileges of churches and monasteries. After Otto's death, a faction led by Crescentius and the deacon Franco, later the antipope Boniface VII, seized him and held him in Castel Sant'Angelo, where he was strangled in 974 to prevent his rescue by the envoy of Otto II.",
+   "actions": [
+    "Confirmed privileges of churches and monasteries"
+   ],
+   "context": "Otto I of Germany was crowned emperor in Rome in 962, beginning the Holy Roman Empire's long involvement in papal elections. Emperors deposed and installed popes, while Roman noble families, especially the Crescentii, fought to keep control of the city.",
+   "bio_sources": [
+    "S2",
+    "S24"
+   ],
+   "public_uncertainty": null,
+   "research_status": "partial",
+   "open_questions": []
+  },
+  {
+   "roster_n": [
+    135
+   ],
+   "id": "benedict-vii",
+   "papal_name": "Benedict VII",
+   "display_name": "Benedict VII",
+   "alt_names": [
+    "Benedetto VII"
+   ],
+   "secular_name": null,
+   "birth_date": null,
+   "birthplace": {
+    "label": "Rome",
+    "country": "Italy",
+    "historical_name": "Roma",
+    "precision": "exact",
+    "lat": 41.8933,
+    "lon": 12.4829,
+    "radius_km": null,
+    "roster_birth_field": "Rome",
+    "note": "Vatican table: 'Romano'. CE: a Roman, son of David; formerly bishop of Sutri.",
+    "public_note": null,
+    "sources": [
+     "S1",
+     "S2",
+     "S25"
+    ]
+   },
+   "saint": {
+    "status": "none",
+    "recognition": null,
+    "date": null,
+    "feast": null,
+    "note": "Not marked S./B. in the Vatican Italian table; no saint or blessed recognition found in Vatican sources or the Catholic Encyclopedia.",
+    "public_note": null,
+    "sources": [
+     "S2",
+     "S25"
+    ]
+   },
+   "short_bio": "A Roman bishop of Sutri, elected in 974 under imperial influence. With Otto II's help he held off the antipope Boniface VII, opposed simony and promoted monasticism.",
+   "long_bio": "Benedict VII was elected in October 974, under the influence of the imperial envoy Sicco, after the murder of Benedict VI. The partisans of Boniface VII kept up their struggle, but Otto II's support secured his position. He opposed simony, encouraged monastic life, and at the request of local Christians consecrated a bishop for Carthage in Africa. He died in 983.",
+   "actions": [
+    "Opposed simony",
+    "Promoted monastic life",
+    "Consecrated a bishop for Carthage"
+   ],
+   "context": "Rome was dominated by the Crescentii family, while the German emperors claimed a say in papal elections. Byzantium still held southern Italy, and the Saracens raided its coasts. Monastic reform spread from Cluny across western Europe.",
+   "bio_sources": [
+    "S2",
+    "S25"
+   ],
+   "public_uncertainty": null,
+   "research_status": "partial",
+   "open_questions": []
+  },
+  {
+   "roster_n": [
+    136
+   ],
+   "id": "john-xiv",
+   "papal_name": "John XIV",
+   "display_name": "John XIV",
+   "alt_names": [
+    "Giovanni XIV"
+   ],
+   "secular_name": "Pietro (Peter Campanora)",
+   "birth_date": null,
+   "birthplace": {
+    "label": "Pavia",
+    "country": "Italy",
+    "historical_name": "Ticinum / Papia",
+    "precision": "exact",
+    "lat": 45.1847,
+    "lon": 9.1582,
+    "radius_km": null,
+    "roster_birth_field": "Pavia",
+    "note": "Vatican table: 'Pavia'. CE gives no birthplace, only that he was bishop of Pavia and earlier imperial chancellor for Italy; his Pavian origin rests on the Vatican list.",
+    "public_note": null,
+    "sources": [
+     "S1",
+     "S2",
+     "S26"
+    ]
+   },
+   "saint": {
+    "status": "none",
+    "recognition": null,
+    "date": null,
+    "feast": null,
+    "note": "Not marked S./B. in the Vatican Italian table; no saint or blessed recognition found in Vatican sources or the Catholic Encyclopedia.",
+    "public_note": null,
+    "sources": [
+     "S2",
+     "S26"
+    ]
+   },
+   "short_bio": "Peter, bishop of Pavia and former imperial chancellor, was made pope in 983 by Otto II. When the emperor died weeks later, the antipope Boniface VII returned, imprisoned John and let him die in Castel Sant'Angelo.",
+   "long_bio": "Chosen with the consent of Otto II, John was crowned late in 983; the emperor died in Rome on 7 December. In April 984 Boniface VII returned, seized John and imprisoned him in Castel Sant'Angelo, where he died on 20 August 984, either of starvation or murdered on Boniface's orders.",
+   "actions": [
+    "Had served as imperial chancellor for Italy",
+    "Died a prisoner of the antipope Boniface VII"
+   ],
+   "context": "Rome was dominated by the Crescentii family, while the German emperors claimed a say in papal elections. Byzantium still held southern Italy, and the Saracens raided its coasts. Monastic reform spread from Cluny across western Europe.",
+   "bio_sources": [
+    "S2",
+    "S26"
+   ],
+   "public_uncertainty": "How he died in prison is not certain.",
+   "research_status": "partial",
+   "open_questions": []
+  },
+  {
+   "roster_n": [
+    137
+   ],
+   "id": "john-xv",
+   "papal_name": "John XV",
+   "display_name": "John XV",
+   "alt_names": [
+    "Giovanni XV",
+    "John XVI (older numbering)"
+   ],
+   "secular_name": null,
+   "birth_date": null,
+   "birthplace": {
+    "label": "Rome",
+    "country": "Italy",
+    "historical_name": "Roma",
+    "precision": "exact",
+    "lat": 41.8933,
+    "lon": 12.4829,
+    "radius_km": null,
+    "roster_birth_field": "Rome",
+    "note": "Vatican table: 'Romano'. CE: a Roman, son of the priest Leo.",
+    "public_note": null,
+    "sources": [
+     "S1",
+     "S2",
+     "S27"
+    ]
+   },
+   "saint": {
+    "status": "none",
+    "recognition": null,
+    "date": null,
+    "feast": null,
+    "note": "Not marked S./B. in the Vatican Italian table; no saint or blessed recognition found in Vatican sources or the Catholic Encyclopedia.",
+    "public_note": null,
+    "sources": [
+     "S2",
+     "S27"
+    ]
+   },
+   "short_bio": "A Roman, son of a priest, pope from 985 to 996 under the shadow of the Crescentii. He made the first formal papal canonization, of Ulrich of Augsburg, in 993.",
+   "long_bio": "John XV owed much to the patrician John Crescentius, who ruled Rome; at one point he fled to Tuscany before coming to terms. His legate arranged a peace between King Æthelred of England and Duke Richard of Normandy in 991. He opposed the French bishops who deposed Archbishop Arnulf of Reims and replaced him with Gerbert, the future Sylvester II. On 31 January 993 he solemnly canonized Bishop Ulrich of Augsburg. He died in 996, just before Otto III reached Rome.",
+   "actions": [
+    "Canonized St Ulrich of Augsburg (993), the first solemn papal canonization",
+    "Brokered peace between England and Normandy (991)",
+    "Defended Archbishop Arnulf of Reims"
+   ],
+   "context": "Rome was dominated by the Crescentii family, while the German emperors claimed a say in papal elections. Byzantium still held southern Italy, and the Saracens raided its coasts. Monastic reform spread from Cluny across western Europe.",
+   "bio_sources": [
+    "S2",
+    "S27"
+   ],
+   "public_uncertainty": "Older reference works number him John XVI.",
+   "research_status": "verified",
+   "open_questions": []
+  },
+  {
+   "roster_n": [
+    138
+   ],
+   "id": "gregory-v",
+   "papal_name": "Gregory V",
+   "display_name": "Gregory V",
+   "alt_names": [
+    "Gregorio V",
+    "Bruno of Carinthia"
+   ],
+   "secular_name": "Bruno",
+   "birth_date": "c. 970",
+   "birthplace": {
+    "label": "Worms area",
+    "country": "Germany",
+    "historical_name": null,
+    "precision": "region",
+    "lat": 49.6341,
+    "lon": 8.3507,
+    "radius_km": 150,
+    "roster_birth_field": "Saxony",
+    "note": "Vatican lists 'Saxony'. Neither CE nor Treccani gives a birthplace. Treccani: son of Otto of Worms, duke of Carinthia (Salian family seated at Worms), educated at the cathedral school of Worms; a descendant of Otto I (Treccani 'nipote'), cousin of Otto III. CE: born c. 970, son of Otto of Carinthia and Judith. 'Saxony' likely reflects the Saxon (Ottonian) imperial house rather than a documented birthplace. Region placed on Worms (family seat and place of education) with wide radius; alternative: Saxony as in the Vatican list.",
+    "public_note": "The Vatican list gives Saxony, but his family were counts of Worms in the Rhineland; his exact birthplace is not recorded.",
+    "sources": [
+     "S1",
+     "S2",
+     "S28",
+     "S34"
+    ]
+   },
+   "saint": {
+    "status": "none",
+    "recognition": null,
+    "date": null,
+    "feast": null,
+    "note": "Not marked S./B. in the Vatican Italian table; no saint or blessed recognition found in Vatican sources or the Catholic Encyclopedia.",
+    "public_note": null,
+    "sources": [
+     "S2",
+     "S28"
+    ]
+   },
+   "short_bio": "Bruno, a young German noble and cousin of Emperor Otto III, became the first German pope in 996. He crowned Otto emperor, was driven out by Crescentius and an antipope, and was restored by Otto shortly before his death in 999.",
+   "long_bio": "Bruno was a chaplain at Otto III's court when the emperor chose him as pope; consecrated in May 996, aged about 26, he took the name Gregory and crowned Otto emperor on 21 May. When Otto left Italy, the patrician Crescentius drove Gregory out and set up the antipope John XVI. Gregory excommunicated them, and Otto's return in 998 ended the revolt. He pressed King Robert II of France over his marriage to Bertha and treated Gerbert's claim to Reims as unlawful. He died early in 999 and was buried in St Peter's.",
+   "actions": [
+    "Crowned Otto III emperor (996)",
+    "Excommunicated Crescentius and the antipope John XVI",
+    "Pressed King Robert II of France over an unlawful marriage"
+   ],
+   "context": "The young emperor Otto III dreamed of renewing the Roman Empire with Rome as its capital and the pope as his partner. The Crescentii resisted him; new Christian kingdoms in Poland and Hungary were taking shape.",
+   "bio_sources": [
+    "S2",
+    "S28",
+    "S34"
+   ],
+   "public_uncertainty": "The exact date of his death is uncertain.",
+   "research_status": "verified",
+   "open_questions": [
+    "Vatican 'Saxony' vs family of Worms/Carinthia: no source gives his actual birthplace."
+   ]
+  },
+  {
+   "roster_n": [
+    139
+   ],
+   "id": "sylvester-ii",
+   "papal_name": "Sylvester II",
+   "display_name": "Sylvester II",
+   "alt_names": [
+    "Silvestro II",
+    "Gerbert of Aurillac"
+   ],
+   "secular_name": "Gerbert",
+   "birth_date": "c. 945",
+   "birthplace": {
+    "label": "Near Aurillac (Auvergne)",
+    "country": "France",
+    "historical_name": "Aquitania",
+    "precision": "region",
+    "lat": 44.9264,
+    "lon": 2.4397,
+    "radius_km": 50,
+    "roster_birth_field": "Aquitaine",
+    "note": "Vatican: 'L'Aquitania'. CE: born at or near Aurillac in Auvergne, c. 940-950. Treccani: 'aquitanus genere/natione'; raised as an oblate at the monastery of St Géraud, Aurillac, but the birthplace itself is not documented; birth c. 945 estimated. Medieval Aquitaine included the Auvergne. Region centred on Aurillac, 50 km radius.",
+    "public_note": "He came from Aquitaine and grew up at the monastery of Aurillac; his exact birthplace is not known.",
+    "sources": [
+     "S1",
+     "S2",
+     "S29",
+     "S35"
+    ]
+   },
+   "saint": {
+    "status": "none",
+    "recognition": null,
+    "date": null,
+    "feast": null,
+    "note": "Not marked S./B. in the Vatican Italian table; no saint or blessed recognition found in Vatican sources or the Catholic Encyclopedia.",
+    "public_note": null,
+    "sources": [
+     "S2",
+     "S29"
+    ]
+   },
+   "short_bio": "Gerbert of Aurillac, a scholar of humble birth famed for his learning in mathematics and astronomy, became the first French pope in 999. He worked closely with Otto III and set up the churches of Poland and Hungary.",
+   "long_bio": "Gerbert grew up as an oblate at the abbey of Aurillac and studied the sciences in Catalonia, at Vich and Ripoll. He became a celebrated teacher at Reims, abbot of Bobbio, contested archbishop of Reims and then archbishop of Ravenna. Chosen pope with Otto III's support in 999, he took the name Sylvester. He created the archbishoprics of Gniezno in Poland and Esztergom in Hungary and recognised Stephen of Hungary as king. He opposed simony and clerical concubinage, and died in Rome on 12 May 1003.",
+   "actions": [
+    "Established the archbishopric of Gniezno (Poland)",
+    "Established the archbishopric of Esztergom and recognised Stephen as king of Hungary",
+    "Opposed simony and clerical marriage",
+    "Renowned teacher of mathematics, astronomy and music"
+   ],
+   "context": "The young emperor Otto III dreamed of renewing the Roman Empire with Rome as its capital and the pope as his partner. The Crescentii resisted him; new Christian kingdoms in Poland and Hungary were taking shape.",
+   "bio_sources": [
+    "S2",
+    "S29",
+    "S35"
+   ],
+   "public_uncertainty": null,
+   "research_status": "verified",
+   "open_questions": []
+  },
+  {
+   "roster_n": [
+    140
+   ],
+   "id": "john-xvii",
+   "papal_name": "John XVII",
+   "display_name": "John XVII",
+   "alt_names": [
+    "Giovanni XVII"
+   ],
+   "secular_name": "Siccone (Sicco)",
+   "birth_date": null,
+   "birthplace": {
+    "label": "Rome",
+    "country": "Italy",
+    "historical_name": "Roma",
+    "precision": "exact",
+    "lat": 41.8933,
+    "lon": 12.4829,
+    "radius_km": null,
+    "roster_birth_field": "Rome",
+    "note": "Vatican table: 'Romano'. CE: Roman, named Sicco; married before ordination, with three sons who became clerics.",
+    "public_note": null,
+    "sources": [
+     "S1",
+     "S2",
+     "S30"
+    ]
+   },
+   "saint": {
+    "status": "none",
+    "recognition": null,
+    "date": null,
+    "feast": null,
+    "note": "Not marked S./B. in the Vatican Italian table; no saint or blessed recognition found in Vatican sources or the Catholic Encyclopedia.",
+    "public_note": null,
+    "sources": [
+     "S2",
+     "S30"
+    ]
+   },
+   "short_bio": "Sicco, a Roman who had been married before ordination, was raised to the papacy in 1003 by John Crescentius. He died after less than six months.",
+   "long_bio": "John XVII was consecrated in June 1003, owing his elevation to John Crescentius, who controlled Rome. Nothing is recorded of his acts. He died on 6 November 1003.",
+   "actions": [],
+   "context": "Rome was dominated by the Crescentii family, while the German emperors claimed a say in papal elections. Byzantium still held southern Italy, and the Saracens raided its coasts. Monastic reform spread from Cluny across western Europe.",
+   "bio_sources": [
+    "S2",
+    "S30"
+   ],
+   "public_uncertainty": null,
+   "research_status": "minimal",
+   "open_questions": []
+  },
+  {
+   "roster_n": [
+    141
+   ],
+   "id": "john-xviii",
+   "papal_name": "John XVIII",
+   "display_name": "John XVIII",
+   "alt_names": [
+    "Giovanni XVIII",
+    "John XIX (older numbering)"
+   ],
+   "secular_name": "Fasano (Phasianus)",
+   "birth_date": null,
+   "birthplace": {
+    "label": "Rome",
+    "country": "Italy",
+    "historical_name": "Roma",
+    "precision": "exact",
+    "lat": 41.8933,
+    "lon": 12.4829,
+    "radius_km": null,
+    "roster_birth_field": "Rome",
+    "note": "Vatican table: 'Romano'. CE: son of the Roman priest Leo; no birthplace given.",
+    "public_note": null,
+    "sources": [
+     "S1",
+     "S2",
+     "S31"
+    ]
+   },
+   "saint": {
+    "status": "none",
+    "recognition": null,
+    "date": null,
+    "feast": null,
+    "note": "Not marked S./B. in the Vatican Italian table; no saint or blessed recognition found in Vatican sources or the Catholic Encyclopedia.",
+    "public_note": null,
+    "sources": [
+     "S2",
+     "S31"
+    ]
+   },
+   "short_bio": "Phasianus, son of a Roman priest, was pope from 1003 to 1009 under the influence of the Crescentii. He approved the new diocese of Bamberg founded by King Henry II.",
+   "long_bio": "John XVIII was consecrated at Christmas 1003. At a Roman synod in 1007 he approved the founding of the see of Bamberg by Henry II of Germany. He sent the pallium to the archbishops of Trier and Canterbury and defended the privileges of the abbey of Fleury. According to one catalogue of popes he died as a monk at St Paul's outside the Walls, in 1009.",
+   "actions": [
+    "Approved the founding of the diocese of Bamberg (1007)",
+    "Granted the pallium to Archbishop Ælfheah of Canterbury"
+   ],
+   "context": "Rome was dominated by the Crescentii family, while the German emperors claimed a say in papal elections. Byzantium still held southern Italy, and the Saracens raided its coasts. Monastic reform spread from Cluny across western Europe.",
+   "bio_sources": [
+    "S2",
+    "S31"
+   ],
+   "public_uncertainty": "The report that he ended his days as a monk rests on a single catalogue.",
+   "research_status": "partial",
+   "open_questions": []
+  },
+  {
+   "roster_n": [
+    142
+   ],
+   "id": "sergius-iv",
+   "papal_name": "Sergius IV",
+   "display_name": "Sergius IV",
+   "alt_names": [
+    "Sergio IV",
+    "Bucca Porci"
+   ],
+   "secular_name": "Pietro (Peter)",
+   "birth_date": null,
+   "birthplace": {
+    "label": "Rome",
+    "country": "Italy",
+    "historical_name": "Roma",
+    "precision": "exact",
+    "lat": 41.8933,
+    "lon": 12.4829,
+    "radius_km": null,
+    "roster_birth_field": "Rome",
+    "note": "Vatican table: 'Romano'. CE: born in Rome's ninth region, called Pina (Pigna), son of Peter the shoemaker.",
+    "public_note": null,
+    "sources": [
+     "S1",
+     "S2",
+     "S32"
+    ]
+   },
+   "saint": {
+    "status": "none",
+    "recognition": null,
+    "date": null,
+    "feast": null,
+    "note": "Not marked S./B. in the Vatican Italian table; no saint or blessed recognition found in Vatican sources or the Catholic Encyclopedia.",
+    "public_note": null,
+    "sources": [
+     "S2",
+     "S32"
+    ]
+   },
+   "short_bio": "Peter, a shoemaker's son from the Pigna district of Rome and bishop of Albano, was pope from 1009 to 1012. He worked to loosen the grip of the Crescentii and was known as a friend of the poor.",
+   "long_bio": "Nicknamed 'Bucca Porci', 'pig's snout', Peter had been bishop of Albano from 1004. As pope he strengthened the pro-German party against the patrician John Crescentius, exempted several monasteries from episcopal control, and helped the poor during a famine. He died on 12 May 1012 and was buried in the Lateran.",
+   "actions": [
+    "Opposed the power of the Crescentii",
+    "Exempted monasteries from episcopal jurisdiction",
+    "Relieved the poor during a famine"
+   ],
+   "context": "Rome was dominated by the Crescentii family, while the German emperors claimed a say in papal elections. Byzantium still held southern Italy, and the Saracens raided its coasts. Monastic reform spread from Cluny across western Europe.",
+   "bio_sources": [
+    "S2",
+    "S32"
+   ],
+   "public_uncertainty": null,
+   "research_status": "partial",
+   "open_questions": []
+  },
+  {
+   "roster_n": [
+    143
+   ],
+   "id": "benedict-viii",
+   "papal_name": "Benedict VIII",
+   "display_name": "Benedict VIII",
+   "alt_names": [
+    "Benedetto VIII",
+    "Theophylact of Tusculum"
+   ],
+   "secular_name": "Teofilatto dei conti di Tuscolo (Theophylact)",
+   "birth_date": null,
+   "birthplace": {
+    "label": "Rome or Tusculum",
+    "country": "Italy",
+    "historical_name": "Roma / Tusculum",
+    "precision": "region",
+    "lat": 41.85,
+    "lon": 12.6,
+    "radius_km": 25,
+    "roster_birth_field": "",
+    "note": "Roster and Vatican Italian table leave the origin blank. CE and Treccani: son of Gregory, count of Tusculum, and Maria; neither gives a birthplace. Region spans Rome and Tusculum (near Frascati), 25 km radius.",
+    "public_note": "His birthplace is not recorded; his family, the counts of Tusculum, held lands in the Alban Hills and power in Rome.",
+    "sources": [
+     "S1",
+     "S2",
+     "S40",
+     "S47"
+    ]
+   },
+   "saint": {
+    "status": "none",
+    "recognition": null,
+    "date": null,
+    "feast": null,
+    "note": "Not marked S./B. in the Vatican Italian table; no saint or blessed recognition found in Vatican sources or the Catholic Encyclopedia.",
+    "public_note": null,
+    "sources": [
+     "S2",
+     "S40"
+    ]
+   },
+   "short_bio": "Theophylact, son of Count Gregory of Tusculum, took the papacy by force in 1012, probably still a layman, and proved an able ruler. He crowned Henry II emperor, fought the Saracens and backed church reform.",
+   "long_bio": "Benedict VIII was imposed on Rome by his family in May 1012 and drove out a rival candidate. He broke the power of the Crescentii, crowned Henry II emperor on 14 February 1014, and at Henry's request agreed that the Creed be sung at Mass in Rome. He joined the war against the Saracens of Mujahid, who were defeated in 1016, and supported the Normans in the south. With Henry he held a synod at Pavia in 1022 against clerical marriage and simony, and he visited Bamberg in 1020. He died on 9 April 1024.",
+   "actions": [
+    "Crowned Emperor Henry II (1014)",
+    "Allowed the Creed to be sung at Mass in Rome",
+    "Fought the Saracens who sacked Luni (1016)",
+    "Held the reform synod of Pavia (1022)"
+   ],
+   "context": "The counts of Tusculum, a Roman noble family from the Alban Hills, replaced the Crescentii as masters of Rome and kept the papacy in their family for over thirty years. The German emperors Henry II and Conrad II came to Rome for their crowns, the Normans were arriving in southern Italy, and the Saracens still raided the Tyrrhenian coast.",
+   "bio_sources": [
+    "S2",
+    "S40",
+    "S47"
+   ],
+   "public_uncertainty": "Some scholars doubt that he was still a layman when elected.",
+   "research_status": "verified",
+   "open_questions": [
+    "Roster 'birth' field blank; birthplace undocumented."
+   ]
+  },
+  {
+   "roster_n": [
+    144
+   ],
+   "id": "john-xix",
+   "papal_name": "John XIX",
+   "display_name": "John XIX",
+   "alt_names": [
+    "Giovanni XIX",
+    "Romanus of Tusculum"
+   ],
+   "secular_name": "Romano dei conti di Tuscolo (Romanus)",
+   "birth_date": null,
+   "birthplace": {
+    "label": "Rome or Tusculum",
+    "country": "Italy",
+    "historical_name": "Roma / Tusculum",
+    "precision": "region",
+    "lat": 41.85,
+    "lon": 12.6,
+    "radius_km": 25,
+    "roster_birth_field": "",
+    "note": "Roster and Vatican Italian table leave the origin blank. CE: Romanus, of the counts of Tusculum, brother of Benedict VIII, consul and senator, a layman; no birthplace given.",
+    "public_note": "His birthplace is not recorded; his family, the counts of Tusculum, held lands in the Alban Hills and power in Rome.",
+    "sources": [
+     "S1",
+     "S2",
+     "S41"
+    ]
+   },
+   "saint": {
+    "status": "none",
+    "recognition": null,
+    "date": null,
+    "feast": null,
+    "note": "Not marked S./B. in the Vatican Italian table; no saint or blessed recognition found in Vatican sources or the Catholic Encyclopedia.",
+    "public_note": null,
+    "sources": [
+     "S2",
+     "S41"
+    ]
+   },
+   "short_bio": "Romanus, brother of Benedict VIII, was a layman ruling Rome as consul when he succeeded his brother in 1024. He crowned Conrad II emperor and invited Guido of Arezzo to explain his new musical notation.",
+   "long_bio": "Romanus received all the holy orders in quick succession after his election in 1024. Under pressure from Roman opinion he refused the Byzantine request to recognise the patriarch of Constantinople as 'ecumenical'. He crowned Conrad II emperor on 26 March 1027, took Cluny under his protection, and brought Guido of Arezzo to Rome to show his system of musical notation. He died in 1032.",
+   "actions": [
+    "Crowned Emperor Conrad II (1027)",
+    "Refused the title of ecumenical patriarch to Constantinople",
+    "Welcomed Guido of Arezzo and his musical notation",
+    "Took Cluny under papal protection"
+   ],
+   "context": "The counts of Tusculum, a Roman noble family from the Alban Hills, replaced the Crescentii as masters of Rome and kept the papacy in their family for over thirty years. The German emperors Henry II and Conrad II came to Rome for their crowns, the Normans were arriving in southern Italy, and the Saracens still raided the Tyrrhenian coast.",
+   "bio_sources": [
+    "S2",
+    "S41"
+   ],
+   "public_uncertainty": null,
+   "research_status": "verified",
+   "open_questions": [
+    "Roster 'birth' field blank; birthplace undocumented."
+   ]
+  },
+  {
+   "roster_n": [
+    145,
+    147,
+    150
+   ],
+   "id": "benedict-ix",
+   "papal_name": "Benedict IX",
+   "display_name": "Benedict IX",
+   "alt_names": [
+    "Benedetto IX",
+    "Theophylact of Tusculum"
+   ],
+   "secular_name": "Theophylactus of Tusculum (Teofilatto)",
+   "birth_date": null,
+   "birthplace": {
+    "label": "Rome or Tusculum",
+    "country": "Italy",
+    "historical_name": "Roma / Tusculum",
+    "precision": "region",
+    "lat": 41.85,
+    "lon": 12.6,
+    "radius_km": 25,
+    "roster_birth_field": "",
+    "note": "Roster and Vatican Italian table leave the origin blank for all three entries. Treccani: son of Alberic III, count of Tusculum, nephew of Benedict VIII and John XIX; birthplace and birth year uncertain ('malcerta'). CE: son of Alberic; no birthplace.",
+    "public_note": "His birthplace is not recorded; his family, the counts of Tusculum, held lands in the Alban Hills and power in Rome.",
+    "sources": [
+     "S1",
+     "S2",
+     "S42",
+     "S48"
+    ]
+   },
+   "saint": {
+    "status": "none",
+    "recognition": null,
+    "date": null,
+    "feast": null,
+    "note": "Not marked S./B. in the Vatican Italian table. A Grottaferrata tradition says he repented and died in penance there (CE), but there is no cult or recognition; Treccani doubts the burial tradition.",
+    "public_note": null,
+    "sources": [
+     "S2",
+     "S42",
+     "S48"
+    ]
+   },
+   "short_bio": "Theophylact of Tusculum, nephew of the two previous popes, was made pope in 1032 and is the only man to have held the office three times. Driven out in 1044, he returned in 1045, gave up the see for money, and seized it again in 1047-1048.",
+   "long_bio": "Benedict IX was elected in 1032 through his family's power; chroniclers made him a boy, but Treccani thinks he was about twenty-five. His conduct provoked a revolt in 1044, and Sylvester III was set up in his place, but Benedict returned in March 1045. On 1 May 1045 he resigned in favour of his godfather John Gratian, Gregory VI, in return for a large sum. The synod of Sutri in 1046 set all three claimants aside. After the death of Clement II he seized Rome again from late 1047 until mid-1048, when Damasus II was installed. He was still alive in 1055 and probably died around the end of that year; a tradition says he died in penance at Grottaferrata.",
+   "actions": [
+    "Held the papacy three times (1032-1044, 1045, 1047-1048)",
+    "Resigned the office to Gregory VI for money (1045)",
+    "Was set aside by the synod of Sutri (1046)"
+   ],
+   "context": "In the 1040s Rome had three rival claimants at once, and the papacy was openly bought and sold. In 1046 the German king Henry III came to Italy, had the synod of Sutri remove the rival popes, and installed a series of German bishops, opening the way for the great church reform of the eleventh century.",
+   "bio_sources": [
+    "S1",
+    "S2",
+    "S42",
+    "S48"
+   ],
+   "public_uncertainty": "His age at election and the scandals told of him are disputed; the date and place of his death are uncertain.",
+   "research_status": "verified",
+   "open_questions": [
+    "Roster end of third tenure '... VIII.1048' vs Vatican Italian table '... VII.1048'.",
+    "CE says he was driven out in November 1048; Damasus II was consecrated 17 July 1048."
+   ]
+  },
+  {
+   "roster_n": [
+    146
+   ],
+   "id": "sylvester-iii",
+   "papal_name": "Sylvester III",
+   "display_name": "Sylvester III",
+   "alt_names": [
+    "Silvestro III",
+    "John of Sabina"
+   ],
+   "secular_name": "Giovanni",
+   "birth_date": null,
+   "birthplace": {
+    "label": "Rome",
+    "country": "Italy",
+    "historical_name": "Roma",
+    "precision": "exact",
+    "lat": 41.8933,
+    "lon": 12.4829,
+    "radius_km": null,
+    "roster_birth_field": "Rome",
+    "note": "Vatican lists 'Rome'. Treccani: birthplace, birth date and family origins unknown; probably of the Crescentii faction, whose base was the Sabina; he was bishop of Sabina. Kept Rome per the Vatican list, flagged as unsupported by Treccani.",
+    "public_note": "The Vatican list makes him a Roman, but his birthplace is not documented.",
+    "sources": [
+     "S1",
+     "S2",
+     "S49"
+    ]
+   },
+   "saint": {
+    "status": "none",
+    "recognition": null,
+    "date": null,
+    "feast": null,
+    "note": "Not marked S./B. in the Vatican Italian table; no saint or blessed recognition found in Vatican sources or the Catholic Encyclopedia.",
+    "public_note": null,
+    "sources": [
+     "S2",
+     "S49"
+    ]
+   },
+   "short_bio": "John, bishop of Sabina, was elected pope in January 1045 after Benedict IX was driven from Rome. Within weeks Benedict expelled him, and the synod of Sutri deposed him in 1046; he went back to his diocese.",
+   "long_bio": "Sylvester III was chosen by a Roman faction, probably the Crescentii, after a revolt against Benedict IX. Benedict excommunicated him and drove him out in March 1045, and he returned to his see in the Sabina. At Sutri in December 1046 he was condemned for occupying the Apostolic See. He continued to act as bishop of Sabina and appears in records until 1062; he had probably died by 1063. The Vatican list counts him as a pope, though he is often called an antipope.",
+   "actions": [
+    "Was elected after the revolt against Benedict IX (1045)",
+    "Was deposed at the synod of Sutri (1046)"
+   ],
+   "context": "In the 1040s Rome had three rival claimants at once, and the papacy was openly bought and sold. In 1046 the German king Henry III came to Italy, had the synod of Sutri remove the rival popes, and installed a series of German bishops, opening the way for the great church reform of the eleventh century.",
+   "bio_sources": [
+    "S1",
+    "S2",
+    "S49"
+   ],
+   "public_uncertainty": "His legitimacy is disputed; the Vatican list includes him among the popes.",
+   "research_status": "verified",
+   "open_questions": [
+    "Vatican 'Rome' vs Treccani 'origin unknown'."
+   ]
+  },
+  {
+   "roster_n": [
+    148
+   ],
+   "id": "gregory-vi",
+   "papal_name": "Gregory VI",
+   "display_name": "Gregory VI",
+   "alt_names": [
+    "Gregorio VI",
+    "John Gratian"
+   ],
+   "secular_name": "Giovanni Graziano (John Gratian)",
+   "birth_date": null,
+   "birthplace": {
+    "label": "Rome",
+    "country": "Italy",
+    "historical_name": "Roma",
+    "precision": "exact",
+    "lat": 41.8933,
+    "lon": 12.4829,
+    "radius_km": null,
+    "roster_birth_field": "Rome",
+    "note": "Vatican lists 'Rome'. CE gives no birthplace. Treccani: birthplace, birth date and family unknown; later claim that he was a Pierleoni is 'molto tarda' and unfounded. Kept Rome per the Vatican list.",
+    "public_note": "The Vatican list makes him a Roman, but his birthplace and family are not documented.",
+    "sources": [
+     "S1",
+     "S2",
+     "S43",
+     "S50"
+    ]
+   },
+   "saint": {
+    "status": "none",
+    "recognition": null,
+    "date": null,
+    "feast": null,
+    "note": "Not marked S./B. in the Vatican Italian table; no saint or blessed recognition found in Vatican sources or the Catholic Encyclopedia.",
+    "public_note": null,
+    "sources": [
+     "S2",
+     "S43"
+    ]
+   },
+   "short_bio": "John Gratian, archpriest of San Giovanni a Porta Latina, paid Benedict IX to give up the papacy in 1045, hoping to rescue the office. The synod of Sutri judged the bargain simoniacal, and he stepped down in 1046.",
+   "long_bio": "Gregory VI was respected for his piety and may have belonged to the reform party. He paid a large sum to his spiritual kinsman Benedict IX, who resigned on 1 May 1045. At the synod of Sutri in December 1046 the bishops found his election tainted by simony, and he laid down the office. Henry III took him to Germany in 1047, with the young Hildebrand, later Gregory VII, as his chaplain. He died there, probably at Cologne, around the end of 1047 or early 1048.",
+   "actions": [
+    "Bought the resignation of Benedict IX (1045)",
+    "Laid down the papacy at the synod of Sutri (1046)",
+    "Had Hildebrand, the future Gregory VII, as his chaplain"
+   ],
+   "context": "In the 1040s Rome had three rival claimants at once, and the papacy was openly bought and sold. In 1046 the German king Henry III came to Italy, had the synod of Sutri remove the rival popes, and installed a series of German bishops, opening the way for the great church reform of the eleventh century.",
+   "bio_sources": [
+    "S2",
+    "S43",
+    "S50"
+   ],
+   "public_uncertainty": "The date and place of his death are not known for certain.",
+   "research_status": "verified",
+   "open_questions": [
+    "Vatican 'Rome' vs Treccani 'origin unknown'."
+   ]
+  },
+  {
+   "roster_n": [
+    149
+   ],
+   "id": "clement-ii",
+   "papal_name": "Clement II",
+   "display_name": "Clement II",
+   "alt_names": [
+    "Clemente II",
+    "Suidger of Bamberg"
+   ],
+   "secular_name": "Suidger, Graf von Morsleben und Hornburg",
+   "birth_date": null,
+   "birthplace": {
+    "label": "Saxony (Hornburg-Morsleben area)",
+    "country": "Germany",
+    "historical_name": "Saxonia",
+    "precision": "region",
+    "lat": 52.12,
+    "lon": 10.85,
+    "radius_km": 60,
+    "roster_birth_field": "Saxony",
+    "note": "Vatican: 'Sassonia'. CE: born in Saxony of noble parents. Treccani: high Saxon nobility; father Konrad of Morsleben and Hornburg; mother Amulrad, sister of Archbishop Walthard of Magdeburg; no birthplace given. Region centred between Hornburg (Lower Saxony) and Morsleben (Saxony-Anhalt), the family's seats, 60 km radius; neither is documented as his birthplace.",
+    "public_note": "He came from a noble Saxon family; his exact birthplace is not recorded.",
+    "sources": [
+     "S1",
+     "S2",
+     "S44",
+     "S51"
+    ]
+   },
+   "saint": {
+    "status": "none",
+    "recognition": null,
+    "date": null,
+    "feast": null,
+    "note": "Not marked S./B. in the Vatican Italian table; no saint or blessed recognition found in Vatican sources or the Catholic Encyclopedia.",
+    "public_note": null,
+    "sources": [
+     "S2",
+     "S44"
+    ]
+   },
+   "short_bio": "Suidger, a Saxon noble and bishop of Bamberg, was chosen pope by Henry III at the synod of Sutri and enthroned on Christmas Day 1046. He crowned Henry emperor, condemned simony, and died within a year; he is buried in Bamberg Cathedral.",
+   "long_bio": "Suidger had been a canon of Halberstadt and chaplain to Henry III, who made him bishop of Bamberg. Enthroned in St Peter's on 25 December 1046, he crowned Henry and Agnes of Poitou emperor and empress the same day. A Roman synod in January 1047 punished simony with excommunication. He died near Pesaro on 9 October 1047; rumours of poison were circulated, and a 1942 examination of his remains found signs of lead poisoning, though Treccani thinks malaria more likely. He is the only pope buried in Germany.",
+   "actions": [
+    "Crowned Henry III emperor (1046)",
+    "Condemned simony at a Roman synod (1047)",
+    "Canonized St Wiborada of St Gall"
+   ],
+   "context": "In the 1040s Rome had three rival claimants at once, and the papacy was openly bought and sold. In 1046 the German king Henry III came to Italy, had the synod of Sutri remove the rival popes, and installed a series of German bishops, opening the way for the great church reform of the eleventh century.",
+   "bio_sources": [
+    "S2",
+    "S44",
+    "S51"
+   ],
+   "public_uncertainty": "The cause of his sudden death is uncertain.",
+   "research_status": "verified",
+   "open_questions": []
+  },
+  {
+   "roster_n": [
+    151
+   ],
+   "id": "damasus-ii",
+   "papal_name": "Damasus II",
+   "display_name": "Damasus II",
+   "alt_names": [
+    "Damaso II",
+    "Poppo of Brixen"
+   ],
+   "secular_name": "Poppo",
+   "birth_date": null,
+   "birthplace": {
+    "label": "Tyrol or Bavaria",
+    "country": "Austria / Italy / Germany",
+    "historical_name": null,
+    "precision": "region",
+    "lat": 47.6,
+    "lon": 11.6,
+    "radius_km": 150,
+    "roster_birth_field": "Tyrol",
+    "note": "Vatican: 'Tirolo'. Treccani: Tyrolean origin; Liber pontificalis calls him 'Noricus' and 'Baguuarius' (Bavarian). CE: native of Bavaria. No town documented (the claim of Pildenau near Passau seen elsewhere is not supported in these sources). Region spans historic Tyrol and Bavaria, 150 km radius.",
+    "public_note": "Sources call him Tyrolean or Bavarian; no town of birth is recorded.",
+    "sources": [
+     "S1",
+     "S2",
+     "S45",
+     "S52"
+    ]
+   },
+   "saint": {
+    "status": "none",
+    "recognition": null,
+    "date": null,
+    "feast": null,
+    "note": "Not marked S./B. in the Vatican Italian table; no saint or blessed recognition found in Vatican sources or the Catholic Encyclopedia.",
+    "public_note": null,
+    "sources": [
+     "S2",
+     "S45"
+    ]
+   },
+   "short_bio": "Poppo, bishop of Brixen in the Tyrol, was named pope by Henry III and enthroned in July 1048. He died at Palestrina after only about twenty-three days, probably of malaria.",
+   "long_bio": "Poppo was a trusted ally of Henry III and had been bishop of Brixen since about 1040. Named by the emperor in late 1047, he could enter Rome only in July 1048, after Benedict IX was driven out with the help of Boniface of Canossa. He was enthroned on 17 July 1048 but died at Palestrina on 9 August, where he had gone to escape the summer heat. He was buried at San Lorenzo fuori le Mura.",
+   "actions": [
+    "Ended Benedict IX's third tenure",
+    "Was the third German pope named by Henry III"
+   ],
+   "context": "In the 1040s Rome had three rival claimants at once, and the papacy was openly bought and sold. In 1046 the German king Henry III came to Italy, had the synod of Sutri remove the rival popes, and installed a series of German bishops, opening the way for the great church reform of the eleventh century.",
+   "bio_sources": [
+    "S2",
+    "S45",
+    "S52"
+   ],
+   "public_uncertainty": "Rumours of poison circulated, but malaria is the likely cause of his death.",
+   "research_status": "verified",
+   "open_questions": [
+    "Birthplace town not documented; Wikipedia's Pildenau not verified."
+   ]
+  },
+  {
+   "roster_n": [
+    152
+   ],
+   "id": "leo-ix",
+   "papal_name": "Leo IX",
+   "display_name": "St Leo IX",
+   "alt_names": [
+    "Leone IX",
+    "Bruno of Egisheim-Dagsburg"
+   ],
+   "secular_name": "Bruno of Eguisheim-Dagsburg",
+   "birth_date": "21 June 1002",
+   "birthplace": {
+    "label": "Eguisheim",
+    "country": "France",
+    "historical_name": "Egisheim",
+    "precision": "exact",
+    "lat": 48.0425,
+    "lon": 7.3058,
+    "radius_km": null,
+    "roster_birth_field": "Alsace",
+    "note": "Vatican: 'Alsaziano'. CE: born 21 June 1002 at Egisheim near Colmar, Alsace; Wikipedia agrees. Then in the Duchy of Swabia, Holy Roman Empire.",
+    "public_note": null,
+    "sources": [
+     "S1",
+     "S2",
+     "S46",
+     "S54"
+    ]
+   },
+   "saint": {
+    "status": "saint",
+    "recognition": "pre_congregation",
+    "date": "1082",
+    "feast": "19 April",
+    "note": "Vatican Italian table marks 'S.'. Vatican News saint-of-the-day lists St Leo IX, Pope, on 19 April (feast verified). CE: worker of miracles, entered in the Roman Martyrology; no canonization date given. Wikipedia: canonized 1082 by Gregory VII (unsourced there; an elevation of relics). Classified pre_congregation; the 1082 date is supplementary and should be treated as provisional.",
+    "public_note": null,
+    "sources": [
+     "S2",
+     "S53",
+     "S46",
+     "S54"
+    ]
+   },
+   "short_bio": "Bruno of Egisheim, an Alsatian noble and for over twenty years bishop of Toul, became pope in 1049 and launched the great eleventh-century reform of the Church. He travelled widely holding councils against simony, but was captured by the Normans in 1053 and died in 1054.",
+   "long_bio": "A cousin of Emperor Conrad II, Bruno was bishop of Toul from 1027. Nominated by Henry III, he insisted on election by the clergy and people of Rome, which he entered as a barefoot pilgrim, and was enthroned on 12 February 1049. He gathered reformers such as Hildebrand and Humbert, and held synods at Rome, Pavia, Reims, Mainz and elsewhere against simony and clerical marriage, earning the name 'the apostolic pilgrim'. He condemned the teaching of Berengar of Tours on the Eucharist. In 1053 his army was defeated by the Normans at Civitate and he was held at Benevento. He died in Rome on 19 April 1054; soon after, his legates excommunicated Patriarch Michael Cerularius, a milestone in the split between East and West.",
+   "actions": [
+    "Led councils across Europe against simony and clerical marriage",
+    "Condemned Berengar of Tours",
+    "Was defeated and captured by the Normans at Civitate (1053)",
+    "Sent the legates whose mission ended in the 1054 break with Constantinople"
+   ],
+   "context": "Church reform, long nurtured in monasteries like Cluny and Gorze, now reached the papacy itself with the support of Emperor Henry III. The Normans were carving out lordships in southern Italy, and relations with Constantinople were strained over rites and papal authority, leading to the mutual excommunications of 1054.",
+   "bio_sources": [
+    "S2",
+    "S46",
+    "S54"
+   ],
+   "public_uncertainty": null,
+   "research_status": "verified",
+   "open_questions": [
+    "Exact form of the 1082 recognition (elevation of relics by Gregory VII) not verified in a Vatican or CE source."
+   ]
+  }
+ ],
+ "sources": [
+  {
+   "id": "S1",
+   "title": "The Holy Father: list of Supreme Pontiffs",
+   "url": "https://www.vatican.va/content/vatican/en/holy-father.html",
+   "publisher": "Holy See (vatican.va)",
+   "tier": "vatican",
+   "locator": "roster entries 115-152",
+   "accessed": "2026-10-10"
+  },
+  {
+   "id": "S2",
+   "title": "Elenco dei Sommi Pontefici",
+   "url": "https://www.vatican.va/holy_father/archivio_papi/documents/elencopapi_it.html",
+   "publisher": "Holy See (vatican.va)",
+   "tier": "vatican",
+   "locator": "entries Teodoro II to S. Leone IX: origin column and S. labels",
+   "accessed": "2026-10-10"
+  },
+  {
+   "id": "S3",
+   "title": "Pope Theodore II",
+   "url": "https://www.newadvent.org/cathen/14570b.htm",
+   "publisher": "Catholic Encyclopedia (1907-1913), New Advent",
+   "tier": "local_ecclesiastical_approval",
+   "locator": "article 'Pope Theodore II'",
+   "accessed": "2026-10-10"
+  },
+  {
+   "id": "S4",
+   "title": "Pope John IX",
+   "url": "https://www.newadvent.org/cathen/08425a.htm",
+   "publisher": "Catholic Encyclopedia (1907-1913), New Advent",
+   "tier": "local_ecclesiastical_approval",
+   "locator": "article 'Pope John IX'",
+   "accessed": "2026-10-10"
+  },
+  {
+   "id": "S5",
+   "title": "Pope Benedict IV",
+   "url": "https://www.newadvent.org/cathen/02428a.htm",
+   "publisher": "Catholic Encyclopedia (1907-1913), New Advent",
+   "tier": "local_ecclesiastical_approval",
+   "locator": "article 'Pope Benedict IV'",
+   "accessed": "2026-10-10"
+  },
+  {
+   "id": "S6",
+   "title": "Pope Leo V",
+   "url": "https://www.newadvent.org/cathen/09159b.htm",
+   "publisher": "Catholic Encyclopedia (1907-1913), New Advent",
+   "tier": "local_ecclesiastical_approval",
+   "locator": "article 'Pope Leo V'",
+   "accessed": "2026-10-10"
+  },
+  {
+   "id": "S7",
+   "title": "Pope Sergius III",
+   "url": "https://www.newadvent.org/cathen/13729a.htm",
+   "publisher": "Catholic Encyclopedia (1907-1913), New Advent",
+   "tier": "local_ecclesiastical_approval",
+   "locator": "article 'Pope Sergius III'",
+   "accessed": "2026-10-10"
+  },
+  {
+   "id": "S8",
+   "title": "Pope Anastasius III",
+   "url": "https://www.newadvent.org/cathen/01455a.htm",
+   "publisher": "Catholic Encyclopedia (1907-1913), New Advent",
+   "tier": "local_ecclesiastical_approval",
+   "locator": "article 'Pope Anastasius III'",
+   "accessed": "2026-10-10"
+  },
+  {
+   "id": "S9",
+   "title": "Pope Lando",
+   "url": "https://www.newadvent.org/cathen/08784a.htm",
+   "publisher": "Catholic Encyclopedia (1907-1913), New Advent",
+   "tier": "local_ecclesiastical_approval",
+   "locator": "article 'Pope Lando'",
+   "accessed": "2026-10-10"
+  },
+  {
+   "id": "S10",
+   "title": "Pope John X",
+   "url": "https://www.newadvent.org/cathen/08425b.htm",
+   "publisher": "Catholic Encyclopedia (1907-1913), New Advent",
+   "tier": "local_ecclesiastical_approval",
+   "locator": "article 'Pope John X'",
+   "accessed": "2026-10-10"
+  },
+  {
+   "id": "S11",
+   "title": "Pope Leo VI",
+   "url": "https://www.newadvent.org/cathen/09159c.htm",
+   "publisher": "Catholic Encyclopedia (1907-1913), New Advent",
+   "tier": "local_ecclesiastical_approval",
+   "locator": "article 'Pope Leo VI'",
+   "accessed": "2026-10-10"
+  },
+  {
+   "id": "S12",
+   "title": "Pope Stephen VIII",
+   "url": "https://www.newadvent.org/cathen/14290a.htm",
+   "publisher": "Catholic Encyclopedia (1907-1913), New Advent",
+   "tier": "local_ecclesiastical_approval",
+   "locator": "article 'Pope Stephen VIII' (CE numbering; this is Stephen VII in the Vatican list)",
+   "accessed": "2026-10-10"
+  },
+  {
+   "id": "S13",
+   "title": "Pope John XI",
+   "url": "https://www.newadvent.org/cathen/08426a.htm",
+   "publisher": "Catholic Encyclopedia (1907-1913), New Advent",
+   "tier": "local_ecclesiastical_approval",
+   "locator": "article 'Pope John XI'",
+   "accessed": "2026-10-10"
+  },
+  {
+   "id": "S14",
+   "title": "Pope Leo VII",
+   "url": "https://www.newadvent.org/cathen/09160a.htm",
+   "publisher": "Catholic Encyclopedia (1907-1913), New Advent",
+   "tier": "local_ecclesiastical_approval",
+   "locator": "article 'Pope Leo VII'",
+   "accessed": "2026-10-10"
+  },
+  {
+   "id": "S15",
+   "title": "Pope Stephen IX",
+   "url": "https://www.newadvent.org/cathen/14290b.htm",
+   "publisher": "Catholic Encyclopedia (1907-1913), New Advent",
+   "tier": "local_ecclesiastical_approval",
+   "locator": "article 'Pope Stephen IX' (CE numbering; this is Stephen VIII in the Vatican list)",
+   "accessed": "2026-10-10"
+  },
+  {
+   "id": "S16",
+   "title": "Pope Marinus II",
+   "url": "https://www.newadvent.org/cathen/09670c.htm",
+   "publisher": "Catholic Encyclopedia (1907-1913), New Advent",
+   "tier": "local_ecclesiastical_approval",
+   "locator": "article 'Pope Marinus II'",
+   "accessed": "2026-10-10"
+  },
+  {
+   "id": "S17",
+   "title": "Pope Agapetus II",
+   "url": "https://www.newadvent.org/cathen/01203a.htm",
+   "publisher": "Catholic Encyclopedia (1907-1913), New Advent",
+   "tier": "local_ecclesiastical_approval",
+   "locator": "article 'Pope Agapetus II'",
+   "accessed": "2026-10-10"
+  },
+  {
+   "id": "S18",
+   "title": "Giovanni X, papa",
+   "url": "https://www.treccani.it/enciclopedia/giovanni-x_(Enciclopedia-dei-Papi)/",
+   "publisher": "Istituto della Enciclopedia Italiana (Treccani), Enciclopedia dei Papi (2000)",
+   "tier": "scholarly",
+   "locator": "opening section (birth) and narrative of 915 and 928-929",
+   "accessed": "2026-10-10"
+  },
+  {
+   "id": "S20",
+   "title": "Pope John XII",
+   "url": "https://www.newadvent.org/cathen/08426b.htm",
+   "publisher": "Catholic Encyclopedia (1907-1913), New Advent",
+   "tier": "local_ecclesiastical_approval",
+   "locator": "article 'Pope John XII'",
+   "accessed": "2026-10-10"
+  },
+  {
+   "id": "S21",
+   "title": "Pope Leo VIII",
+   "url": "https://www.newadvent.org/cathen/09160b.htm",
+   "publisher": "Catholic Encyclopedia (1907-1913), New Advent",
+   "tier": "local_ecclesiastical_approval",
+   "locator": "article 'Pope Leo VIII'",
+   "accessed": "2026-10-10"
+  },
+  {
+   "id": "S22",
+   "title": "Pope Benedict V",
+   "url": "https://www.newadvent.org/cathen/02428b.htm",
+   "publisher": "Catholic Encyclopedia (1907-1913), New Advent",
+   "tier": "local_ecclesiastical_approval",
+   "locator": "article 'Pope Benedict V'",
+   "accessed": "2026-10-10"
+  },
+  {
+   "id": "S23",
+   "title": "Pope John XIII",
+   "url": "https://www.newadvent.org/cathen/08427a.htm",
+   "publisher": "Catholic Encyclopedia (1907-1913), New Advent",
+   "tier": "local_ecclesiastical_approval",
+   "locator": "article 'Pope John XIII'",
+   "accessed": "2026-10-10"
+  },
+  {
+   "id": "S24",
+   "title": "Pope Benedict VI",
+   "url": "https://www.newadvent.org/cathen/02428c.htm",
+   "publisher": "Catholic Encyclopedia (1907-1913), New Advent",
+   "tier": "local_ecclesiastical_approval",
+   "locator": "article 'Pope Benedict VI'",
+   "accessed": "2026-10-10"
+  },
+  {
+   "id": "S25",
+   "title": "Pope Benedict VII",
+   "url": "https://www.newadvent.org/cathen/02428d.htm",
+   "publisher": "Catholic Encyclopedia (1907-1913), New Advent",
+   "tier": "local_ecclesiastical_approval",
+   "locator": "article 'Pope Benedict VII'",
+   "accessed": "2026-10-10"
+  },
+  {
+   "id": "S26",
+   "title": "Pope John XIV",
+   "url": "https://www.newadvent.org/cathen/08427b.htm",
+   "publisher": "Catholic Encyclopedia (1907-1913), New Advent",
+   "tier": "local_ecclesiastical_approval",
+   "locator": "article 'Pope John XIV'",
+   "accessed": "2026-10-10"
+  },
+  {
+   "id": "S27",
+   "title": "Pope John XV",
+   "url": "https://www.newadvent.org/cathen/08427c.htm",
+   "publisher": "Catholic Encyclopedia (1907-1913), New Advent",
+   "tier": "local_ecclesiastical_approval",
+   "locator": "article 'Pope John XV'",
+   "accessed": "2026-10-10"
+  },
+  {
+   "id": "S28",
+   "title": "Pope Gregory V",
+   "url": "https://www.newadvent.org/cathen/06790a.htm",
+   "publisher": "Catholic Encyclopedia (1907-1913), New Advent",
+   "tier": "local_ecclesiastical_approval",
+   "locator": "article 'Pope Gregory V'",
+   "accessed": "2026-10-10"
+  },
+  {
+   "id": "S29",
+   "title": "Pope Sylvester II",
+   "url": "https://www.newadvent.org/cathen/14371a.htm",
+   "publisher": "Catholic Encyclopedia (1907-1913), New Advent",
+   "tier": "local_ecclesiastical_approval",
+   "locator": "article 'Pope Sylvester II'",
+   "accessed": "2026-10-10"
+  },
+  {
+   "id": "S30",
+   "title": "Pope John XVII",
+   "url": "https://www.newadvent.org/cathen/08428b.htm",
+   "publisher": "Catholic Encyclopedia (1907-1913), New Advent",
+   "tier": "local_ecclesiastical_approval",
+   "locator": "article 'Pope John XVII'",
+   "accessed": "2026-10-10"
+  },
+  {
+   "id": "S31",
+   "title": "Pope John XVIII",
+   "url": "https://www.newadvent.org/cathen/08429a.htm",
+   "publisher": "Catholic Encyclopedia (1907-1913), New Advent",
+   "tier": "local_ecclesiastical_approval",
+   "locator": "article 'Pope John XVIII'",
+   "accessed": "2026-10-10"
+  },
+  {
+   "id": "S32",
+   "title": "Pope Sergius IV",
+   "url": "https://www.newadvent.org/cathen/13729b.htm",
+   "publisher": "Catholic Encyclopedia (1907-1913), New Advent",
+   "tier": "local_ecclesiastical_approval",
+   "locator": "article 'Pope Sergius IV'",
+   "accessed": "2026-10-10"
+  },
+  {
+   "id": "S33",
+   "title": "Giovanni XII, papa",
+   "url": "https://www.treccani.it/enciclopedia/giovanni-xii_(Enciclopedia-dei-Papi)/",
+   "publisher": "Istituto della Enciclopedia Italiana (Treccani), Enciclopedia dei Papi (2000)",
+   "tier": "scholarly",
+   "locator": "opening section (birth, parents) and death",
+   "accessed": "2026-10-10"
+  },
+  {
+   "id": "S34",
+   "title": "Gregorio V, papa",
+   "url": "https://www.treccani.it/enciclopedia/gregorio-v_(Enciclopedia-dei-Papi)/",
+   "publisher": "Istituto della Enciclopedia Italiana (Treccani), Enciclopedia dei Papi (2000)",
+   "tier": "scholarly",
+   "locator": "opening section (family, education at Worms) and death",
+   "accessed": "2026-10-10"
+  },
+  {
+   "id": "S35",
+   "title": "Silvestro II, papa",
+   "url": "https://www.treccani.it/enciclopedia/silvestro-ii_(Enciclopedia-dei-Papi)/",
+   "publisher": "Istituto della Enciclopedia Italiana (Treccani), Enciclopedia dei Papi (2000)",
+   "tier": "scholarly",
+   "locator": "opening section (origin 'aquitanus', Aurillac, birth c. 945) and death",
+   "accessed": "2026-10-10"
+  },
+  {
+   "id": "S40",
+   "title": "Pope Benedict VIII",
+   "url": "https://www.newadvent.org/cathen/02428e.htm",
+   "publisher": "Catholic Encyclopedia (1907-1913), New Advent",
+   "tier": "local_ecclesiastical_approval",
+   "locator": "article 'Pope Benedict VIII'",
+   "accessed": "2026-10-10"
+  },
+  {
+   "id": "S41",
+   "title": "Pope John XIX",
+   "url": "https://www.newadvent.org/cathen/08429b.htm",
+   "publisher": "Catholic Encyclopedia (1907-1913), New Advent",
+   "tier": "local_ecclesiastical_approval",
+   "locator": "article 'Pope John XIX'",
+   "accessed": "2026-10-10"
+  },
+  {
+   "id": "S42",
+   "title": "Pope Benedict IX",
+   "url": "https://www.newadvent.org/cathen/02429a.htm",
+   "publisher": "Catholic Encyclopedia (1907-1913), New Advent",
+   "tier": "local_ecclesiastical_approval",
+   "locator": "article 'Pope Benedict IX'",
+   "accessed": "2026-10-10"
+  },
+  {
+   "id": "S43",
+   "title": "Pope Gregory VI",
+   "url": "https://www.newadvent.org/cathen/06791a.htm",
+   "publisher": "Catholic Encyclopedia (1907-1913), New Advent",
+   "tier": "local_ecclesiastical_approval",
+   "locator": "article 'Pope Gregory VI'",
+   "accessed": "2026-10-10"
+  },
+  {
+   "id": "S44",
+   "title": "Pope Clement II",
+   "url": "https://www.newadvent.org/cathen/04017a.htm",
+   "publisher": "Catholic Encyclopedia (1907-1913), New Advent",
+   "tier": "local_ecclesiastical_approval",
+   "locator": "article 'Pope Clement II'",
+   "accessed": "2026-10-10"
+  },
+  {
+   "id": "S45",
+   "title": "Pope Damasus II",
+   "url": "https://www.newadvent.org/cathen/04614a.htm",
+   "publisher": "Catholic Encyclopedia (1907-1913), New Advent",
+   "tier": "local_ecclesiastical_approval",
+   "locator": "article 'Pope Damasus II'",
+   "accessed": "2026-10-10"
+  },
+  {
+   "id": "S46",
+   "title": "Pope St. Leo IX",
+   "url": "https://www.newadvent.org/cathen/09160c.htm",
+   "publisher": "Catholic Encyclopedia (1907-1913), New Advent",
+   "tier": "local_ecclesiastical_approval",
+   "locator": "article 'Pope St. Leo IX'",
+   "accessed": "2026-10-10"
+  },
+  {
+   "id": "S47",
+   "title": "Benedetto VIII, papa",
+   "url": "https://www.treccani.it/enciclopedia/benedetto-viii_(Enciclopedia-dei-Papi)/",
+   "publisher": "Istituto della Enciclopedia Italiana (Treccani), Enciclopedia dei Papi (2000)",
+   "tier": "scholarly",
+   "locator": "opening section (parents, orders) and Luni 1016, Creed at Mass",
+   "accessed": "2026-10-10"
+  },
+  {
+   "id": "S48",
+   "title": "Benedetto IX, papa",
+   "url": "https://www.treccani.it/enciclopedia/benedetto-ix_(Enciclopedia-dei-Papi)/",
+   "publisher": "Istituto della Enciclopedia Italiana (Treccani), Enciclopedia dei Papi (2000)",
+   "tier": "scholarly",
+   "locator": "opening (parents, age at election), three pontificates, death 1055-1056",
+   "accessed": "2026-10-10"
+  },
+  {
+   "id": "S49",
+   "title": "Silvestro III, papa",
+   "url": "https://www.treccani.it/enciclopedia/silvestro-iii_(Enciclopedia-dei-Papi)/",
+   "publisher": "Istituto della Enciclopedia Italiana (Treccani), Enciclopedia dei Papi (2000)",
+   "tier": "scholarly",
+   "locator": "opening (origin unknown, bishop of Sabina) and later life to 1062",
+   "accessed": "2026-10-10"
+  },
+  {
+   "id": "S50",
+   "title": "Gregorio VI, papa",
+   "url": "https://www.treccani.it/enciclopedia/gregorio-vi_(Enciclopedia-dei-Papi)/",
+   "publisher": "Istituto della Enciclopedia Italiana (Treccani), Enciclopedia dei Papi (2000)",
+   "tier": "scholarly",
+   "locator": "opening (origin unknown; Pierleoni link 'molto tarda') and death",
+   "accessed": "2026-10-10"
+  },
+  {
+   "id": "S51",
+   "title": "Clemente II, papa",
+   "url": "https://www.treccani.it/enciclopedia/clemente-ii_(Enciclopedia-dei-Papi)/",
+   "publisher": "Istituto della Enciclopedia Italiana (Treccani), Enciclopedia dei Papi (2000)",
+   "tier": "scholarly",
+   "locator": "opening (family) and death at Pesaro, 1942 tomb examination",
+   "accessed": "2026-10-10"
+  },
+  {
+   "id": "S52",
+   "title": "Damaso II, papa",
+   "url": "https://www.treccani.it/enciclopedia/damaso-ii_(Enciclopedia-dei-Papi)/",
+   "publisher": "Istituto della Enciclopedia Italiana (Treccani), Enciclopedia dei Papi (2000)",
+   "tier": "scholarly",
+   "locator": "opening (Tyrolean origin, 'Noricus', 'Baguuarius') and death",
+   "accessed": "2026-10-10"
+  },
+  {
+   "id": "S53",
+   "title": "Saint of the day, 04/19 (St Leo IX)",
+   "url": "https://www.vaticannews.va/en/saints/04/19.print.html",
+   "publisher": "Vatican News",
+   "tier": "vatican",
+   "locator": "entry: St Leo IX, Pope",
+   "accessed": "2026-10-10"
+  },
+  {
+   "id": "S54",
+   "title": "Pope Leo IX",
+   "url": "https://en.wikipedia.org/wiki/Pope_Leo_IX",
+   "publisher": "Wikipedia",
+   "tier": "supplementary",
+   "locator": "infobox (canonization 1082 by Gregory VII; feast 19 April)",
+   "accessed": "2026-10-10"
+  }
+ ],
+ "notes": "Rows 115-152 complete (36 people; Benedict IX = rows 145,147,150 as one record). Feast days: only Leo IX (19 April, Vatican News). Only saint in range: Leo IX (Vatican 'S.'); all others none. Birth-field issues: John XII roster 'Counts of Tusculum' is a family label (son of Alberic II; birthplace undocumented, set region Rome). Benedict VIII, John XIX, Benedict IX have blank roster birth: set region Rome/Tusculum (25 km) with public note. Conflicts with Vatican birth field: Gregory V 'Saxony' (family of Worms/Carinthia; set region Worms, alternative Saxony in note); Sylvester III and Gregory VI 'Rome' kept but Treccani says origin unknown (public notes); Sylvester II 'Aquitaine' set region near Aurillac; Leo V Ardea set region (born at unlocated Priapi near Ardea); John X Tossignano is 'probably' per Treccani. Roster/Italian table date discrepancy: Benedict IX row 150 end VIII.1048 (roster) vs VII.1048 (Italian table). Agapetus II: CE death Aug 956 vs roster XII.955. Leo VIII/Benedict V overlap in 964 noted in both records. CE numbering differs for Stephen VII/VIII and John XV/XVIII (alt_names note older numbering). Treccani Leo IX page did not render; Leo IX 1082 recognition date is from Wikipedia only."
+}

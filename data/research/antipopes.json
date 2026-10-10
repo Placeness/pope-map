@@ -1,0 +1,1519 @@
+{
+ "antipopes": [
+  {
+   "id": "hippolytus",
+   "name": "Hippolytus",
+   "display_name": "St Hippolytus",
+   "claim_start": "217",
+   "claim_end": "235",
+   "claim_label": "c. 217–235",
+   "birthplace": {
+    "label": null,
+    "country": null,
+    "precision": "unknown",
+    "lat": null,
+    "lon": null,
+    "radius_km": null,
+    "note": "No birthplace supported. Wikipedia table gives 'Rome', which is unsourced; his Greek writings have led some to suggest an eastern origin, but this is conjecture. Identity itself is debated (one or two Hippolytuses)."
+   },
+   "opposed_roster_n": [
+    16,
+    17,
+    18
+   ],
+   "relationship": "Rival to Callistus I, Urban I and Pontian; reconciled with Pontian in exile in Sardinia.",
+   "dispute_short": "A learned Roman priest and theologian, Hippolytus broke with Callistus I and led a rival community in Rome. He was reconciled with Pontian before both died as exiles in Sardinia.",
+   "dispute_long": "Hippolytus was the most important Christian writer in Rome in the early third century. He clashed with Bishop Zephyrinus and then with Callistus I over doctrine and discipline, and when Callistus was chosen as bishop he had himself set up as bishop of a rival community, often called the first antipope. The division lasted through the time of Urban I and into Pontian's. Under Emperor Maximinus Thrax both Pontian and Hippolytus were sent to the mines of Sardinia, where they were reconciled; Pontian resigned so the Church could move on, and both died there. Hippolytus is venerated as a saint and martyr. Much about his life is uncertain, and scholars still debate whether the writings under his name belong to one man or two.",
+   "classification_public": "He is honoured as a saint and martyr despite his schism, because he was reconciled before his death.",
+   "classification_note": "Listed by CE with a question mark (S1). Vatican dal Covolo article calls him the first 'antipope' in history and reports reconciliation, Sardinian exile and burial on the Via Tiburtina (S2). Saint, feast 13 August with Pontian.",
+   "sources": [
+    "S2",
+    "S1",
+    "S9"
+   ]
+  },
+  {
+   "id": "novatian",
+   "name": "Novatian",
+   "display_name": "Novatian",
+   "claim_start": "251",
+   "claim_end": "258",
+   "claim_label": "251–c. 258",
+   "birthplace": {
+    "label": null,
+    "country": null,
+    "precision": "unknown",
+    "lat": null,
+    "lon": null,
+    "radius_km": null,
+    "note": "Wikipedia's 'born c. 200 in Rome' is not sourced in the article; Philostorgius' late claim of Phrygian origin is also unreliable. Treat as unknown."
+   },
+   "opposed_roster_n": [
+    21
+   ],
+   "relationship": "Rival to Cornelius, elected bishop of Rome in 251.",
+   "dispute_short": "A Roman priest and theologian who opposed the readmission of Christians who had lapsed during persecution. He was consecrated as a rival to Cornelius in 251 and founded a long-lived rigorist church.",
+   "dispute_long": "Novatian was one of the leading priests of the Roman church and the first Roman theologian to write at length in Latin. After the persecution of Decius, the Church had to decide how to treat Christians who had sacrificed to the gods to save their lives. When the more lenient Cornelius was chosen bishop in 251, Novatian's supporters had him consecrated by three bishops as a rival. A Roman synod of about sixty bishops excommunicated him the same year, and Cornelius won the backing of Cyprian of Carthage and Dionysius of Alexandria. Novatian's followers formed a separate church that survived for centuries. He probably died around 258, perhaps in Valerian's persecution, though the circumstances are unclear.",
+   "classification_public": null,
+   "classification_note": "CE S1 dates 251. End date c. 258 is traditional (death), not a defined end of claim.",
+   "sources": [
+    "S1",
+    "S11",
+    "S9"
+   ]
+  },
+  {
+   "id": "felix-ii",
+   "name": "Felix II",
+   "display_name": "Felix II",
+   "claim_start": "355",
+   "claim_end": "365",
+   "claim_label": "355–365",
+   "birthplace": {
+    "label": "Rome",
+    "country": "Italy",
+    "precision": "region",
+    "lat": 41.9028,
+    "lon": 12.4964,
+    "radius_km": 25,
+    "note": "He was archdeacon of Rome; Liber Pontificalis calls him Roman (natione Romanus) but this pass did not verify the LP text directly. Shown as an area, not an exact birthplace."
+   },
+   "opposed_roster_n": [
+    36
+   ],
+   "relationship": "Installed in Rome by Emperor Constantius II while Pope Liberius was in exile.",
+   "dispute_short": "Archdeacon of Rome, Felix was made bishop by the pro-Arian Emperor Constantius II after Liberius was exiled. When Liberius returned in 357–358 Felix was driven out, and he died in 365.",
+   "dispute_long": "In 355 Pope Liberius was exiled for refusing to condemn Athanasius, the great opponent of Arianism. Emperor Constantius II had the Roman archdeacon Felix consecrated in his place. Most Roman Christians stayed loyal to Liberius, and after Liberius returned Felix withdrew to Porto, near Rome, where he died on 22 November 365 after a failed attempt to return. Later he was confused with an earlier Roman martyr named Felix, and was long honoured as a saint and pope. That is why the later popes are numbered Felix III and Felix IV. Modern lists, including the Vatican's, treat him as an antipope, and the current Roman Martyrology honours only the earlier martyr.",
+   "classification_public": "Long counted as a legitimate pope and saint because of a confusion with an earlier martyr, which is why later popes are numbered Felix III and IV; he is now listed as an antipope.",
+   "classification_note": "Not on the Vatican roster used here (Liberius row 36 is followed by Damasus I row 37). Roman Martyrology entry for the antipope removed by the 1962 Missal per S12.",
+   "sources": [
+    "S1",
+    "S12",
+    "S9"
+   ]
+  },
+  {
+   "id": "ursinus",
+   "name": "Ursinus",
+   "display_name": "Ursinus (Ursicinus)",
+   "claim_start": "366",
+   "claim_end": "367",
+   "claim_label": "366–367",
+   "birthplace": {
+    "label": null,
+    "country": null,
+    "precision": "unknown",
+    "lat": null,
+    "lon": null,
+    "radius_km": null,
+    "note": "No birthplace source found."
+   },
+   "opposed_roster_n": [
+    37
+   ],
+   "relationship": "Rival to Damasus I after the death of Liberius.",
+   "dispute_short": "Elected by a party of Liberius' former supporters in 366, Ursinus fought Damasus I for the see of Rome in violent street battles. The emperor exiled him in 367.",
+   "dispute_long": "When Liberius died in 366, Rome was still divided between those who had stayed loyal to him and those who had accepted Felix II. One party elected the deacon Ursinus (also called Ursicinus); the other elected Damasus. The rivalry turned bloody, and a massacre in a Roman basilica left many dead. Emperor Valentinian I recognised Damasus and exiled Ursinus in 367. Ursinus and his followers kept agitating for years afterwards, but Damasus held the see until 384.",
+   "classification_public": null,
+   "classification_note": "CE S1 lists as 'Ursicinus, 366-367'.",
+   "sources": [
+    "S1",
+    "S9"
+   ]
+  },
+  {
+   "id": "eulalius",
+   "name": "Eulalius",
+   "display_name": "Eulalius",
+   "claim_start": "418",
+   "claim_end": "419",
+   "claim_label": "418–419",
+   "birthplace": {
+    "label": null,
+    "country": null,
+    "precision": "unknown",
+    "lat": null,
+    "lon": null,
+    "radius_km": null,
+    "note": "No birthplace source found. He was a Roman archdeacon."
+   },
+   "opposed_roster_n": [
+    42
+   ],
+   "relationship": "Rival to Boniface I after the death of Zosimus.",
+   "dispute_short": "Elected by one faction of the Roman clergy at the end of 418, Eulalius rivalled Boniface I. The emperor finally ruled for Boniface after Eulalius broke an order to stay out of Rome.",
+   "dispute_long": "After Pope Zosimus died in December 418, part of the Roman clergy chose the archdeacon Eulalius, while a larger group chose the elderly priest Boniface. Both were consecrated, and the imperial court at Ravenna was asked to decide. Emperor Honorius first favoured Eulalius, then called a council and ordered both men to stay out of Rome until it met. When Eulalius returned to Rome against that order to celebrate Easter, the emperor recognised Boniface in April 419. The episode led to a rule that a disputed papal election should be settled by a fresh vote.",
+   "classification_public": null,
+   "classification_note": "CE S1: 418-419.",
+   "sources": [
+    "S1",
+    "S9"
+   ]
+  },
+  {
+   "id": "laurentius",
+   "name": "Laurentius",
+   "display_name": "Laurentius (Lawrence)",
+   "claim_start": "498",
+   "claim_end": "506",
+   "claim_label": "498–c. 506",
+   "birthplace": {
+    "label": null,
+    "country": null,
+    "precision": "unknown",
+    "lat": null,
+    "lon": null,
+    "radius_km": null,
+    "note": "No birthplace source found. Wikipedia table's secular name 'Lorenzo Celio' and 'Rome' are unsourced."
+   },
+   "opposed_roster_n": [
+    51
+   ],
+   "relationship": "Rival to Symmachus, elected the same day in 498.",
+   "dispute_short": "Archpriest of Santa Prassede, Laurentius was elected by a pro-Byzantine party on the same day as Symmachus in 498. The rivalry, known as the Laurentian schism, dragged on for years.",
+   "dispute_long": "In November 498 two popes were elected in Rome on the same day: the deacon Symmachus at the Lateran and the archpriest Laurentius at Santa Maria Maggiore. Behind the split lay divisions in the Roman senate and clergy over relations with Constantinople. The Ostrogothic king Theodoric, ruling Italy, first decided for Symmachus, and Laurentius was given a bishopric. When charges were later brought against Symmachus, Laurentius returned to Rome and his party held many churches for several years. Theodoric eventually withdrew his support for Laurentius, who retired to a country estate, and the schism ended around 506.",
+   "classification_public": null,
+   "classification_note": "CE S1 gives 498-501; Wikipedia gives end 506/508. Used c. 506 for the effective end of the schism; claim_label reflects uncertainty.",
+   "sources": [
+    "S1",
+    "S9"
+   ]
+  },
+  {
+   "id": "dioscorus",
+   "name": "Dioscorus",
+   "display_name": "Dioscorus",
+   "claim_start": "530",
+   "claim_end": "530",
+   "claim_label": "530",
+   "birthplace": {
+    "label": "Alexandria",
+    "country": "Egypt",
+    "precision": "region",
+    "lat": 31.2001,
+    "lon": 29.9187,
+    "radius_km": 100,
+    "note": "He was a deacon of the Church of Alexandria who came to Rome c. 506. No birthplace is documented; area marker reflects his Alexandrian origin only."
+   },
+   "opposed_roster_n": [
+    55
+   ],
+   "relationship": "Rival to Boniface II in the disputed election of September 530.",
+   "dispute_short": "An Alexandrian deacon who had become a leading Roman cleric, Dioscorus was elected by most of the Roman clergy in 530, while a minority chose Boniface II. He died after about three weeks.",
+   "dispute_long": "When Felix IV died in September 530, he had tried to name his own successor, the archdeacon Boniface. Most of the Roman clergy rejected this and elected Dioscorus, a deacon from Alexandria who had come to Rome as a refugee and had served papal diplomacy with Constantinople. Boniface's supporters elected him separately. Dioscorus died on 14 October 530, only weeks later, and Boniface then made the clergy who had backed his rival sign a condemnation of his memory. Because Dioscorus seems to have had the support of the majority, some historians argue that he was the legitimate pope, but the official lists count him as an antipope.",
+   "classification_public": "Some historians argue that Dioscorus, backed by a majority of the clergy, was the lawful pope; official lists name him as an antipope.",
+   "classification_note": "Not on the Vatican roster used here (Boniface II row 55). CE article (05023a) could not be fetched; facts from S13.",
+   "sources": [
+    "S9",
+    "S13",
+    "S1"
+   ]
+  },
+  {
+   "id": "theodore-687",
+   "name": "Theodore",
+   "display_name": "Theodore",
+   "claim_start": "687",
+   "claim_end": "687",
+   "claim_label": "687",
+   "birthplace": {
+    "label": null,
+    "country": null,
+    "precision": "unknown",
+    "lat": null,
+    "lon": null,
+    "radius_km": null,
+    "note": "No birthplace source found. He was archpriest of the Roman church."
+   },
+   "opposed_roster_n": [
+    84
+   ],
+   "relationship": "One of two rival candidates after the death of Conon; the dispute ended with the election of Sergius I.",
+   "dispute_short": "When Pope Conon died in 687, the archpriest Theodore was put forward by one party while the archdeacon Paschal was chosen by another. Neither prevailed, and Sergius I was elected instead; Theodore quickly submitted.",
+   "dispute_long": "Pope Conon's death in September 687 left Rome split between factions. One group backed the archpriest Theodore, another the archdeacon Paschal, and each occupied part of the Lateran palace. To break the deadlock, the clergy, army and people chose a third man, the priest Sergius, who became Sergius I. Theodore accepted the outcome and was reconciled with Sergius.",
+   "classification_public": "Theodore was never consecrated, and he is sometimes left off lists of antipopes.",
+   "classification_note": "Listed in Wikipedia/Annuario-based list (S9); not in CE list S1. Linked to Sergius I (84), the pope elected in that dispute.",
+   "sources": [
+    "S9"
+   ]
+  },
+  {
+   "id": "paschal-687",
+   "name": "Paschal",
+   "display_name": "Paschal",
+   "claim_start": "687",
+   "claim_end": "687",
+   "claim_label": "687",
+   "birthplace": {
+    "label": null,
+    "country": null,
+    "precision": "unknown",
+    "lat": null,
+    "lon": null,
+    "radius_km": null,
+    "note": "No birthplace source found. He was archdeacon of the Roman church."
+   },
+   "opposed_roster_n": [
+    84
+   ],
+   "relationship": "Rival candidate after the death of Conon; opposed Sergius I.",
+   "dispute_short": "The archdeacon Paschal sought the papacy in 687, reportedly promising money to the Byzantine exarch for support. He was set aside in favour of Sergius I and later deposed for intrigue.",
+   "dispute_long": "In the contested election after the death of Pope Conon in 687, the archdeacon Paschal was the candidate of one faction and reportedly sought the support of the Byzantine exarch of Ravenna with a promise of gold. When the Romans settled on Sergius I instead, Paschal submitted only outwardly. He was later accused of continued plotting, deprived of his office and confined to a monastery.",
+   "classification_public": null,
+   "classification_note": "S9 list. Linked to Sergius I (84).",
+   "sources": [
+    "S9"
+   ]
+  },
+  {
+   "id": "constantine-ii",
+   "name": "Constantine II",
+   "display_name": "Constantine II",
+   "claim_start": "767",
+   "claim_end": "768",
+   "claim_label": "767–768",
+   "birthplace": {
+    "label": "Nepi",
+    "country": "Italy",
+    "precision": "region",
+    "lat": 42.2433,
+    "lon": 12.3458,
+    "radius_km": 15,
+    "note": "Wikipedia gives Nepi as birthplace; he was a brother of Toto, 'duke' of Nepi, so Nepi may reflect family seat rather than documented birth. Shown as an area."
+   },
+   "opposed_roster_n": [
+    94
+   ],
+   "relationship": "Seized the papacy after the death of Paul I; the dispute ended with the election of Stephen III.",
+   "dispute_short": "A layman from a powerful family of Nepi, Constantine was forced into the papacy by his brother's armed men in 767 and rushed through ordination. He was overthrown in 768 and blinded.",
+   "dispute_long": "When Paul I lay dying in 767, Toto, the self-styled duke of Nepi, brought armed men into Rome and had his brother Constantine, still a layman, acclaimed pope. He was made deacon, priest and bishop in a few days, against church law. A year later, Roman officials allied with the Lombards drove him out. After a brief interlude with the monk Philip, Stephen III was elected. Constantine was blinded by Stephen's partisans and confined to a monastery, and a Lateran synod in 769 condemned him and ruled that only clergy could be elected pope.",
+   "classification_public": null,
+   "classification_note": "CE S1: 767. Linked to Stephen III (94), the pope elected to end this dispute.",
+   "sources": [
+    "S1",
+    "S14",
+    "S9"
+   ]
+  },
+  {
+   "id": "philip",
+   "name": "Philip",
+   "display_name": "Philip",
+   "claim_start": "768",
+   "claim_end": "768",
+   "claim_label": "768",
+   "birthplace": {
+    "label": null,
+    "country": null,
+    "precision": "unknown",
+    "lat": null,
+    "lon": null,
+    "radius_km": null,
+    "note": "No birthplace source found. He was a monk of St Vitus' monastery."
+   },
+   "opposed_roster_n": [
+    94
+   ],
+   "relationship": "Briefly installed by a Lombard envoy in 768, just before the election of Stephen III.",
+   "dispute_short": "A monk of St Vitus in Rome, Philip was proclaimed pope by a Lombard faction on 31 July 768 after the fall of Constantine II. He was removed the same day and returned to his monastery.",
+   "dispute_long": "After Constantine II was overthrown in 768, a priest named Waldipert, acting for the Lombard king Desiderius, had the monk Philip proclaimed pope. Roman leaders refused to accept him, and he was sent back to his monastery the same day. Stephen III was then elected.",
+   "classification_public": null,
+   "classification_note": "CE S1: 'VIII century'. Linked to Stephen III (94).",
+   "sources": [
+    "S1",
+    "S9"
+   ]
+  },
+  {
+   "id": "john-844",
+   "name": "John",
+   "display_name": "John",
+   "claim_start": "844",
+   "claim_end": "844",
+   "claim_label": "844",
+   "birthplace": {
+    "label": null,
+    "country": null,
+    "precision": "unknown",
+    "lat": null,
+    "lon": null,
+    "radius_km": null,
+    "note": "No birthplace source found. He was a Roman deacon."
+   },
+   "opposed_roster_n": [
+    102
+   ],
+   "relationship": "Acclaimed by a popular faction against Sergius II in January 844.",
+   "dispute_short": "A deacon proclaimed pope by the Roman crowd when Gregory IV died in 844. The nobility installed Sergius II instead, and John was spared at Sergius' request.",
+   "dispute_long": "On the death of Gregory IV in January 844, the Roman populace proclaimed a deacon named John and took the Lateran. The nobles chose the archpriest Sergius and quickly drove John out. Sergius II reportedly saved him from those who wanted him killed, and he was confined to a monastery.",
+   "classification_public": null,
+   "classification_note": "Not in CE S1 list; in S9.",
+   "sources": [
+    "S9"
+   ]
+  },
+  {
+   "id": "anastasius-bibliothecarius",
+   "name": "Anastasius",
+   "display_name": "Anastasius the Librarian",
+   "claim_start": "855",
+   "claim_end": "855",
+   "claim_label": "855",
+   "birthplace": {
+    "label": null,
+    "country": null,
+    "precision": "unknown",
+    "lat": null,
+    "lon": null,
+    "radius_km": null,
+    "note": "No birthplace source found. Roman cleric, nephew of Bishop Arsenius of Orte; birthplace not documented in sources consulted."
+   },
+   "opposed_roster_n": [
+    104
+   ],
+   "relationship": "Rival to Benedict III, installed with backing from imperial envoys in 855.",
+   "dispute_short": "A learned cardinal priest who had been deposed by Leo IV, Anastasius seized the Lateran with imperial support in 855. Within weeks Benedict III was restored, and Anastasius later became a respected papal librarian.",
+   "dispute_long": "Anastasius was one of the most educated men of ninth-century Rome, fluent in Greek. Deposed and excommunicated by Leo IV for abandoning his parish, he was backed by envoys of Emperor Louis II after Leo's death and briefly occupied the Lateran, imprisoning the newly elected Benedict III. The Roman clergy and people held firm for Benedict, and the envoys gave way. Anastasius was treated leniently and later served Nicholas I, Adrian II and John VIII as librarian of the Roman church, translating Greek works and taking part in diplomacy with Constantinople.",
+   "classification_public": null,
+   "classification_note": "CE S1: 'Anastasius, 855'.",
+   "sources": [
+    "S1",
+    "S9"
+   ]
+  },
+  {
+   "id": "christopher",
+   "name": "Christopher",
+   "display_name": "Christopher",
+   "claim_start": "903",
+   "claim_end": "904",
+   "claim_label": "903–904",
+   "birthplace": {
+    "label": "Rome",
+    "country": "Italy",
+    "precision": "region",
+    "lat": 41.9028,
+    "lon": 12.4964,
+    "radius_km": 25,
+    "note": "Believed to have been a Roman (son of a Leo) per Wikipedia citing Liber Pontificalis; not verified directly. Area marker only."
+   },
+   "opposed_roster_n": [
+    118,
+    119
+   ],
+   "relationship": "Took the see from Leo V and was in turn removed by Sergius III.",
+   "dispute_short": "Cardinal priest of St Damasus, Christopher took power after Leo V was imprisoned in 903 and was himself deposed by Sergius III in early 904. He was long counted as a true pope.",
+   "dispute_long": "Christopher became pope in the autumn of 903, after Leo V was overthrown and imprisoned; how he came to power is unclear, but it seems to have been irregular. A few months later Sergius III entered Rome with armed support and removed him. Both Leo and Christopher probably died in prison. For centuries Christopher appeared in most catalogues as a legitimate pope, and Leo IX even confirmed his grants, but in the twentieth century the Vatican's list moved him to the antipopes.",
+   "classification_public": "He was counted as a legitimate pope in most lists until the twentieth century; the current Vatican list treats him as an antipope.",
+   "classification_note": "Not on the Vatican roster used here (Leo V row 118, Sergius III row 119). Not in CE S1 list (CE 1907 still treated him as pope). Linked to both popes he stood between.",
+   "sources": [
+    "S15",
+    "S9"
+   ]
+  },
+  {
+   "id": "boniface-vii",
+   "name": "Boniface VII",
+   "display_name": "Boniface VII",
+   "claim_start": "974",
+   "claim_end": "985",
+   "claim_label": "974; 984–985",
+   "birthplace": {
+    "label": "Rome",
+    "country": "Italy",
+    "precision": "region",
+    "lat": 41.9028,
+    "lon": 12.4964,
+    "radius_km": 25,
+    "note": "Franco, son of Ferrucius; described as Roman. Wikipedia only says 'born in Italy'. Area marker only; birthplace not documented."
+   },
+   "opposed_roster_n": [
+    134,
+    135,
+    136
+   ],
+   "relationship": "Rival to Benedict VI and Benedict VII in 974, and to John XIV in 984–985.",
+   "dispute_short": "A Roman deacon who twice seized the papacy with the backing of the Crescentii family. Both Benedict VI and John XIV died in prison during his coups.",
+   "dispute_long": "In 974 the deacon Franco, son of Ferrucius, took the name Boniface VII while Benedict VI was held in Castel Sant'Angelo; Benedict was strangled there. An imperial envoy forced Boniface out within weeks, and he fled to Byzantine territory with treasure from St Peter's, while Benedict VII was elected. After Emperor Otto II died, Boniface returned in 984, imprisoned John XIV, who died in Castel Sant'Angelo, and ruled until his own sudden death in July 985. His body was dragged through the streets. Because he was long counted in the papal sequence, the next pope of that name took the number Boniface VIII.",
+   "classification_public": "He was long counted in the papal sequence, so the next pope of that name became Boniface VIII; he is now listed as an antipope.",
+   "classification_note": "CE S1: 974. Linked to 134 (Benedict VI), 135 (Benedict VII) and 136 (John XIV).",
+   "sources": [
+    "S1",
+    "S16",
+    "S9"
+   ]
+  },
+  {
+   "id": "john-xvi",
+   "name": "John XVI",
+   "display_name": "John XVI",
+   "claim_start": "997",
+   "claim_end": "998",
+   "claim_label": "997–998",
+   "birthplace": {
+    "label": "Rossano",
+    "country": "Italy",
+    "precision": "exact",
+    "lat": 39.5755,
+    "lon": 16.6345,
+    "radius_km": null,
+    "note": "Johannes Philagathus, a Greek from Rossano, Calabria (Britannica; Wikipedia)."
+   },
+   "opposed_roster_n": [
+    138
+   ],
+   "relationship": "Rival to Gregory V, set up in Rome by Crescentius II.",
+   "dispute_short": "John Philagathus, a Greek from Calabria and former tutor of Otto III, was made pope by the Roman noble Crescentius II after Gregory V was driven out. Otto's army captured and mutilated him in 998.",
+   "dispute_long": "John Philagathus was a Greek churchman from Rossano in Calabria who rose at the German imperial court, serving as tutor to the young Otto III and as archbishop of Piacenza. When Otto's cousin Gregory V was forced out of Rome, the Roman leader Crescentius II made Philagathus pope in 997, hoping to align Rome with Byzantium. Otto returned in 998: Crescentius was executed, and John was blinded and mutilated, then imprisoned or confined to a monastery. His fellow Calabrian, the monk Nilus of Rossano, pleaded for him. Because he was long counted in the sequence, the next John took the number XVII.",
+   "classification_public": "He was long counted in the sequence, which affects the numbering of later popes named John; he is now listed as an antipope.",
+   "classification_note": "CE S1: 'John XVI, X century'. Birth: Rossano per S8.",
+   "sources": [
+    "S8",
+    "S1",
+    "S9"
+   ]
+  },
+  {
+   "id": "gregory-1012",
+   "name": "Gregory",
+   "display_name": "Gregory",
+   "claim_start": "1012",
+   "claim_end": "1012",
+   "claim_label": "1012",
+   "birthplace": {
+    "label": null,
+    "country": null,
+    "precision": "unknown",
+    "lat": null,
+    "lon": null,
+    "radius_km": null,
+    "note": "No birthplace source found."
+   },
+   "opposed_roster_n": [
+    143
+   ],
+   "relationship": "Rival to Benedict VIII, backed by the Crescentii.",
+   "dispute_short": "Elected by the Crescentian party in 1012, Gregory was driven out of Rome by the Tusculan-backed Benedict VIII. He appealed in vain to King Henry II of Germany.",
+   "dispute_long": "In 1012, on the death of Sergius IV, the Crescentii family put forward a candidate named Gregory, while the rival Counts of Tusculum installed one of their own as Benedict VIII. Benedict quickly gained control of Rome. Gregory travelled to Germany to seek the support of King Henry II, who instead backed Benedict and later received the imperial crown from him.",
+   "classification_public": null,
+   "classification_note": "CE S1: 'Gregory, 1012'.",
+   "sources": [
+    "S1",
+    "S9"
+   ]
+  },
+  {
+   "id": "benedict-x",
+   "name": "Benedict X",
+   "display_name": "Benedict X",
+   "claim_start": "1058",
+   "claim_end": "1059",
+   "claim_label": "1058–1059",
+   "birthplace": {
+    "label": "Latium (Tusculan family)",
+    "country": "Italy",
+    "precision": "region",
+    "lat": 41.85,
+    "lon": 12.75,
+    "radius_km": 30,
+    "note": "John Mincius, bishop of Velletri, son of Guido lord of Poli, of the Tusculan family. No birthplace documented; area covers the family's lands near Rome."
+   },
+   "opposed_roster_n": [
+    155
+   ],
+   "relationship": "Rival to Nicholas II, installed by the Roman nobility after the death of Stephen IX.",
+   "dispute_short": "John Mincius, bishop of Velletri and a member of the Tusculan family, was installed by the Roman nobles in 1058. The reform cardinals elected Nicholas II, who deposed him in 1059.",
+   "dispute_long": "When Stephen IX died in March 1058, the Tusculan nobles seized Rome by night and had their kinsman John, bishop of Velletri, enthroned as Benedict X, reportedly against his will. The reform-minded cardinals, led by Hildebrand (later Gregory VII), had fled and elected Gerard of Burgundy as Nicholas II at Siena. Backed by Duke Godfrey of Lorraine and later the Normans, Nicholas took Rome. Benedict renounced his claim, was deposed and stripped of orders in 1060, and lived out his life in confinement. Since he was long counted, a later pope took the number Benedict XI.",
+   "classification_public": "He was long counted in the sequence, so a later pope became Benedict XI; he is now listed as an antipope.",
+   "classification_note": "CE S1: 1058. Wikipedia S17 says son of Guido of Poli; bishop of Velletri per standard histories; the S17 fetch summary said bishop of Tusculum, so verify. Linked to Nicholas II (155).",
+   "sources": [
+    "S1",
+    "S17",
+    "S9"
+   ]
+  },
+  {
+   "id": "honorius-ii-cadalus",
+   "name": "Honorius II",
+   "display_name": "Honorius II (Cadalus)",
+   "claim_start": "1061",
+   "claim_end": "1064",
+   "claim_label": "1061–1064",
+   "birthplace": {
+    "label": "Verona area",
+    "country": "Italy",
+    "precision": "region",
+    "lat": 45.4384,
+    "lon": 10.9916,
+    "radius_km": 30,
+    "note": "CE: born in the territory of Verona to noble parents. Exact town not documented."
+   },
+   "opposed_roster_n": [
+    156
+   ],
+   "relationship": "Rival to Alexander II, chosen at Basel with the support of the German court.",
+   "dispute_short": "Cadalus, bishop of Parma, was chosen at Basel in 1061 by an assembly called by Empress Agnes, against the reform pope Alexander II. Condemned at Mantua in 1064, he kept his claim until his death in 1072.",
+   "dispute_long": "The election of Alexander II in 1061 was made by the reform cardinals without the German court. In response, the regent Empress Agnes summoned bishops and nobles to Basel, who chose Cadalus, bishop of Parma, as Honorius II. Cadalus, from a noble family of the Verona region, briefly took St Peter's in 1062 but could not hold Rome. As the German court changed its policy, support for him faded; he was excommunicated in 1063 and condemned by the Council of Mantua in 1064. He retired to Parma and maintained his claim until he died there in 1072.",
+   "classification_public": null,
+   "classification_note": "CE S4. CE S1 dates 1061-72; claim_end 1064 chosen as effective end (Mantua) per Wikipedia/Annuario-based list; claim persisted to 1072.",
+   "sources": [
+    "S4",
+    "S1",
+    "S9"
+   ]
+  },
+  {
+   "id": "clement-iii-guibert",
+   "name": "Clement III",
+   "display_name": "Clement III (Guibert of Ravenna)",
+   "claim_start": "1080",
+   "claim_end": "1100",
+   "claim_label": "1080–1100",
+   "birthplace": {
+    "label": "Parma",
+    "country": "Italy",
+    "precision": "exact",
+    "lat": 44.8015,
+    "lon": 10.3279,
+    "radius_km": null,
+    "note": "CE: born at Parma c. 1025 of a noble family related to the Canossa margraves."
+   },
+   "opposed_roster_n": [
+    157,
+    158,
+    159,
+    160
+   ],
+   "relationship": "Rival to Gregory VII, Victor III, Urban II and Paschal II, backed by Emperor Henry IV.",
+   "dispute_short": "Archbishop Guibert of Ravenna was set up by Henry IV in 1080 during the investiture struggle. He crowned Henry emperor in 1084 and held Rome at times for twenty years, opposing four popes.",
+   "dispute_long": "Guibert of Ravenna was the central figure of the imperial party during the investiture controversy, the struggle between Gregory VII and Henry IV over who controlled church appointments. After Gregory excommunicated Henry a second time, a synod at Brixen in 1080 chose Guibert as pope. In 1084 Henry captured Rome, Guibert was enthroned as Clement III, and he crowned Henry emperor. Gregory died in exile in Salerno. Guibert continued to oppose Victor III, Urban II and Paschal II, often holding parts of Rome, but his support gradually shrank. He died at Civita Castellana in September 1100, and his followers elected a series of short-lived successors.",
+   "classification_public": null,
+   "classification_note": "CE S5. Opposed list per CE includes Alexander II (pre-1080 opposition as archbishop); claim-period popes are 157-160.",
+   "sources": [
+    "S5",
+    "S1",
+    "S9"
+   ]
+  },
+  {
+   "id": "theodoric",
+   "name": "Theodoric",
+   "display_name": "Theodoric",
+   "claim_start": "1100",
+   "claim_end": "1101",
+   "claim_label": "1100–1101",
+   "birthplace": {
+    "label": null,
+    "country": null,
+    "precision": "unknown",
+    "lat": null,
+    "lon": null,
+    "radius_km": null,
+    "note": "No birthplace source found. Cardinal bishop of Santa Rufina; Wikipedia table's 'Rome' is unsourced."
+   },
+   "opposed_roster_n": [
+    160
+   ],
+   "relationship": "Successor of Clement III's party against Paschal II.",
+   "dispute_short": "Elected by the followers of Clement III after his death in 1100, Theodoric was captured by Paschal II's supporters within months and confined to the monastery of La Cava.",
+   "dispute_long": "After the death of Guibert (Clement III) in September 1100, his supporters in Rome chose Theodoric, cardinal bishop of Santa Rufina, as his successor. He found little support, and early in 1101 he was taken by partisans of Paschal II and sent to the abbey of La Cava near Salerno, where he lived out his life as a monk.",
+   "classification_public": null,
+   "classification_note": "CE S1: 1100.",
+   "sources": [
+    "S1",
+    "S18",
+    "S9"
+   ]
+  },
+  {
+   "id": "adalbert",
+   "name": "Adalbert",
+   "display_name": "Adalbert (Albert)",
+   "claim_start": "1101",
+   "claim_end": "1101",
+   "claim_label": "1101",
+   "birthplace": {
+    "label": "Campania (Atella?)",
+    "country": "Italy",
+    "precision": "region",
+    "lat": 40.9578,
+    "lon": 14.2522,
+    "radius_km": 40,
+    "note": "Wikipedia says he came from the town of Atella in southern Italy; table says Atella, Campania. Not confirmed in a primary or ecclesiastical source here; shown as an area."
+   },
+   "opposed_roster_n": [
+    160
+   ],
+   "relationship": "Successor of Theodoric in the imperial party against Paschal II.",
+   "dispute_short": "Bishop of Silva Candida, Adalbert was chosen by the Guibertine party in 1101. Within about three months he was betrayed to Paschal II, paraded in disgrace and confined to a monastery at Aversa.",
+   "dispute_long": "Within days of Theodoric's capture in early 1101, the remaining followers of Clement III elected Adalbert, cardinal bishop of Silva Candida. His protector was bribed by Paschal II's supporters, and after about 105 days he was handed over, stripped of his insignia, led through Rome in humiliation and sent to the monastery of San Lorenzo at Aversa. Older works often date his claim to 1102.",
+   "classification_public": null,
+   "classification_note": "CE S1 lists 'Aleric, 1102' — same person; Wikipedia S18 corrects the date to 1101.",
+   "sources": [
+    "S18",
+    "S1",
+    "S9"
+   ]
+  },
+  {
+   "id": "sylvester-iv",
+   "name": "Sylvester IV",
+   "display_name": "Sylvester IV (Maginulf)",
+   "claim_start": "1105",
+   "claim_end": "1111",
+   "claim_label": "1105–1111",
+   "birthplace": {
+    "label": null,
+    "country": null,
+    "precision": "unknown",
+    "lat": null,
+    "lon": null,
+    "radius_km": null,
+    "note": "No birthplace source found. Maginulf was an archpriest in Rome; Wikipedia table's 'Rome' is unsourced."
+   },
+   "opposed_roster_n": [
+    160
+   ],
+   "relationship": "Rival to Paschal II, raised by Roman nobles of the imperial party.",
+   "dispute_short": "The archpriest Maginulf was proclaimed pope by anti-reform Roman nobles in 1105. He had little support, and in 1111 Emperor Henry V had him renounce his claim as part of a deal with Paschal II.",
+   "dispute_long": "In November 1105 a group of Roman nobles opposed to Paschal II set up the archpriest Maginulf as Sylvester IV. He was soon driven from Rome and lived under the protection of a local lord. Emperor Henry V kept him in reserve as a bargaining chip, and when Henry forced concessions from Paschal in 1111, Sylvester was made to renounce his claim and submit.",
+   "classification_public": null,
+   "classification_note": "CE S1: 'Maginulf, 1105'.",
+   "sources": [
+    "S1",
+    "S18",
+    "S9"
+   ]
+  },
+  {
+   "id": "gregory-viii-burdinus",
+   "name": "Gregory VIII",
+   "display_name": "Gregory VIII (Burdinus)",
+   "claim_start": "1118",
+   "claim_end": "1121",
+   "claim_label": "1118–1121",
+   "birthplace": {
+    "label": "Limousin",
+    "country": "France",
+    "precision": "region",
+    "lat": 45.8336,
+    "lon": 1.2611,
+    "radius_km": 60,
+    "note": "CE: probably born in Limoges; educated at Cluny. Shown as the Limousin area because CE says 'probably'."
+   },
+   "opposed_roster_n": [
+    161,
+    162
+   ],
+   "relationship": "Rival to Gelasius II and Callixtus II, set up by Emperor Henry V.",
+   "dispute_short": "Maurice Burdinus, archbishop of Braga, was installed in Rome by Henry V in 1118 against Gelasius II. Callixtus II captured him at Sutri in 1121, and he spent the rest of his life in monastic prisons.",
+   "dispute_long": "Maurice Burdinus was a Frenchman, probably from Limoges, educated at Cluny, who made a career in Spain and became archbishop of Braga in Portugal. Suspended after a quarrel with the primate of Toledo, he joined the court of Emperor Henry V. In March 1118 Henry declared the election of Gelasius II invalid and had Burdinus enthroned in Rome as Gregory VIII. He had little support outside the emperor's party. When Callixtus II came to Rome, Burdinus fled to Sutri, where he was taken in 1121 and paraded in mockery. He was held in several monasteries until he died around 1137.",
+   "classification_public": null,
+   "classification_note": "CE S6 for origin and imprisonment; the capture at Sutri in 1121 is from general histories (S9), not stated in S6.",
+   "sources": [
+    "S6",
+    "S1",
+    "S9"
+   ]
+  },
+  {
+   "id": "celestine-ii-1124",
+   "name": "Celestine II",
+   "display_name": "Celestine II (Teobaldo)",
+   "claim_start": "1124",
+   "claim_end": "1124",
+   "claim_label": "1124",
+   "birthplace": {
+    "label": null,
+    "country": null,
+    "precision": "unknown",
+    "lat": null,
+    "lon": null,
+    "radius_km": null,
+    "note": "No birthplace source found. Cardinal Teobaldo Boccapecora (Buccapecus); family name suggests Roman origin but not documented."
+   },
+   "opposed_roster_n": [
+    163
+   ],
+   "relationship": "Chosen by part of the cardinals in December 1124, but set aside for Honorius II.",
+   "dispute_short": "Cardinal Teobaldo was elected in December 1124, but before his consecration the Frangipani family forced through the election of Honorius II. Teobaldo resigned, and his status is debated.",
+   "dispute_long": "When Callixtus II died in December 1124, the cardinals chose Teobaldo, cardinal priest of Sant'Anastasia, who took the name Celestine II. During the ceremony, armed men of the powerful Frangipani family burst in and acclaimed Cardinal Lamberto of Ostia, who became Honorius II. Teobaldo, wounded or intimidated, resigned before being consecrated. Because he was properly elected, some historians argue that he should count as a pope; the Vatican list counts him among the antipopes, and the name Celestine II was used again in 1143.",
+   "classification_public": "Some historians argue that he was the validly elected pope; the official list names him an antipope.",
+   "classification_note": "Not in CE S1 list. S9 table.",
+   "sources": [
+    "S9"
+   ]
+  },
+  {
+   "id": "anacletus-ii",
+   "name": "Anacletus II",
+   "display_name": "Anacletus II (Pietro Pierleoni)",
+   "claim_start": "1130",
+   "claim_end": "1138",
+   "claim_label": "1130–1138",
+   "birthplace": {
+    "label": "Rome",
+    "country": "Italy",
+    "precision": "region",
+    "lat": 41.9028,
+    "lon": 12.4964,
+    "radius_km": 20,
+    "note": "CE: member of the Roman Pierleoni family; birthplace not stated. Rome assumed only at area level."
+   },
+   "opposed_roster_n": [
+    164
+   ],
+   "relationship": "Rival to Innocent II, elected on the same day in February 1130.",
+   "dispute_short": "Cardinal Pietro Pierleoni, of a powerful Roman family, was elected by a majority of cardinals in 1130 hours after a minority chose Innocent II. He held Rome for eight years, but Bernard of Clairvaux won most of Europe for Innocent.",
+   "dispute_long": "Honorius II died during the night of 13 February 1130. A small group of cardinals hurriedly elected Gregorio Papareschi as Innocent II; later that day the majority elected Pietro Pierleoni, a Cluniac monk and experienced legate from a wealthy Roman family, as Anacletus II. Anacletus held Rome, and Innocent fled to France. Bernard of Clairvaux campaigned tirelessly for Innocent, and the kings of France, England and Germany followed him, while Anacletus relied on Roger of Sicily, whom he crowned king. Anacletus died in January 1138, and the schism collapsed soon after.",
+   "classification_public": "Because a majority of cardinals chose him, some historians consider his election at least as regular as Innocent II's; the Church recognises Innocent.",
+   "classification_note": "CE S7. His majority electoral support is standard in modern scholarship (S9).",
+   "sources": [
+    "S7",
+    "S1",
+    "S9"
+   ]
+  },
+  {
+   "id": "victor-iv-1138",
+   "name": "Victor IV",
+   "display_name": "Victor IV (Gregorio Conti)",
+   "claim_start": "1138",
+   "claim_end": "1138",
+   "claim_label": "1138",
+   "birthplace": {
+    "label": "Ceccano (possibly)",
+    "country": "Italy",
+    "precision": "region",
+    "lat": 41.5683,
+    "lon": 13.3339,
+    "radius_km": 20,
+    "note": "Wikipedia: 'possibly' Ceccano, from Hüls 1977 citing Ciaconius (16th c.). Weak; shown as area only."
+   },
+   "opposed_roster_n": [
+    164
+   ],
+   "relationship": "Successor of Anacletus II against Innocent II.",
+   "dispute_short": "Cardinal Gregorio was chosen by Anacletus II's followers in March 1138. Within about two months, persuaded by Bernard of Clairvaux, he submitted to Innocent II.",
+   "dispute_long": "After Anacletus II died in January 1138, his supporters elected Cardinal Gregorio, who took the name Victor IV. His position was hopeless: Roger of Sicily gave little help, and the Pierleoni family made terms with Innocent II. Bernard of Clairvaux met him and persuaded him to give up, and on 29 May 1138 he laid his insignia at Innocent's feet, ending the schism.",
+   "classification_public": null,
+   "classification_note": "Not in CE S1 list. S19.",
+   "sources": [
+    "S19",
+    "S7",
+    "S9"
+   ]
+  },
+  {
+   "id": "victor-iv-1159",
+   "name": "Victor IV",
+   "display_name": "Victor IV (Octavian of Monticelli)",
+   "claim_start": "1159",
+   "claim_end": "1164",
+   "claim_label": "1159–1164",
+   "birthplace": {
+    "label": "Montecelio area",
+    "country": "Italy",
+    "precision": "region",
+    "lat": 42.0137,
+    "lon": 12.7383,
+    "radius_km": 15,
+    "note": "Wikipedia infobox gives Montecelio without citation; the family were lords of Monticelli near Tivoli. Shown as an area."
+   },
+   "opposed_roster_n": [
+    170
+   ],
+   "relationship": "Rival to Alexander III, backed by Emperor Frederick Barbarossa.",
+   "dispute_short": "Cardinal Octavian, of a noble family near Tivoli, was elected by a small minority against Alexander III in 1159. Supported by Barbarossa, he held out until his death at Lucca in 1164.",
+   "dispute_long": "After Adrian IV died in 1159, most cardinals elected Rolando Bandinelli as Alexander III. A pro-imperial minority chose Cardinal Octavian, who claimed the papal mantle in a scuffle in St Peter's and was consecrated at Farfa. Emperor Frederick Barbarossa, at odds with the papacy over imperial rights in Italy, recognised him at the Council of Pavia in 1160, but England and France backed Alexander. Victor died at Lucca in April 1164, where he was refused burial in the cathedral; the imperial party elected Paschal III to continue the schism.",
+   "classification_public": null,
+   "classification_note": "CE S1: 'Victor IV, 1159-64'.",
+   "sources": [
+    "S1",
+    "S20",
+    "S9"
+   ]
+  },
+  {
+   "id": "paschal-iii",
+   "name": "Paschal III",
+   "display_name": "Paschal III (Guido of Crema)",
+   "claim_start": "1164",
+   "claim_end": "1168",
+   "claim_label": "1164–1168",
+   "birthplace": {
+    "label": "Crema",
+    "country": "Italy",
+    "precision": "exact",
+    "lat": 45.364,
+    "lon": 9.6865,
+    "radius_km": null,
+    "note": "Guido of Crema; Wikipedia says born in Crema c. 1110 (name 'of Crema' supports it). Moderate confidence."
+   },
+   "opposed_roster_n": [
+    170
+   ],
+   "relationship": "Rival to Alexander III, successor of Victor IV in the imperial party.",
+   "dispute_short": "Cardinal Guido of Crema was elected at Lucca in 1164 to continue the imperial schism against Alexander III. He canonised Charlemagne for Barbarossa in 1165 and died in Rome in 1168.",
+   "dispute_long": "After the death of Victor IV, a handful of imperial supporters met at Lucca and elected Guido of Crema as Paschal III. At Frederick Barbarossa's request he declared Charlemagne a saint at Aachen in 1165, an act never accepted by the Church. Barbarossa's army brought him to Rome in 1167, but plague destroyed the imperial army, and Paschal was left holding only a small part of the city. He died there in September 1168.",
+   "classification_public": null,
+   "classification_note": "CE S1. Birth per S21.",
+   "sources": [
+    "S1",
+    "S21",
+    "S9"
+   ]
+  },
+  {
+   "id": "callixtus-iii-antipope",
+   "name": "Callixtus III",
+   "display_name": "Callixtus III (John of Struma)",
+   "claim_start": "1168",
+   "claim_end": "1178",
+   "claim_label": "1168–1178",
+   "birthplace": {
+    "label": null,
+    "country": null,
+    "precision": "unknown",
+    "lat": null,
+    "lon": null,
+    "radius_km": null,
+    "note": "Birthplace not documented. Wikipedia table's 'Arezzo' and claims of Hungarian origin are unsupported; he entered the Vallombrosan monastery of Struma near Arezzo as a boy."
+   },
+   "opposed_roster_n": [
+    170
+   ],
+   "relationship": "Rival to Alexander III, the third imperial antipope of the schism.",
+   "dispute_short": "John, abbot of the Vallombrosan monastery of Struma, was elected in 1168 to continue the schism. After Barbarossa made peace with Alexander III at Venice, he submitted in 1178 and was treated kindly.",
+   "dispute_long": "John of Struma had been a close adviser of Frederick Barbarossa's antipopes. Elected in 1168 as Callixtus III, he lived mostly at Viterbo and was recognised mainly in parts of Tuscany and Germany. Barbarossa's defeat by the Lombard League at Legnano in 1176 led to the Peace of Venice in 1177, in which the emperor recognised Alexander III. Callixtus submitted at Tusculum in August 1178, renounced the schism, and Alexander made him rector of Benevento.",
+   "classification_public": null,
+   "classification_note": "CE S1.",
+   "sources": [
+    "S1",
+    "S22",
+    "S9"
+   ]
+  },
+  {
+   "id": "innocent-iii-antipope",
+   "name": "Innocent III",
+   "display_name": "Innocent III (Lando of Sezze)",
+   "claim_start": "1179",
+   "claim_end": "1180",
+   "claim_label": "1179–1180",
+   "birthplace": {
+    "label": "Sezze",
+    "country": "Italy",
+    "precision": "exact",
+    "lat": 41.4996,
+    "lon": 13.0602,
+    "radius_km": null,
+    "note": "Lando of Sezze; Wikipedia says born in Sezze. Moderate confidence (toponymic name)."
+   },
+   "opposed_roster_n": [
+    170
+   ],
+   "relationship": "Rival to Alexander III, raised by a small Roman faction after the schism had ended.",
+   "dispute_short": "Lando of Sezze was set up by a few Roman nobles in 1179, after the main schism had ended. Alexander III soon had him captured and confined to the abbey of La Cava.",
+   "dispute_long": "Even after Callixtus III's submission, some Roman barons opposed Alexander III. In September 1179 they elected Lando of Sezze, a cardinal created by the earlier antipopes, as Innocent III. With no imperial support, he was quickly handed over to Alexander early in 1180 and confined in the abbey of La Cava near Salerno, where he died.",
+   "classification_public": null,
+   "classification_note": "CE S1 dates 1178-80; S23 1179-1180.",
+   "sources": [
+    "S1",
+    "S23",
+    "S9"
+   ]
+  },
+  {
+   "id": "nicholas-v-antipope",
+   "name": "Nicholas V",
+   "display_name": "Nicholas V (Pietro Rainalducci)",
+   "claim_start": "1328",
+   "claim_end": "1330",
+   "claim_label": "1328–1330",
+   "birthplace": {
+    "label": "Corvaro",
+    "country": "Italy",
+    "precision": "exact",
+    "lat": 42.188,
+    "lon": 13.248,
+    "radius_km": null,
+    "note": "Pietro Rainalducci, born c. 1258 at Corvaro near Rieti (Wikipedia; Treccani entry not fetched)."
+   },
+   "opposed_roster_n": [
+    196
+   ],
+   "relationship": "Rival to John XXII, set up in Rome by Emperor Louis IV the Bavarian.",
+   "dispute_short": "A Franciscan friar from Corvaro, Pietro Rainalducci was made pope in Rome by Louis the Bavarian in 1328 while John XXII reigned at Avignon. He submitted to John in 1330.",
+   "dispute_long": "Louis IV of Bavaria, excommunicated by John XXII in their quarrel over the empire, came to Rome in 1328, had John declared deposed, and had the Franciscan Pietro Rainalducci elected by the clergy and people as Nicholas V. Nicholas crowned Louis emperor and created his own cardinals, but when Louis left Italy his support vanished. In 1330 Nicholas went to Avignon with a rope around his neck to ask pardon, and John XXII absolved him. He lived in honourable custody in the papal palace until his death in 1333.",
+   "classification_public": null,
+   "classification_note": "CE S1.",
+   "sources": [
+    "S1",
+    "S24",
+    "S9"
+   ]
+  },
+  {
+   "id": "clement-vii-avignon",
+   "name": "Clement VII",
+   "display_name": "Clement VII (Robert of Geneva)",
+   "claim_start": "1378",
+   "claim_end": "1394",
+   "claim_label": "1378–1394",
+   "birthplace": {
+    "label": "Annecy",
+    "country": "France",
+    "precision": "exact",
+    "lat": 45.8992,
+    "lon": 6.1294,
+    "radius_km": null,
+    "note": "Born 1342 at the castle of Annecy, then County of Geneva/Savoy (Wikipedia). Modern France."
+   },
+   "opposed_roster_n": [
+    202,
+    203
+   ],
+   "relationship": "Rival to Urban VI and Boniface IX, the first pope of the Avignon line in the Great Western Schism.",
+   "dispute_short": "Cardinal Robert of Geneva was elected at Fondi in 1378 by cardinals who rejected Urban VI. Ruling from Avignon, he began the Great Western Schism, which divided Europe for nearly forty years.",
+   "dispute_long": "Months after electing Urban VI in Rome in April 1378, most of the cardinals declared the election invalid, saying they had acted under pressure from the Roman crowd, and alienated by Urban's harshness. At Fondi on 20 September they elected Robert of Geneva, a cousin of the French king, as Clement VII. Unable to take Rome, he settled at Avignon. Europe divided: France, Naples, Scotland and the Spanish kingdoms largely followed Clement, while much of Italy, England and the empire followed Urban. The Great Western Schism lasted until the Council of Constance. Clement died at Avignon in 1394.",
+   "classification_public": "He was elected by the same cardinals who had chosen Urban VI, and contemporaries were genuinely divided; the Church now counts the Roman line as legitimate.",
+   "classification_note": "CE S1: 20 Sep 1378 to 16 Sep 1394. Opposed Urban VI (202) and Boniface IX (203, from 1389).",
+   "sources": [
+    "S1",
+    "S25",
+    "S3",
+    "S9"
+   ]
+  },
+  {
+   "id": "benedict-xiii-avignon",
+   "name": "Benedict XIII",
+   "display_name": "Benedict XIII (Pedro de Luna)",
+   "claim_start": "1394",
+   "claim_end": "1423",
+   "claim_label": "1394–1423",
+   "birthplace": {
+    "label": "Illueca",
+    "country": "Spain",
+    "precision": "exact",
+    "lat": 41.5383,
+    "lon": -1.6283,
+    "radius_km": null,
+    "note": "Pedro Martínez de Luna, born at Illueca, Aragon (Wikipedia). Birth year given variously as 1328 or 1342."
+   },
+   "opposed_roster_n": [
+    203,
+    204,
+    205,
+    206
+   ],
+   "relationship": "Rival to Boniface IX, Innocent VII, Gregory XII and Martin V, the second Avignon claimant.",
+   "dispute_short": "Pedro de Luna, an Aragonese cardinal and canon lawyer, succeeded Clement VII at Avignon in 1394. Deposed by the Council of Constance in 1417, he never yielded and died in his castle at Peñíscola in 1423.",
+   "dispute_long": "Pedro de Luna was elected at Avignon after Clement VII's death, having promised to work for unity, even by resigning. Once elected he refused every proposal to step down. France withdrew its obedience for a time, and he was besieged in the papal palace at Avignon before escaping in 1403. The Council of Pisa declared him deposed in 1409, and the Council of Constance did so again in 1417 before electing Martin V. Abandoned by nearly everyone except a few loyalists, he retreated to the fortress of Peñíscola on the coast of Valencia, where he kept his claim until his death in 1423.",
+   "classification_public": null,
+   "classification_note": "Not in CE S1 list (CE treats Avignon line under schism article). Vatican S3 calls him antipope.",
+   "sources": [
+    "S3",
+    "S26",
+    "S9"
+   ]
+  },
+  {
+   "id": "alexander-v",
+   "name": "Alexander V",
+   "display_name": "Alexander V (Peter Philarges)",
+   "claim_start": "1409",
+   "claim_end": "1410",
+   "claim_label": "1409–1410",
+   "birthplace": {
+    "label": "Crete (probably near Neapoli)",
+    "country": "Greece",
+    "precision": "region",
+    "lat": 35.2569,
+    "lon": 25.6064,
+    "radius_km": 80,
+    "note": "Peter Philarges, born c. 1339 on Crete (Venetian Candia); Wikipedia says near modern Neapoli. Shown as an area."
+   },
+   "opposed_roster_n": [
+    205
+   ],
+   "relationship": "Elected by the Council of Pisa as a third claimant, against Gregory XII and Benedict XIII.",
+   "dispute_short": "A Franciscan theologian from Crete and archbishop of Milan, Peter Philarges was elected by the Council of Pisa in 1409 to end the schism. Instead there were three claimants. He died in Bologna in 1410.",
+   "dispute_long": "By 1409 cardinals of both obediences had despaired of the rival popes. They called a council at Pisa, which declared Gregory XII and Benedict XIII deposed and elected Peter Philarges, a learned Franciscan born on Venetian Crete who had become archbishop of Milan. He took the name Alexander V. Neither of the other claimants gave way, so the Church now had three. Alexander died suddenly at Bologna in May 1410. For a long time the Pisan popes were widely counted, and when Rodrigo Borgia was elected in 1492 he took the number Alexander VI, which keeps Alexander V in the numbering.",
+   "classification_public": "Long counted as a legitimate pope, which is why Rodrigo Borgia became Alexander VI; the official list now names him an antipope.",
+   "classification_note": "Pisan line. Opposed Gregory XII (205), whose pontificate the Vatican counts to 1415. Before 1958 lists ended Gregory XII in 1409.",
+   "sources": [
+    "S27",
+    "S3",
+    "S9"
+   ]
+  },
+  {
+   "id": "john-xxiii-pisa",
+   "name": "John XXIII",
+   "display_name": "John XXIII (Baldassarre Cossa)",
+   "claim_start": "1410",
+   "claim_end": "1415",
+   "claim_label": "1410–1415",
+   "birthplace": {
+    "label": "Bay of Naples (probably Procida)",
+    "country": "Italy",
+    "precision": "region",
+    "lat": 40.7623,
+    "lon": 14.0225,
+    "radius_km": 25,
+    "note": "Baldassarre Cossa, of a Neapolitan family; Wikipedia says born on Procida. Other accounts mention Naples or Ischia. Shown as an area."
+   },
+   "opposed_roster_n": [
+    205
+   ],
+   "relationship": "Successor of Alexander V in the Pisan line, against Gregory XII and Benedict XIII.",
+   "dispute_short": "Cardinal Baldassarre Cossa, a forceful Neapolitan, succeeded Alexander V in 1410. He called the Council of Constance, fled it, and was deposed in 1415; Martin V later made him a cardinal.",
+   "dispute_long": "Baldassarre Cossa came from a Neapolitan noble family and made his name as papal legate in Bologna. Elected by the Pisan cardinals in 1410, he was pressed by King Sigismund of Germany to summon a general council, which opened at Constance in 1414. When the council insisted on the resignation of all claimants, he fled in disguise, was brought back, and was deposed on 29 May 1415. Gregory XII then resigned, and Benedict XIII was deposed. Cossa submitted to Martin V, who made him cardinal bishop of Frascati, and he died in Florence in 1419, where his tomb by Donatello and Michelozzo stands in the Baptistery. In 1958 Angelo Roncalli took the name John XXIII.",
+   "classification_public": "Long counted by many as a lawful pope; in 1958 Angelo Roncalli took the same name and number, confirming that Cossa is listed as an antipope.",
+   "classification_note": "Pisan line. Vatican S3 calls him antipope.",
+   "sources": [
+    "S3",
+    "S28",
+    "S9"
+   ]
+  },
+  {
+   "id": "clement-viii-1423",
+   "name": "Clement VIII",
+   "display_name": "Clement VIII (Gil Sánchez Muñoz)",
+   "claim_start": "1423",
+   "claim_end": "1429",
+   "claim_label": "1423–1429",
+   "birthplace": {
+    "label": "Teruel",
+    "country": "Spain",
+    "precision": "exact",
+    "lat": 40.3456,
+    "lon": -1.1065,
+    "radius_km": null,
+    "note": "Gil Sánchez Muñoz y Carbón, born at Teruel, Aragon, c. 1369–1370 (Wikipedia)."
+   },
+   "opposed_roster_n": [
+    206
+   ],
+   "relationship": "Rival to Martin V, chosen by Benedict XIII's last cardinals.",
+   "dispute_short": "Gil Sánchez Muñoz, a canon of Barcelona, was elected at Peñíscola in 1423 by three of Benedict XIII's last cardinals. He abdicated in 1429 under pressure from the king of Aragon and became bishop of Mallorca.",
+   "dispute_long": "After Benedict XIII died at Peñíscola, three of his four remaining cardinals elected Gil Sánchez Muñoz as Clement VIII in June 1423. He had the backing of King Alfonso V of Aragon, who used him as leverage in his dealings with Martin V. Once king and pope reached terms, Clement abdicated on 26 July 1429, his cardinals made a symbolic election of Martin V, and he submitted. Martin made him bishop of Mallorca, where he died in 1446.",
+   "classification_public": null,
+   "classification_note": "Not in CE S1 list. S29. Election place Peñíscola is from general histories.",
+   "sources": [
+    "S29",
+    "S9"
+   ]
+  },
+  {
+   "id": "benedict-xiv-antipope",
+   "name": "Benedict XIV",
+   "display_name": "Benedict XIV (Bernard Garnier; Jean Carrier)",
+   "claim_start": "1424",
+   "claim_end": "1437",
+   "claim_label": "1424–c. 1437",
+   "birthplace": {
+    "label": null,
+    "country": null,
+    "precision": "unknown",
+    "lat": null,
+    "lon": null,
+    "radius_km": null,
+    "note": "Two obscure claimants from the Rodez region (Rouergue, France); no birthplace documented for either."
+   },
+   "opposed_roster_n": [
+    206,
+    207
+   ],
+   "relationship": "Rival claimants to Martin V (and Eugene IV), the last remnant of the Avignon line.",
+   "dispute_short": "The name Benedict XIV was claimed by two obscure men from Rodez in southern France: the sacristan Bernard Garnier, chosen in 1424 by a single cardinal, and that cardinal himself, Jean Carrier.",
+   "dispute_long": "When Benedict XIII's last cardinals elected Clement VIII, one of them, Jean Carrier, refused to accept the choice. Acting alone, he elected Bernard Garnier, sacristan of Rodez cathedral, who took the name Benedict XIV and lived in hiding, earning the nickname 'the hidden pope'. After Garnier's death around 1430, Carrier is said to have regarded himself as Benedict XIV. He was captured and died in prison in the castle of Foix. These claims had almost no following.",
+   "classification_public": "Some lists name only Bernard Garnier; others count Jean Carrier as a second Benedict XIV.",
+   "classification_note": "Not in CE S1. Annuario-based list in S9 shows Garnier and Carrier. Combined into one entry here. opposed: Martin V (206) and Eugene IV (207, from 1431).",
+   "sources": [
+    "S30",
+    "S9"
+   ]
+  },
+  {
+   "id": "felix-v",
+   "name": "Felix V",
+   "display_name": "Felix V (Amadeus VIII of Savoy)",
+   "claim_start": "1439",
+   "claim_end": "1449",
+   "claim_label": "1439–1449",
+   "birthplace": {
+    "label": "Chambéry",
+    "country": "France",
+    "precision": "exact",
+    "lat": 45.5646,
+    "lon": 5.9178,
+    "radius_km": null,
+    "note": "Amadeus VIII, born at Chambéry, Savoy, 4 September 1383 (Wikipedia). Modern France."
+   },
+   "opposed_roster_n": [
+    207,
+    208
+   ],
+   "relationship": "Rival to Eugene IV, elected by the Council of Basel; submitted to Nicholas V.",
+   "dispute_short": "Duke Amadeus VIII of Savoy, a widower living in religious retirement, was elected by the Council of Basel in 1439 against Eugene IV. He resigned in 1449, ending the last major antipapacy.",
+   "dispute_long": "The Council of Basel, convinced that a council stood above the pope, quarrelled bitterly with Eugene IV, declared him deposed and in November 1439 elected Amadeus VIII, the wealthy former duke of Savoy, who had retired to a hermitage on Lake Geneva. As Felix V he won little support beyond Savoy, Switzerland and some German lands. In 1449 he renounced his claim and recognised Nicholas V, who named him a cardinal. His resignation marked the end of the conciliar challenge to the papacy. He died in Geneva in 1451.",
+   "classification_public": null,
+   "classification_note": "CE S1: Nov 1439 to Apr 1449. Vatican S3 calls him antipope.",
+   "sources": [
+    "S1",
+    "S3",
+    "S31",
+    "S9"
+   ]
+  }
+ ],
+ "intro_short": "An antipope is someone who claimed to be pope, and often acted as one, in opposition to the pope the Church recognises as legitimate. Some were rivals in disputed elections; others were installed by emperors or factions.",
+ "intro_long": "An antipope is a person who claimed the papacy, and often exercised its functions, against the pope the Catholic Church recognises as lawful. Lists differ: older Catholic reference works name about thirty, while recent lists count about forty, from Hippolytus in the third century to Felix V in the fifteenth. Their stories vary widely. Some were rivals in genuinely disputed elections, where it was hard for contemporaries to know who was right. Others were imposed by emperors, kings or Roman noble families. The largest group arose during the Great Western Schism (1378–1417), when two and then three lines of popes competed for Europe's loyalty, until the Council of Constance restored unity. The list is not fixed for all time: some figures, such as Christopher, were once counted as true popes, and the Vatican's own list notes that in a few early elections the legitimacy of one side or the other cannot be clearly decided.",
+ "roster_disputes": [
+  {
+   "roster_n": [
+    131
+   ],
+   "name": "Leo VIII",
+   "note": "Elected in 963 at a synod called by Otto I that deposed John XII. The Vatican list counts him as a pope (row 131), but he was a rival to John XII and to Benedict V (row 132). The CE 1907 list (S1) counts Leo VIII among antipopes for 963. The Annuario notes it cannot always decide which side was legitimate.",
+   "public": "Leo VIII is counted as a pope on the official list, but he was elected while John XII was still alive, and some historians, as well as the old Catholic Encyclopedia, treat him as an antipope.",
+   "sources": [
+    "S1",
+    "S9"
+   ]
+  },
+  {
+   "roster_n": [
+    132
+   ],
+   "name": "Benedict V",
+   "note": "If Leo VIII was legitimate, Benedict V (elected 964 by the Romans) would be an antipope; the Vatican list includes both.",
+   "public": "Benedict V and Leo VIII both appear on the official list, though their claims overlapped.",
+   "sources": [
+    "S9"
+   ]
+  },
+  {
+   "roster_n": [
+    146
+   ],
+   "name": "Sylvester III",
+   "note": "Elected 1045 while Benedict IX had been driven out. On the Vatican roster (row 146); CE 1907 list (S1) lists him as an antipope (1044). Annuario lists him without judging legitimacy.",
+   "public": "Sylvester III appears on the official list, but many historians regard him as an antipope.",
+   "sources": [
+    "S1",
+    "S9"
+   ]
+  },
+  {
+   "roster_n": [],
+   "name": "Felix II, Christopher, Dioscorus",
+   "note": "None of these three appear as popes on the roster_passA list (they fall between rows 36/37, 118/119 and at 55 respectively). Felix II and Christopher were historically counted as popes (affecting numbering for Felix); Dioscorus is argued by some to have had majority support. Each entry above carries classification_public.",
+   "public": null,
+   "sources": [
+    "S9",
+    "S12",
+    "S15",
+    "S13"
+   ]
+  },
+  {
+   "roster_n": [
+    205
+   ],
+   "name": "Alexander V / Gregory XII",
+   "note": "The Vatican now counts Gregory XII (row 205) until 1415, making the Pisan popes antipopes; Alexander VI (1492) and the numbering of John XXIII (1958) reflect older usage and its correction.",
+   "public": null,
+   "sources": [
+    "S27",
+    "S9"
+   ]
+  }
+ ],
+ "sources": [
+  {
+   "id": "S1",
+   "title": "Antipope (Catholic Encyclopedia, 1907)",
+   "url": "https://www.newadvent.org/cathen/01582a.htm",
+   "publisher": "New Advent / Catholic Encyclopedia",
+   "tier": "local_ecclesiastical_approval",
+   "locator": "list of antipopes (after Hergenröther)",
+   "accessed": "2026-10-10"
+  },
+  {
+   "id": "S2",
+   "title": "Le catacombe e i papi / catacombs article (E. dal Covolo), Jubilee 2000 magazine",
+   "url": "https://www.vatican.va/content/dam/wss/jubilee_2000/magazine/documents/ju_mag_01091997_p-70_en.html",
+   "publisher": "Holy See",
+   "tier": "vatican",
+   "locator": "passage on Hippolytus and Pontian",
+   "accessed": "2026-10-10"
+  },
+  {
+   "id": "S3",
+   "title": "Giubilei e scisma (M. Sensi), Jubilee 2000 pilgrim pages",
+   "url": "https://www.vatican.va/jubilee_2000/pilgrim/documents/ju_gp_06042000_p-7_it.html",
+   "publisher": "Holy See",
+   "tier": "vatican",
+   "locator": "Great Western Schism, Constance, Felix V",
+   "accessed": "2026-10-10"
+  },
+  {
+   "id": "S4",
+   "title": "Cadalous (Catholic Encyclopedia)",
+   "url": "https://www.newadvent.org/cathen/03128c.htm",
+   "publisher": "New Advent / Catholic Encyclopedia",
+   "tier": "local_ecclesiastical_approval",
+   "locator": "whole article",
+   "accessed": "2026-10-10"
+  },
+  {
+   "id": "S5",
+   "title": "Guibert of Ravenna (Catholic Encyclopedia)",
+   "url": "https://www.newadvent.org/cathen/07063a.htm",
+   "publisher": "New Advent / Catholic Encyclopedia",
+   "tier": "local_ecclesiastical_approval",
+   "locator": "whole article",
+   "accessed": "2026-10-10"
+  },
+  {
+   "id": "S6",
+   "title": "Gregory VIII, antipope (Burdinus) (Catholic Encyclopedia)",
+   "url": "https://www.newadvent.org/cathen/06795b.htm",
+   "publisher": "New Advent / Catholic Encyclopedia",
+   "tier": "local_ecclesiastical_approval",
+   "locator": "whole article",
+   "accessed": "2026-10-10"
+  },
+  {
+   "id": "S7",
+   "title": "Anacletus II (Catholic Encyclopedia)",
+   "url": "https://www.newadvent.org/cathen/01447a.htm",
+   "publisher": "New Advent / Catholic Encyclopedia",
+   "tier": "local_ecclesiastical_approval",
+   "locator": "whole article",
+   "accessed": "2026-10-10"
+  },
+  {
+   "id": "S8",
+   "title": "John XVI, antipope",
+   "url": "https://www.britannica.com/biography/John-XVI",
+   "publisher": "Encyclopaedia Britannica",
+   "tier": "scholarly",
+   "locator": "biography",
+   "accessed": "2026-10-10"
+  },
+  {
+   "id": "S9",
+   "title": "Antipope",
+   "url": "https://en.wikipedia.org/wiki/Antipope",
+   "publisher": "Wikipedia",
+   "tier": "supplementary",
+   "locator": "list of antipopes table and notes on Annuario Pontificio",
+   "accessed": "2026-10-10"
+  },
+  {
+   "id": "S10",
+   "title": "Roster of popes (extracted list, roster_passA.tsv)",
+   "url": "https://www.vatican.va/content/vatican/en/holy-father.html",
+   "publisher": "Holy See",
+   "tier": "vatican",
+   "locator": "roster row numbers",
+   "accessed": "2026-10-10"
+  },
+  {
+   "id": "S11",
+   "title": "Novatian",
+   "url": "https://en.wikipedia.org/wiki/Novatian",
+   "publisher": "Wikipedia",
+   "tier": "supplementary",
+   "locator": "lead, infobox and early-life section",
+   "accessed": "2026-10-10"
+  },
+  {
+   "id": "S12",
+   "title": "Antipope Felix II",
+   "url": "https://en.wikipedia.org/wiki/Antipope_Felix_II",
+   "publisher": "Wikipedia",
+   "tier": "supplementary",
+   "locator": "lead, infobox and early-life section",
+   "accessed": "2026-10-10"
+  },
+  {
+   "id": "S13",
+   "title": "Antipope Dioscorus",
+   "url": "https://en.wikipedia.org/wiki/Antipope_Dioscorus",
+   "publisher": "Wikipedia",
+   "tier": "supplementary",
+   "locator": "lead, infobox and early-life section",
+   "accessed": "2026-10-10"
+  },
+  {
+   "id": "S14",
+   "title": "Antipope Constantine II",
+   "url": "https://en.wikipedia.org/wiki/Antipope_Constantine_II",
+   "publisher": "Wikipedia",
+   "tier": "supplementary",
+   "locator": "lead, infobox and early-life section",
+   "accessed": "2026-10-10"
+  },
+  {
+   "id": "S15",
+   "title": "Antipope Christopher",
+   "url": "https://en.wikipedia.org/wiki/Antipope_Christopher",
+   "publisher": "Wikipedia",
+   "tier": "supplementary",
+   "locator": "lead, infobox and early-life section",
+   "accessed": "2026-10-10"
+  },
+  {
+   "id": "S16",
+   "title": "Antipope Boniface VII",
+   "url": "https://en.wikipedia.org/wiki/Antipope_Boniface_VII",
+   "publisher": "Wikipedia",
+   "tier": "supplementary",
+   "locator": "lead, infobox and early-life section",
+   "accessed": "2026-10-10"
+  },
+  {
+   "id": "S17",
+   "title": "Pope Benedict X",
+   "url": "https://en.wikipedia.org/wiki/Pope_Benedict_X",
+   "publisher": "Wikipedia",
+   "tier": "supplementary",
+   "locator": "lead, infobox and early-life section",
+   "accessed": "2026-10-10"
+  },
+  {
+   "id": "S18",
+   "title": "Antipope Adalbert",
+   "url": "https://en.wikipedia.org/wiki/Antipope_Adalbert",
+   "publisher": "Wikipedia",
+   "tier": "supplementary",
+   "locator": "lead, infobox and early-life section",
+   "accessed": "2026-10-10"
+  },
+  {
+   "id": "S19",
+   "title": "Antipope Victor IV (1138)",
+   "url": "https://en.wikipedia.org/wiki/Antipope_Victor_IV_(1138)",
+   "publisher": "Wikipedia",
+   "tier": "supplementary",
+   "locator": "lead, infobox and early-life section",
+   "accessed": "2026-10-10"
+  },
+  {
+   "id": "S20",
+   "title": "Antipope Victor IV (1159–1164)",
+   "url": "https://en.wikipedia.org/wiki/Antipope_Victor_IV_(1159%E2%80%931164)",
+   "publisher": "Wikipedia",
+   "tier": "supplementary",
+   "locator": "lead, infobox and early-life section",
+   "accessed": "2026-10-10"
+  },
+  {
+   "id": "S21",
+   "title": "Antipope Paschal III",
+   "url": "https://en.wikipedia.org/wiki/Antipope_Paschal_III",
+   "publisher": "Wikipedia",
+   "tier": "supplementary",
+   "locator": "lead, infobox and early-life section",
+   "accessed": "2026-10-10"
+  },
+  {
+   "id": "S22",
+   "title": "Antipope Callixtus III",
+   "url": "https://en.wikipedia.org/wiki/Antipope_Callixtus_III",
+   "publisher": "Wikipedia",
+   "tier": "supplementary",
+   "locator": "lead, infobox and early-life section",
+   "accessed": "2026-10-10"
+  },
+  {
+   "id": "S23",
+   "title": "Antipope Innocent III",
+   "url": "https://en.wikipedia.org/wiki/Antipope_Innocent_III",
+   "publisher": "Wikipedia",
+   "tier": "supplementary",
+   "locator": "lead, infobox and early-life section",
+   "accessed": "2026-10-10"
+  },
+  {
+   "id": "S24",
+   "title": "Antipope Nicholas V",
+   "url": "https://en.wikipedia.org/wiki/Antipope_Nicholas_V",
+   "publisher": "Wikipedia",
+   "tier": "supplementary",
+   "locator": "lead, infobox and early-life section",
+   "accessed": "2026-10-10"
+  },
+  {
+   "id": "S25",
+   "title": "Antipope Clement VII",
+   "url": "https://en.wikipedia.org/wiki/Antipope_Clement_VII",
+   "publisher": "Wikipedia",
+   "tier": "supplementary",
+   "locator": "lead, infobox and early-life section",
+   "accessed": "2026-10-10"
+  },
+  {
+   "id": "S26",
+   "title": "Antipope Benedict XIII",
+   "url": "https://en.wikipedia.org/wiki/Antipope_Benedict_XIII",
+   "publisher": "Wikipedia",
+   "tier": "supplementary",
+   "locator": "lead, infobox and early-life section",
+   "accessed": "2026-10-10"
+  },
+  {
+   "id": "S27",
+   "title": "Antipope Alexander V",
+   "url": "https://en.wikipedia.org/wiki/Antipope_Alexander_V",
+   "publisher": "Wikipedia",
+   "tier": "supplementary",
+   "locator": "lead, infobox and early-life section",
+   "accessed": "2026-10-10"
+  },
+  {
+   "id": "S28",
+   "title": "Antipope John XXIII",
+   "url": "https://en.wikipedia.org/wiki/Antipope_John_XXIII",
+   "publisher": "Wikipedia",
+   "tier": "supplementary",
+   "locator": "lead, infobox and early-life section",
+   "accessed": "2026-10-10"
+  },
+  {
+   "id": "S29",
+   "title": "Antipope Clement VIII",
+   "url": "https://en.wikipedia.org/wiki/Antipope_Clement_VIII",
+   "publisher": "Wikipedia",
+   "tier": "supplementary",
+   "locator": "lead, infobox and early-life section",
+   "accessed": "2026-10-10"
+  },
+  {
+   "id": "S30",
+   "title": "Antipope Benedict XIV",
+   "url": "https://en.wikipedia.org/wiki/Antipope_Benedict_XIV",
+   "publisher": "Wikipedia",
+   "tier": "supplementary",
+   "locator": "lead, infobox and early-life section",
+   "accessed": "2026-10-10"
+  },
+  {
+   "id": "S31",
+   "title": "Antipope Felix V",
+   "url": "https://en.wikipedia.org/wiki/Antipope_Felix_V",
+   "publisher": "Wikipedia",
+   "tier": "supplementary",
+   "locator": "lead, infobox and early-life section",
+   "accessed": "2026-10-10"
+  }
+ ],
+ "notes": "39 entries (Benedict XIV's two claimants merged; Natalius and Heraclius omitted as not on the Annuario-based core list, though S9 includes them). CE 1907 list (S1) has 29 names in the fetched text and includes Leo VIII and Sylvester III as antipopes while omitting Christopher, Dioscorus (cross-ref only), Theodore, Paschal, John (844), Celestine II, Victor IV (1138), the Avignon/Pisan popes after Clement VII, Clement VIII and Benedict XIV. Most Wikipedia table birthplaces of 'Rome' are unsourced and were NOT used; birthplaces given only where an article states them (CE preferred). Exact: John XVI (Rossano), Clement III (Parma), Paschal III (Crema), Innocent III anti (Sezze), Nicholas V (Corvaro), Clement VII (Annecy), Benedict XIII (Illueca), Clement VIII (Teruel), Felix V (Chambéry). Region: Felix II, Christopher, Boniface VII, Anacletus II (Rome area), Dioscorus (Alexandria), Constantine II (Nepi), Benedict X (Latium), Honorius II (Verona area), Adalbert (Campania), Gregory VIII (Limousin), Victor IV 1138 (Ceccano possibly), Victor IV 1159 (Montecelio), Alexander V (Crete), John XXIII (Procida/Bay of Naples). Treccani entries were not successfully fetched; Exact-town claims for Paschal III, Innocent III anti, Nicholas V, Clement VIII rest on Wikipedia (supplementary) and toponymic names: verify with Treccani if possible. CE Dioscorus page failed to fetch. Christopher is not on roster_passA (Leo V 118 -> Sergius III 119)."
+}

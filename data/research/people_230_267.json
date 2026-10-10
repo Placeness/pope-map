@@ -1,0 +1,2737 @@
+{
+ "range": [
+  230,
+  267
+ ],
+ "people": [
+  {
+   "roster_n": [
+    230
+   ],
+   "id": "innocent-ix",
+   "papal_name": "Innocent IX",
+   "display_name": "Innocent IX",
+   "alt_names": [
+    "Giovanni Antonio Facchinetti"
+   ],
+   "secular_name": "Giovanni Antonio Facchinetti",
+   "birth_date": "22 July 1519",
+   "birthplace": {
+    "label": "Bologna",
+    "country": "Italy",
+    "historical_name": null,
+    "precision": "exact",
+    "lat": 44.4949,
+    "lon": 11.3426,
+    "radius_km": null,
+    "roster_birth_field": "Bologna",
+    "note": "Vatican table: 'Bolognese'; CE: born at Bologna 22 July 1519.",
+    "public_note": null,
+    "sources": [
+     "S2",
+     "S3"
+    ]
+   },
+   "saint": {
+    "status": "none",
+    "recognition": null,
+    "date": null,
+    "feast": null,
+    "note": "No S./B. label in the Vatican Italian table; no beatification or cause known from the sources consulted.",
+    "public_note": null,
+    "sources": [
+     "S2",
+     "S3"
+    ]
+   },
+   "short_bio": "A Bolognese lawyer and veteran of the Council of Trent, Giovanni Antonio Facchinetti was elected with Spanish support in October 1591. He died after only two months.",
+   "long_bio": "Facchinetti studied law at Bologna and entered the service of Cardinal Alessandro Farnese. He became bishop of Nicastro in 1560, attended the Council of Trent, and as nuncio in Venice helped build the alliance that won at Lepanto in 1571. He was named titular patriarch of Jerusalem and, in 1583, a cardinal. Elected pope on 29 October 1591 with the backing of the Spanish party, he supported Philip II and the Catholic League against Henry IV of France, forbade the alienation of church property, and set up a reserve fund. He died on 30 December 1591.",
+   "actions": [
+    "Backed Spain and the Catholic League against Henry IV",
+    "Forbade the alienation of church property",
+    "Planned a reserve fund for emergencies"
+   ],
+   "context": "France was torn by the Wars of Religion, with the Protestant Henry of Navarre claiming the throne against the Catholic League. Spain dominated papal politics, and four popes died in quick succession between 1590 and 1592.",
+   "bio_sources": [
+    "S1",
+    "S3"
+   ],
+   "public_uncertainty": null,
+   "research_status": "verified",
+   "open_questions": []
+  },
+  {
+   "roster_n": [
+    231
+   ],
+   "id": "clement-viii",
+   "papal_name": "Clement VIII",
+   "display_name": "Clement VIII",
+   "alt_names": [
+    "Ippolito Aldobrandini"
+   ],
+   "secular_name": "Ippolito Aldobrandini",
+   "birth_date": "March 1536",
+   "birthplace": {
+    "label": "Fano",
+    "country": "Italy",
+    "historical_name": null,
+    "precision": "exact",
+    "lat": 43.8436,
+    "lon": 13.0186,
+    "radius_km": null,
+    "roster_birth_field": "Fano",
+    "note": "Vatican table: Fano; CE: born at Fano, March 1536, of a Florentine family (father in exile).",
+    "public_note": null,
+    "sources": [
+     "S2",
+     "S4"
+    ]
+   },
+   "saint": {
+    "status": "none",
+    "recognition": null,
+    "date": null,
+    "feast": null,
+    "note": "No S./B. label in the Vatican Italian table; no beatification or cause known from the sources consulted.",
+    "public_note": null,
+    "sources": [
+     "S2",
+     "S4"
+    ]
+   },
+   "short_bio": "Born at Fano to a Florentine family, Ippolito Aldobrandini reigned for thirteen years. He reconciled Henry IV of France with the Church and brought Ferrara under direct papal rule.",
+   "long_bio": "Aldobrandini rose through the curia as consistorial advocate, auditor of the Rota and datary, and became a cardinal in 1585. Elected on 30 January 1592, he absolved Henry IV of France in 1595, ending a long rift and loosening Spain's grip on papal policy. When the Este line died out he annexed Ferrara (1597-98). He issued the revised Clementine Vulgate, welcomed the Ruthenian union of Brest, and presided over the Holy Year of 1600. His reign also saw the burning of Giordano Bruno in Rome in February 1600. He died on 5 March 1605.",
+   "actions": [
+    "Absolved Henry IV of France (1595)",
+    "Annexed Ferrara to the Papal States (1598)",
+    "Issued the revised Vulgate",
+    "Received the Ruthenian union of Brest (1595-96)",
+    "Giordano Bruno executed in Rome (1600)"
+   ],
+   "context": "Catholic reform after the Council of Trent was in full swing. Henry IV's conversion opened the way to peace in France, while the papacy tried to balance France against Habsburg Spain.",
+   "bio_sources": [
+    "S1",
+    "S4"
+   ],
+   "public_uncertainty": null,
+   "research_status": "verified",
+   "open_questions": []
+  },
+  {
+   "roster_n": [
+    232
+   ],
+   "id": "leo-xi",
+   "papal_name": "Leo XI",
+   "display_name": "Leo XI",
+   "alt_names": [
+    "Alessandro Ottaviano de' Medici"
+   ],
+   "secular_name": "Alessandro Ottaviano de' Medici",
+   "birth_date": "1535",
+   "birthplace": {
+    "label": "Florence",
+    "country": "Italy",
+    "historical_name": "Firenze",
+    "precision": "exact",
+    "lat": 43.7696,
+    "lon": 11.2558,
+    "radius_km": null,
+    "roster_birth_field": "Florence",
+    "note": "Vatican table: 'Fiorentino'; CE: born at Florence 1535 (day not given).",
+    "public_note": null,
+    "sources": [
+     "S2",
+     "S5"
+    ]
+   },
+   "saint": {
+    "status": "none",
+    "recognition": null,
+    "date": null,
+    "feast": null,
+    "note": "No S./B. label in the Vatican Italian table; no beatification or cause known from the sources consulted.",
+    "public_note": null,
+    "sources": [
+     "S2",
+     "S5"
+    ]
+   },
+   "short_bio": "A Medici of Florence and great-nephew of Leo X through his mother, Alessandro de' Medici was elected aged about seventy. He died less than a month after his coronation.",
+   "long_bio": "For some fifteen years he served as Tuscan ambassador to Pius V. Gregory XIII made him bishop of Pistoia, archbishop of Florence and, in 1583, a cardinal, and Clement VIII sent him as legate to France in 1596. Elected in April 1605, he fell ill soon after his coronation and is remembered for refusing, even on his deathbed, to make a grand-nephew a cardinal. He died on 27 April 1605.",
+   "actions": [
+    "Served as legate in France after Henry IV's reconciliation",
+    "Refused to name a relative cardinal"
+   ],
+   "context": "His election, favoured by France, came at the high point of Henri IV's influence in Rome. Spain and France competed openly in each conclave of the period.",
+   "bio_sources": [
+    "S1",
+    "S5"
+   ],
+   "public_uncertainty": null,
+   "research_status": "verified",
+   "open_questions": []
+  },
+  {
+   "roster_n": [
+    233
+   ],
+   "id": "paul-v",
+   "papal_name": "Paul V",
+   "display_name": "Paul V",
+   "alt_names": [
+    "Camillo Borghese"
+   ],
+   "secular_name": "Camillo Borghese",
+   "birth_date": "17 September 1550",
+   "birthplace": {
+    "label": "Rome",
+    "country": "Italy",
+    "historical_name": "Roma",
+    "precision": "exact",
+    "lat": 41.9028,
+    "lon": 12.4964,
+    "radius_km": null,
+    "roster_birth_field": "Rome",
+    "note": "Vatican table: 'Romano'; CE: born in Rome 17 Sept 1550 of a noble Sienese family that had moved to Rome.",
+    "public_note": null,
+    "sources": [
+     "S2",
+     "S6"
+    ]
+   },
+   "saint": {
+    "status": "none",
+    "recognition": null,
+    "date": null,
+    "feast": null,
+    "note": "No S./B. label in the Vatican Italian table; no beatification or cause known from the sources consulted.",
+    "public_note": null,
+    "sources": [
+     "S2",
+     "S6"
+    ]
+   },
+   "short_bio": "Camillo Borghese, a Roman-born canon lawyer of Sienese family, reigned for nearly sixteen years. He clashed with Venice over church rights and completed the new St Peter's Basilica.",
+   "long_bio": "Trained in law at Perugia and Padua, Borghese became a cardinal in 1596 and cardinal vicar of Rome. Elected on 16 May 1605, he defended clerical immunities so firmly that in 1606 he placed Venice under interdict; French and Spanish mediation ended the dispute in 1607. He condemned the oath of allegiance demanded of English Catholics by James I, completed St Peter's, and canonized Charles Borromeo and Frances of Rome. He died on 28 January 1621 and is buried in the Borghese Chapel at St Mary Major.",
+   "actions": [
+    "Placed Venice under interdict (1606-07)",
+    "Condemned James I's oath of allegiance",
+    "Completed St Peter's Basilica",
+    "Canonized Charles Borromeo and Frances of Rome",
+    "Built the Borghese Chapel at St Mary Major"
+   ],
+   "context": "Catholic states were asserting control over their churches, as the Venetian quarrel showed. Tensions between Catholic and Protestant powers in the Empire were building toward the Thirty Years' War, which began in 1618.",
+   "bio_sources": [
+    "S1",
+    "S6"
+   ],
+   "public_uncertainty": null,
+   "research_status": "verified",
+   "open_questions": [
+    "Galileo's 1616 admonition, under this pontificate, is not covered by the CE article consulted."
+   ]
+  },
+  {
+   "roster_n": [
+    234
+   ],
+   "id": "gregory-xv",
+   "papal_name": "Gregory XV",
+   "display_name": "Gregory XV",
+   "alt_names": [
+    "Alessandro Ludovisi"
+   ],
+   "secular_name": "Alessandro Ludovisi",
+   "birth_date": "9 or 15 January 1554",
+   "birthplace": {
+    "label": "Bologna",
+    "country": "Italy",
+    "historical_name": null,
+    "precision": "exact",
+    "lat": 44.4949,
+    "lon": 11.3426,
+    "radius_km": null,
+    "roster_birth_field": "Bologna",
+    "note": "Vatican table: 'Bolognese'; CE: born at Bologna, 9 or 15 January 1554 (sources differ on the day).",
+    "public_note": null,
+    "sources": [
+     "S2",
+     "S7"
+    ]
+   },
+   "saint": {
+    "status": "none",
+    "recognition": null,
+    "date": null,
+    "feast": null,
+    "note": "No S./B. label in the Vatican Italian table; no beatification or cause known from the sources consulted.",
+    "public_note": null,
+    "sources": [
+     "S2",
+     "S7"
+    ]
+   },
+   "short_bio": "Alessandro Ludovisi of Bologna reigned only two and a half years but left a lasting mark. He founded the Congregation for the Propagation of the Faith and set the rules for secret papal elections.",
+   "long_bio": "Ludovisi studied with the Jesuits and took degrees in law at Bologna. He served as a judge in Rome, became archbishop of Bologna in 1612 and a cardinal in 1616. Elected on 9 February 1621, he issued bulls requiring secret written ballots in conclave, rules that largely still apply. In 1622 he founded the Congregation de Propaganda Fide to direct missions worldwide, and canonized Ignatius of Loyola, Francis Xavier, Philip Neri, Teresa of Avila and Isidore the Farmer. He died on 8 July 1623.",
+   "actions": [
+    "Founded Propaganda Fide (1622)",
+    "Reformed conclave rules with secret ballots (1621-22)",
+    "Canonized Ignatius, Francis Xavier, Philip Neri, Teresa of Avila and Isidore (1622)"
+   ],
+   "context": "The Thirty Years' War was under way after the Catholic victory at the White Mountain (1620). Missions in Asia and the Americas were growing quickly and needed central coordination from Rome.",
+   "bio_sources": [
+    "S1",
+    "S7"
+   ],
+   "public_uncertainty": null,
+   "research_status": "verified",
+   "open_questions": []
+  },
+  {
+   "roster_n": [
+    235
+   ],
+   "id": "urban-viii",
+   "papal_name": "Urban VIII",
+   "display_name": "Urban VIII",
+   "alt_names": [
+    "Maffeo Barberini"
+   ],
+   "secular_name": "Maffeo Barberini",
+   "birth_date": "April 1568",
+   "birthplace": {
+    "label": "Florence",
+    "country": "Italy",
+    "historical_name": "Firenze",
+    "precision": "exact",
+    "lat": 43.7696,
+    "lon": 11.2558,
+    "radius_km": null,
+    "roster_birth_field": "Florence",
+    "note": "Vatican table: 'Fiorentino'; CE: born at Florence, April 1568.",
+    "public_note": null,
+    "sources": [
+     "S2",
+     "S8"
+    ]
+   },
+   "saint": {
+    "status": "none",
+    "recognition": null,
+    "date": null,
+    "feast": null,
+    "note": "No S./B. label in the Vatican Italian table; no beatification or cause known from the sources consulted.",
+    "public_note": null,
+    "sources": [
+     "S2",
+     "S8"
+    ]
+   },
+   "short_bio": "Maffeo Barberini of Florence reigned for over twenty years during the Thirty Years' War. A patron of Bernini, he is also remembered for the trial of Galileo and for lavish favours to his nephews.",
+   "long_bio": "Educated by the Jesuits and in law at Pisa, Barberini served as nuncio in Paris, became a cardinal in 1606 and archbishop of Spoleto. Elected on 6 August 1623, he tried to stay neutral between France and the Habsburgs. His pontificate saw Galileo's second trial and condemnation by the Roman Inquisition (1633). He enriched his family, and his War of Castro against the Farnese ended in a costly peace in 1644. He commissioned Bernini's baldachin in St Peter's, built the papal villa at Castel Gandolfo and strengthened Castel Sant'Angelo. He died on 29 July 1644.",
+   "actions": [
+    "Commissioned Bernini's baldachin in St Peter's",
+    "Built the papal residence at Castel Gandolfo",
+    "Galileo condemned by the Inquisition (1633)",
+    "Fought the War of Castro against the Farnese",
+    "Enriched the Barberini nephews"
+   ],
+   "context": "The Thirty Years' War devastated central Europe, with Catholic France allied to Protestant powers against the Habsburgs. Baroque Rome was being transformed by architects such as Bernini and Borromini.",
+   "bio_sources": [
+    "S1",
+    "S8"
+   ],
+   "public_uncertainty": null,
+   "research_status": "verified",
+   "open_questions": [
+    "Galileo trial date (1633) is from general knowledge; CE article mentions the trial without date."
+   ]
+  },
+  {
+   "roster_n": [
+    236
+   ],
+   "id": "innocent-x",
+   "papal_name": "Innocent X",
+   "display_name": "Innocent X",
+   "alt_names": [
+    "Giovanni Battista Pamphilj",
+    "Giambattista Pamfili"
+   ],
+   "secular_name": "Giovanni Battista Pamphilj",
+   "birth_date": "6 May 1574",
+   "birthplace": {
+    "label": "Rome",
+    "country": "Italy",
+    "historical_name": "Roma",
+    "precision": "exact",
+    "lat": 41.9028,
+    "lon": 12.4964,
+    "radius_km": null,
+    "roster_birth_field": "Rome",
+    "note": "Vatican table: 'Romano'; CE: born in Rome 6 May 1574.",
+    "public_note": null,
+    "sources": [
+     "S2",
+     "S9"
+    ]
+   },
+   "saint": {
+    "status": "none",
+    "recognition": null,
+    "date": null,
+    "feast": null,
+    "note": "No S./B. label in the Vatican Italian table; no beatification or cause known from the sources consulted.",
+    "public_note": null,
+    "sources": [
+     "S2",
+     "S9"
+    ]
+   },
+   "short_bio": "Giovanni Battista Pamphilj, a Roman, reigned from 1644 to 1655. He protested against the Peace of Westphalia and condemned five propositions attributed to Jansenius.",
+   "long_bio": "Pamphilj was elected on 15 September 1644. In the bull Zelo domus Dei (1648) he declared void the clauses of the Peace of Westphalia that harmed the Church, though the powers ignored the protest. In 1653 his constitution Cum occasione condemned five propositions drawn from Jansenius's Augustinus, deepening the Jansenist controversy in France. After the murder of a bishop he had appointed, he had Castro razed and moved the see to Acquapendente. His reliance on his sister-in-law Olimpia Maidalchini was widely criticised. He died on 7 January 1655.",
+   "actions": [
+    "Protested against the Peace of Westphalia (1648)",
+    "Condemned five Jansenist propositions (1653)",
+    "Razed Castro and moved its see (1649)"
+   ],
+   "context": "The Peace of Westphalia ended the Thirty Years' War and confirmed a Europe of confessional states in which papal claims carried less weight. In France, Jansenism divided theologians and clergy.",
+   "bio_sources": [
+    "S1",
+    "S9"
+   ],
+   "public_uncertainty": null,
+   "research_status": "verified",
+   "open_questions": []
+  },
+  {
+   "roster_n": [
+    237
+   ],
+   "id": "alexander-vii",
+   "papal_name": "Alexander VII",
+   "display_name": "Alexander VII",
+   "alt_names": [
+    "Fabio Chigi"
+   ],
+   "secular_name": "Fabio Chigi",
+   "birth_date": "13 February 1599",
+   "birthplace": {
+    "label": "Siena",
+    "country": "Italy",
+    "historical_name": null,
+    "precision": "exact",
+    "lat": 43.3188,
+    "lon": 11.3308,
+    "radius_km": null,
+    "roster_birth_field": "Siena",
+    "note": "Vatican table: Siena; CE: born at Siena 13 Feb 1599.",
+    "public_note": null,
+    "sources": [
+     "S2",
+     "S10"
+    ]
+   },
+   "saint": {
+    "status": "none",
+    "recognition": null,
+    "date": null,
+    "feast": null,
+    "note": "No S./B. label in the Vatican Italian table; no beatification or cause known from the sources consulted.",
+    "public_note": null,
+    "sources": [
+     "S2",
+     "S10"
+    ]
+   },
+   "short_bio": "Fabio Chigi of Siena, a diplomat who had represented Rome at the Westphalia talks, reigned from 1655 to 1667. He welcomed Queen Christina of Sweden to Rome and gave Bernini his greatest commissions.",
+   "long_bio": "Chigi served as inquisitor of Malta, nuncio at Cologne and papal envoy at the Münster talks that led to the Peace of Westphalia. Elected on 7 April 1655, he received Queen Christina of Sweden after her conversion, upheld the condemnation of Jansenism with the bull Ad sacram and a formulary for French clergy, and aided Venice against the Turks in Crete. A quarrel with Louis XIV over the French embassy in Rome led to the loss of Avignon and the humiliating Treaty of Pisa (1664). He commissioned Bernini's colonnade, Scala Regia and Chair of St Peter. He died on 22 May 1667.",
+   "actions": [
+    "Received Queen Christina of Sweden (1655)",
+    "Commissioned Bernini's colonnade of St Peter's Square",
+    "Confirmed the condemnation of Jansenism (bull Ad sacram)",
+    "Accepted the Treaty of Pisa with Louis XIV (1664)"
+   ],
+   "context": "Louis XIV's France was becoming Europe's leading power and pressed the papacy hard. Venice fought a long war with the Ottomans over Crete.",
+   "bio_sources": [
+    "S1",
+    "S10"
+   ],
+   "public_uncertainty": null,
+   "research_status": "verified",
+   "open_questions": [
+    "CE dates Ad sacram 1665; it is usually dated 16 Oct 1656 (1665 is Regiminis apostolici). Year omitted from text."
+   ]
+  },
+  {
+   "roster_n": [
+    238
+   ],
+   "id": "clement-ix",
+   "papal_name": "Clement IX",
+   "display_name": "Clement IX",
+   "alt_names": [
+    "Giulio Rospigliosi"
+   ],
+   "secular_name": "Giulio Rospigliosi",
+   "birth_date": "28 January 1600",
+   "birthplace": {
+    "label": "Pistoia",
+    "country": "Italy",
+    "historical_name": null,
+    "precision": "exact",
+    "lat": 43.9336,
+    "lon": 10.9176,
+    "radius_km": null,
+    "roster_birth_field": "Pistoia",
+    "note": "Vatican table: Pistoia; CE: born at Pistoia ('Pistoja') 28 Jan 1600.",
+    "public_note": null,
+    "sources": [
+     "S2",
+     "S11"
+    ]
+   },
+   "saint": {
+    "status": "none",
+    "recognition": null,
+    "date": null,
+    "feast": null,
+    "note": "No S./B. label in the Vatican Italian table; no beatification or cause known from the sources consulted.",
+    "public_note": null,
+    "sources": [
+     "S2",
+     "S11"
+    ]
+   },
+   "short_bio": "Giulio Rospigliosi of Pistoia, a curial diplomat, reigned from 1667 to 1669. He brought a truce in the Jansenist dispute and helped make peace between France and Spain.",
+   "long_bio": "Rospigliosi rose in the curia under Urban VIII, served as nuncio in Spain and became secretary of state and cardinal under Alexander VII. Elected in June 1667, he arranged the mild settlement known as the Clementine Peace in the Jansenist quarrel and mediated the Peace of Aix-la-Chapelle (1668). He sent aid to Venice in defending Crete; the island's fall in 1669 is said to have hastened his death. He beatified Rose of Lima and canonized Mary Magdalene de' Pazzi and Peter of Alcantara. He died on 9 December 1669.",
+   "actions": [
+    "Arranged the 'Clementine Peace' in the Jansenist dispute",
+    "Mediated the Peace of Aix-la-Chapelle (1668)",
+    "Aided Venice in the defence of Crete",
+    "Canonized Mary Magdalene de' Pazzi and Peter of Alcantara (1669)"
+   ],
+   "context": "France and Spain were at war over the Spanish Netherlands, and the Ottomans were completing their conquest of Crete from Venice.",
+   "bio_sources": [
+    "S1",
+    "S11"
+   ],
+   "public_uncertainty": null,
+   "research_status": "verified",
+   "open_questions": [
+    "He is widely known as a librettist for Roman opera; not in CE article consulted, so omitted."
+   ]
+  },
+  {
+   "roster_n": [
+    239
+   ],
+   "id": "clement-x",
+   "papal_name": "Clement X",
+   "display_name": "Clement X",
+   "alt_names": [
+    "Emilio Altieri"
+   ],
+   "secular_name": "Emilio Bonaventura Altieri",
+   "birth_date": "13 July 1590",
+   "birthplace": {
+    "label": "Rome",
+    "country": "Italy",
+    "historical_name": "Roma",
+    "precision": "exact",
+    "lat": 41.9028,
+    "lon": 12.4964,
+    "radius_km": null,
+    "roster_birth_field": "Rome",
+    "note": "Vatican table: 'Romano'; CE: born in Rome 13 July 1590.",
+    "public_note": null,
+    "sources": [
+     "S2",
+     "S12"
+    ]
+   },
+   "saint": {
+    "status": "none",
+    "recognition": null,
+    "date": null,
+    "feast": null,
+    "note": "No S./B. label in the Vatican Italian table; no beatification or cause known from the sources consulted.",
+    "public_note": null,
+    "sources": [
+     "S2",
+     "S12"
+    ]
+   },
+   "short_bio": "Emilio Altieri, a Roman, was nearly eighty when elected in 1670 after a four-month conclave. He left much of the government to Cardinal Paluzzi-Altieri and began the long dispute with Louis XIV over the régale.",
+   "long_bio": "Altieri served Urban VIII in works to protect Ravenna from the Po, was nuncio in Naples after Masaniello's revolt, and later administered the papal treasury. Elected on 29 April 1670, he adopted his relative Cardinal Paluzzi-Altieri as cardinal nephew. He canonized Cajetan, Francis Borgia, Louis Bertrand, Philip Benizi and Rose of Lima, and gave strong financial help to Poland against the Turks. He died on 22 July 1676.",
+   "actions": [
+    "Canonized Rose of Lima, first saint of the Americas",
+    "Supported Poland against Ottoman invasion",
+    "Began the régale dispute with Louis XIV"
+   ],
+   "context": "The Ottomans were pushing into Poland, and Louis XIV was extending royal control over the French Church's revenues.",
+   "bio_sources": [
+    "S1",
+    "S12"
+   ],
+   "public_uncertainty": null,
+   "research_status": "verified",
+   "open_questions": []
+  },
+  {
+   "roster_n": [
+    240
+   ],
+   "id": "innocent-xi",
+   "papal_name": "Innocent XI",
+   "display_name": "Bl. Innocent XI",
+   "alt_names": [
+    "Benedetto Odescalchi"
+   ],
+   "secular_name": "Benedetto Odescalchi",
+   "birth_date": "16 May 1611",
+   "birthplace": {
+    "label": "Como",
+    "country": "Italy",
+    "historical_name": null,
+    "precision": "exact",
+    "lat": 45.8081,
+    "lon": 9.0852,
+    "radius_km": null,
+    "roster_birth_field": "Como",
+    "note": "Vatican table: Como; CE: born at Como 16 May 1611.",
+    "public_note": null,
+    "sources": [
+     "S2",
+     "S13"
+    ]
+   },
+   "saint": {
+    "status": "blessed",
+    "recognition": "beatified",
+    "date": "7 October 1956",
+    "feast": "12 August",
+    "note": "Vatican table 'B.'; beatified by Pius XII on 7 Oct 1956 (vatican.va address title 'In onore del beato Innocenzo XI (7 ottobre 1956)'; Wikipedia: venerable 15 Nov 1955). CE (1910) says the cause, begun under Benedict XIV, was dropped through French pressure - outdated. Feast 12 Aug per Vatican News saints list. CE gives death 11 Aug 1689; roster says 12 Aug.",
+    "public_note": null,
+    "sources": [
+     "S2",
+     "S14",
+     "S15",
+     "S16"
+    ]
+   },
+   "short_bio": "Benedetto Odescalchi of Como, an austere reformer, reigned from 1676 to 1689. He rallied Christian Europe to relieve Vienna from the Ottomans in 1683 and stood firm against Louis XIV. He was beatified in 1956.",
+   "long_bio": "Odescalchi served in the curia, became a cardinal in 1645 and bishop of Novara. Elected on 21 September 1676, he cut spending, forbade nepotism and turned a deficit into a surplus. He condemned lax moral propositions (1679) and, in 1687, the quietist teaching of Miguel de Molinos. He resisted Louis XIV over the régale, annulled the Gallican Articles of 1682 and abolished the ambassadors' right of asylum in Rome. Above all he urged the German princes and King John III Sobieski of Poland to relieve Vienna in 1683 and funded the war that drove the Ottomans from much of Hungary. He died in August 1689.",
+   "actions": [
+    "Financed and encouraged the relief of Vienna (1683)",
+    "Annulled the Gallican Articles (1682)",
+    "Forbade nepotism and restored papal finances",
+    "Condemned Molinos's quietism (1687)"
+   ],
+   "context": "The Ottoman Empire made its last great advance into central Europe, besieging Vienna in 1683. Louis XIV pressed royal control over the French Church through the régale and the Gallican Declaration.",
+   "bio_sources": [
+    "S1",
+    "S13",
+    "S16"
+   ],
+   "public_uncertainty": null,
+   "research_status": "verified",
+   "open_questions": [
+    "Death date: CE 11 Aug 1689 vs roster 12 Aug 1689."
+   ]
+  },
+  {
+   "roster_n": [
+    241
+   ],
+   "id": "alexander-viii",
+   "papal_name": "Alexander VIII",
+   "display_name": "Alexander VIII",
+   "alt_names": [
+    "Pietro Ottoboni"
+   ],
+   "secular_name": "Pietro Vito Ottoboni",
+   "birth_date": "April 1610",
+   "birthplace": {
+    "label": "Venice",
+    "country": "Italy",
+    "historical_name": "Venezia",
+    "precision": "exact",
+    "lat": 45.4408,
+    "lon": 12.3155,
+    "radius_km": null,
+    "roster_birth_field": "Venice",
+    "note": "Vatican table: 'Veneziano'; CE: born at Venice April 1610 to a noble family.",
+    "public_note": null,
+    "sources": [
+     "S2",
+     "S17"
+    ]
+   },
+   "saint": {
+    "status": "none",
+    "recognition": null,
+    "date": null,
+    "feast": null,
+    "note": "No S./B. label in the Vatican Italian table; no beatification or cause known from the sources consulted.",
+    "public_note": null,
+    "sources": [
+     "S2",
+     "S17"
+    ]
+   },
+   "short_bio": "Pietro Ottoboni, a Venetian noble, was elected in his eightieth year and reigned sixteen months. He recovered Avignon from France and declared the Gallican Articles of 1682 null.",
+   "long_bio": "Ottoboni took doctorates in law at Padua, served long as auditor of the Rota, became a cardinal in 1652, bishop of Brescia and later cardinal datary. Elected on 6 October 1689, he benefited from Louis XIV's need for allies: France returned Avignon and gave up the embassy's right of asylum. In August 1690 he formally declared the Gallican Declaration of 1682 void and condemned the notion of 'philosophical sin'. He aided Venice against the Turks, bought Queen Christina's library for the Vatican and lowered taxes, but also enriched his relatives. He died on 1 February 1691.",
+   "actions": [
+    "Recovered Avignon from France",
+    "Declared the Gallican Articles void (1690)",
+    "Bought Queen Christina's library for the Vatican",
+    "Supported Venice against the Ottomans"
+   ],
+   "context": "Louis XIV faced a broad coalition in the Nine Years' War and sought better relations with Rome. Venice was still at war with the Ottomans in Greece.",
+   "bio_sources": [
+    "S1",
+    "S17"
+   ],
+   "public_uncertainty": null,
+   "research_status": "verified",
+   "open_questions": []
+  },
+  {
+   "roster_n": [
+    242
+   ],
+   "id": "innocent-xii",
+   "papal_name": "Innocent XII",
+   "display_name": "Innocent XII",
+   "alt_names": [
+    "Antonio Pignatelli"
+   ],
+   "secular_name": "Antonio Pignatelli",
+   "birth_date": "13 March 1615",
+   "birthplace": {
+    "label": "Spinazzola",
+    "country": "Italy",
+    "historical_name": null,
+    "precision": "exact",
+    "lat": 40.9667,
+    "lon": 16.0833,
+    "radius_km": null,
+    "roster_birth_field": "Spinazzola",
+    "note": "Vatican table: Spinazzola; CE: born 13 March 1615 at 'Spinazzolo' near Naples (Spinazzola, Apulia).",
+    "public_note": null,
+    "sources": [
+     "S2",
+     "S18"
+    ]
+   },
+   "saint": {
+    "status": "none",
+    "recognition": null,
+    "date": null,
+    "feast": null,
+    "note": "No S./B. label in the Vatican Italian table; no beatification or cause known from the sources consulted.",
+    "public_note": null,
+    "sources": [
+     "S2",
+     "S18"
+    ]
+   },
+   "short_bio": "Antonio Pignatelli, a southern Italian noble and archbishop of Naples, reigned from 1691 to 1700. His bull of 1692 curbed papal nepotism, and he turned part of the Lateran into a refuge for the poor.",
+   "long_bio": "Pignatelli entered the curia at twenty and served as inquisitor of Malta and as nuncio in Tuscany, Poland and Vienna. He became a cardinal in 1682 and archbishop of Naples in 1687. Elected on 12 July 1691 as a compromise candidate, he issued Romanum decet Pontificem (1692), limiting popes to naming one relative cardinal. He founded charitable institutions, completed the Curia Innocenziana, and in 1693 persuaded Louis XIV to abandon the Gallican Declaration. In 1699 he condemned propositions from Fénelon's Maxims of the Saints. He died on 27 September 1700.",
+   "actions": [
+    "Restricted nepotism with Romanum decet Pontificem (1692)",
+    "Opened a hospice for the poor at the Lateran",
+    "Settled the Gallican dispute with Louis XIV (1693)",
+    "Condemned propositions of Fénelon (1699)"
+   ],
+   "context": "Europe awaited the death of the childless Charles II of Spain, which would set off the War of the Spanish Succession. Within France, controversy over quietism set Fénelon against Bossuet.",
+   "bio_sources": [
+    "S1",
+    "S18"
+   ],
+   "public_uncertainty": null,
+   "research_status": "verified",
+   "open_questions": []
+  },
+  {
+   "roster_n": [
+    243
+   ],
+   "id": "clement-xi",
+   "papal_name": "Clement XI",
+   "display_name": "Clement XI",
+   "alt_names": [
+    "Giovanni Francesco Albani"
+   ],
+   "secular_name": "Giovanni Francesco Albani",
+   "birth_date": "23 July 1649",
+   "birthplace": {
+    "label": "Urbino",
+    "country": "Italy",
+    "historical_name": null,
+    "precision": "exact",
+    "lat": 43.7262,
+    "lon": 12.6366,
+    "radius_km": null,
+    "roster_birth_field": "Urbino",
+    "note": "Vatican table: Urbino; CE: born at Urbino 23 July 1649.",
+    "public_note": null,
+    "sources": [
+     "S2",
+     "S19"
+    ]
+   },
+   "saint": {
+    "status": "none",
+    "recognition": null,
+    "date": null,
+    "feast": null,
+    "note": "No S./B. label in the Vatican Italian table; no beatification or cause known from the sources consulted.",
+    "public_note": null,
+    "sources": [
+     "S2",
+     "S19"
+    ]
+   },
+   "short_bio": "Giovanni Francesco Albani of Urbino reigned for over twenty years. He issued the bull Unigenitus against Jansenism and ruled against the Chinese rites, while the War of the Spanish Succession left the papacy sidelined.",
+   "long_bio": "Albani governed several towns of the Papal States and became a cardinal in 1690. Elected on 23 November 1700 after a 46-day conclave, he was a careful administrator who cared for the poor and improved prisons. Against the Jansenists he issued Vineam Domini (1705) and Unigenitus (1713). He decided the Chinese rites dispute against the accommodation favoured by the Jesuits, and extended the feast of the Immaculate Conception as a holy day. In the succession war he first recognised Philip V and then, under Austrian military pressure in 1709, Archduke Charles; the papacy was ignored at Utrecht. He died on 19 March 1721.",
+   "actions": [
+    "Issued the bull Unigenitus against Jansenism (1713)",
+    "Ruled against the Chinese rites",
+    "Made the Immaculate Conception a holy day of obligation"
+   ],
+   "context": "The War of the Spanish Succession (1701-14) redrew the map of Italy and Europe, and the great powers made peace at Utrecht without the pope.",
+   "bio_sources": [
+    "S1",
+    "S19"
+   ],
+   "public_uncertainty": null,
+   "research_status": "verified",
+   "open_questions": []
+  },
+  {
+   "roster_n": [
+    244
+   ],
+   "id": "innocent-xiii",
+   "papal_name": "Innocent XIII",
+   "display_name": "Innocent XIII",
+   "alt_names": [
+    "Michelangelo dei Conti"
+   ],
+   "secular_name": "Michelangelo dei Conti",
+   "birth_date": "13 May 1655",
+   "birthplace": {
+    "label": "Poli",
+    "country": "Italy",
+    "historical_name": null,
+    "precision": "exact",
+    "lat": 41.8906,
+    "lon": 12.892,
+    "radius_km": null,
+    "roster_birth_field": "Poli",
+    "note": "Vatican table, Treccani and Britannica: Poli, the Conti family's fief east of Rome. CE says born in Rome and that 'Poli' refers to his father, Duke of Poli. Poli chosen (Vatican + Treccani).",
+    "public_note": "Some older sources say he was born in Rome.",
+    "sources": [
+     "S2",
+     "S20",
+     "S21",
+     "S22"
+    ]
+   },
+   "saint": {
+    "status": "none",
+    "recognition": null,
+    "date": null,
+    "feast": null,
+    "note": "No S./B. label in the Vatican Italian table; no beatification or cause known from the sources consulted.",
+    "public_note": null,
+    "sources": [
+     "S2",
+     "S20"
+    ]
+   },
+   "short_bio": "Michelangelo dei Conti, of the family of the dukes of Poli that had given the Church Innocent III, reigned from 1721 to 1724. He avoided nepotism and insisted on acceptance of the bull Unigenitus.",
+   "long_bio": "Conti served as nuncio in Lucerne and Lisbon, became a cardinal in 1706 and bishop of Osimo and then Viterbo. Elected on 8 May 1721, he invested Emperor Charles VI with Sicily, protested in vain against the investiture of Parma and Piacenza to Don Carlos, and supported the exiled Stuart claimant James III. He demanded unconditional submission to Unigenitus from French bishops but, under pressure, made the notorious Guillaume Dubois a cardinal. He kept his brother's income strictly limited. He died on 7 March 1724.",
+   "actions": [
+    "Invested Emperor Charles VI with Sicily (1722)",
+    "Required acceptance of Unigenitus",
+    "Avoided nepotism",
+    "Supported Venice and Malta against the Ottomans"
+   ],
+   "context": "After Utrecht, the great powers disposed of Italian territories with little regard for papal claims. The exiled Stuarts lived in Rome under papal protection.",
+   "bio_sources": [
+    "S1",
+    "S20",
+    "S21"
+   ],
+   "public_uncertainty": null,
+   "research_status": "verified",
+   "open_questions": []
+  },
+  {
+   "roster_n": [
+    245
+   ],
+   "id": "benedict-xiii",
+   "papal_name": "Benedict XIII",
+   "display_name": "Benedict XIII",
+   "alt_names": [
+    "Pietro Francesco Orsini",
+    "Vincenzo Maria Orsini"
+   ],
+   "secular_name": "Pietro Francesco (in religion Vincenzo Maria) Orsini",
+   "birth_date": "2 February 1649",
+   "birthplace": {
+    "label": "Gravina in Puglia",
+    "country": "Italy",
+    "historical_name": null,
+    "precision": "exact",
+    "lat": 40.8194,
+    "lon": 16.4231,
+    "radius_km": null,
+    "roster_birth_field": "Gravina",
+    "note": "Vatican table: Gravina; CE gives no birthplace but names the Orsini-Gravina line; Wikipedia: Gravina in Puglia.",
+    "public_note": null,
+    "sources": [
+     "S2",
+     "S23",
+     "S24"
+    ]
+   },
+   "saint": {
+    "status": "servant_of_god",
+    "recognition": null,
+    "date": null,
+    "feast": null,
+    "note": "Cause opened 1755, revived 1931, reopened 17 Jan 2004; diocesan phase in Rome closed 24 Feb 2017 (Wikipedia, citing Dominican Order). Holds title Servant of God. Not verified on causesanti.va (page not found). No feast.",
+    "public_note": "A cause for his beatification is open.",
+    "sources": [
+     "S24",
+     "S25"
+    ]
+   },
+   "short_bio": "A son of the ducal Orsini family of Gravina, Pietro Francesco Orsini became a Dominican friar as a youth and was archbishop of Benevento for nearly forty years. As pope from 1724 to 1730 he lived simply, but trusted a corrupt favourite, Cardinal Niccolò Coscia.",
+   "long_bio": "At sixteen he joined the Dominicans against his family's wishes, taking the name Vincenzo Maria, and was made a cardinal in 1672. As archbishop of Benevento he was a model pastor and kept that see even as pope. Elected on 29 May 1724, he held a Roman synod in 1725 that demanded acceptance of Unigenitus, served personally as penitentiary during the Jubilee of 1725 and encouraged diocesan seminaries. His government, however, was damaged by his reliance on Coscia, whose abuses he did not see. He died in February 1730.",
+   "actions": [
+    "Held the Roman synod of 1725",
+    "Personally heard confessions in the Jubilee of 1725",
+    "Promoted diocesan seminaries",
+    "Kept pastoral care of Benevento"
+   ],
+   "context": "Italy was still being reshaped by the great powers after the succession wars, and Unigenitus remained a source of conflict in France.",
+   "bio_sources": [
+    "S1",
+    "S23",
+    "S24"
+   ],
+   "public_uncertainty": null,
+   "research_status": "partial",
+   "open_questions": [
+    "CE gives death 23 Feb 1730; roster 21 Feb 1730.",
+    "Servant of God status not confirmed on causesanti.va."
+   ]
+  },
+  {
+   "roster_n": [
+    246
+   ],
+   "id": "clement-xii",
+   "papal_name": "Clement XII",
+   "display_name": "Clement XII",
+   "alt_names": [
+    "Lorenzo Corsini"
+   ],
+   "secular_name": "Lorenzo Corsini",
+   "birth_date": "7 April 1652",
+   "birthplace": {
+    "label": "Florence",
+    "country": "Italy",
+    "historical_name": "Firenze",
+    "precision": "exact",
+    "lat": 43.7696,
+    "lon": 11.2558,
+    "radius_km": null,
+    "roster_birth_field": "Florence",
+    "note": "Vatican table: 'Fiorentino'; CE: born at Florence 7 April 1652.",
+    "public_note": null,
+    "sources": [
+     "S2",
+     "S26"
+    ]
+   },
+   "saint": {
+    "status": "none",
+    "recognition": null,
+    "date": null,
+    "feast": null,
+    "note": "No S./B. label in the Vatican Italian table; no beatification or cause known from the sources consulted.",
+    "public_note": null,
+    "sources": [
+     "S2",
+     "S26"
+    ]
+   },
+   "short_bio": "Lorenzo Corsini, a wealthy Florentine, was elected at nearly eighty and soon went blind, yet governed from his bed for a decade. He issued the first papal condemnation of Freemasonry and began the Trevi Fountain.",
+   "long_bio": "Corsini held major curial offices, including treasurer-general, and became a cardinal in 1706. Elected on 12 July 1730, he revived the public lottery to fund building in Rome: the façade of St John Lateran with the Corsini Chapel, and the Trevi Fountain. He bought a collection of ancient statues for the Capitol. In 1738 he issued the first papal decree against Freemasonry. Blind from the second year of his reign, he continued to govern until his death on 6 February 1740.",
+   "actions": [
+    "First papal condemnation of Freemasonry (1738)",
+    "Began the Trevi Fountain",
+    "Built the Lateran façade and Corsini Chapel",
+    "Enriched the Capitoline collections"
+   ],
+   "context": "The War of the Polish Succession again moved Italian territories between Bourbons and Habsburgs, and Enlightenment ideas and Masonic lodges were spreading.",
+   "bio_sources": [
+    "S1",
+    "S26"
+   ],
+   "public_uncertainty": null,
+   "research_status": "verified",
+   "open_questions": []
+  },
+  {
+   "roster_n": [
+    247
+   ],
+   "id": "benedict-xiv",
+   "papal_name": "Benedict XIV",
+   "display_name": "Benedict XIV",
+   "alt_names": [
+    "Prospero Lambertini"
+   ],
+   "secular_name": "Prospero Lorenzo Lambertini",
+   "birth_date": "31 March 1675",
+   "birthplace": {
+    "label": "Bologna",
+    "country": "Italy",
+    "historical_name": null,
+    "precision": "exact",
+    "lat": 44.4949,
+    "lon": 11.3426,
+    "radius_km": null,
+    "roster_birth_field": "Bologna",
+    "note": "Vatican table: 'Bolognese'; CE: born at Bologna 31 March 1675.",
+    "public_note": null,
+    "sources": [
+     "S2",
+     "S27"
+    ]
+   },
+   "saint": {
+    "status": "none",
+    "recognition": null,
+    "date": null,
+    "feast": null,
+    "note": "No S./B. label in the Vatican Italian table; no beatification or cause known from the sources consulted.",
+    "public_note": null,
+    "sources": [
+     "S2",
+     "S27"
+    ]
+   },
+   "short_bio": "Prospero Lambertini of Bologna, one of the most learned popes, reigned from 1740 to 1758. A great canonist, he wrote the classic work on beatification and canonization and made peace with Catholic rulers through concordats.",
+   "long_bio": "Lambertini took doctorates in theology and law, served in the curia and became bishop of Ancona, a cardinal in 1728 and archbishop of Bologna. His treatise on the beatification and canonization of saints long guided the process. Elected in August 1740 after a six-month conclave, he concluded agreements with Spain, Portugal and Sardinia, ended the Chinese rites controversy with Ex quo singulari (1742), condemned usury in Vix pervenit (1745) and regulated mixed marriages. He founded academies in Rome for church history, antiquities and liturgy. He died on 3 May 1758.",
+   "actions": [
+    "Wrote the standard work on beatification and canonization",
+    "Concluded concordats with Spain, Portugal and Sardinia",
+    "Ended the Chinese rites dispute (1742)",
+    "Issued Vix pervenit on usury (1745)",
+    "Founded Roman academies of history and liturgy"
+   ],
+   "context": "The age of Enlightenment: absolutist rulers sought control of their churches, and Benedict won respect even among critics of the Church such as Voltaire.",
+   "bio_sources": [
+    "S1",
+    "S27"
+   ],
+   "public_uncertainty": null,
+   "research_status": "verified",
+   "open_questions": []
+  },
+  {
+   "roster_n": [
+    248
+   ],
+   "id": "clement-xiii",
+   "papal_name": "Clement XIII",
+   "display_name": "Clement XIII",
+   "alt_names": [
+    "Carlo Rezzonico"
+   ],
+   "secular_name": "Carlo della Torre Rezzonico",
+   "birth_date": "7 March 1693",
+   "birthplace": {
+    "label": "Venice",
+    "country": "Italy",
+    "historical_name": "Venezia",
+    "precision": "exact",
+    "lat": 45.4408,
+    "lon": 12.3155,
+    "radius_km": null,
+    "roster_birth_field": "Venice",
+    "note": "Vatican table: 'Veneziano'; CE: born at Venice 7 March 1693.",
+    "public_note": null,
+    "sources": [
+     "S2",
+     "S28"
+    ]
+   },
+   "saint": {
+    "status": "none",
+    "recognition": null,
+    "date": null,
+    "feast": null,
+    "note": "No S./B. label in the Vatican Italian table; no beatification or cause known from the sources consulted.",
+    "public_note": null,
+    "sources": [
+     "S2",
+     "S28"
+    ]
+   },
+   "short_bio": "Carlo Rezzonico, a Venetian and former bishop of Padua, reigned from 1758 to 1769. He defended the Jesuits as Portugal, France and Spain expelled them.",
+   "long_bio": "Rezzonico studied law at Padua, served in papal tribunals, became a cardinal in 1737 and bishop of Padua in 1743, where he was known for care of his clergy. Elected on 6 July 1758, he faced the Bourbon courts' campaign against the Society of Jesus. He protested against the expulsions from Portugal, France and Spain and in 1765 solemnly confirmed the Jesuit institute with the bull Apostolicum. He encouraged devotion to the Sacred Heart. He died on 2 February 1769, as pressure to suppress the order mounted.",
+   "actions": [
+    "Confirmed the Jesuits' institute (Apostolicum, 1765)",
+    "Protested the expulsion of the Jesuits from Portugal, France and Spain",
+    "Encouraged devotion to the Sacred Heart"
+   ],
+   "context": "Enlightenment ministers such as Pombal in Portugal and Choiseul in France were curbing church power, and the Jesuits became their main target.",
+   "bio_sources": [
+    "S1",
+    "S28"
+   ],
+   "public_uncertainty": null,
+   "research_status": "verified",
+   "open_questions": []
+  },
+  {
+   "roster_n": [
+    249
+   ],
+   "id": "clement-xiv",
+   "papal_name": "Clement XIV",
+   "display_name": "Clement XIV",
+   "alt_names": [
+    "Lorenzo Ganganelli",
+    "Giovanni Vincenzo Antonio Ganganelli"
+   ],
+   "secular_name": "Giovanni Vincenzo Antonio (in religion Lorenzo) Ganganelli",
+   "birth_date": "31 October 1705",
+   "birthplace": {
+    "label": "Santarcangelo di Romagna",
+    "country": "Italy",
+    "historical_name": "Sant'Arcangelo",
+    "precision": "exact",
+    "lat": 44.0631,
+    "lon": 12.4466,
+    "radius_km": null,
+    "roster_birth_field": "Sant'Arcangelo di Romagna",
+    "note": "Vatican table: Sant'Arcangelo di Romagna; CE: born at Sant'Arcangelo near Rimini 31 Oct 1705. Modern official spelling Santarcangelo di Romagna.",
+    "public_note": null,
+    "sources": [
+     "S2",
+     "S29"
+    ]
+   },
+   "saint": {
+    "status": "none",
+    "recognition": null,
+    "date": null,
+    "feast": null,
+    "note": "No S./B. label in the Vatican Italian table; no beatification or cause known from the sources consulted.",
+    "public_note": null,
+    "sources": [
+     "S2",
+     "S29"
+    ]
+   },
+   "short_bio": "Lorenzo Ganganelli, a Franciscan friar from near Rimini, reigned from 1769 to 1774. Under heavy pressure from the Bourbon courts, he suppressed the Society of Jesus in 1773.",
+   "long_bio": "Ganganelli entered the Franciscan friars in 1724 and became a respected theologian and cardinal. Elected in May 1769, he sought to restore relations with the Catholic powers, which had seized Avignon and Benevento. With the brief Dominus ac Redemptor, signed in June 1773 and dated 21 July, he suppressed the Jesuits throughout the Church; Avignon and Benevento were then returned. He died on 22 September 1774. Rumours that he was poisoned were rejected by the doctors who examined him.",
+   "actions": [
+    "Suppressed the Society of Jesus (Dominus ac Redemptor, 1773)",
+    "Recovered Avignon and Benevento"
+   ],
+   "context": "The Bourbon monarchies of France, Spain, Naples and Parma, with Portugal, made the destruction of the Jesuits a condition of good relations with Rome.",
+   "bio_sources": [
+    "S1",
+    "S29"
+   ],
+   "public_uncertainty": "Claims that he was poisoned are unsupported.",
+   "research_status": "verified",
+   "open_questions": [
+    "Pio-Clementine Museum founding not covered by CE article."
+   ]
+  },
+  {
+   "roster_n": [
+    250
+   ],
+   "id": "pius-vi",
+   "papal_name": "Pius VI",
+   "display_name": "Pius VI",
+   "alt_names": [
+    "Giovanni Angelo Braschi",
+    "Giannangelo Braschi"
+   ],
+   "secular_name": "Giovanni Angelo Braschi",
+   "birth_date": "27 December 1717",
+   "birthplace": {
+    "label": "Cesena",
+    "country": "Italy",
+    "historical_name": null,
+    "precision": "exact",
+    "lat": 44.1391,
+    "lon": 12.2431,
+    "radius_km": null,
+    "roster_birth_field": "Cesena",
+    "note": "Vatican table: Cesena; CE: born at Cesena 27 Dec 1717.",
+    "public_note": null,
+    "sources": [
+     "S2",
+     "S30"
+    ]
+   },
+   "saint": {
+    "status": "none",
+    "recognition": null,
+    "date": null,
+    "feast": null,
+    "note": "No S./B. label in the Vatican Italian table; no beatification or cause known from the sources consulted.",
+    "public_note": null,
+    "sources": [
+     "S2",
+     "S30"
+    ]
+   },
+   "short_bio": "Giovanni Angelo Braschi of Cesena reigned for over 24 years, one of the longest pontificates. He confronted Joseph II's church reforms and the French Revolution, and died a prisoner of the French at Valence in 1799.",
+   "long_bio": "Elected on 15 February 1775, Braschi travelled to Vienna in 1782 in a vain attempt to moderate Emperor Joseph II's reforms. He condemned the Civil Constitution of the Clergy in 1791 and the Synod of Pistoia in Auctorem fidei (1794). At home he drained much of the Pontine Marshes, restored the Via Appia and completed the Pio-Clementine Museum. Napoleon's invasion forced the Treaty of Tolentino (1797), surrendering Avignon, Bologna, Ferrara and the Romagna. In 1798 the French proclaimed a Roman Republic and carried the aged pope away; he died at Valence, France, on 29 August 1799.",
+   "actions": [
+    "Visited Vienna to meet Joseph II (1782)",
+    "Condemned the Civil Constitution of the Clergy (1791)",
+    "Condemned the Synod of Pistoia (1794)",
+    "Drained the Pontine Marshes and completed the Pio-Clementine Museum",
+    "Signed the Treaty of Tolentino (1797)"
+   ],
+   "context": "Enlightened absolutism and then the French Revolution shook the Church. Revolutionary armies overran Italy, abolished papal rule in Rome and took the pope into captivity.",
+   "bio_sources": [
+    "S1",
+    "S30"
+   ],
+   "public_uncertainty": null,
+   "research_status": "verified",
+   "open_questions": []
+  },
+  {
+   "roster_n": [
+    251
+   ],
+   "id": "pius-vii",
+   "papal_name": "Pius VII",
+   "display_name": "Pius VII",
+   "alt_names": [
+    "Barnaba Chiaramonti",
+    "Gregorio Chiaramonti"
+   ],
+   "secular_name": "Barnaba (in religion Gregorio) Chiaramonti",
+   "birth_date": "14 August 1742",
+   "birthplace": {
+    "label": "Cesena",
+    "country": "Italy",
+    "historical_name": null,
+    "precision": "exact",
+    "lat": 44.1391,
+    "lon": 12.2431,
+    "radius_km": null,
+    "roster_birth_field": "Cesena",
+    "note": "Vatican table: Cesena; CE: born at Cesena 14 Aug 1742.",
+    "public_note": null,
+    "sources": [
+     "S2",
+     "S31"
+    ]
+   },
+   "saint": {
+    "status": "servant_of_god",
+    "recognition": null,
+    "date": null,
+    "feast": null,
+    "note": "Pope Francis called him 'Servo di Dio' in a 20 Apr 2024 address (vatican.va). Avvenire: nulla osta to open the beatification cause from 15 Aug 2007. No feast.",
+    "public_note": "A cause for his beatification is open.",
+    "sources": [
+     "S32",
+     "S33"
+    ]
+   },
+   "short_bio": "Barnaba Chiaramonti, a Benedictine monk from Cesena, was elected in Venice in 1800 and reigned for 23 years. He signed the Concordat of 1801 with Napoleon, was later held captive by him, and restored the Jesuits in 1814.",
+   "long_bio": "Chiaramonti became a Benedictine at sixteen, taking the name Gregorio, and was bishop of Tivoli and then Imola, and a cardinal from 1785. Elected at Venice on 14 March 1800, after Rome had been occupied by the French, he concluded the Concordat of 1801 with Napoleon, which shaped church-state relations in France for a century, and travelled to Paris for Napoleon's coronation. When the emperor annexed the Papal States, the pope was arrested and held in captivity for years until 1814. Back in Rome he restored the Society of Jesus worldwide, and his secretary of state Consalvi recovered the Papal States at the Congress of Vienna. He died on 20 August 1823.",
+   "actions": [
+    "Concluded the Concordat of 1801 with Napoleon",
+    "Attended Napoleon's coronation in Paris (1804)",
+    "Endured captivity under Napoleon (1809-14)",
+    "Restored the Society of Jesus (1814)",
+    "Recovered the Papal States at the Congress of Vienna"
+   ],
+   "context": "Napoleon dominated Europe, reorganised the Church in France and annexed Rome to his empire. After his fall the Congress of Vienna restored the old monarchies and the Papal States.",
+   "bio_sources": [
+    "S1",
+    "S31"
+   ],
+   "public_uncertainty": null,
+   "research_status": "verified",
+   "open_questions": [
+    "Captivity places (Savona, Fontainebleau) and years are from general knowledge; CE text consulted mentions captivity without places."
+   ]
+  },
+  {
+   "roster_n": [
+    252
+   ],
+   "id": "leo-xii",
+   "papal_name": "Leo XII",
+   "display_name": "Leo XII",
+   "alt_names": [
+    "Annibale della Genga"
+   ],
+   "secular_name": "Annibale Sermattei della Genga",
+   "birth_date": "22 August 1760",
+   "birthplace": {
+    "label": "Genga",
+    "country": "Italy",
+    "historical_name": "Castello della Genga",
+    "precision": "exact",
+    "lat": 43.4294,
+    "lon": 12.9356,
+    "radius_km": null,
+    "roster_birth_field": "Monticelli di Genga (Fabriano)",
+    "note": "Vatican table: 'Monticelli di Genga (Fabriano)'; CE: born at the Castello della Genga 'in the territory of Spoleto'. Both point to the Genga family seat near Fabriano (Marche); coordinates of Genga village, approximate for the exact house.",
+    "public_note": null,
+    "sources": [
+     "S2",
+     "S34"
+    ]
+   },
+   "saint": {
+    "status": "none",
+    "recognition": null,
+    "date": null,
+    "feast": null,
+    "note": "No S./B. label in the Vatican Italian table; no beatification or cause known from the sources consulted.",
+    "public_note": null,
+    "sources": [
+     "S2",
+     "S34"
+    ]
+   },
+   "short_bio": "Annibale della Genga, a noble from the Marche and a veteran papal diplomat in Germany, reigned from 1823 to 1829. He held the Jubilee of 1825 and ruled the Papal States in a strict, conservative way.",
+   "long_bio": "Della Genga served as nuncio in Lucerne and Cologne and on missions in Germany and France. Pius VII made him a cardinal, bishop of Senigallia and in 1820 vicar of Rome. Elected in September 1823, he returned the Roman College to the Jesuits (1824), condemned Freemasonry and secret societies (1825) and celebrated the Jubilee of 1825 despite opposition. He enriched the Vatican Library and worked on rebuilding St Paul's Outside the Walls after the fire of 1823. His severe government was unpopular in Rome. He died on 10 February 1829.",
+   "actions": [
+    "Celebrated the Jubilee of 1825",
+    "Returned the Roman College to the Jesuits (1824)",
+    "Condemned secret societies (1825)",
+    "Began rebuilding St Paul's Outside the Walls"
+   ],
+   "context": "Restoration Europe sought to suppress liberal and nationalist movements, including the Carbonari in Italy.",
+   "bio_sources": [
+    "S1",
+    "S34"
+   ],
+   "public_uncertainty": null,
+   "research_status": "verified",
+   "open_questions": []
+  },
+  {
+   "roster_n": [
+    253
+   ],
+   "id": "pius-viii",
+   "papal_name": "Pius VIII",
+   "display_name": "Pius VIII",
+   "alt_names": [
+    "Francesco Saverio Castiglioni"
+   ],
+   "secular_name": "Francesco Saverio Castiglioni",
+   "birth_date": "20 November 1761",
+   "birthplace": {
+    "label": "Cingoli",
+    "country": "Italy",
+    "historical_name": null,
+    "precision": "exact",
+    "lat": 43.3747,
+    "lon": 13.216,
+    "radius_km": null,
+    "roster_birth_field": "Cingoli",
+    "note": "Vatican table: Cingoli; CE: born at Cingoli 20 Nov 1761.",
+    "public_note": null,
+    "sources": [
+     "S2",
+     "S35"
+    ]
+   },
+   "saint": {
+    "status": "none",
+    "recognition": null,
+    "date": null,
+    "feast": null,
+    "note": "No S./B. label in the Vatican Italian table; no beatification or cause known from the sources consulted.",
+    "public_note": null,
+    "sources": [
+     "S2",
+     "S35"
+    ]
+   },
+   "short_bio": "Francesco Saverio Castiglioni of Cingoli, a canonist, reigned for just twenty months. His brief pontificate saw Catholic Emancipation in Britain and the July Revolution in France.",
+   "long_bio": "Castiglioni was bishop of Montalto and then Cesena and was arrested under French rule for refusing an oath of allegiance. He became a cardinal in 1816 and later bishop of Frascati and grand penitentiary. Elected on 31 March 1829 as a mild candidate acceptable to France and Austria, he issued a brief in 1830 on mixed marriages, requiring promises of Catholic upbringing for the Church's blessing. He welcomed Catholic Emancipation in Britain and, with hesitation, recognised the new French monarchy after the July Revolution. He died at the end of November 1830.",
+   "actions": [
+    "Ruled on mixed marriages (brief Litteris altero, 1830)",
+    "Welcomed Catholic Emancipation in Britain (1829)",
+    "Recognised Louis-Philippe's regime in France"
+   ],
+   "context": "Liberal revolutions broke out across Europe in 1830, from Paris to Belgium and Poland, soon reaching the Papal States.",
+   "bio_sources": [
+    "S1",
+    "S35"
+   ],
+   "public_uncertainty": null,
+   "research_status": "verified",
+   "open_questions": [
+    "CE gives death 1 Dec 1830; roster 30 Nov 1830."
+   ]
+  },
+  {
+   "roster_n": [
+    254
+   ],
+   "id": "gregory-xvi",
+   "papal_name": "Gregory XVI",
+   "display_name": "Gregory XVI",
+   "alt_names": [
+    "Bartolomeo Alberto Cappellari",
+    "Mauro Cappellari"
+   ],
+   "secular_name": "Bartolomeo Alberto (in religion Mauro) Cappellari",
+   "birth_date": "8 September 1765",
+   "birthplace": {
+    "label": "Belluno",
+    "country": "Italy",
+    "historical_name": null,
+    "precision": "exact",
+    "lat": 46.1425,
+    "lon": 12.2167,
+    "radius_km": null,
+    "roster_birth_field": "Belluno",
+    "note": "Vatican table: Belluno; CE: born at Belluno 8 Sept 1765, then Venetian territory.",
+    "public_note": null,
+    "sources": [
+     "S2",
+     "S36"
+    ]
+   },
+   "saint": {
+    "status": "none",
+    "recognition": null,
+    "date": null,
+    "feast": null,
+    "note": "No S./B. label in the Vatican Italian table; no beatification or cause known from the sources consulted.",
+    "public_note": null,
+    "sources": [
+     "S2",
+     "S36"
+    ]
+   },
+   "short_bio": "Bartolomeo Cappellari of Belluno, a Camaldolese monk, reigned from 1831 to 1846. He put down revolts in the Papal States with Austrian help, condemned liberal Catholicism in Mirari vos and strongly promoted missions.",
+   "long_bio": "Cappellari entered the Camaldolese monks in 1783, taking the name Mauro, and became abbot and scholar in Rome. Made a cardinal in 1826, he was prefect of Propaganda Fide. Elected in February 1831 as revolts broke out in the Papal States, he relied on Austrian troops to restore order. His encyclical Mirari vos (1832) condemned the ideas of Lamennais's journal L'Avenir. He sent missionaries to Africa, Asia, Oceania and North America, and founded the Etruscan and Egyptian museums at the Vatican. He died on 1 June 1846.",
+   "actions": [
+    "Condemned liberal ideas in Mirari vos (1832)",
+    "Restored order in the Papal States with Austrian help",
+    "Expanded missions worldwide",
+    "Founded the Vatican's Etruscan and Egyptian museums"
+   ],
+   "context": "Nationalist and liberal movements were growing in Italy; the Papal States were among the most criticised governments in Europe. Catholic missions expanded with European colonial reach.",
+   "bio_sources": [
+    "S1",
+    "S36"
+   ],
+   "public_uncertainty": null,
+   "research_status": "verified",
+   "open_questions": []
+  },
+  {
+   "roster_n": [
+    255
+   ],
+   "id": "pius-ix",
+   "papal_name": "Pius IX",
+   "display_name": "Bl. Pius IX",
+   "alt_names": [
+    "Giovanni Maria Mastai Ferretti"
+   ],
+   "secular_name": "Giovanni Maria Mastai Ferretti",
+   "birth_date": "13 May 1792",
+   "birthplace": {
+    "label": "Senigallia",
+    "country": "Italy",
+    "historical_name": "Sinigaglia",
+    "precision": "exact",
+    "lat": 43.7147,
+    "lon": 13.2186,
+    "radius_km": null,
+    "roster_birth_field": "Senigallia",
+    "note": "Vatican table and causesanti: Senigallia; CE: 'Sinigaglia'.",
+    "public_note": null,
+    "sources": [
+     "S2",
+     "S37",
+     "S38"
+    ]
+   },
+   "saint": {
+    "status": "blessed",
+    "recognition": "beatified",
+    "date": "3 September 2000",
+    "feast": "7 February",
+    "note": "Beatified by John Paul II on 3 Sept 2000 (with John XXIII); memorial 7 Feb (causesanti.va). Vatican table: 'B.'",
+    "public_note": null,
+    "sources": [
+     "S2",
+     "S38"
+    ]
+   },
+   "short_bio": "Giovanni Maria Mastai Ferretti of Senigallia reigned for nearly 32 years, the longest reliably documented pontificate. He defined the Immaculate Conception, convened the First Vatican Council and saw the end of the Papal States in 1870. He was beatified in 2000.",
+   "long_bio": "Mastai Ferretti was archbishop of Spoleto and bishop of Imola, and a cardinal from 1840. Elected on 16 June 1846 amid hopes of liberal reform, he fled to Gaeta after the revolution of 1848 and returned in 1850. He proclaimed the dogma of the Immaculate Conception in 1854 and issued the Syllabus of Errors with Quanta cura in 1864. The First Vatican Council, opened in 1869, defined papal infallibility on 18 July 1870. Two months later Italian troops took Rome, and he lived out his reign within the Vatican. He died on 7 February 1878.",
+   "actions": [
+    "Defined the Immaculate Conception (1854)",
+    "Issued the Syllabus of Errors (1864)",
+    "Convened the First Vatican Council (1869-70)",
+    "Lost Rome to the Kingdom of Italy (1870)"
+   ],
+   "context": "The Risorgimento unified Italy at the expense of the Papal States, while liberalism and secular states challenged the Church across Europe.",
+   "bio_sources": [
+    "S1",
+    "S37",
+    "S38"
+   ],
+   "public_uncertainty": null,
+   "research_status": "verified",
+   "open_questions": []
+  },
+  {
+   "roster_n": [
+    256
+   ],
+   "id": "leo-xiii",
+   "papal_name": "Leo XIII",
+   "display_name": "Leo XIII",
+   "alt_names": [
+    "Vincenzo Gioacchino Pecci",
+    "Gioacchino Pecci"
+   ],
+   "secular_name": "Vincenzo Gioacchino Raffaele Luigi Pecci",
+   "birth_date": "2 March 1810",
+   "birthplace": {
+    "label": "Carpineto Romano",
+    "country": "Italy",
+    "historical_name": "Carpineto",
+    "precision": "exact",
+    "lat": 41.6047,
+    "lon": 13.0839,
+    "radius_km": null,
+    "roster_birth_field": "Carpineto Romano",
+    "note": "Vatican table: Carpineto Romano; CE: born at Carpineto 2 March 1810.",
+    "public_note": null,
+    "sources": [
+     "S2",
+     "S39"
+    ]
+   },
+   "saint": {
+    "status": "none",
+    "recognition": null,
+    "date": null,
+    "feast": null,
+    "note": "No S./B. label in the Vatican Italian table; no beatification or cause known from the sources consulted.",
+    "public_note": null,
+    "sources": [
+     "S2",
+     "S39"
+    ]
+   },
+   "short_bio": "Gioacchino Pecci of Carpineto, south-east of Rome, reigned for 25 years until his death at 93. His encyclical Rerum novarum founded modern Catholic social teaching, and he revived the study of Thomas Aquinas.",
+   "long_bio": "Pecci was ordained in 1837, served as papal delegate in Benevento and Perugia and as nuncio in Brussels, then was bishop of Perugia for over thirty years and a cardinal from 1853. Named camerlengo in 1877, he was elected on 20 February 1878. He urged the study of Aquinas in Aeterni Patris, negotiated an end to the Kulturkampf with Bismarck's Germany and in 1891 issued Rerum novarum on capital, labour and workers' rights. He died on 20 July 1903.",
+   "actions": [
+    "Issued Rerum novarum on labour (1891)",
+    "Revived Thomist philosophy (Aeterni Patris)",
+    "Ended the Kulturkampf in Germany by agreement",
+    "Opened the Vatican Archives to scholars"
+   ],
+   "context": "Industrialisation created a mass working class and new social conflicts. The papacy, without territory after 1870, sought a new moral and diplomatic role.",
+   "bio_sources": [
+    "S1",
+    "S39"
+   ],
+   "public_uncertainty": null,
+   "research_status": "verified",
+   "open_questions": [
+    "Opening of Vatican Archives (1881) from general knowledge, not in CE extract consulted."
+   ]
+  },
+  {
+   "roster_n": [
+    257
+   ],
+   "id": "pius-x",
+   "papal_name": "Pius X",
+   "display_name": "St Pius X",
+   "alt_names": [
+    "Giuseppe Melchiorre Sarto"
+   ],
+   "secular_name": "Giuseppe Melchiorre Sarto",
+   "birth_date": "2 June 1835",
+   "birthplace": {
+    "label": "Riese Pio X",
+    "country": "Italy",
+    "historical_name": "Riese",
+    "precision": "exact",
+    "lat": 45.73,
+    "lon": 11.9167,
+    "radius_km": null,
+    "roster_birth_field": "Riese (Treviso)",
+    "note": "Vatican table: Riese (Treviso); CE and causesanti: Riese, diocese/province of Treviso. Renamed Riese Pio X in his honour.",
+    "public_note": null,
+    "sources": [
+     "S2",
+     "S40",
+     "S41"
+    ]
+   },
+   "saint": {
+    "status": "saint",
+    "recognition": "canonized",
+    "date": "29 May 1954",
+    "feast": "21 August",
+    "note": "Beatified 3 June 1951 and canonized 29 May 1954 by Pius XII; memorial 21 Aug (causesanti.va). Vatican table 'S.'",
+    "public_note": null,
+    "sources": [
+     "S2",
+     "S41"
+    ]
+   },
+   "short_bio": "Giuseppe Sarto, son of a poor family in Riese near Treviso, was a parish priest, bishop of Mantua and patriarch of Venice before becoming pope in 1903. He encouraged frequent communion, began the codification of canon law and opposed Modernism. He was canonized in 1954.",
+   "long_bio": "Sarto spent years in parish work before becoming bishop of Mantua in 1884, and cardinal and patriarch of Venice in 1893. Elected on 4 August 1903, he took as motto 'to restore all things in Christ'. He reformed church music in favour of Gregorian chant, encouraged frequent and even daily communion and admitted children to first communion at an early age (1910). In 1904 he began the codification of canon law. He condemned Modernism in Lamentabili and Pascendi (1907) and rejected the French separation law. He died on 20 August 1914, just after the outbreak of the First World War.",
+   "actions": [
+    "Reformed sacred music (1903)",
+    "Encouraged frequent communion and early first communion",
+    "Began the codification of canon law (1904)",
+    "Condemned Modernism in Pascendi (1907)"
+   ],
+   "context": "The years before the First World War saw a Church in conflict with anticlerical governments, especially in France, and debates over modern biblical and historical scholarship.",
+   "bio_sources": [
+    "S1",
+    "S40",
+    "S41"
+   ],
+   "public_uncertainty": null,
+   "research_status": "verified",
+   "open_questions": []
+  },
+  {
+   "roster_n": [
+    258
+   ],
+   "id": "benedict-xv",
+   "papal_name": "Benedict XV",
+   "display_name": "Benedict XV",
+   "alt_names": [
+    "Giacomo della Chiesa"
+   ],
+   "secular_name": "Giacomo Paolo Giovanni Battista della Chiesa",
+   "birth_date": "21 November 1854",
+   "birthplace": {
+    "label": "Genoa",
+    "country": "Italy",
+    "historical_name": "Genova",
+    "precision": "exact",
+    "lat": 44.4056,
+    "lon": 8.9463,
+    "radius_km": null,
+    "roster_birth_field": "",
+    "note": "Roster birth field blank. Vatican Italian table: 'Genovese'; vatican.va biography: born at Genova. Many secondary sources (e.g. Wikipedia) specify Pegli, then a separate town and now a district of Genoa (approx. 44.428, 8.816). Labelled Genoa per Vatican; Pegli recorded.",
+    "public_note": "Some sources specify Pegli, now a district of Genoa.",
+    "sources": [
+     "S2",
+     "S42"
+    ]
+   },
+   "saint": {
+    "status": "none",
+    "recognition": null,
+    "date": null,
+    "feast": null,
+    "note": "No S./B. label in the Vatican Italian table; no beatification or cause known from the sources consulted.",
+    "public_note": null,
+    "sources": [
+     "S2",
+     "S42"
+    ]
+   },
+   "short_bio": "Giacomo della Chiesa, a Genoese diplomat and archbishop of Bologna, was elected weeks after the First World War began. He worked tirelessly for peace, aided prisoners and refugees, and promulgated the first Code of Canon Law.",
+   "long_bio": "After studying law, della Chiesa was ordained in 1878 and joined papal diplomacy, serving in Madrid with Mariano Rampolla and then in the Secretariat of State. Pius X made him archbishop of Bologna in 1907 and a cardinal in May 1914. Elected on 3 September 1914, he kept the Holy See neutral and in August 1917 called on the warring powers to end the 'useless slaughter'. He promulgated the Code of Canon Law in 1917, created the Congregation for the Eastern Churches, and in Maximum illud (1919) urged the formation of native clergy in mission lands. He died on 22 January 1922.",
+   "actions": [
+    "Appealed for peace and called the war a 'useless slaughter' (1917)",
+    "Promulgated the Code of Canon Law (1917)",
+    "Founded the Congregation for the Eastern Churches (1917)",
+    "Issued Maximum illud on missions (1919)"
+   ],
+   "context": "The First World War divided Catholic nations against each other. After it, empires collapsed and new states emerged across Europe.",
+   "bio_sources": [
+    "S1",
+    "S42"
+   ],
+   "public_uncertainty": null,
+   "research_status": "verified",
+   "open_questions": []
+  },
+  {
+   "roster_n": [
+    259
+   ],
+   "id": "pius-xi",
+   "papal_name": "Pius XI",
+   "display_name": "Pius XI",
+   "alt_names": [
+    "Achille Ratti"
+   ],
+   "secular_name": "Ambrogio Damiano Achille Ratti",
+   "birth_date": "31 May 1857",
+   "birthplace": {
+    "label": "Desio",
+    "country": "Italy",
+    "historical_name": null,
+    "precision": "exact",
+    "lat": 45.6186,
+    "lon": 9.2083,
+    "radius_km": null,
+    "roster_birth_field": "Desio (Milan)",
+    "note": "Vatican table and vatican.va biography: Desio (Milano). Desio is now in the province of Monza and Brianza.",
+    "public_note": null,
+    "sources": [
+     "S2",
+     "S43"
+    ]
+   },
+   "saint": {
+    "status": "none",
+    "recognition": null,
+    "date": null,
+    "feast": null,
+    "note": "No S./B. label in the Vatican Italian table; no cause known from the sources consulted.",
+    "public_note": null,
+    "sources": [
+     "S2",
+     "S43"
+    ]
+   },
+   "short_bio": "Achille Ratti of Desio, near Milan, was a scholar-librarian and mountaineer before becoming nuncio to Poland and archbishop of Milan. As pope from 1922 to 1939 he signed the Lateran Pacts creating Vatican City State and condemned both Nazism and communism.",
+   "long_bio": "Ordained in 1879, Ratti was prefect of the Ambrosian Library in Milan and then of the Vatican Library. In 1919 he was sent to Poland as nuncio and in 1921 became archbishop of Milan and a cardinal. Elected on 6 February 1922, he promoted Catholic Action and the missions. On 11 February 1929 the Lateran Pacts with Italy settled the Roman Question and created Vatican City State. In 1931 he issued Quadragesimo anno on social order and inaugurated Vatican Radio. In March 1937 he condemned Nazism in Mit brennender Sorge and atheistic communism in Divini Redemptoris. He died on 10 February 1939.",
+   "actions": [
+    "Signed the Lateran Pacts, creating Vatican City State (1929)",
+    "Issued Quadragesimo anno (1931)",
+    "Inaugurated Vatican Radio (1931)",
+    "Condemned Nazism in Mit brennender Sorge (1937)",
+    "Condemned communism in Divini Redemptoris (1937)"
+   ],
+   "context": "Between the world wars, totalitarian regimes rose in Italy, Germany and the Soviet Union, and the Great Depression brought social upheaval.",
+   "bio_sources": [
+    "S1",
+    "S43"
+   ],
+   "public_uncertainty": null,
+   "research_status": "verified",
+   "open_questions": []
+  },
+  {
+   "roster_n": [
+    260
+   ],
+   "id": "pius-xii",
+   "papal_name": "Pius XII",
+   "display_name": "Ven. Pius XII",
+   "alt_names": [
+    "Eugenio Pacelli"
+   ],
+   "secular_name": "Eugenio Maria Giuseppe Giovanni Pacelli",
+   "birth_date": "2 March 1876",
+   "birthplace": {
+    "label": "Rome",
+    "country": "Italy",
+    "historical_name": "Roma",
+    "precision": "exact",
+    "lat": 41.9028,
+    "lon": 12.4964,
+    "radius_km": null,
+    "roster_birth_field": "Rome",
+    "note": "Vatican table: 'Romano'; vatican.va biography: born in Rome 2 March 1876.",
+    "public_note": null,
+    "sources": [
+     "S2",
+     "S44"
+    ]
+   },
+   "saint": {
+    "status": "venerable",
+    "recognition": null,
+    "date": "19 December 2009",
+    "feast": null,
+    "note": "Vatican Italian table labels him 'Venerabile'; decree of heroic virtue approved by Benedict XVI on 19 Dec 2009 (CNA report). Not beatified; no feast.",
+    "public_note": null,
+    "sources": [
+     "S2",
+     "S45"
+    ]
+   },
+   "short_bio": "Eugenio Pacelli, a Roman, was a career diplomat, nuncio in Germany and secretary of state before his election on his 63rd birthday in 1939. He led the Church through the Second World War and defined the dogma of the Assumption in 1950.",
+   "long_bio": "Ordained in 1899, Pacelli served as nuncio in Bavaria from 1917 and to the German Republic from 1920. Pius XI made him a cardinal in 1929 and secretary of state in 1930. Elected on 2 March 1939, he appealed for peace on the eve of the war and kept the Holy See formally neutral throughout it; his conduct during the Holocaust remains debated by historians. In the Holy Year 1950 he defined the Assumption of Mary in Munificentissimus Deus. He died at Castel Gandolfo on 9 October 1958.",
+   "actions": [
+    "Led the Church through the Second World War",
+    "Defined the dogma of the Assumption (1950)",
+    "Celebrated the Holy Year of 1950"
+   ],
+   "context": "The Second World War, the Holocaust and the beginning of the Cold War, with communist regimes persecuting the Church in eastern Europe.",
+   "bio_sources": [
+    "S1",
+    "S44"
+   ],
+   "public_uncertainty": "Historians continue to debate his response to the Holocaust.",
+   "research_status": "verified",
+   "open_questions": []
+  },
+  {
+   "roster_n": [
+    261
+   ],
+   "id": "john-xxiii",
+   "papal_name": "John XXIII",
+   "display_name": "St John XXIII",
+   "alt_names": [
+    "Angelo Giuseppe Roncalli"
+   ],
+   "secular_name": "Angelo Giuseppe Roncalli",
+   "birth_date": "25 November 1881",
+   "birthplace": {
+    "label": "Sotto il Monte Giovanni XXIII",
+    "country": "Italy",
+    "historical_name": "Sotto il Monte",
+    "precision": "exact",
+    "lat": 45.7058,
+    "lon": 9.5017,
+    "radius_km": null,
+    "roster_birth_field": "Sotto il Monte (Bergamo)",
+    "note": "Vatican table and causesanti: Sotto il Monte (Bergamo). Village renamed Sotto il Monte Giovanni XXIII.",
+    "public_note": null,
+    "sources": [
+     "S2",
+     "S46",
+     "S47"
+    ]
+   },
+   "saint": {
+    "status": "saint",
+    "recognition": "canonized",
+    "date": "27 April 2014",
+    "feast": "11 October",
+    "note": "Beatified 3 Sept 2000 by John Paul II; canonized 27 Apr 2014 by Francis; memorial 11 Oct (causesanti.va).",
+    "public_note": null,
+    "sources": [
+     "S2",
+     "S46"
+    ]
+   },
+   "short_bio": "Angelo Roncalli, son of farmers near Bergamo, spent decades as a papal diplomat in Bulgaria, Turkey, Greece and France before becoming patriarch of Venice. Elected at 76 in 1958, he called the Second Vatican Council. He was canonized in 2014.",
+   "long_bio": "Ordained in 1904, Roncalli was secretary to Bishop Radini Tedeschi of Bergamo and an army chaplain in the First World War. From 1925 he represented the Holy See in Bulgaria, then from 1934 in Turkey and Greece, and from 1944 as nuncio in Paris. He became cardinal and patriarch of Venice in 1953. Elected on 28 October 1958, he announced an ecumenical council in 1959, which opened on 11 October 1962. His encyclicals Mater et magistra (1961) and Pacem in terris (1963) addressed social justice and peace. He died on 3 June 1963.",
+   "actions": [
+    "Convened the Second Vatican Council (opened 1962)",
+    "Issued Mater et magistra (1961)",
+    "Issued Pacem in terris on peace (1963)"
+   ],
+   "context": "The Cold War and the Cuban Missile Crisis, decolonisation, and a growing desire within the Church for renewal and dialogue with the modern world.",
+   "bio_sources": [
+    "S1",
+    "S46",
+    "S47"
+   ],
+   "public_uncertainty": null,
+   "research_status": "verified",
+   "open_questions": []
+  },
+  {
+   "roster_n": [
+    262
+   ],
+   "id": "paul-vi",
+   "papal_name": "Paul VI",
+   "display_name": "St Paul VI",
+   "alt_names": [
+    "Giovanni Battista Montini"
+   ],
+   "secular_name": "Giovanni Battista Enrico Antonio Maria Montini",
+   "birth_date": "26 September 1897",
+   "birthplace": {
+    "label": "Concesio",
+    "country": "Italy",
+    "historical_name": null,
+    "precision": "exact",
+    "lat": 45.6047,
+    "lon": 10.2178,
+    "radius_km": null,
+    "roster_birth_field": "Concesio (Brescia)",
+    "note": "Vatican table, causesanti and vatican.va: Concesio (Brescia).",
+    "public_note": null,
+    "sources": [
+     "S2",
+     "S48",
+     "S49"
+    ]
+   },
+   "saint": {
+    "status": "saint",
+    "recognition": "canonized",
+    "date": "14 October 2018",
+    "feast": "29 May",
+    "note": "Beatified 19 Oct 2014 and canonized 14 Oct 2018 by Francis; memorial 29 May (causesanti.va).",
+    "public_note": null,
+    "sources": [
+     "S2",
+     "S48",
+     "S49"
+    ]
+   },
+   "short_bio": "Giovanni Battista Montini, from near Brescia, served for three decades in the Secretariat of State and became archbishop of Milan. As pope from 1963 to 1978 he guided the Second Vatican Council to its close and was the first modern pope to travel the world. He was canonized in 2018.",
+   "long_bio": "Ordained in 1920, Montini served briefly at the nunciature in Warsaw and then in the Secretariat of State, becoming substitute in 1937 and pro-secretary in 1952. In 1954 he became archbishop of Milan. Elected on 21 June 1963, he led the remaining sessions of the Second Vatican Council to completion and began a new era of papal journeys, starting with the Holy Land, where he met Patriarch Athenagoras. His encyclicals included Ecclesiam suam on dialogue and Populorum progressio on the development of peoples, and he instituted the World Day of Peace. He died at Castel Gandolfo on 6 August 1978.",
+   "actions": [
+    "Brought the Second Vatican Council to its close",
+    "Began papal journeys abroad, starting with the Holy Land",
+    "Met Ecumenical Patriarch Athenagoras",
+    "Issued Populorum progressio",
+    "Instituted the World Day of Peace"
+   ],
+   "context": "The Church was implementing the Council's reforms amid the social upheavals of the 1960s and 70s, the Cold War and decolonisation.",
+   "bio_sources": [
+    "S1",
+    "S48",
+    "S49"
+   ],
+   "public_uncertainty": null,
+   "research_status": "verified",
+   "open_questions": [
+    "Humanae vitae (1968) not mentioned in the vatican.va profile consulted; omitted."
+   ]
+  },
+  {
+   "roster_n": [
+    263
+   ],
+   "id": "john-paul-i",
+   "papal_name": "John Paul I",
+   "display_name": "Bl. John Paul I",
+   "alt_names": [
+    "Albino Luciani"
+   ],
+   "secular_name": "Albino Luciani",
+   "birth_date": "17 October 1912",
+   "birthplace": {
+    "label": "Canale d'Agordo",
+    "country": "Italy",
+    "historical_name": "Forno di Canale",
+    "precision": "exact",
+    "lat": 46.3597,
+    "lon": 11.9147,
+    "radius_km": null,
+    "roster_birth_field": "Forno di Canale (Belluno)",
+    "note": "Vatican table: Forno di Canale (Belluno); causesanti and vatican.va: Forno di Canale, now Canale d'Agordo (Belluno).",
+    "public_note": null,
+    "sources": [
+     "S2",
+     "S50",
+     "S52"
+    ]
+   },
+   "saint": {
+    "status": "blessed",
+    "recognition": "beatified",
+    "date": "4 September 2022",
+    "feast": "26 August",
+    "note": "Venerable 8 Nov 2017; beatified by Francis 4 Sept 2022 (causesanti.va). Memorial 26 Aug per Vatican News saint of the day. Vatican Italian table still says 'Venerabile' - outdated.",
+    "public_note": null,
+    "sources": [
+     "S50",
+     "S51"
+    ]
+   },
+   "short_bio": "Albino Luciani, son of a worker from the Dolomites, was bishop of Vittorio Veneto and patriarch of Venice. Elected in August 1978, he took the first double papal name and died after only 33 days. He was beatified in 2022.",
+   "long_bio": "Ordained in 1935, Luciani taught at the Belluno seminary and served as vicar general before John XXIII made him bishop of Vittorio Veneto in 1958. Paul VI named him patriarch of Venice in 1969 and a cardinal in 1973. Elected on 26 August 1978 on the conclave's second day, he chose the name John Paul to honour his two predecessors. Known for his warmth and simple teaching style, he died suddenly on 28 September 1978.",
+   "actions": [
+    "Chose the first double name, honouring John XXIII and Paul VI",
+    "Reigned 33 days, one of the shortest modern pontificates"
+   ],
+   "context": "He was elected in the 'year of three popes' (1978), in the years following the Second Vatican Council.",
+   "bio_sources": [
+    "S1",
+    "S50",
+    "S52"
+   ],
+   "public_uncertainty": null,
+   "research_status": "verified",
+   "open_questions": [
+    "'First double name' is widely stated; not explicit in the vatican.va biography."
+   ]
+  },
+  {
+   "roster_n": [
+    264
+   ],
+   "id": "john-paul-ii",
+   "papal_name": "John Paul II",
+   "display_name": "St John Paul II",
+   "alt_names": [
+    "Karol Wojtyła"
+   ],
+   "secular_name": "Karol Józef Wojtyła",
+   "birth_date": "18 May 1920",
+   "birthplace": {
+    "label": "Wadowice",
+    "country": "Poland",
+    "historical_name": null,
+    "precision": "exact",
+    "lat": 49.8833,
+    "lon": 19.4931,
+    "radius_km": null,
+    "roster_birth_field": "Wadowice (Kraków)",
+    "note": "Vatican table: Wadowice (Kraków); causesanti and vatican.va: Wadowice, about 50 km from Kraków.",
+    "public_note": null,
+    "sources": [
+     "S2",
+     "S53",
+     "S54"
+    ]
+   },
+   "saint": {
+    "status": "saint",
+    "recognition": "canonized",
+    "date": "27 April 2014",
+    "feast": "22 October",
+    "note": "Beatified 1 May 2011 by Benedict XVI; canonized 27 Apr 2014 by Francis (with John XXIII); memorial 22 Oct (causesanti.va).",
+    "public_note": null,
+    "sources": [
+     "S2",
+     "S53"
+    ]
+   },
+   "short_bio": "Karol Wojtyła of Wadowice, archbishop of Kraków, was the first non-Italian pope in over 450 years. During a pontificate of more than 26 years he travelled the world, supported the end of communism in eastern Europe and led the Church into the third millennium. He was canonized in 2014.",
+   "long_bio": "Ordained in Kraków in 1946, Wojtyła was a philosopher and pastor who became auxiliary bishop in 1958, archbishop of Kraków in 1964 and a cardinal in 1967; he took part in the Second Vatican Council. Elected on 16 October 1978, he made 104 pastoral journeys outside Italy, began the World Youth Days, promulgated the reformed Codes of Canon Law and the Catechism of the Catholic Church, and led the Great Jubilee of 2000. He died on 2 April 2005.",
+   "actions": [
+    "Made 104 pastoral journeys abroad",
+    "Promulgated the Catechism of the Catholic Church",
+    "Reformed the Latin and Eastern codes of canon law",
+    "Began World Youth Days",
+    "Led the Great Jubilee of 2000"
+   ],
+   "context": "The late Cold War, the collapse of communist rule in Poland and eastern Europe from 1989, and globalisation at the turn of the millennium.",
+   "bio_sources": [
+    "S1",
+    "S53",
+    "S54"
+   ],
+   "public_uncertainty": null,
+   "research_status": "verified",
+   "open_questions": []
+  },
+  {
+   "roster_n": [
+    265
+   ],
+   "id": "benedict-xvi",
+   "papal_name": "Benedict XVI",
+   "display_name": "Benedict XVI",
+   "alt_names": [
+    "Joseph Ratzinger",
+    "Joseph Aloisius Ratzinger"
+   ],
+   "secular_name": "Joseph Aloisius Ratzinger",
+   "birth_date": "16 April 1927",
+   "birthplace": {
+    "label": "Marktl",
+    "country": "Germany",
+    "historical_name": "Marktl am Inn",
+    "precision": "exact",
+    "lat": 48.255,
+    "lon": 12.8447,
+    "radius_km": null,
+    "roster_birth_field": "Marktl am Inn (Bavaria)",
+    "note": "Vatican table: Marktl am Inn (Baviera); Vatican News: Marktl am Inn, diocese of Passau. Municipality officially Marktl (Landkreis Altötting), Bavaria.",
+    "public_note": null,
+    "sources": [
+     "S2",
+     "S55"
+    ]
+   },
+   "saint": {
+    "status": "none",
+    "recognition": null,
+    "date": null,
+    "feast": null,
+    "note": "No cause opened per the sources consulted.",
+    "public_note": null,
+    "sources": [
+     "S2",
+     "S55"
+    ]
+   },
+   "short_bio": "Joseph Ratzinger, from Bavaria, was a leading theologian, archbishop of Munich and for over twenty years head of the Congregation for the Doctrine of the Faith. Elected in 2005, he resigned in 2013, the first pope to do so in centuries, and died as pope emeritus in 2022.",
+   "long_bio": "Ordained in 1951, Ratzinger taught theology at several German universities and was a theological adviser at the Second Vatican Council. In 1977 he became archbishop of Munich and Freising and a cardinal, and in 1981 John Paul II named him prefect of the Congregation for the Doctrine of the Faith. Elected on 19 April 2005, he wrote encyclicals on love, hope and charity in truth. On 11 February 2013 he announced his resignation, effective 28 February. He lived in the Vatican as pope emeritus until his death on 31 December 2022.",
+   "actions": [
+    "Wrote the encyclicals Deus caritas est, Spe salvi and Caritas in veritate",
+    "Resigned the papacy (2013)",
+    "Lived as the first pope emeritus"
+   ],
+   "context": "A Church facing secularisation in Europe and the clergy sexual-abuse crisis, in a globalised and digital world.",
+   "bio_sources": [
+    "S1",
+    "S55"
+   ],
+   "public_uncertainty": null,
+   "research_status": "verified",
+   "open_questions": [
+    "Encyclical titles from general knowledge; Vatican News bio not checked for them."
+   ]
+  },
+  {
+   "roster_n": [
+    266
+   ],
+   "id": "francis",
+   "papal_name": "Francis",
+   "display_name": "Francis",
+   "alt_names": [
+    "Jorge Mario Bergoglio"
+   ],
+   "secular_name": "Jorge Mario Bergoglio",
+   "birth_date": "17 December 1936",
+   "birthplace": {
+    "label": "Buenos Aires",
+    "country": "Argentina",
+    "historical_name": null,
+    "precision": "exact",
+    "lat": -34.6037,
+    "lon": -58.3816,
+    "radius_km": null,
+    "roster_birth_field": "Buenos Aires (Argentina)",
+    "note": "Vatican table and vatican.va biography: Buenos Aires.",
+    "public_note": null,
+    "sources": [
+     "S2",
+     "S56"
+    ]
+   },
+   "saint": {
+    "status": "none",
+    "recognition": null,
+    "date": null,
+    "feast": null,
+    "note": "Died 21 April 2025; no cause opened per the sources consulted.",
+    "public_note": null,
+    "sources": [
+     "S56"
+    ]
+   },
+   "short_bio": "Jorge Mario Bergoglio of Buenos Aires, son of Italian immigrants, was the first Jesuit pope and the first from the Americas. He reigned from 2013 until his death on Easter Monday 2025, stressing mercy, care for the poor and care for creation.",
+   "long_bio": "Bergoglio entered the Jesuit novitiate in 1958, was ordained in 1969 and became provincial of the Argentine Jesuits in 1973. He became archbishop of Buenos Aires in 1998 and a cardinal in 2001. Elected on 13 March 2013, he took the name Francis. His encyclical Laudato si' (2015) addressed care for our common home and Fratelli tutti (2020) human fraternity. He convened several assemblies of the Synod of Bishops, including on the family, young people, the Amazon and synodality. He died at the Casa Santa Marta on 21 April 2025.",
+   "actions": [
+    "Issued Laudato si' on care for creation (2015)",
+    "Issued Fratelli tutti on fraternity (2020)",
+    "Convened synods on the family, youth, the Amazon and synodality"
+   ],
+   "context": "A global Church whose centre of gravity had shifted to the southern hemisphere, amid migration crises, climate change and the COVID-19 pandemic.",
+   "bio_sources": [
+    "S1",
+    "S56"
+   ],
+   "public_uncertainty": null,
+   "research_status": "verified",
+   "open_questions": []
+  },
+  {
+   "roster_n": [
+    267
+   ],
+   "id": "leo-xiv",
+   "papal_name": "Leo XIV",
+   "display_name": "Leo XIV",
+   "alt_names": [
+    "Robert Francis Prevost"
+   ],
+   "secular_name": "Robert Francis Prevost",
+   "birth_date": "14 September 1955",
+   "birthplace": {
+    "label": "Chicago",
+    "country": "United States",
+    "historical_name": null,
+    "precision": "exact",
+    "lat": 41.8781,
+    "lon": -87.6298,
+    "radius_km": null,
+    "roster_birth_field": "Chicago",
+    "note": "vatican.va biography: born in Chicago, Illinois, 14 Sept 1955. Not in the old Italian table (ends at Francis).",
+    "public_note": null,
+    "sources": [
+     "S1",
+     "S57"
+    ]
+   },
+   "saint": {
+    "status": "none",
+    "recognition": null,
+    "date": null,
+    "feast": null,
+    "note": "Reigning pope.",
+    "public_note": null,
+    "sources": [
+     "S57"
+    ]
+   },
+   "short_bio": "Robert Francis Prevost, born in Chicago, is an Augustinian friar who spent many years as a missionary and bishop in Peru. Elected on 8 May 2025, he is the first pope from the United States.",
+   "long_bio": "Prevost made his first profession in the Order of St Augustine in 1978 and was ordained in Rome in 1982. From 1985 he worked in the Augustinian mission in Peru, at Chulucanas and then Trujillo, in formation and parish ministry. He was prior general of the Augustinians from 2001 to 2013. In 2014 he returned to Peru as apostolic administrator and then bishop of Chiclayo. In January 2023 Francis named him prefect of the Dicastery for Bishops, and he was created a cardinal that September. He was elected pope on 8 May 2025, taking the name Leo XIV.",
+   "actions": [
+    "Served as missionary and bishop in Peru",
+    "Led the Augustinian order as prior general (2001-13)",
+    "Headed the Dicastery for Bishops (2023-25)"
+   ],
+   "context": "He was elected after the death of Pope Francis, in a Church shaped by synodal reform, global migration and a world marked by war.",
+   "bio_sources": [
+    "S1",
+    "S57"
+   ],
+   "public_uncertainty": null,
+   "research_status": "verified",
+   "open_questions": [
+    "Ongoing pontificate: bio reflects facts to election only."
+   ]
+  }
+ ],
+ "sources": [
+  {
+   "id": "S1",
+   "title": "The Holy Father: Supreme Pontiffs (list of popes)",
+   "url": "https://www.vatican.va/content/vatican/en/holy-father.html",
+   "publisher": "Holy See (vatican.va)",
+   "tier": "vatican",
+   "locator": "roster entries 230-267",
+   "accessed": "2026-10-10"
+  },
+  {
+   "id": "S2",
+   "title": "Elenco dei Sommi Pontefici",
+   "url": "https://www.vatican.va/holy_father/archivio_papi/documents/elencopapi_it.html",
+   "publisher": "Holy See (vatican.va)",
+   "tier": "vatican",
+   "locator": "entries Innocenzo IX to Francesco: origin column and S./B./Venerabile labels (table ends at Francis)",
+   "accessed": "2026-10-10"
+  },
+  {
+   "id": "S3",
+   "title": "Catholic Encyclopedia: Pope Innocent IX",
+   "url": "https://www.newadvent.org/cathen/08020a.htm",
+   "publisher": "Robert Appleton Company / New Advent (nihil obstat, imprimatur John Cardinal Farley)",
+   "tier": "local_ecclesiastical_approval",
+   "locator": "whole article",
+   "accessed": "2026-10-10"
+  },
+  {
+   "id": "S4",
+   "title": "Catholic Encyclopedia: Pope Clement VIII",
+   "url": "https://www.newadvent.org/cathen/04027a.htm",
+   "publisher": "Robert Appleton Company / New Advent (nihil obstat, imprimatur John Cardinal Farley)",
+   "tier": "local_ecclesiastical_approval",
+   "locator": "whole article",
+   "accessed": "2026-10-10"
+  },
+  {
+   "id": "S5",
+   "title": "Catholic Encyclopedia: Pope Leo XI",
+   "url": "https://www.newadvent.org/cathen/09166a.htm",
+   "publisher": "Robert Appleton Company / New Advent (nihil obstat, imprimatur John Cardinal Farley)",
+   "tier": "local_ecclesiastical_approval",
+   "locator": "whole article",
+   "accessed": "2026-10-10"
+  },
+  {
+   "id": "S6",
+   "title": "Catholic Encyclopedia: Pope Paul V",
+   "url": "https://www.newadvent.org/cathen/11581b.htm",
+   "publisher": "Robert Appleton Company / New Advent (nihil obstat, imprimatur John Cardinal Farley)",
+   "tier": "local_ecclesiastical_approval",
+   "locator": "whole article",
+   "accessed": "2026-10-10"
+  },
+  {
+   "id": "S7",
+   "title": "Catholic Encyclopedia: Pope Gregory XV",
+   "url": "https://www.newadvent.org/cathen/07004b.htm",
+   "publisher": "Robert Appleton Company / New Advent (nihil obstat, imprimatur John Cardinal Farley)",
+   "tier": "local_ecclesiastical_approval",
+   "locator": "whole article",
+   "accessed": "2026-10-10"
+  },
+  {
+   "id": "S8",
+   "title": "Catholic Encyclopedia: Pope Urban VIII",
+   "url": "https://www.newadvent.org/cathen/15218b.htm",
+   "publisher": "Robert Appleton Company / New Advent (nihil obstat, imprimatur John Cardinal Farley)",
+   "tier": "local_ecclesiastical_approval",
+   "locator": "whole article",
+   "accessed": "2026-10-10"
+  },
+  {
+   "id": "S9",
+   "title": "Catholic Encyclopedia: Pope Innocent X",
+   "url": "https://www.newadvent.org/cathen/08020b.htm",
+   "publisher": "Robert Appleton Company / New Advent (nihil obstat, imprimatur John Cardinal Farley)",
+   "tier": "local_ecclesiastical_approval",
+   "locator": "whole article",
+   "accessed": "2026-10-10"
+  },
+  {
+   "id": "S10",
+   "title": "Catholic Encyclopedia: Pope Alexander VII",
+   "url": "https://www.newadvent.org/cathen/01294a.htm",
+   "publisher": "Robert Appleton Company / New Advent (nihil obstat, imprimatur John Cardinal Farley)",
+   "tier": "local_ecclesiastical_approval",
+   "locator": "whole article",
+   "accessed": "2026-10-10"
+  },
+  {
+   "id": "S11",
+   "title": "Catholic Encyclopedia: Pope Clement IX",
+   "url": "https://www.newadvent.org/cathen/04028a.htm",
+   "publisher": "Robert Appleton Company / New Advent (nihil obstat, imprimatur John Cardinal Farley)",
+   "tier": "local_ecclesiastical_approval",
+   "locator": "whole article",
+   "accessed": "2026-10-10"
+  },
+  {
+   "id": "S12",
+   "title": "Catholic Encyclopedia: Pope Clement X",
+   "url": "https://www.newadvent.org/cathen/04028b.htm",
+   "publisher": "Robert Appleton Company / New Advent (nihil obstat, imprimatur John Cardinal Farley)",
+   "tier": "local_ecclesiastical_approval",
+   "locator": "whole article",
+   "accessed": "2026-10-10"
+  },
+  {
+   "id": "S13",
+   "title": "Catholic Encyclopedia: Pope Innocent XI",
+   "url": "https://www.newadvent.org/cathen/08021a.htm",
+   "publisher": "Robert Appleton Company / New Advent (nihil obstat, imprimatur John Cardinal Farley)",
+   "tier": "local_ecclesiastical_approval",
+   "locator": "whole article",
+   "accessed": "2026-10-10"
+  },
+  {
+   "id": "S14",
+   "title": "In onore del beato Innocenzo XI (7 ottobre 1956)",
+   "url": "https://www.vatican.va/content/pius-xii/it/speeches/1956/documents/hf_p-xii_spe_19561006_chemioterapia.html",
+   "publisher": "Holy See (vatican.va)",
+   "tier": "vatican",
+   "locator": "Pius XII address honouring the newly beatified Innocent XI, 7 Oct 1956 (title only checked)",
+   "accessed": "2026-10-10"
+  },
+  {
+   "id": "S15",
+   "title": "Saints of the day: 12 August",
+   "url": "https://www.vaticannews.va/en/saints/08/12.html",
+   "publisher": "Vatican News",
+   "tier": "vatican",
+   "locator": "list for 12 August: 'B. Innocent XI, Pope'",
+   "accessed": "2026-10-10"
+  },
+  {
+   "id": "S16",
+   "title": "Pope Innocent XI",
+   "url": "https://en.wikipedia.org/wiki/Pope_Innocent_XI",
+   "publisher": "Wikipedia",
+   "tier": "supplementary",
+   "locator": "infobox and section 'Beatification' (venerable 15 Nov 1955; beatified 7 Oct 1956 by Pius XII, citing CNA)",
+   "accessed": "2026-10-10"
+  },
+  {
+   "id": "S17",
+   "title": "Catholic Encyclopedia: Pope Alexander VIII",
+   "url": "https://www.newadvent.org/cathen/01295a.htm",
+   "publisher": "Robert Appleton Company / New Advent (nihil obstat, imprimatur John Cardinal Farley)",
+   "tier": "local_ecclesiastical_approval",
+   "locator": "whole article",
+   "accessed": "2026-10-10"
+  },
+  {
+   "id": "S18",
+   "title": "Catholic Encyclopedia: Pope Innocent XII",
+   "url": "https://www.newadvent.org/cathen/08022a.htm",
+   "publisher": "Robert Appleton Company / New Advent (nihil obstat, imprimatur John Cardinal Farley)",
+   "tier": "local_ecclesiastical_approval",
+   "locator": "whole article",
+   "accessed": "2026-10-10"
+  },
+  {
+   "id": "S19",
+   "title": "Catholic Encyclopedia: Pope Clement XI",
+   "url": "https://www.newadvent.org/cathen/04029a.htm",
+   "publisher": "Robert Appleton Company / New Advent (nihil obstat, imprimatur John Cardinal Farley)",
+   "tier": "local_ecclesiastical_approval",
+   "locator": "whole article",
+   "accessed": "2026-10-10"
+  },
+  {
+   "id": "S20",
+   "title": "Catholic Encyclopedia: Pope Innocent XIII",
+   "url": "https://www.newadvent.org/cathen/08023a.htm",
+   "publisher": "Robert Appleton Company / New Advent (nihil obstat, imprimatur John Cardinal Farley)",
+   "tier": "local_ecclesiastical_approval",
+   "locator": "whole article",
+   "accessed": "2026-10-10"
+  },
+  {
+   "id": "S21",
+   "title": "Innocenzo XIII (Enciclopedia dei Papi)",
+   "url": "https://www.treccani.it/enciclopedia/innocenzo-xiii_(Enciclopedia-dei-Papi)/",
+   "publisher": "Istituto della Enciclopedia Italiana (Treccani)",
+   "tier": "scholarly",
+   "locator": "opening section: born at Poli 13 May 1655",
+   "accessed": "2026-10-10"
+  },
+  {
+   "id": "S22",
+   "title": "Innocent XIII",
+   "url": "https://www.britannica.com/biography/Innocent-XIII",
+   "publisher": "Encyclopaedia Britannica",
+   "tier": "scholarly",
+   "locator": "opening: born 13 May 1655, Poli, Papal States",
+   "accessed": "2026-10-10"
+  },
+  {
+   "id": "S23",
+   "title": "Catholic Encyclopedia: Pope Benedict XIII",
+   "url": "https://www.newadvent.org/cathen/02431a.htm",
+   "publisher": "Robert Appleton Company / New Advent (nihil obstat, imprimatur John Cardinal Farley)",
+   "tier": "local_ecclesiastical_approval",
+   "locator": "whole article",
+   "accessed": "2026-10-10"
+  },
+  {
+   "id": "S24",
+   "title": "Pope Benedict XIII",
+   "url": "https://en.wikipedia.org/wiki/Pope_Benedict_XIII",
+   "publisher": "Wikipedia",
+   "tier": "supplementary",
+   "locator": "infobox (born Gravina in Puglia) and section on cause of beatification (opened 1755; reopened 2004; Roman diocesan phase closed 24 Feb 2017)",
+   "accessed": "2026-10-10"
+  },
+  {
+   "id": "S25",
+   "title": "Benedetto XIII: il Papa che voleva rimanere frate",
+   "url": "https://www.avvenire.it/chiesa/pagine/benedetto-xiii-il-papa-che-voleva-rimanere-frate",
+   "publisher": "Avvenire",
+   "tier": "supplementary",
+   "locator": "article on the beatification cause (search result only; not read in full)",
+   "accessed": "2026-10-10"
+  },
+  {
+   "id": "S26",
+   "title": "Catholic Encyclopedia: Pope Clement XII",
+   "url": "https://www.newadvent.org/cathen/04030a.htm",
+   "publisher": "Robert Appleton Company / New Advent (nihil obstat, imprimatur John Cardinal Farley)",
+   "tier": "local_ecclesiastical_approval",
+   "locator": "whole article",
+   "accessed": "2026-10-10"
+  },
+  {
+   "id": "S27",
+   "title": "Catholic Encyclopedia: Pope Benedict XIV",
+   "url": "https://www.newadvent.org/cathen/02432a.htm",
+   "publisher": "Robert Appleton Company / New Advent (nihil obstat, imprimatur John Cardinal Farley)",
+   "tier": "local_ecclesiastical_approval",
+   "locator": "whole article",
+   "accessed": "2026-10-10"
+  },
+  {
+   "id": "S28",
+   "title": "Catholic Encyclopedia: Pope Clement XIII",
+   "url": "https://www.newadvent.org/cathen/04032a.htm",
+   "publisher": "Robert Appleton Company / New Advent (nihil obstat, imprimatur John Cardinal Farley)",
+   "tier": "local_ecclesiastical_approval",
+   "locator": "whole article",
+   "accessed": "2026-10-10"
+  },
+  {
+   "id": "S29",
+   "title": "Catholic Encyclopedia: Pope Clement XIV",
+   "url": "https://www.newadvent.org/cathen/04034a.htm",
+   "publisher": "Robert Appleton Company / New Advent (nihil obstat, imprimatur John Cardinal Farley)",
+   "tier": "local_ecclesiastical_approval",
+   "locator": "whole article",
+   "accessed": "2026-10-10"
+  },
+  {
+   "id": "S30",
+   "title": "Catholic Encyclopedia: Pope Pius VI",
+   "url": "https://www.newadvent.org/cathen/12131a.htm",
+   "publisher": "Robert Appleton Company / New Advent (nihil obstat, imprimatur John Cardinal Farley)",
+   "tier": "local_ecclesiastical_approval",
+   "locator": "whole article",
+   "accessed": "2026-10-10"
+  },
+  {
+   "id": "S31",
+   "title": "Catholic Encyclopedia: Pope Pius VII",
+   "url": "https://www.newadvent.org/cathen/12132a.htm",
+   "publisher": "Robert Appleton Company / New Advent (nihil obstat, imprimatur John Cardinal Farley)",
+   "tier": "local_ecclesiastical_approval",
+   "locator": "whole article",
+   "accessed": "2026-10-10"
+  },
+  {
+   "id": "S32",
+   "title": "Discorso ai pellegrini nel bicentenario della morte del Servo di Dio Pio VII (20 aprile 2024)",
+   "url": "https://c.vatican.va/content/francesco/it/speeches/2024/april/documents/20240420-pellegrini-bicentenario-piovii.pdf",
+   "publisher": "Holy See (vatican.va)",
+   "tier": "vatican",
+   "locator": "title and closing section: 'Servo di Dio Pio VII'",
+   "accessed": "2026-10-10"
+  },
+  {
+   "id": "S33",
+   "title": "I duecento anni di Pio VII, il papa che affrontò i 'tempi nuovi'",
+   "url": "https://www.avvenire.it/agora/cultura/i-duecento-anni-di-pio-vii-il-papa-che-affronto-i-tempi-nuovi_69054",
+   "publisher": "Avvenire",
+   "tier": "supplementary",
+   "locator": "nulla osta for the beatification cause granted from 15 Aug 2007",
+   "accessed": "2026-10-10"
+  },
+  {
+   "id": "S34",
+   "title": "Catholic Encyclopedia: Pope Leo XII",
+   "url": "https://www.newadvent.org/cathen/09167a.htm",
+   "publisher": "Robert Appleton Company / New Advent (nihil obstat, imprimatur John Cardinal Farley)",
+   "tier": "local_ecclesiastical_approval",
+   "locator": "whole article",
+   "accessed": "2026-10-10"
+  },
+  {
+   "id": "S35",
+   "title": "Catholic Encyclopedia: Pope Pius VIII",
+   "url": "https://www.newadvent.org/cathen/12134a.htm",
+   "publisher": "Robert Appleton Company / New Advent (nihil obstat, imprimatur John Cardinal Farley)",
+   "tier": "local_ecclesiastical_approval",
+   "locator": "whole article",
+   "accessed": "2026-10-10"
+  },
+  {
+   "id": "S36",
+   "title": "Catholic Encyclopedia: Pope Gregory XVI",
+   "url": "https://www.newadvent.org/cathen/07006a.htm",
+   "publisher": "Robert Appleton Company / New Advent (nihil obstat, imprimatur John Cardinal Farley)",
+   "tier": "local_ecclesiastical_approval",
+   "locator": "whole article",
+   "accessed": "2026-10-10"
+  },
+  {
+   "id": "S37",
+   "title": "Catholic Encyclopedia: Pope Pius IX",
+   "url": "https://www.newadvent.org/cathen/12134b.htm",
+   "publisher": "Robert Appleton Company / New Advent (nihil obstat, imprimatur John Cardinal Farley)",
+   "tier": "local_ecclesiastical_approval",
+   "locator": "whole article",
+   "accessed": "2026-10-10"
+  },
+  {
+   "id": "S38",
+   "title": "Pio IX (Giovanni Maria Mastai Ferretti)",
+   "url": "https://www.causesanti.va/it/santi-e-beati/pio-ix.html",
+   "publisher": "Dicastery for the Causes of Saints (causesanti.va)",
+   "tier": "vatican",
+   "locator": "profile: born Senigallia 13 May 1792; beatified 3 Sept 2000; memorial 7 Feb",
+   "accessed": "2026-10-10"
+  },
+  {
+   "id": "S39",
+   "title": "Catholic Encyclopedia: Pope Leo XIII",
+   "url": "https://www.newadvent.org/cathen/09169a.htm",
+   "publisher": "Robert Appleton Company / New Advent (nihil obstat, imprimatur John Cardinal Farley)",
+   "tier": "local_ecclesiastical_approval",
+   "locator": "whole article",
+   "accessed": "2026-10-10"
+  },
+  {
+   "id": "S40",
+   "title": "Catholic Encyclopedia: Pope Pius X",
+   "url": "https://www.newadvent.org/cathen/12137a.htm",
+   "publisher": "Robert Appleton Company / New Advent (nihil obstat, imprimatur John Cardinal Farley)",
+   "tier": "local_ecclesiastical_approval",
+   "locator": "whole article",
+   "accessed": "2026-10-10"
+  },
+  {
+   "id": "S41",
+   "title": "Pio X (Giuseppe Melchiorre Sarto)",
+   "url": "https://www.causesanti.va/it/santi-e-beati/pio-x.html",
+   "publisher": "Dicastery for the Causes of Saints (causesanti.va)",
+   "tier": "vatican",
+   "locator": "profile: born Riese 2 June 1835; beatified 3 June 1951; canonized 29 May 1954 by Pius XII; memorial 21 Aug",
+   "accessed": "2026-10-10"
+  },
+  {
+   "id": "S42",
+   "title": "Biografia di Benedetto XV (1914-1922)",
+   "url": "https://www.vatican.va/content/benedict-xv/it/biography/documents/hf_ben-xv_bio_20060214_biography.html",
+   "publisher": "Holy See (vatican.va)",
+   "tier": "vatican",
+   "locator": "opening: born at Genova 21 Nov 1854; career; pontificate",
+   "accessed": "2026-10-10"
+  },
+  {
+   "id": "S43",
+   "title": "Biografia di Pio XI",
+   "url": "https://www.vatican.va/content/pius-xi/it/biography/documents/hf_p-xi_bio_20070330_biography.html",
+   "publisher": "Holy See (vatican.va)",
+   "tier": "vatican",
+   "locator": "opening: born Desio 31 May 1857; career; pontificate",
+   "accessed": "2026-10-10"
+  },
+  {
+   "id": "S44",
+   "title": "Biografia di Sua Santità Pio XII",
+   "url": "https://www.vatican.va/content/pius-xii/it/biography/documents/hf_p-xii_bio_20070302_biography.html",
+   "publisher": "Holy See (vatican.va)",
+   "tier": "vatican",
+   "locator": "opening: born Rome 2 March 1876; career; pontificate; death at Castel Gandolfo",
+   "accessed": "2026-10-10"
+  },
+  {
+   "id": "S45",
+   "title": "Holy Father declares World War II pope is venerable (19 Dec 2009)",
+   "url": "https://catholicnewsagency.com/news/18124/holy-father-declares-world-war-ii-pope-is-venerable",
+   "publisher": "Catholic News Agency",
+   "tier": "supplementary",
+   "locator": "report: decree of heroic virtue approved by Benedict XVI, 19 Dec 2009",
+   "accessed": "2026-10-10"
+  },
+  {
+   "id": "S46",
+   "title": "Giovanni XXIII (Angelo Giuseppe Roncalli)",
+   "url": "https://www.causesanti.va/it/santi-e-beati/giovanni-xxiii.html",
+   "publisher": "Dicastery for the Causes of Saints (causesanti.va)",
+   "tier": "vatican",
+   "locator": "profile: born Sotto il Monte 25 Nov 1881; beatified 3 Sept 2000; canonized 27 Apr 2014; memorial 11 Oct",
+   "accessed": "2026-10-10"
+  },
+  {
+   "id": "S47",
+   "title": "Biografia di Papa Giovanni XXIII",
+   "url": "https://www.vatican.va/news_services/liturgy/documents/ns_lit_doc_20000903_john-xxiii_it.html",
+   "publisher": "Holy See (vatican.va)",
+   "tier": "vatican",
+   "locator": "biography for the 2000 beatification",
+   "accessed": "2026-10-10"
+  },
+  {
+   "id": "S48",
+   "title": "Paolo VI (Giovanni Battista Montini)",
+   "url": "https://www.causesanti.va/it/santi-e-beati/paolo-vi.html",
+   "publisher": "Dicastery for the Causes of Saints (causesanti.va)",
+   "tier": "vatican",
+   "locator": "profile: born Concesio 26 Sept 1897; beatified 19 Oct 2014; canonized 14 Oct 2018; memorial 29 May",
+   "accessed": "2026-10-10"
+  },
+  {
+   "id": "S49",
+   "title": "Biographical profile of His Holiness Pope Paul VI",
+   "url": "https://www.vatican.va/content/paul-vi/en/biografia/documents/hf_p-vi_spe_20190722_biografia.html",
+   "publisher": "Holy See (vatican.va)",
+   "tier": "vatican",
+   "locator": "whole profile",
+   "accessed": "2026-10-10"
+  },
+  {
+   "id": "S50",
+   "title": "Giovanni Paolo I (Albino Luciani) (1912-1978)",
+   "url": "https://www.causesanti.va/it/santi-e-beati/giovanni-paolo-i-albino-luciani.html",
+   "publisher": "Dicastery for the Causes of Saints (causesanti.va)",
+   "tier": "vatican",
+   "locator": "profile: born Forno di Canale 17 Oct 1912; venerable 8 Nov 2017; beatified 4 Sept 2022",
+   "accessed": "2026-10-10"
+  },
+  {
+   "id": "S51",
+   "title": "Beato Giovanni Paolo I (santo del giorno, 26 agosto)",
+   "url": "https://www.vaticannews.va/it/santo-del-giorno/08/26/beato-giovanni-paolo-i.html",
+   "publisher": "Vatican News",
+   "tier": "vatican",
+   "locator": "saint-of-the-day entry for 26 August",
+   "accessed": "2026-10-10"
+  },
+  {
+   "id": "S52",
+   "title": "Biografia di Sua Santità Giovanni Paolo I",
+   "url": "https://www.vatican.va/content/john-paul-i/it/biography/documents/hf_jp-i_bio_01021997_biography.html",
+   "publisher": "Holy See (vatican.va)",
+   "tier": "vatican",
+   "locator": "whole biography",
+   "accessed": "2026-10-10"
+  },
+  {
+   "id": "S53",
+   "title": "Giovanni Paolo II (Karol Wojtyła)",
+   "url": "https://www.causesanti.va/it/santi-e-beati/giovanni-paolo-ii.html",
+   "publisher": "Dicastery for the Causes of Saints (causesanti.va)",
+   "tier": "vatican",
+   "locator": "profile: born Wadowice 18 May 1920; beatified 1 May 2011; canonized 27 Apr 2014; memorial 22 Oct",
+   "accessed": "2026-10-10"
+  },
+  {
+   "id": "S54",
+   "title": "His Holiness John Paul II: short biography",
+   "url": "https://www.vatican.va/news_services/press/documentazione/documents/santopadre_biografie/giovanni_paolo_ii_biografia_breve_en.html",
+   "publisher": "Holy See Press Office (vatican.va)",
+   "tier": "vatican",
+   "locator": "whole page",
+   "accessed": "2026-10-10"
+  },
+  {
+   "id": "S55",
+   "title": "Death of Pope Emeritus Benedict: his official biography",
+   "url": "https://www.vaticannews.va/en/vatican-city/news/2022-12/pope-emeritus-benedict-xvi-official-biography.html",
+   "publisher": "Vatican News",
+   "tier": "vatican",
+   "locator": "whole article (31 Dec 2022)",
+   "accessed": "2026-10-10"
+  },
+  {
+   "id": "S56",
+   "title": "Biography of the Holy Father Francis",
+   "url": "https://www.vatican.va/content/francesco/en/biography/documents/papa-francesco-biografia-bergoglio.html",
+   "publisher": "Holy See (vatican.va)",
+   "tier": "vatican",
+   "locator": "whole biography (2013-2025)",
+   "accessed": "2026-10-10"
+  },
+  {
+   "id": "S57",
+   "title": "Biography of the Holy Father Leo XIV",
+   "url": "https://www.vatican.va/content/leo-xiv/en/biography/documents/biografia_leone-xiv.html",
+   "publisher": "Holy See (vatican.va)",
+   "tier": "vatican",
+   "locator": "whole biography",
+   "accessed": "2026-10-10"
+  }
+ ],
+ "notes": "Rows 230-267 (38 people). Rome = 41.9028, 12.4964. Old Italian Vatican table ends at Francis; Leo XIV taken from vatican.va biography. Status labels in the Italian table that are OUTDATED: John Paul I shown as 'Venerabile' (beatified 4 Sept 2022, causesanti.va). Other statuses verified: Innocent XI blessed 7 Oct 1956 (vatican.va Pius XII address title; Vatican News 12 Aug list; CE 1910 outdated, says cause dropped); Pius IX blessed 3 Sept 2000, memorial 7 Feb; Pius X saint 29 May 1954, memorial 21 Aug; John XXIII saint 27 Apr 2014, memorial 11 Oct; Paul VI saint 14 Oct 2018, memorial 29 May; John Paul I blessed, memorial 26 Aug (Vatican News); John Paul II saint 27 Apr 2014, memorial 22 Oct; Pius XII venerable 19 Dec 2009 (Vatican table 'Venerabile' + CNA date); Pius VII servant of God (Francis address 2024, vatican.va); Benedict XIII servant of God (Wikipedia/Dominican Order, Avvenire; not confirmed on causesanti.va). Birthplace conflicts: Innocent XIII - Poli (Vatican table, Treccani, Britannica) vs Rome (Catholic Encyclopedia); Poli chosen with public note. Benedict XV - roster field blank; Vatican: Genoa ('Genovese', vatican.va bio 'Genova'); Pegli (now a district of Genoa) in other sources; Genoa chosen with public note. Leo XII - Vatican 'Monticelli di Genga (Fabriano)' vs CE 'Castello della Genga, territory of Spoleto'; mapped to Genga village (approx.). Modern renamed places: Riese Pio X, Sotto il Monte Giovanni XXIII, Canale d'Agordo (formerly Forno di Canale), Santarcangelo di Romagna, Marktl. Minor death-date discrepancies CE vs roster (Innocent XI, Benedict XIII, Pius VIII) noted in open_questions; roster dates untouched. Treccani was reachable via WebFetch for Innocent XIII.\n"
+}

@@ -1,0 +1,2811 @@
+{
+ "range": [
+  153,
+  190
+ ],
+ "people": [
+  {
+   "roster_n": [
+    153
+   ],
+   "id": "victor-ii",
+   "papal_name": "Victor II",
+   "display_name": "Victor II",
+   "alt_names": [
+    "Gebhard of Eichstätt"
+   ],
+   "secular_name": "Gebhard of Dollnstein-Hirschberg",
+   "birth_date": "c. 1018",
+   "birthplace": {
+    "label": "Swabia",
+    "country": "Germany",
+    "historical_name": null,
+    "precision": "region",
+    "lat": 48.4,
+    "lon": 9.4,
+    "radius_km": 150,
+    "roster_birth_field": "Swabia",
+    "note": "Vatican roster and Italian table ('Svevo') give Swabia; Treccani also says born in Swabia. CE notes the papal catalogues say Bavarian Nordgau while most German sources say Swabia. Wikipedia: birthplace unknown; Moroni's Innsbruck unsupported. Center placed in historic Duchy of Swabia (today Baden-Württemberg/Bavarian Swabia).",
+    "public_note": "Some older catalogues place his origin in the Bavarian Nordgau instead.",
+    "sources": [
+     "S1",
+     "S2",
+     "S10",
+     "S48",
+     "S56"
+    ]
+   },
+   "saint": {
+    "status": "none",
+    "recognition": null,
+    "date": null,
+    "feast": null,
+    "note": "No S./B. label in the Vatican Italian table; the Catholic Encyclopedia records no cult or beatification.",
+    "public_note": null,
+    "sources": [
+     "S2",
+     "S10"
+    ]
+   },
+   "short_bio": "A German noble and bishop of Eichstätt, Gebhard was chosen pope at the request of his kinsman Emperor Henry III. He continued the reform programme of Leo IX against simony and clerical concubinage.",
+   "long_bio": "Gebhard came from a comital family and became bishop of Eichstätt in 1042 as a young man, becoming a trusted adviser of Emperor Henry III. Chosen as pope on the emperor's nomination, he was enthroned in Rome in April 1055. He held a reforming synod at Florence and sent legates, including the monk Hildebrand, to combat abuses in France. He was at Henry III's deathbed in 1056 and helped secure the succession of the boy king Henry IV. He died at Arezzo in July 1057.",
+   "actions": [
+    "Held a reforming synod at Florence (1055)",
+    "Sent legates to fight simony in France",
+    "Helped secure the succession of Henry IV (1056)"
+   ],
+   "context": "The papacy was in the midst of the Gregorian reform: popes, many of them chosen from reforming circles north of the Alps, fought simony (the buying of church offices) and clerical marriage, while the relationship with the German emperors, who had long controlled papal elections, grew tense. Victor II was the last of a run of German popes nominated by Henry III.",
+   "bio_sources": [
+    "S1",
+    "S10",
+    "S48"
+   ],
+   "public_uncertainty": null,
+   "research_status": "partial",
+   "open_questions": [
+    "Exact birthplace unknown; Swabia vs Bavarian Nordgau."
+   ]
+  },
+  {
+   "roster_n": [
+    154
+   ],
+   "id": "stephen-ix",
+   "papal_name": "Stephen IX",
+   "display_name": "Stephen IX",
+   "alt_names": [
+    "Stephen X",
+    "Frederick of Lorraine"
+   ],
+   "secular_name": "Frédéric de Lorraine",
+   "birth_date": "early 11th century",
+   "birthplace": {
+    "label": "Diocese of Liège (Lower Lorraine)",
+    "country": "Belgium",
+    "historical_name": "Lotharingia",
+    "precision": "region",
+    "lat": 50.63,
+    "lon": 5.57,
+    "radius_km": 100,
+    "roster_birth_field": "",
+    "note": "Vatican roster birth field is blank; the Italian table gives 'Lorenese' (from Lorraine). CE gives no birthplace, only that he was son of Gozelo, Duke of Lower Lorraine. Treccani: originally from the diocese of Liège in Lotharingia, no precise place. Area centred on Liège. Numbering: also counted as Stephen X.",
+    "public_note": "His exact birthplace is not recorded; he came from the ducal family of Lower Lorraine, in the region of Liège.",
+    "sources": [
+     "S2",
+     "S11",
+     "S49",
+     "S57"
+    ]
+   },
+   "saint": {
+    "status": "none",
+    "recognition": null,
+    "date": null,
+    "feast": null,
+    "note": "No S./B. label in the Vatican Italian table; the Catholic Encyclopedia records no cult or beatification.",
+    "public_note": null,
+    "sources": [
+     "S2",
+     "S11"
+    ]
+   },
+   "short_bio": "Frederick, son of the Duke of Lower Lorraine, served Leo IX as chancellor and joined the 1054 legation to Constantinople. He became a monk and abbot of Monte Cassino, and was pope for less than eight months.",
+   "long_bio": "Frederick belonged to the ducal house of Lower Lorraine. Leo IX made him chancellor and librarian of the Roman Church, and in 1054 he was one of the legates whose mission to Constantinople ended in the mutual excommunications usually dated as the East–West schism. He then became a monk at Monte Cassino and its abbot in 1057. Elected pope that summer, he pressed on with reform, made Peter Damian a cardinal and sent Hildebrand to Milan. He died at Florence in March 1058.",
+   "actions": [
+    "Took part in the 1054 legation to Constantinople",
+    "Abbot of Monte Cassino",
+    "Made Peter Damian a cardinal"
+   ],
+   "context": "The papacy was in the midst of the Gregorian reform: popes, many of them chosen from reforming circles north of the Alps, fought simony (the buying of church offices) and clerical marriage, while the relationship with the German emperors, who had long controlled papal elections, grew tense. His election in 1057, soon after Henry III's death, took place without waiting for imperial approval.",
+   "bio_sources": [
+    "S1",
+    "S11",
+    "S49"
+   ],
+   "public_uncertainty": null,
+   "research_status": "partial",
+   "open_questions": [
+    "No specific birthplace in any source consulted."
+   ]
+  },
+  {
+   "roster_n": [
+    155
+   ],
+   "id": "nicholas-ii",
+   "papal_name": "Nicholas II",
+   "display_name": "Nicholas II",
+   "alt_names": [
+    "Gerard of Burgundy"
+   ],
+   "secular_name": "Gérard",
+   "birth_date": null,
+   "birthplace": {
+    "label": "Burgundy",
+    "country": "France",
+    "historical_name": null,
+    "precision": "region",
+    "lat": 46.3,
+    "lon": 5.8,
+    "radius_km": 200,
+    "roster_birth_field": "Bourgogne",
+    "note": "Vatican: 'Borgogna'; Treccani: only that he was from Burgundy. CE says born at Chevron in what is now Savoy (château de Chevron, Mercury, Savoie; within the medieval Kingdom of Burgundy). Kept at region level because the two Vatican-tier and Treccani sources give only Burgundy; centre placed between the Duchy of Burgundy and Savoy, radius large enough to cover both.",
+    "public_note": "Some sources name the castle of Chevron in Savoy as his birthplace.",
+    "sources": [
+     "S1",
+     "S2",
+     "S12",
+     "S50",
+     "S58"
+    ]
+   },
+   "saint": {
+    "status": "none",
+    "recognition": null,
+    "date": null,
+    "feast": null,
+    "note": "No S./B. label in the Vatican Italian table; the Catholic Encyclopedia records no cult or beatification.",
+    "public_note": null,
+    "sources": [
+     "S2",
+     "S12"
+    ]
+   },
+   "short_bio": "Gerard, bishop of Florence, was elected at Siena by the reform party against the rival Benedict X. His 1059 decree gave the cardinals the leading role in electing popes.",
+   "long_bio": "Gerard came from Burgundy and became bishop of Florence around 1046. After a faction in Rome installed Benedict X, the reformers elected Gerard at Siena in December 1058; Benedict was deposed and Nicholas was crowned in January 1059. That year a Lateran synod issued the decree on papal elections, placing the choice chiefly in the hands of the cardinal bishops. At Melfi he made an alliance with the Normans of southern Italy, recognising Robert Guiscard as duke. He died in 1061.",
+   "actions": [
+    "Issued the papal election decree (1059)",
+    "Made the Melfi alliance with the Normans (1059)",
+    "Condemned simony and clerical concubinage"
+   ],
+   "context": "The papacy was in the midst of the Gregorian reform: popes, many of them chosen from reforming circles north of the Alps, fought simony (the buying of church offices) and clerical marriage, while the relationship with the German emperors, who had long controlled papal elections, grew tense.",
+   "bio_sources": [
+    "S1",
+    "S12",
+    "S50"
+   ],
+   "public_uncertainty": null,
+   "research_status": "partial",
+   "open_questions": [
+    "Chevron (Savoy) vs Burgundy generally."
+   ]
+  },
+  {
+   "roster_n": [
+    156
+   ],
+   "id": "alexander-ii",
+   "papal_name": "Alexander II",
+   "display_name": "Alexander II",
+   "alt_names": [
+    "Anselm of Lucca",
+    "Anselmo da Baggio"
+   ],
+   "secular_name": "Anselmo",
+   "birth_date": null,
+   "birthplace": {
+    "label": "Baggio, Milan",
+    "country": "Italy",
+    "historical_name": null,
+    "precision": "exact",
+    "lat": 45.462,
+    "lon": 9.088,
+    "radius_km": null,
+    "roster_birth_field": "Baggio (Milano)",
+    "note": "Vatican and CE agree: born at Baggio, now a district of Milan, of noble parents.",
+    "public_note": null,
+    "sources": [
+     "S1",
+     "S2",
+     "S13"
+    ]
+   },
+   "saint": {
+    "status": "none",
+    "recognition": null,
+    "date": null,
+    "feast": null,
+    "note": "No S./B. label in the Vatican Italian table; the Catholic Encyclopedia records no cult or beatification.",
+    "public_note": null,
+    "sources": [
+     "S2",
+     "S13"
+    ]
+   },
+   "short_bio": "A Milanese noble and bishop of Lucca, Anselm was elected by the cardinals under the new election decree. He overcame the imperial antipope Cadalus and kept up the reform campaign.",
+   "long_bio": "Anselm was born at Baggio near Milan and became bishop of Lucca in 1057. Elected pope in 1061 by the cardinals, he faced a rival, Cadalus of Parma (Honorius II), supported by the German court; a council at Mantua in 1064 recognised Alexander. He backed reformers in Milan, worked with Peter Damian and Hildebrand, and gave his blessing to the Norman conquest of England in 1066.",
+   "actions": [
+    "Won recognition over the antipope Cadalus at Mantua (1064)",
+    "Supported the reforming Pataria in Milan",
+    "Summoned Archbishop Anno of Cologne on a charge of simony"
+   ],
+   "context": "The papacy was in the midst of the Gregorian reform: popes, many of them chosen from reforming circles north of the Alps, fought simony (the buying of church offices) and clerical marriage, while the relationship with the German emperors, who had long controlled papal elections, grew tense. His was the first election held under the 1059 decree.",
+   "bio_sources": [
+    "S1",
+    "S13"
+   ],
+   "public_uncertainty": null,
+   "research_status": "partial",
+   "open_questions": []
+  },
+  {
+   "roster_n": [
+    157
+   ],
+   "id": "gregory-vii",
+   "papal_name": "Gregory VII",
+   "display_name": "St Gregory VII",
+   "alt_names": [
+    "Hildebrand",
+    "Ildebrando di Soana"
+   ],
+   "secular_name": "Ildebrando",
+   "birth_date": "c. 1020–1025",
+   "birthplace": {
+    "label": "Sovana",
+    "country": "Italy",
+    "historical_name": "Soana",
+    "precision": "exact",
+    "lat": 42.6573,
+    "lon": 11.6449,
+    "radius_km": null,
+    "roster_birth_field": "Tuscia",
+    "note": "Vatican roster/table give the region 'Tuscia'. CE: born between 1020 and 1025 at Soana (or Ravacum) in Tuscany; Sovana is a frazione of Sorano (GR) in southern Tuscany, within historic Tuscia. Coordinates of Sovana.",
+    "public_note": "The Vatican list gives only the region of Tuscia; tradition names Sovana in southern Tuscany.",
+    "sources": [
+     "S1",
+     "S2",
+     "S14"
+    ]
+   },
+   "saint": {
+    "status": "saint",
+    "recognition": "canonized",
+    "date": "1728",
+    "feast": "25 May",
+    "note": "Vatican Italian table: 'S.'. CE: beatified by Gregory XIII in 1584 and canonized by Benedict XIII in 1728 (this was an extension of his cult rather than a modern-style process). Vatican News lists him on 25 May, the day of his death.",
+    "public_note": null,
+    "sources": [
+     "S2",
+     "S3",
+     "S14",
+     "S9"
+    ]
+   },
+   "short_bio": "Hildebrand, a Tuscan of humble birth, was the driving force of church reform for decades before becoming pope. His clash with Henry IV over investiture led to the emperor's penance at Canossa.",
+   "long_bio": "Educated in Rome, Hildebrand served several reforming popes as adviser and legate before his own election by acclamation in 1073. As Gregory VII he condemned simony and clerical marriage and, in 1075, forbade lay investiture of church offices. When Henry IV declared him deposed, Gregory excommunicated the king, who did penance at Canossa in 1077. The conflict resumed; Henry set up an antipope and took Rome in 1084. Rescued by the Normans, whose troops sacked the city, Gregory withdrew to Salerno and died there in 1085.",
+   "actions": [
+    "Decrees against simony and clerical marriage (1074)",
+    "Banned lay investiture (1075)",
+    "Excommunicated Henry IV; Canossa (1077)",
+    "Died in exile at Salerno (1085)"
+   ],
+   "context": "The Investiture Controversy dominated these years: popes and the German emperors Henry IV and Henry V disputed who had the right to appoint and invest bishops, with rival antipopes set up by the imperial side. Norman rulers in southern Italy were now the papacy's main military allies.",
+   "bio_sources": [
+    "S1",
+    "S14",
+    "S3"
+   ],
+   "public_uncertainty": null,
+   "research_status": "verified",
+   "open_questions": []
+  },
+  {
+   "roster_n": [
+    158
+   ],
+   "id": "victor-iii",
+   "papal_name": "Victor III",
+   "display_name": "Bl. Victor III",
+   "alt_names": [
+    "Desiderius of Monte Cassino",
+    "Dauferius"
+   ],
+   "secular_name": "Dauferio (Desiderio)",
+   "birth_date": "1026 or 1027",
+   "birthplace": {
+    "label": "Benevento",
+    "country": "Italy",
+    "historical_name": null,
+    "precision": "exact",
+    "lat": 41.1298,
+    "lon": 14.7826,
+    "radius_km": null,
+    "roster_birth_field": "Benevento",
+    "note": "Vatican roster and table: Benevento. CE: born 1026 or 1027 of a non-reigning branch of the Lombard dukes of Benevento; no town named, but consistent.",
+    "public_note": null,
+    "sources": [
+     "S1",
+     "S2",
+     "S15"
+    ]
+   },
+   "saint": {
+    "status": "blessed",
+    "recognition": "cult_confirmed",
+    "date": "23 July 1887",
+    "feast": "16 September",
+    "note": "Vatican table 'B.'. Cult confirmed by Leo XIII (GCatholic lists 1887.07.23, equipollent; Wikipedia list: 1887, Leo XIII). CE: cult attested from the 12th century; feast permitted at Monte Cassino in 1727. Vatican News lists 'Bd. Victor III, pope' on 16 September.",
+    "public_note": null,
+    "sources": [
+     "S2",
+     "S4",
+     "S15",
+     "S8",
+     "S9"
+    ]
+   },
+   "short_bio": "Desiderius, of the Lombard princely family of Benevento, was the great builder-abbot of Monte Cassino. Reluctantly elected after Gregory VII, he reigned only briefly.",
+   "long_bio": "Born into a branch of the ruling house of Benevento, Dauferius became a monk under the name Desiderius and in 1058 abbot of Monte Cassino. He rebuilt the abbey, consecrating its new basilica in 1071, and made it a centre of art and learning. He often mediated between the popes and the Normans. Elected pope in 1086, he resisted for months and was consecrated only in May 1087. He sent an expedition that captured Mahdia in North Africa, and died at Monte Cassino in September 1087.",
+   "actions": [
+    "Rebuilt the abbey of Monte Cassino (basilica consecrated 1071)",
+    "Mediated between Gregory VII and Robert Guiscard",
+    "Supported the expedition against Mahdia (1087)"
+   ],
+   "context": "The Investiture Controversy dominated these years: popes and the German emperors Henry IV and Henry V disputed who had the right to appoint and invest bishops, with rival antipopes set up by the imperial side. Norman rulers in southern Italy were now the papacy's main military allies.",
+   "bio_sources": [
+    "S1",
+    "S15",
+    "S4"
+   ],
+   "public_uncertainty": null,
+   "research_status": "verified",
+   "open_questions": []
+  },
+  {
+   "roster_n": [
+    159
+   ],
+   "id": "urban-ii",
+   "papal_name": "Urban II",
+   "display_name": "Bl. Urban II",
+   "alt_names": [
+    "Odo of Lagery",
+    "Otho",
+    "Eudes de Châtillon"
+   ],
+   "secular_name": "Odo of Lagery",
+   "birth_date": "c. 1042",
+   "birthplace": {
+    "label": "Châtillon-sur-Marne",
+    "country": "France",
+    "historical_name": null,
+    "precision": "exact",
+    "lat": 49.1006,
+    "lon": 3.7558,
+    "radius_km": null,
+    "roster_birth_field": "Châtillon-sur-Marne",
+    "note": "Vatican and CE agree: Châtillon-sur-Marne in Champagne. 'Lagery' is a family name/neighbouring place.",
+    "public_note": null,
+    "sources": [
+     "S1",
+     "S2",
+     "S16"
+    ]
+   },
+   "saint": {
+    "status": "blessed",
+    "recognition": "cult_confirmed",
+    "date": "14 July 1881",
+    "feast": "29 July",
+    "note": "Vatican table 'B.'. CE: formal beatification decision of Leo XIII on 14 July 1881, cause introduced by Archbishop Langénieux of Reims in 1878; local feast 29 July (his death day). GCatholic lists it as equipollent. Vatican News 29 July page does not list him; feast taken from CE.",
+    "public_note": null,
+    "sources": [
+     "S2",
+     "S16",
+     "S8",
+     "S9"
+    ]
+   },
+   "short_bio": "A French noble, monk and prior of Cluny, Odo carried on Gregory VII's reforms. He is best remembered for calling the First Crusade at Clermont in 1095.",
+   "long_bio": "Odo studied at Reims, became a monk at Cluny and was made cardinal bishop of Ostia by Gregory VII. Elected pope at Terracina in 1088, while an imperial antipope held Rome, he could enter the Lateran only in 1094. He held reforming synods at Melfi, Piacenza and Clermont, where in 1095 he called on Western Christians to aid the Byzantines and free Jerusalem. He excommunicated Philip I of France for adultery and sought reconciliation with the Greeks at Bari in 1098. He died in Rome in July 1099, just after Jerusalem fell to the crusaders.",
+   "actions": [
+    "Synod of Melfi against simony (1089)",
+    "Called the First Crusade at Clermont (1095)",
+    "Excommunicated Philip I of France",
+    "Council of Bari with Greek bishops (1098)"
+   ],
+   "context": "The Investiture Controversy dominated these years: popes and the German emperors Henry IV and Henry V disputed who had the right to appoint and invest bishops, with rival antipopes set up by the imperial side. Norman rulers in southern Italy were now the papacy's main military allies.",
+   "bio_sources": [
+    "S1",
+    "S16"
+   ],
+   "public_uncertainty": null,
+   "research_status": "verified",
+   "open_questions": []
+  },
+  {
+   "roster_n": [
+    160
+   ],
+   "id": "paschal-ii",
+   "papal_name": "Paschal II",
+   "display_name": "Paschal II",
+   "alt_names": [
+    "Rainerius",
+    "Ranierius of Bleda"
+   ],
+   "secular_name": "Raniero",
+   "birth_date": "c. 1050–1055",
+   "birthplace": {
+    "label": "Galeata",
+    "country": "Italy",
+    "historical_name": null,
+    "precision": "exact",
+    "lat": 43.9967,
+    "lon": 11.9128,
+    "radius_km": null,
+    "roster_birth_field": "Bleda or Galeata",
+    "note": "Vatican table: 'Bleda o Galeata'. Treccani: birth uncertain, perhaps in Romagna at Bleda or Galeata, dated 1053-1055. CE: only 'central Italy'. Wikipedia body: Bleda (a locality of Santa Sofia) near Forlì. Both candidates lie a few km apart in the upper Bidente valley (province of Forlì-Cesena). Point placed at Galeata (the municipality) as a representative location; Bleda equally possible.",
+    "public_note": "Sources disagree between Galeata and nearby Bleda, both in the Bidente valley of Romagna.",
+    "sources": [
+     "S1",
+     "S2",
+     "S17",
+     "S51",
+     "S59"
+    ]
+   },
+   "saint": {
+    "status": "none",
+    "recognition": null,
+    "date": null,
+    "feast": null,
+    "note": "No S./B. label in the Vatican Italian table; the Catholic Encyclopedia records no cult or beatification.",
+    "public_note": null,
+    "sources": [
+     "S2",
+     "S17"
+    ]
+   },
+   "short_bio": "Rainerius, a monk from Romagna, succeeded Urban II and reigned for almost nineteen years. His long struggle with Henry V over investiture brought both defeats and his own captivity.",
+   "long_bio": "Probably born in Romagna in the early 1050s, Rainerius became a monk and a cardinal under Gregory VII. As pope from 1099 he repeatedly condemned lay investiture, at Guastalla (1106) and Troyes (1107). In 1111 he agreed with Henry V that bishops would give up their royal fiefs in exchange for the end of investiture; the plan collapsed, the king seized him, and after two months he conceded investiture, a concession later revoked. He approved the new orders of Cîteaux and Fontevraud and died in Rome in 1118.",
+   "actions": [
+    "Condemned lay investiture at Guastalla (1106) and Troyes (1107)",
+    "Agreement and captivity under Henry V (1111)",
+    "Approved the orders of Cîteaux and Fontevraud"
+   ],
+   "context": "The Investiture Controversy dominated these years: popes and the German emperors Henry IV and Henry V disputed who had the right to appoint and invest bishops, with rival antipopes set up by the imperial side. Norman rulers in southern Italy were now the papacy's main military allies.",
+   "bio_sources": [
+    "S1",
+    "S17",
+    "S51"
+   ],
+   "public_uncertainty": null,
+   "research_status": "partial",
+   "open_questions": [
+    "Bleda or Galeata unresolved."
+   ]
+  },
+  {
+   "roster_n": [
+    161
+   ],
+   "id": "gelasius-ii",
+   "papal_name": "Gelasius II",
+   "display_name": "Gelasius II",
+   "alt_names": [
+    "John of Gaeta",
+    "Giovanni Caetani"
+   ],
+   "secular_name": "Giovanni Caetani",
+   "birth_date": null,
+   "birthplace": {
+    "label": "Gaeta",
+    "country": "Italy",
+    "historical_name": null,
+    "precision": "exact",
+    "lat": 41.2137,
+    "lon": 13.571,
+    "radius_km": null,
+    "roster_birth_field": "Gaeta",
+    "note": "Vatican and CE agree: born at Gaeta, year unknown; CE says probably of the Gaetani family.",
+    "public_note": null,
+    "sources": [
+     "S1",
+     "S2",
+     "S18"
+    ]
+   },
+   "saint": {
+    "status": "none",
+    "recognition": null,
+    "date": null,
+    "feast": null,
+    "note": "No S./B. label in the Vatican Italian table; the Catholic Encyclopedia records no cult or beatification. CE notes a canonization was once mooted under Benedict XIV but not pursued.",
+    "public_note": null,
+    "sources": [
+     "S2",
+     "S18"
+    ]
+   },
+   "short_bio": "John of Gaeta, a monk of Monte Cassino, had long served as papal chancellor. His brief pontificate was spent largely in flight from his enemies and Henry V.",
+   "long_bio": "Born at Gaeta, John became a monk of Monte Cassino and served as chancellor of the Roman Church for many years. Elected in January 1118, he was immediately seized by the Frangipani faction and then freed by the Romans. When Henry V arrived in Rome he fled by sea to Gaeta, where he was consecrated. He excommunicated the emperor and his antipope, Maurice Burdinus (Gregory VIII). Driven out of Rome again, he went to France and died at Cluny in January 1119.",
+   "actions": [
+    "Long-serving papal chancellor",
+    "Excommunicated Henry V and the antipope Gregory VIII (1118)",
+    "Died in exile at Cluny (1119)"
+   ],
+   "context": "The Investiture Controversy dominated these years: popes and the German emperors Henry IV and Henry V disputed who had the right to appoint and invest bishops, with rival antipopes set up by the imperial side. Norman rulers in southern Italy were now the papacy's main military allies.",
+   "bio_sources": [
+    "S1",
+    "S18"
+   ],
+   "public_uncertainty": null,
+   "research_status": "partial",
+   "open_questions": []
+  },
+  {
+   "roster_n": [
+    162
+   ],
+   "id": "callixtus-ii",
+   "papal_name": "Callixtus II",
+   "display_name": "Callixtus II",
+   "alt_names": [
+    "Callistus II",
+    "Guy of Burgundy",
+    "Guido of Vienne"
+   ],
+   "secular_name": "Guy of Burgundy",
+   "birth_date": "probably soon after 1050",
+   "birthplace": {
+    "label": "County of Burgundy (Franche-Comté)",
+    "country": "France",
+    "historical_name": null,
+    "precision": "region",
+    "lat": 47.2378,
+    "lon": 6.0241,
+    "radius_km": 80,
+    "roster_birth_field": "",
+    "note": "Vatican roster and Italian table leave origin blank. CE: date of birth unknown, son of Count William of Burgundy; no place. Treccani: no place, born probably not long after the mid-11th century, son of Count William of Burgundy. Wikipedia infobox names Quingey and its body Besançon (cited to Stroll 2004); neither verified in a primary-tier source. Region = County of Burgundy (modern Franche-Comté) centred on Besançon.",
+    "public_note": "His exact birthplace is not recorded; later writers name Quingey or Besançon in the County of Burgundy.",
+    "sources": [
+     "S2",
+     "S19",
+     "S52",
+     "S60"
+    ]
+   },
+   "saint": {
+    "status": "none",
+    "recognition": null,
+    "date": null,
+    "feast": null,
+    "note": "No S./B. label in the Vatican Italian table; the Catholic Encyclopedia records no cult or beatification.",
+    "public_note": null,
+    "sources": [
+     "S2",
+     "S19"
+    ]
+   },
+   "short_bio": "Guy, son of the Count of Burgundy and archbishop of Vienne, was elected at Cluny. He ended the Investiture Controversy with the Concordat of Worms in 1122.",
+   "long_bio": "A son of Count William of Burgundy, with family ties to several royal houses, Guy became archbishop of Vienne and a determined opponent of lay investiture. Elected pope at Cluny in 1119, he excommunicated Henry V and the antipope at the Council of Reims, then captured the antipope in Italy in 1121. In 1122 he concluded the Concordat of Worms, under which the emperor gave up investiture with ring and staff, while keeping a role in the granting of royal lands. The First Lateran Council confirmed the settlement in 1123. He died in December 1124.",
+   "actions": [
+    "Council of Reims (1119)",
+    "Captured the antipope Gregory VIII (1121)",
+    "Concordat of Worms (1122)",
+    "First Lateran Council (1123)"
+   ],
+   "context": "The Investiture Controversy dominated these years: popes and the German emperors Henry IV and Henry V disputed who had the right to appoint and invest bishops, with rival antipopes set up by the imperial side. Norman rulers in southern Italy were now the papacy's main military allies. The Concordat of Worms in 1122 brought the controversy to an end.",
+   "bio_sources": [
+    "S1",
+    "S19",
+    "S52"
+   ],
+   "public_uncertainty": null,
+   "research_status": "partial",
+   "open_questions": [
+    "Birthplace: Quingey vs Besançon not resolved by Vatican or Treccani."
+   ]
+  },
+  {
+   "roster_n": [
+    163
+   ],
+   "id": "honorius-ii",
+   "papal_name": "Honorius II",
+   "display_name": "Honorius II",
+   "alt_names": [
+    "Lamberto of Ostia"
+   ],
+   "secular_name": "Lamberto Scannabecchi",
+   "birth_date": null,
+   "birthplace": {
+    "label": "Fiagnano",
+    "country": "Italy",
+    "historical_name": null,
+    "precision": "exact",
+    "lat": 44.297,
+    "lon": 11.623,
+    "radius_km": null,
+    "roster_birth_field": "Fiagnano (Imola)",
+    "note": "Vatican: Fiagnano (Imola). CE: 'born of humble parents at Fagnano near Imola'. Fiagnano is a frazione of Casalfiumanese (BO) near Imola; coordinates approximate.",
+    "public_note": null,
+    "sources": [
+     "S1",
+     "S2",
+     "S20"
+    ]
+   },
+   "saint": {
+    "status": "none",
+    "recognition": null,
+    "date": null,
+    "feast": null,
+    "note": "No S./B. label in the Vatican Italian table; the Catholic Encyclopedia records no cult or beatification.",
+    "public_note": null,
+    "sources": [
+     "S2",
+     "S20"
+    ]
+   },
+   "short_bio": "Lamberto, of humble birth near Imola, rose to be cardinal bishop of Ostia and helped negotiate the Concordat of Worms. His election was secured by the Frangipani family over a rival candidate.",
+   "long_bio": "Born at Fiagnano near Imola, Lamberto became cardinal bishop of Ostia and was the papal legate who negotiated the Concordat of Worms with Henry V in 1122. On the death of Callixtus II in 1124 a disputed election was resolved in his favour with the backing of the Frangipani. As pope he approved the Premonstratensian order of St Norbert and the Templars, and his legate held a reforming synod at Westminster in 1125. He died in February 1130.",
+   "actions": [
+    "Helped negotiate the Concordat of Worms (1122)",
+    "Approved the Premonstratensians (1126)",
+    "Legatine synod at Westminster (1125)"
+   ],
+   "context": "With the investiture conflict settled, the struggle shifted to Rome itself, where noble families such as the Frangipani and Pierleoni competed to control papal elections.",
+   "bio_sources": [
+    "S1",
+    "S20"
+   ],
+   "public_uncertainty": null,
+   "research_status": "partial",
+   "open_questions": []
+  },
+  {
+   "roster_n": [
+    164
+   ],
+   "id": "innocent-ii",
+   "papal_name": "Innocent II",
+   "display_name": "Innocent II",
+   "alt_names": [
+    "Gregorio Papareschi"
+   ],
+   "secular_name": "Gregorio Papareschi",
+   "birth_date": null,
+   "birthplace": {
+    "label": "Rome",
+    "country": "Italy",
+    "historical_name": "Roma",
+    "precision": "exact",
+    "lat": 41.8933,
+    "lon": 12.4829,
+    "radius_km": null,
+    "roster_birth_field": "Rome",
+    "note": "Vatican 'Romano'; CE: a native of Rome, of the Guidoni family.",
+    "public_note": null,
+    "sources": [
+     "S1",
+     "S2",
+     "S21"
+    ]
+   },
+   "saint": {
+    "status": "none",
+    "recognition": null,
+    "date": null,
+    "feast": null,
+    "note": "No S./B. label in the Vatican Italian table; the Catholic Encyclopedia records no cult or beatification.",
+    "public_note": null,
+    "sources": [
+     "S2",
+     "S21"
+    ]
+   },
+   "short_bio": "A Roman cardinal, Gregorio was elected on the same day as the rival Anacletus II, opening an eight-year schism. Backed by Bernard of Clairvaux and most of Europe, he finally prevailed and held the Second Lateran Council.",
+   "long_bio": "Gregorio Papareschi was a Roman cardinal deacon when a minority of cardinals hurriedly elected him in February 1130; the majority chose Pietro Pierleone as Anacletus II. Forced out of Rome, Innocent won the support of Bernard of Clairvaux, the French and English kings and Lothair III, whom he crowned emperor in 1133. The schism ended after Anacletus died in 1138. In 1139 Innocent opened the Second Lateran Council, which annulled his rival's acts. He died in 1143.",
+   "actions": [
+    "Contested the schism with Anacletus II (1130–1138)",
+    "Crowned Lothair III emperor (1133)",
+    "Second Lateran Council (1139)"
+   ],
+   "context": "The disputed election of 1130 split Christendom between two popes. Bernard of Clairvaux's preaching swung most rulers to Innocent, while Roger II of Sicily backed Anacletus; Rome itself was moving towards a self-governing commune.",
+   "bio_sources": [
+    "S1",
+    "S21"
+   ],
+   "public_uncertainty": null,
+   "research_status": "partial",
+   "open_questions": []
+  },
+  {
+   "roster_n": [
+    165
+   ],
+   "id": "celestine-ii",
+   "papal_name": "Celestine II",
+   "display_name": "Celestine II",
+   "alt_names": [
+    "Guido del Castello",
+    "Guido de Castellis"
+   ],
+   "secular_name": "Guido",
+   "birth_date": null,
+   "birthplace": {
+    "label": "Città di Castello",
+    "country": "Italy",
+    "historical_name": null,
+    "precision": "exact",
+    "lat": 43.4573,
+    "lon": 12.2397,
+    "radius_km": null,
+    "roster_birth_field": "Città di Castello",
+    "note": "Vatican: Città di Castello; CE: 'a native of Roman Tuscany', surname del Castello/de Castellis, consistent.",
+    "public_note": null,
+    "sources": [
+     "S1",
+     "S2",
+     "S22"
+    ]
+   },
+   "saint": {
+    "status": "none",
+    "recognition": null,
+    "date": null,
+    "feast": null,
+    "note": "No S./B. label in the Vatican Italian table; the Catholic Encyclopedia records no cult or beatification.",
+    "public_note": null,
+    "sources": [
+     "S2",
+     "S22"
+    ]
+   },
+   "short_bio": "Guido, a learned cardinal and former pupil of Peter Abelard, reigned for under six months. He lifted the interdict that Innocent II had imposed on France.",
+   "long_bio": "Guido came from Città di Castello and was made a cardinal in 1128. As legate to France he protected Arnold of Brescia, to the displeasure of Bernard of Clairvaux. Elected in September 1143, he lifted the interdict Innocent II had placed on France. He died in March 1144 on the eve of a conflict with Roger II of Sicily.",
+   "actions": [
+    "Lifted the interdict on France (1143)"
+   ],
+   "context": "Rome was establishing its own commune and senate in defiance of papal government, while Roger II of Sicily pressed on the papal lands to the south.",
+   "bio_sources": [
+    "S1",
+    "S22"
+   ],
+   "public_uncertainty": null,
+   "research_status": "partial",
+   "open_questions": []
+  },
+  {
+   "roster_n": [
+    166
+   ],
+   "id": "lucius-ii",
+   "papal_name": "Lucius II",
+   "display_name": "Lucius II",
+   "alt_names": [
+    "Gherardo Caccianemici"
+   ],
+   "secular_name": "Gerardo Caccianemici dal Orso",
+   "birth_date": null,
+   "birthplace": {
+    "label": "Bologna",
+    "country": "Italy",
+    "historical_name": null,
+    "precision": "exact",
+    "lat": 44.4949,
+    "lon": 11.3426,
+    "radius_km": null,
+    "roster_birth_field": "Bologna",
+    "note": "Vatican: 'Bolognese'; CE: born at Bologna, date unknown.",
+    "public_note": null,
+    "sources": [
+     "S1",
+     "S2",
+     "S23"
+    ]
+   },
+   "saint": {
+    "status": "none",
+    "recognition": null,
+    "date": null,
+    "feast": null,
+    "note": "No S./B. label in the Vatican Italian table; the Catholic Encyclopedia records no cult or beatification.",
+    "public_note": null,
+    "sources": [
+     "S2",
+     "S23"
+    ]
+   },
+   "short_bio": "Gerardo of Bologna, an experienced papal legate, reigned less than a year. He died after trying to recover the Capitol from the rebellious Roman commune.",
+   "long_bio": "Gerardo Caccianemici was made cardinal priest of Santa Croce by Honorius II and served as legate in Germany, where he took part in the election of Lothair III. Elected in March 1144, he faced the new Roman commune, which had set up a senate and rejected papal rule. He died in February 1145; later chroniclers report that he was mortally injured while leading an attack on the Capitol.",
+   "actions": [
+    "Settled the dispute between Tours and Dol",
+    "Gave St Sabas on the Aventine to Cluniac monks (1145)",
+    "Opposed the Roman commune"
+   ],
+   "context": "The Roman commune, inspired in part by Arnold of Brescia, had restored a senate and sought to strip the popes of temporal rule over the city.",
+   "bio_sources": [
+    "S1",
+    "S23"
+   ],
+   "public_uncertainty": "The story of his death in an assault on the Capitol comes from later chroniclers.",
+   "research_status": "partial",
+   "open_questions": [
+    "Circumstances of death not verified in CE."
+   ]
+  },
+  {
+   "roster_n": [
+    167
+   ],
+   "id": "eugene-iii",
+   "papal_name": "Eugene III",
+   "display_name": "Bl. Eugene III",
+   "alt_names": [
+    "Bernardo Pignatelli",
+    "Bernard of Pisa"
+   ],
+   "secular_name": "Bernardo",
+   "birth_date": null,
+   "birthplace": {
+    "label": "Pisa",
+    "country": "Italy",
+    "historical_name": null,
+    "precision": "exact",
+    "lat": 43.7228,
+    "lon": 10.4017,
+    "radius_km": null,
+    "roster_birth_field": "Pisa",
+    "note": "Vatican: Pisa. CE: 'born in the neighbourhood of Pisa', noting biographers disagree; a local tradition favours Montemagno (Calci), not verified here. Point placed at Pisa per Vatican.",
+    "public_note": "Some sources say only that he was born near Pisa.",
+    "sources": [
+     "S1",
+     "S2",
+     "S24"
+    ]
+   },
+   "saint": {
+    "status": "blessed",
+    "recognition": "cult_confirmed",
+    "date": "28 December 1872",
+    "feast": "8 July",
+    "note": "Vatican table 'B.'. CE: Pius IX by decree of 28 December 1872 approved his long-standing cult at Pisa, with Mass and Office on the anniversary of his death (8 July). Vatican News lists 'B. Eugene III, Pope' on 8 July.",
+    "public_note": null,
+    "sources": [
+     "S2",
+     "S5",
+     "S24",
+     "S9"
+    ]
+   },
+   "short_bio": "Bernardo, a Cistercian monk and disciple of Bernard of Clairvaux, was the first Cistercian pope. He launched the Second Crusade and spent much of his reign in exile from rebellious Rome.",
+   "long_bio": "A Pisan cleric who became a Cistercian under Bernard of Clairvaux, Bernardo was abbot of Sts Vincent and Anastasius near Rome when he was elected in 1145. Driven out by the Roman commune, he went to France, where he proclaimed the Second Crusade and presided over the Synod of Reims in 1148. Bernard dedicated his treatise On Consideration to him. He returned to Rome at the end of 1149 and in 1153 made the Treaty of Constance with Frederick Barbarossa. He died at Tivoli in July 1153.",
+   "actions": [
+    "Called the Second Crusade (1145–1146)",
+    "Synod of Reims (1148)",
+    "Treaty of Constance with Frederick Barbarossa (1153)"
+   ],
+   "context": "Rome's commune, with Arnold of Brescia, rejected papal rule, and the fall of Edessa in 1144 prompted the Second Crusade, preached by Bernard of Clairvaux.",
+   "bio_sources": [
+    "S1",
+    "S24",
+    "S5"
+   ],
+   "public_uncertainty": null,
+   "research_status": "verified",
+   "open_questions": [
+    "Montemagno tradition not checked."
+   ]
+  },
+  {
+   "roster_n": [
+    168
+   ],
+   "id": "anastasius-iv",
+   "papal_name": "Anastasius IV",
+   "display_name": "Anastasius IV",
+   "alt_names": [
+    "Corrado della Suburra"
+   ],
+   "secular_name": "Corrado",
+   "birth_date": null,
+   "birthplace": {
+    "label": "Rome",
+    "country": "Italy",
+    "historical_name": "Roma",
+    "precision": "exact",
+    "lat": 41.8933,
+    "lon": 12.4829,
+    "radius_km": null,
+    "roster_birth_field": "Rome",
+    "note": "Vatican: 'Romano'. CE gives no birthplace or birth date.",
+    "public_note": null,
+    "sources": [
+     "S1",
+     "S2",
+     "S25"
+    ]
+   },
+   "saint": {
+    "status": "none",
+    "recognition": null,
+    "date": null,
+    "feast": null,
+    "note": "No S./B. label in the Vatican Italian table; the Catholic Encyclopedia records no cult or beatification.",
+    "public_note": null,
+    "sources": [
+     "S2",
+     "S25"
+    ]
+   },
+   "short_bio": "Corrado, an elderly Roman cardinal, reigned for about seventeen months. He was conciliatory toward Frederick Barbarossa and restored the Pantheon.",
+   "long_bio": "Corrado was a Roman and a long-serving cardinal bishop of Sabina when he was elected in July 1153, already advanced in years. His short reign was marked by a policy of reconciliation: he ended a dispute over the see of Magdeburg by accepting Barbarossa's candidate Wichmann, and granted privileges to the Knights Hospitaller. He restored the Pantheon and died in Rome in December 1154.",
+   "actions": [
+    "Recognised Wichmann as archbishop of Magdeburg",
+    "Granted privileges to the Knights Hospitaller",
+    "Restored the Pantheon"
+   ],
+   "context": "Frederick Barbarossa sought to restore imperial power in Italy, clashing with the papacy and the Lombard cities, while the Roman commune contested papal rule in the city.",
+   "bio_sources": [
+    "S1",
+    "S25"
+   ],
+   "public_uncertainty": null,
+   "research_status": "minimal",
+   "open_questions": []
+  },
+  {
+   "roster_n": [
+    169
+   ],
+   "id": "adrian-iv",
+   "papal_name": "Adrian IV",
+   "display_name": "Adrian IV",
+   "alt_names": [
+    "Hadrian IV",
+    "Nicholas Breakspear"
+   ],
+   "secular_name": "Nicholas Breakspear",
+   "birth_date": "c. 1100",
+   "birthplace": {
+    "label": "Abbots Langley",
+    "country": "United Kingdom",
+    "historical_name": null,
+    "precision": "exact",
+    "lat": 51.701,
+    "lon": -0.416,
+    "radius_km": null,
+    "roster_birth_field": "Abbot's Lagnley (Hertfordshire)",
+    "note": "Roster spells 'Abbot's Lagnley' (typo for Abbots Langley, Hertfordshire). CE: 'tolerably certain' he was born at Abbot's Langley about 1100; father Robert.",
+    "public_note": null,
+    "sources": [
+     "S1",
+     "S2",
+     "S26"
+    ]
+   },
+   "saint": {
+    "status": "none",
+    "recognition": null,
+    "date": null,
+    "feast": null,
+    "note": "No S./B. label in the Vatican Italian table; the Catholic Encyclopedia records no cult or beatification.",
+    "public_note": null,
+    "sources": [
+     "S2",
+     "S26"
+    ]
+   },
+   "short_bio": "Nicholas Breakspear is the only English pope. A former legate to Scandinavia, he faced the Roman commune and an increasingly assertive Frederick Barbarossa.",
+   "long_bio": "Born at Abbots Langley in Hertfordshire, Nicholas went abroad and became a canon and then abbot of St Rufus near Avignon. Eugene III made him cardinal bishop of Albano and sent him to Scandinavia in 1152, where he organised the Norwegian church around a new archbishopric at Trondheim. Elected in December 1154, he placed Rome under interdict to break the commune, which led to the execution of Arnold of Brescia, and crowned Barbarossa in 1155. Relations with the emperor soured after the Diet of Besançon in 1157. He died at Anagni in 1159.",
+   "actions": [
+    "Legate to Scandinavia; Trondheim made an archbishopric (1152)",
+    "Crowned Frederick Barbarossa emperor (1155)",
+    "Clashed with the emperor after the Diet of Besançon (1157)"
+   ],
+   "context": "Frederick Barbarossa sought to restore imperial power in Italy, clashing with the papacy and the Lombard cities, while the Roman commune contested papal rule in the city.",
+   "bio_sources": [
+    "S1",
+    "S26"
+   ],
+   "public_uncertainty": null,
+   "research_status": "verified",
+   "open_questions": []
+  },
+  {
+   "roster_n": [
+    170
+   ],
+   "id": "alexander-iii",
+   "papal_name": "Alexander III",
+   "display_name": "Alexander III",
+   "alt_names": [
+    "Rolando Bandinelli",
+    "Orlando Bandinelli"
+   ],
+   "secular_name": "Rolando Bandinelli",
+   "birth_date": null,
+   "birthplace": {
+    "label": "Siena",
+    "country": "Italy",
+    "historical_name": null,
+    "precision": "exact",
+    "lat": 43.3188,
+    "lon": 11.3308,
+    "radius_km": null,
+    "roster_birth_field": "Siena",
+    "note": "Vatican: Siena. CE: 'of a distinguished Sienese family'; no birth date. CE gives death 3 August 1181 whereas roster has 30.VIII.1181; roster untouched.",
+    "public_note": null,
+    "sources": [
+     "S1",
+     "S2",
+     "S27"
+    ]
+   },
+   "saint": {
+    "status": "none",
+    "recognition": null,
+    "date": null,
+    "feast": null,
+    "note": "No S./B. label in the Vatican Italian table; the Catholic Encyclopedia records no cult or beatification.",
+    "public_note": null,
+    "sources": [
+     "S2",
+     "S27"
+    ]
+   },
+   "short_bio": "Rolando of Siena, a canon lawyer, led the papacy through a seventeen-year schism against Frederick Barbarossa's antipopes. He ended it at Venice in 1177 and held the Third Lateran Council.",
+   "long_bio": "Rolando Bandinelli, from a leading Sienese family, became chancellor of the Roman Church. At the Diet of Besançon in 1157 his words implying that the empire was a papal benefice enraged Barbarossa. Elected in 1159, he was opposed by an imperial antipope, Victor IV, and spent years in exile in France. Allied with the Lombard League, whose victory at Legnano in 1176 broke imperial power, he made peace with Barbarossa at Venice in 1177. In 1179 the Third Lateran Council required a two-thirds majority of cardinals to elect a pope. He also canonised Thomas Becket.",
+   "actions": [
+    "Opposed Barbarossa's antipopes (1159–1177)",
+    "Peace of Venice (1177)",
+    "Third Lateran Council; two-thirds rule for elections (1179)",
+    "Canonised Thomas Becket (1173)"
+   ],
+   "context": "Frederick Barbarossa sought to restore imperial power in Italy, clashing with the papacy and the Lombard cities, while the Roman commune contested papal rule in the city.",
+   "bio_sources": [
+    "S1",
+    "S27"
+   ],
+   "public_uncertainty": null,
+   "research_status": "verified",
+   "open_questions": []
+  },
+  {
+   "roster_n": [
+    171
+   ],
+   "id": "lucius-iii",
+   "papal_name": "Lucius III",
+   "display_name": "Lucius III",
+   "alt_names": [
+    "Ubaldo Allucingoli"
+   ],
+   "secular_name": "Ubaldo Allucingoli",
+   "birth_date": null,
+   "birthplace": {
+    "label": "Lucca",
+    "country": "Italy",
+    "historical_name": null,
+    "precision": "exact",
+    "lat": 43.8429,
+    "lon": 10.5027,
+    "radius_km": null,
+    "roster_birth_field": "Lucca",
+    "note": "Vatican: 'Lucchese'; CE: born at Lucca, date unknown.",
+    "public_note": null,
+    "sources": [
+     "S1",
+     "S2",
+     "S28"
+    ]
+   },
+   "saint": {
+    "status": "none",
+    "recognition": null,
+    "date": null,
+    "feast": null,
+    "note": "No S./B. label in the Vatican Italian table; the Catholic Encyclopedia records no cult or beatification.",
+    "public_note": null,
+    "sources": [
+     "S2",
+     "S28"
+    ]
+   },
+   "short_bio": "Ubaldo of Lucca, a veteran cardinal and negotiator of the Peace of Venice, was elected at Velletri. At Verona in 1184 he issued a sweeping decree against heretics.",
+   "long_bio": "Ubaldo Allucingoli was made a cardinal by Innocent II and served Alexander III in the negotiations that led to the Peace of Venice in 1177. Elected at Velletri in 1181, he spent little time in Rome because of conflict with the city. In 1184 he met Barbarossa at Verona, where the decree Ad abolendam condemned the Cathars, Waldensians and other groups and laid foundations for the later inquisition. He died at Verona in 1185.",
+   "actions": [
+    "Helped negotiate the Peace of Venice (1177)",
+    "Decree against heresy at Verona (1184)",
+    "Consecrated the cathedral of Bologna"
+   ],
+   "context": "Frederick Barbarossa sought to restore imperial power in Italy, clashing with the papacy and the Lombard cities, while the Roman commune contested papal rule in the city.",
+   "bio_sources": [
+    "S1",
+    "S28"
+   ],
+   "public_uncertainty": null,
+   "research_status": "partial",
+   "open_questions": []
+  },
+  {
+   "roster_n": [
+    172
+   ],
+   "id": "urban-iii",
+   "papal_name": "Urban III",
+   "display_name": "Urban III",
+   "alt_names": [
+    "Uberto Crivelli"
+   ],
+   "secular_name": "Umberto Crivelli",
+   "birth_date": null,
+   "birthplace": {
+    "label": "Milan",
+    "country": "Italy",
+    "historical_name": "Mediolanum",
+    "precision": "exact",
+    "lat": 45.4642,
+    "lon": 9.19,
+    "radius_km": null,
+    "roster_birth_field": "Milan",
+    "note": "Vatican: 'Milanese'; CE: born at Milan, of the Crivelli family.",
+    "public_note": null,
+    "sources": [
+     "S1",
+     "S2",
+     "S29"
+    ]
+   },
+   "saint": {
+    "status": "none",
+    "recognition": null,
+    "date": null,
+    "feast": null,
+    "note": "No S./B. label in the Vatican Italian table; the Catholic Encyclopedia records no cult or beatification.",
+    "public_note": null,
+    "sources": [
+     "S2",
+     "S29"
+    ]
+   },
+   "short_bio": "Uberto Crivelli, archbishop of Milan, was elected at Verona the day Lucius III died. His short reign was a running quarrel with Frederick Barbarossa and his son Henry.",
+   "long_bio": "A Milanese noble created cardinal in 1182, Uberto kept the archbishopric of Milan after his election in 1185. He opposed the marriage of Barbarossa's son Henry to Constance of Sicily and excommunicated the bishops who crowned Henry. He also defied the emperor over the see of Trier. His legates brokered a truce between England and France in 1187. He died at Ferrara in October 1187, reportedly on hearing of the fall of Jerusalem.",
+   "actions": [
+    "Opposed the Hohenstaufen–Sicily marriage alliance",
+    "Appointed Folmar to Trier against imperial wishes (1186)",
+    "Legates arranged an Anglo-French truce (1187)"
+   ],
+   "context": "The fall of Jerusalem to Saladin in 1187 dominated papal policy, alongside the struggle to keep the emperor Henry VI from uniting Germany with the Kingdom of Sicily, which would surround the papal lands.",
+   "bio_sources": [
+    "S1",
+    "S29"
+   ],
+   "public_uncertainty": "The story that news of Jerusalem's fall caused his death is a medieval report.",
+   "research_status": "partial",
+   "open_questions": []
+  },
+  {
+   "roster_n": [
+    173
+   ],
+   "id": "gregory-viii",
+   "papal_name": "Gregory VIII",
+   "display_name": "Gregory VIII",
+   "alt_names": [
+    "Alberto di Morra"
+   ],
+   "secular_name": "Alberto di Morra",
+   "birth_date": "early 12th century",
+   "birthplace": {
+    "label": "Benevento",
+    "country": "Italy",
+    "historical_name": null,
+    "precision": "exact",
+    "lat": 41.1298,
+    "lon": 14.7826,
+    "radius_km": null,
+    "roster_birth_field": "Benevento",
+    "note": "Vatican and CE agree: born at Benevento about the beginning of the 12th century.",
+    "public_note": null,
+    "sources": [
+     "S1",
+     "S2",
+     "S30"
+    ]
+   },
+   "saint": {
+    "status": "none",
+    "recognition": null,
+    "date": null,
+    "feast": null,
+    "note": "No S./B. label in the Vatican Italian table; the Catholic Encyclopedia records no cult or beatification.",
+    "public_note": null,
+    "sources": [
+     "S2",
+     "S30"
+    ]
+   },
+   "short_bio": "Alberto di Morra, papal chancellor, reigned for less than two months. His bull Audita tremendi called for the Third Crusade after the fall of Jerusalem.",
+   "long_bio": "Born at Benevento, Alberto was made a cardinal by Adrian IV and chancellor by Alexander III. Elected at Ferrara in October 1187, he immediately issued letters calling for prayer, fasting and a crusade to recover Jerusalem, which Saladin had captured that month. He sought peace with the emperor and Pisa and Genoa. He died at Pisa in December 1187.",
+   "actions": [
+    "Issued Audita tremendi, calling the Third Crusade (1187)",
+    "Sought reconciliation with the emperor"
+   ],
+   "context": "The fall of Jerusalem to Saladin in 1187 dominated papal policy, alongside the struggle to keep the emperor Henry VI from uniting Germany with the Kingdom of Sicily, which would surround the papal lands.",
+   "bio_sources": [
+    "S1",
+    "S30"
+   ],
+   "public_uncertainty": null,
+   "research_status": "partial",
+   "open_questions": []
+  },
+  {
+   "roster_n": [
+    174
+   ],
+   "id": "clement-iii",
+   "papal_name": "Clement III",
+   "display_name": "Clement III",
+   "alt_names": [
+    "Paolo Scolari"
+   ],
+   "secular_name": "Paolo Scolari",
+   "birth_date": null,
+   "birthplace": {
+    "label": "Rome",
+    "country": "Italy",
+    "historical_name": "Roma",
+    "precision": "exact",
+    "lat": 41.8933,
+    "lon": 12.4829,
+    "radius_km": null,
+    "roster_birth_field": "Rome",
+    "note": "Vatican: 'Romano'; CE: a Roman by birth, date unknown.",
+    "public_note": null,
+    "sources": [
+     "S1",
+     "S2",
+     "S31"
+    ]
+   },
+   "saint": {
+    "status": "none",
+    "recognition": null,
+    "date": null,
+    "feast": null,
+    "note": "No S./B. label in the Vatican Italian table; the Catholic Encyclopedia records no cult or beatification.",
+    "public_note": null,
+    "sources": [
+     "S2",
+     "S31"
+    ]
+   },
+   "short_bio": "Paolo Scolari, a Roman cardinal bishop, made peace with the Roman commune and returned the papacy to Rome. He organised the Third Crusade.",
+   "long_bio": "A Roman, Paolo Scolari was cardinal bishop of Palestrina when he was elected in December 1187. In 1188 he concluded a treaty with the Romans that recognised papal sovereignty while confirming the commune's liberties, allowing the popes to live in Rome again. He worked to launch the Third Crusade and reconcile its leaders, placed the Scottish church directly under the Holy See, and backed Tancred of Lecce as king of Sicily against Henry VI. He died in 1191.",
+   "actions": [
+    "Treaty with the Roman commune (1188)",
+    "Organised the Third Crusade",
+    "Took the Scottish church under direct papal protection"
+   ],
+   "context": "The fall of Jerusalem to Saladin in 1187 dominated papal policy, alongside the struggle to keep the emperor Henry VI from uniting Germany with the Kingdom of Sicily, which would surround the papal lands.",
+   "bio_sources": [
+    "S1",
+    "S31"
+   ],
+   "public_uncertainty": null,
+   "research_status": "partial",
+   "open_questions": []
+  },
+  {
+   "roster_n": [
+    175
+   ],
+   "id": "celestine-iii",
+   "papal_name": "Celestine III",
+   "display_name": "Celestine III",
+   "alt_names": [
+    "Giacinto Bobone"
+   ],
+   "secular_name": "Giacinto Bobone",
+   "birth_date": "c. 1106",
+   "birthplace": {
+    "label": "Rome",
+    "country": "Italy",
+    "historical_name": "Roma",
+    "precision": "exact",
+    "lat": 41.8933,
+    "lon": 12.4829,
+    "radius_km": null,
+    "roster_birth_field": "Rome",
+    "note": "Vatican: 'Romano'. CE gives no birthplace but says he was of the Roman Orsini (Bobone) family, b. about 1106.",
+    "public_note": null,
+    "sources": [
+     "S1",
+     "S2",
+     "S32"
+    ]
+   },
+   "saint": {
+    "status": "none",
+    "recognition": null,
+    "date": null,
+    "feast": null,
+    "note": "No S./B. label in the Vatican Italian table; the Catholic Encyclopedia records no cult or beatification.",
+    "public_note": null,
+    "sources": [
+     "S2",
+     "S32"
+    ]
+   },
+   "short_bio": "Giacinto Bobone, of the Roman family that became the Orsini, was elected at about 85 after decades as a cardinal deacon. He crowned Henry VI and protested the imprisonment of Richard the Lionheart.",
+   "long_bio": "Giacinto Bobone was a cardinal deacon for over forty years, and in his youth had defended Peter Abelard. Elected in 1191, he was ordained priest and bishop only after his election, and crowned Henry VI and Constance the following day. He excommunicated Leopold of Austria for imprisoning Richard I, upheld Ingeborg of Denmark's marriage against Philip II of France, and confirmed the Teutonic Knights. He died in January 1198.",
+   "actions": [
+    "Crowned Henry VI emperor (1191)",
+    "Excommunicated Leopold of Austria over Richard I's captivity",
+    "Upheld Ingeborg's marriage against Philip II"
+   ],
+   "context": "The fall of Jerusalem to Saladin in 1187 dominated papal policy, alongside the struggle to keep the emperor Henry VI from uniting Germany with the Kingdom of Sicily, which would surround the papal lands.",
+   "bio_sources": [
+    "S1",
+    "S32"
+   ],
+   "public_uncertainty": null,
+   "research_status": "partial",
+   "open_questions": []
+  },
+  {
+   "roster_n": [
+    176
+   ],
+   "id": "innocent-iii",
+   "papal_name": "Innocent III",
+   "display_name": "Innocent III",
+   "alt_names": [
+    "Lotario dei Conti di Segni"
+   ],
+   "secular_name": "Lotario dei conti di Segni",
+   "birth_date": "1160 or 1161",
+   "birthplace": {
+    "label": "Gavignano",
+    "country": "Italy",
+    "historical_name": null,
+    "precision": "exact",
+    "lat": 41.7004,
+    "lon": 13.0503,
+    "radius_km": null,
+    "roster_birth_field": "Gavignano (Rome)",
+    "note": "Vatican and Treccani: Gavignano (Lazio). CE: born at Anagni. Chosen Gavignano (Vatican + Treccani); Anagni recorded as alternative.",
+    "public_note": "Some older sources name Anagni instead.",
+    "sources": [
+     "S1",
+     "S2",
+     "S53",
+     "S33"
+    ]
+   },
+   "saint": {
+    "status": "none",
+    "recognition": null,
+    "date": null,
+    "feast": null,
+    "note": "No S./B. label in the Vatican Italian table; the Catholic Encyclopedia records no cult or beatification.",
+    "public_note": null,
+    "sources": [
+     "S2",
+     "S33"
+    ]
+   },
+   "short_bio": "Lotario of the counts of Segni was elected at 37 and became one of the most powerful popes of the Middle Ages. He presided over the Fourth Lateran Council in 1215.",
+   "long_bio": "Son of Count Trasimund of Segni and nephew of Clement III, Lotario studied at Paris and Bologna and was made a cardinal young. As pope from 1198 he asserted papal authority over rulers: he placed France under interdict over Philip II's treatment of Ingeborg, excommunicated Otto IV, and accepted England as a papal fief from King John in 1213. He called the Fourth Crusade, which turned against Constantinople in 1204, and the Albigensian crusade. He approved the early Franciscans and held the Fourth Lateran Council in 1215. He died at Perugia in 1216.",
+   "actions": [
+    "Interdict on France (1199)",
+    "Called the Fourth Crusade (1202–1204)",
+    "Accepted England as a papal fief (1213)",
+    "Fourth Lateran Council (1215)",
+    "Approved the first rule of St Francis (c. 1209/10)"
+   ],
+   "context": "Henry VI's death in 1197 left Germany divided between rival kings and the boy Frederick II heir to Sicily, under Innocent's guardianship. Popular religious movements and the Cathar heresy were spreading in southern France and Italy.",
+   "bio_sources": [
+    "S1",
+    "S33",
+    "S53"
+   ],
+   "public_uncertainty": null,
+   "research_status": "verified",
+   "open_questions": []
+  },
+  {
+   "roster_n": [
+    177
+   ],
+   "id": "honorius-iii",
+   "papal_name": "Honorius III",
+   "display_name": "Honorius III",
+   "alt_names": [
+    "Cencio Savelli",
+    "Cencius Camerarius"
+   ],
+   "secular_name": "Cencio",
+   "birth_date": null,
+   "birthplace": {
+    "label": "Rome",
+    "country": "Italy",
+    "historical_name": "Roma",
+    "precision": "exact",
+    "lat": 41.8933,
+    "lon": 12.4829,
+    "radius_km": null,
+    "roster_birth_field": "Rome",
+    "note": "Vatican: 'Romano'; CE: born at Rome, date unknown (Cencio Savelli).",
+    "public_note": null,
+    "sources": [
+     "S1",
+     "S2",
+     "S34"
+    ]
+   },
+   "saint": {
+    "status": "none",
+    "recognition": null,
+    "date": null,
+    "feast": null,
+    "note": "No S./B. label in the Vatican Italian table; the Catholic Encyclopedia records no cult or beatification.",
+    "public_note": null,
+    "sources": [
+     "S2",
+     "S34"
+    ]
+   },
+   "short_bio": "Cencio, long the papal chamberlain, approved the Dominican, Franciscan and Carmelite rules. He crowned Frederick II emperor and urged him to go on crusade.",
+   "long_bio": "A Roman, Cencio served as chamberlain of the Roman Church and compiled the Liber censuum, a register of papal revenues. Elected in 1216, he approved the Order of Preachers in 1216, the definitive Franciscan rule in 1223 and the Carmelite rule in 1226. He promoted the Fifth Crusade and crowned Frederick II emperor in 1220 on his promise to take the cross. He died in Rome in 1227.",
+   "actions": [
+    "Approved the Dominicans (1216)",
+    "Approved the Franciscan rule, Solet annuere (1223)",
+    "Crowned Frederick II (1220)",
+    "Compiled the Liber censuum"
+   ],
+   "context": "The papacy was locked in conflict with the Hohenstaufen emperor Frederick II, who ruled both Germany and Sicily, and then with his heirs; the popes eventually turned to Charles of Anjou to drive the Hohenstaufen from southern Italy.",
+   "bio_sources": [
+    "S1",
+    "S34"
+   ],
+   "public_uncertainty": null,
+   "research_status": "partial",
+   "open_questions": []
+  },
+  {
+   "roster_n": [
+    178
+   ],
+   "id": "gregory-ix",
+   "papal_name": "Gregory IX",
+   "display_name": "Gregory IX",
+   "alt_names": [
+    "Ugolino di Segni",
+    "Ugolino of Ostia"
+   ],
+   "secular_name": "Ugolino di Segni",
+   "birth_date": "c. 1145 (some say c. 1170)",
+   "birthplace": {
+    "label": "Anagni",
+    "country": "Italy",
+    "historical_name": null,
+    "precision": "exact",
+    "lat": 41.744,
+    "lon": 13.158,
+    "radius_km": null,
+    "roster_birth_field": "Anagni",
+    "note": "Vatican and CE agree: Anagni. CE birth date c. 1145; many modern scholars prefer c. 1170 (not verified here).",
+    "public_note": null,
+    "sources": [
+     "S1",
+     "S2",
+     "S35"
+    ]
+   },
+   "saint": {
+    "status": "none",
+    "recognition": null,
+    "date": null,
+    "feast": null,
+    "note": "No S./B. label in the Vatican Italian table; the Catholic Encyclopedia records no cult or beatification.",
+    "public_note": null,
+    "sources": [
+     "S2",
+     "S35"
+    ]
+   },
+   "short_bio": "Ugolino, a kinsman of Innocent III and protector of the Franciscans, was elected as an old man. He canonised Francis of Assisi and fought a bitter struggle with Frederick II.",
+   "long_bio": "A member of the family of the counts of Segni, Ugolino was cardinal bishop of Ostia and a friend and protector of Francis of Assisi. Elected in 1227, he excommunicated Frederick II for delaying his crusade, made peace at San Germano in 1230, and excommunicated him again in 1239. He canonised Francis (1228), Anthony of Padua and Dominic, entrusted inquiries into heresy to the friars, and issued the Decretals compiled by Raymond of Peñafort in 1234. He died in Rome in 1241 while imperial forces were near the city.",
+   "actions": [
+    "Canonised St Francis of Assisi (1228)",
+    "Treaty of San Germano with Frederick II (1230)",
+    "Promulgated the Decretals (1234)",
+    "Appointed friars as inquisitors (1230s)"
+   ],
+   "context": "The papacy was locked in conflict with the Hohenstaufen emperor Frederick II, who ruled both Germany and Sicily, and then with his heirs; the popes eventually turned to Charles of Anjou to drive the Hohenstaufen from southern Italy.",
+   "bio_sources": [
+    "S1",
+    "S35"
+   ],
+   "public_uncertainty": "His birth year is uncertain; older works say about 1145, others about 1170.",
+   "research_status": "partial",
+   "open_questions": [
+    "Birth year c. 1145 vs c. 1170."
+   ]
+  },
+  {
+   "roster_n": [
+    179
+   ],
+   "id": "celestine-iv",
+   "papal_name": "Celestine IV",
+   "display_name": "Celestine IV",
+   "alt_names": [
+    "Goffredo Castiglioni"
+   ],
+   "secular_name": "Goffredo da Castiglione",
+   "birth_date": null,
+   "birthplace": {
+    "label": "Milan",
+    "country": "Italy",
+    "historical_name": "Mediolanum",
+    "precision": "exact",
+    "lat": 45.4642,
+    "lon": 9.19,
+    "radius_km": null,
+    "roster_birth_field": "Milan",
+    "note": "Vatican: 'Milanese'; CE: a native of Milan, nephew of Urban III.",
+    "public_note": null,
+    "sources": [
+     "S1",
+     "S2",
+     "S36"
+    ]
+   },
+   "saint": {
+    "status": "none",
+    "recognition": null,
+    "date": null,
+    "feast": null,
+    "note": "No S./B. label in the Vatican Italian table; the Catholic Encyclopedia records no cult or beatification.",
+    "public_note": null,
+    "sources": [
+     "S2",
+     "S36"
+    ]
+   },
+   "short_bio": "Goffredo of Milan, nephew of Urban III, was elected while Frederick II's forces threatened Rome. He died about two weeks later.",
+   "long_bio": "A Milanese and nephew of Urban III, Goffredo was made a cardinal by Gregory IX. He was elected in October 1241, after the death of Gregory IX, at a time when Frederick II was pressing hard on Rome. Already ill, he died on 10 November 1241, and the papacy then remained vacant for about a year and a half.",
+   "actions": [],
+   "context": "The papacy was locked in conflict with the Hohenstaufen emperor Frederick II, who ruled both Germany and Sicily, and then with his heirs; the popes eventually turned to Charles of Anjou to drive the Hohenstaufen from southern Italy.",
+   "bio_sources": [
+    "S1",
+    "S36"
+   ],
+   "public_uncertainty": null,
+   "research_status": "partial",
+   "open_questions": []
+  },
+  {
+   "roster_n": [
+    180
+   ],
+   "id": "innocent-iv",
+   "papal_name": "Innocent IV",
+   "display_name": "Innocent IV",
+   "alt_names": [
+    "Sinibaldo Fieschi"
+   ],
+   "secular_name": "Sinibaldo Fieschi",
+   "birth_date": "by 1190",
+   "birthplace": {
+    "label": "Lavagna",
+    "country": "Italy",
+    "historical_name": null,
+    "precision": "exact",
+    "lat": 44.307,
+    "lon": 9.343,
+    "radius_km": null,
+    "roster_birth_field": "Lavagna (Genoa)",
+    "note": "Vatican and Treccani: Lavagna (Genova), born no later than 1190. CE: born at Genoa, of the counts of Lavagna. Chosen Lavagna; Genoa recorded as alternative.",
+    "public_note": "Some sources say he was born in Genoa itself.",
+    "sources": [
+     "S1",
+     "S2",
+     "S54",
+     "S37"
+    ]
+   },
+   "saint": {
+    "status": "none",
+    "recognition": null,
+    "date": null,
+    "feast": null,
+    "note": "No S./B. label in the Vatican Italian table; the Catholic Encyclopedia records no cult or beatification.",
+    "public_note": null,
+    "sources": [
+     "S2",
+     "S37"
+    ]
+   },
+   "short_bio": "Sinibaldo Fieschi, a leading canon lawyer from the Genoese counts of Lavagna, fled to Lyon and there declared Frederick II deposed. He spent his reign fighting the Hohenstaufen.",
+   "long_bio": "A distinguished canonist trained at Bologna, Sinibaldo was elected in 1243 after a long vacancy. Talks with Frederick II broke down, and in 1244 he escaped to Lyon, where the First Council of Lyon in 1245 declared the emperor deposed. He sent Franciscan envoys to the Mongols, canonised Edmund of Abingdon and Stanislaus of Kraków, and after Frederick's death in 1250 returned to Italy to oppose his heirs. He died at Naples in December 1254.",
+   "actions": [
+    "First Council of Lyon; deposition of Frederick II (1245)",
+    "Sent envoys to the Mongol khan (1245)",
+    "Canonised Stanislaus of Kraków (1253)"
+   ],
+   "context": "The papacy was locked in conflict with the Hohenstaufen emperor Frederick II, who ruled both Germany and Sicily, and then with his heirs; the popes eventually turned to Charles of Anjou to drive the Hohenstaufen from southern Italy.",
+   "bio_sources": [
+    "S1",
+    "S37",
+    "S54"
+   ],
+   "public_uncertainty": null,
+   "research_status": "verified",
+   "open_questions": []
+  },
+  {
+   "roster_n": [
+    181
+   ],
+   "id": "alexander-iv",
+   "papal_name": "Alexander IV",
+   "display_name": "Alexander IV",
+   "alt_names": [
+    "Rinaldo Conti",
+    "Rinaldo di Jenne"
+   ],
+   "secular_name": "Rinaldo di Jenne",
+   "birth_date": null,
+   "birthplace": {
+    "label": "Jenne",
+    "country": "Italy",
+    "historical_name": null,
+    "precision": "exact",
+    "lat": 41.889,
+    "lon": 13.17,
+    "radius_km": null,
+    "roster_birth_field": "Jenne (Rome)",
+    "note": "Vatican: 'Ienne (Roma)'. CE: of the house of Segni, birthplace not given.",
+    "public_note": null,
+    "sources": [
+     "S1",
+     "S2",
+     "S38"
+    ]
+   },
+   "saint": {
+    "status": "none",
+    "recognition": null,
+    "date": null,
+    "feast": null,
+    "note": "No S./B. label in the Vatican Italian table; the Catholic Encyclopedia records no cult or beatification.",
+    "public_note": null,
+    "sources": [
+     "S2",
+     "S38"
+    ]
+   },
+   "short_bio": "Rinaldo, nephew of Gregory IX and protector of the Franciscans, continued the struggle against Frederick II's son Manfred. He canonised Clare of Assisi.",
+   "long_bio": "A relative of Gregory IX, Rinaldo was made cardinal deacon in 1227 and cardinal bishop of Ostia in 1231. Elected at Naples in December 1254, he excommunicated Manfred and offered the crown of Sicily to Edmund, son of Henry III of England. He canonised Clare of Assisi in 1255, supported the friars in their dispute with the Paris masters, and spent much of his reign at Viterbo and Anagni. He died at Viterbo in 1261.",
+   "actions": [
+    "Excommunicated Manfred (1255)",
+    "Canonised St Clare (1255)",
+    "Offered Sicily to Edmund of Lancaster"
+   ],
+   "context": "The papacy was locked in conflict with the Hohenstaufen emperor Frederick II, who ruled both Germany and Sicily, and then with his heirs; the popes eventually turned to Charles of Anjou to drive the Hohenstaufen from southern Italy.",
+   "bio_sources": [
+    "S1",
+    "S38"
+   ],
+   "public_uncertainty": null,
+   "research_status": "partial",
+   "open_questions": []
+  },
+  {
+   "roster_n": [
+    182
+   ],
+   "id": "urban-iv",
+   "papal_name": "Urban IV",
+   "display_name": "Urban IV",
+   "alt_names": [
+    "Jacques Pantaléon"
+   ],
+   "secular_name": "Jacques Pantaléon",
+   "birth_date": "probably late 12th century",
+   "birthplace": {
+    "label": "Troyes",
+    "country": "France",
+    "historical_name": null,
+    "precision": "exact",
+    "lat": 48.2973,
+    "lon": 4.0744,
+    "radius_km": null,
+    "roster_birth_field": "Troyes",
+    "note": "Vatican and CE agree: Troyes; CE says son of a cobbler, born probably in the last years of the 12th century.",
+    "public_note": null,
+    "sources": [
+     "S1",
+     "S2",
+     "S39"
+    ]
+   },
+   "saint": {
+    "status": "none",
+    "recognition": null,
+    "date": null,
+    "feast": null,
+    "note": "No S./B. label in the Vatican Italian table; the Catholic Encyclopedia records no cult or beatification.",
+    "public_note": null,
+    "sources": [
+     "S2",
+     "S39"
+    ]
+   },
+   "short_bio": "Jacques Pantaléon, a cobbler's son from Troyes, rose to be Latin patriarch of Jerusalem. As pope he invited Charles of Anjou into Italy and instituted the feast of Corpus Christi.",
+   "long_bio": "Born at Troyes to a cobbler, Jacques studied at Paris and served as a papal legate in Germany and the Baltic. He became bishop of Verdun and in 1255 patriarch of Jerusalem. Elected at Viterbo in 1261 while visiting the Curia, he created many French cardinals and negotiated with Charles of Anjou to take Sicily from Manfred. In 1264 he extended the feast of Corpus Christi to the whole Church. He died at Perugia in 1264.",
+   "actions": [
+    "Instituted the feast of Corpus Christi (1264)",
+    "Negotiated Charles of Anjou's intervention in Sicily",
+    "Created fourteen cardinals"
+   ],
+   "context": "The papacy was locked in conflict with the Hohenstaufen emperor Frederick II, who ruled both Germany and Sicily, and then with his heirs; the popes eventually turned to Charles of Anjou to drive the Hohenstaufen from southern Italy.",
+   "bio_sources": [
+    "S1",
+    "S39"
+   ],
+   "public_uncertainty": null,
+   "research_status": "partial",
+   "open_questions": []
+  },
+  {
+   "roster_n": [
+    183
+   ],
+   "id": "clement-iv",
+   "papal_name": "Clement IV",
+   "display_name": "Clement IV",
+   "alt_names": [
+    "Guy Foulquois",
+    "Gui Foulques",
+    "Guido Le Gros"
+   ],
+   "secular_name": "Gui Foulques",
+   "birth_date": "23 November (year unknown)",
+   "birthplace": {
+    "label": "Saint-Gilles",
+    "country": "France",
+    "historical_name": null,
+    "precision": "exact",
+    "lat": 43.6786,
+    "lon": 4.4317,
+    "radius_km": null,
+    "roster_birth_field": "Saint-Gilles (Southern French)",
+    "note": "Vatican and CE agree: Saint-Gilles on the Rhône (Gard); CE gives 23 November, year unknown.",
+    "public_note": null,
+    "sources": [
+     "S1",
+     "S2",
+     "S40"
+    ]
+   },
+   "saint": {
+    "status": "none",
+    "recognition": null,
+    "date": null,
+    "feast": null,
+    "note": "No S./B. label in the Vatican Italian table; the Catholic Encyclopedia records no cult or beatification.",
+    "public_note": null,
+    "sources": [
+     "S2",
+     "S40"
+    ]
+   },
+   "short_bio": "Gui Foulques was a married lawyer and adviser to Louis IX before entering the clergy as a widower. As pope he backed Charles of Anjou's conquest of Sicily.",
+   "long_bio": "Son of a knight, Gui practised law and served Louis IX; after his wife's death he was ordained and became bishop of Le Puy and archbishop of Narbonne. Elected at Perugia in 1265, he refused to advance his relatives. He financed and preached a crusade for Charles of Anjou, who defeated Manfred at Benevento in 1266 and the young Conradin in 1268. He canonised Hedwig of Silesia and died at Viterbo in November 1268, after which the see stood vacant for nearly three years.",
+   "actions": [
+    "Supported Charles of Anjou against Manfred and Conradin",
+    "Barred his relatives from profiting by his election",
+    "Canonised St Hedwig of Silesia"
+   ],
+   "context": "The papacy was locked in conflict with the Hohenstaufen emperor Frederick II, who ruled both Germany and Sicily, and then with his heirs; the popes eventually turned to Charles of Anjou to drive the Hohenstaufen from southern Italy.",
+   "bio_sources": [
+    "S1",
+    "S40"
+   ],
+   "public_uncertainty": null,
+   "research_status": "partial",
+   "open_questions": []
+  },
+  {
+   "roster_n": [
+    184
+   ],
+   "id": "gregory-x",
+   "papal_name": "Gregory X",
+   "display_name": "Bl. Gregory X",
+   "alt_names": [
+    "Teobaldo Visconti",
+    "Tedaldo Visconti"
+   ],
+   "secular_name": "Tebaldo Visconti",
+   "birth_date": "c. 1210",
+   "birthplace": {
+    "label": "Piacenza",
+    "country": "Italy",
+    "historical_name": "Placentia",
+    "precision": "exact",
+    "lat": 45.0526,
+    "lon": 9.693,
+    "radius_km": null,
+    "roster_birth_field": "Piacenza",
+    "note": "Vatican and CE agree: a native of Piacenza.",
+    "public_note": null,
+    "sources": [
+     "S1",
+     "S2",
+     "S41"
+    ]
+   },
+   "saint": {
+    "status": "blessed",
+    "recognition": "cult_confirmed",
+    "date": "1713",
+    "feast": "10 January",
+    "note": "Vatican table 'B.'. Vatican News lists 'Bd Pope Gregory X' on 10 January (his death day) and says he was beatified in 1713 (Clement XI per Wikipedia list). CE (1909) gives a feast of 16 February in Rome and some dioceses (older usage).",
+    "public_note": null,
+    "sources": [
+     "S2",
+     "S6",
+     "S41",
+     "S9"
+    ]
+   },
+   "short_bio": "Teobaldo Visconti, archdeacon of Liège, was elected while on crusade in the Holy Land after a vacancy of almost three years. He held the Second Council of Lyon and introduced strict conclave rules.",
+   "long_bio": "Teobaldo was not a cardinal, nor even a priest, when the deadlocked cardinals at Viterbo chose him in September 1271; he was then at Acre with the future Edward I. Consecrated in Rome in 1272, he recognised Rudolf of Habsburg as king of the Romans to end the German interregnum. At the Second Council of Lyon in 1274 Greek envoys accepted union with Rome, a tithe was voted for a crusade, and the constitution Ubi periculum set strict rules for future conclaves. He died at Arezzo in January 1276.",
+   "actions": [
+    "Second Council of Lyon (1274)",
+    "Union with the Greek Church proclaimed (1274)",
+    "Conclave rules of Ubi periculum (1274)",
+    "Recognised Rudolf of Habsburg"
+   ],
+   "context": "After the fall of the Hohenstaufen, Charles of Anjou dominated southern Italy and papal politics. Long vacancies and short reigns marked these years, and the popes worked for a crusade and for union with the Greek Church agreed at the Second Council of Lyons (1274).",
+   "bio_sources": [
+    "S1",
+    "S41",
+    "S6"
+   ],
+   "public_uncertainty": null,
+   "research_status": "verified",
+   "open_questions": []
+  },
+  {
+   "roster_n": [
+    185
+   ],
+   "id": "innocent-v",
+   "papal_name": "Innocent V",
+   "display_name": "Bl. Innocent V",
+   "alt_names": [
+    "Peter of Tarentaise",
+    "Petrus a Tarentasia"
+   ],
+   "secular_name": "Pierre de Tarentaise",
+   "birth_date": "c. 1225",
+   "birthplace": {
+    "label": "Tarentaise, Savoy",
+    "country": "France",
+    "historical_name": "Tarentasia",
+    "precision": "region",
+    "lat": 45.48,
+    "lon": 6.6,
+    "radius_km": 30,
+    "roster_birth_field": "Savoy",
+    "note": "Vatican: 'Savoia'. CE: Tarentaise was 'certainly his native province' and Champagny (Champagny-en-Vanoise) 'in all probability' his birthplace; others name Moûtiers. Region centred on the Tarentaise valley between Moûtiers and Champagny.",
+    "public_note": "He came from the Tarentaise valley in Savoy, probably from Champagny.",
+    "sources": [
+     "S1",
+     "S2",
+     "S42"
+    ]
+   },
+   "saint": {
+    "status": "blessed",
+    "recognition": "cult_confirmed",
+    "date": "14 March 1898",
+    "feast": "22 June",
+    "note": "Vatican table 'B.'. Cult confirmed by Leo XIII: GCatholic lists 1898.03.14 (equipollent); Wikipedia list gives 1898, Leo XIII. Vatican News lists 'B. Innocent V, Pope' on 22 June (his death day).",
+    "public_note": null,
+    "sources": [
+     "S2",
+     "S7",
+     "S8",
+     "S9"
+    ]
+   },
+   "short_bio": "Peter of Tarentaise, a Dominican theologian at Paris, was the first Dominican pope. He reigned for five months in 1276.",
+   "long_bio": "Born about 1225 in the Tarentaise in Savoy, Peter joined the Dominicans and became master of theology at Paris, where he taught alongside Thomas Aquinas. He was archbishop of Lyon in 1272 and cardinal bishop of Ostia in 1273, and played a leading part in the Second Council of Lyon, preaching at Bonaventure's funeral. Elected at Arezzo in January 1276, he worked to reconcile Guelphs and Ghibellines and made peace between Pisa and Lucca. He died in Rome in June 1276.",
+   "actions": [
+    "First Dominican pope",
+    "Leading role at the Second Council of Lyon (1274)",
+    "Made peace between Pisa and Lucca"
+   ],
+   "context": "After the fall of the Hohenstaufen, Charles of Anjou dominated southern Italy and papal politics. Long vacancies and short reigns marked these years, and the popes worked for a crusade and for union with the Greek Church agreed at the Second Council of Lyons (1274). In 1276 alone there were four popes.",
+   "bio_sources": [
+    "S1",
+    "S42",
+    "S7"
+   ],
+   "public_uncertainty": null,
+   "research_status": "verified",
+   "open_questions": [
+    "Champagny vs Moûtiers."
+   ]
+  },
+  {
+   "roster_n": [
+    186
+   ],
+   "id": "adrian-v",
+   "papal_name": "Adrian V",
+   "display_name": "Adrian V",
+   "alt_names": [
+    "Hadrian V",
+    "Ottobuono Fieschi"
+   ],
+   "secular_name": "Ottobono Fieschi",
+   "birth_date": null,
+   "birthplace": {
+    "label": "Genoa",
+    "country": "Italy",
+    "historical_name": "Genua",
+    "precision": "exact",
+    "lat": 44.4056,
+    "lon": 8.9463,
+    "radius_km": null,
+    "roster_birth_field": "Genoa",
+    "note": "Vatican: 'Genovese'; CE: 'A Genoese'. Family were counts of Lavagna; nephew of Innocent IV.",
+    "public_note": null,
+    "sources": [
+     "S1",
+     "S2",
+     "S43"
+    ]
+   },
+   "saint": {
+    "status": "none",
+    "recognition": null,
+    "date": null,
+    "feast": null,
+    "note": "No S./B. label in the Vatican Italian table; the Catholic Encyclopedia records no cult or beatification.",
+    "public_note": null,
+    "sources": [
+     "S2",
+     "S43"
+    ]
+   },
+   "short_bio": "Ottobuono Fieschi, nephew of Innocent IV, was a former legate to England. He reigned just over five weeks in 1276.",
+   "long_bio": "A Genoese of the Fieschi family, Ottobuono was made a cardinal by his uncle Innocent IV. As legate in England from 1265 he worked to restore peace between Henry III and the rebel barons. Elected in Rome in July 1276, he set aside Gregory X's strict conclave rules but died at Viterbo in August, before he could be crowned.",
+   "actions": [
+    "Papal legate in England (1265–1268)",
+    "Suspended the conclave rules of Ubi periculum"
+   ],
+   "context": "After the fall of the Hohenstaufen, Charles of Anjou dominated southern Italy and papal politics. Long vacancies and short reigns marked these years, and the popes worked for a crusade and for union with the Greek Church agreed at the Second Council of Lyons (1274).",
+   "bio_sources": [
+    "S1",
+    "S43"
+   ],
+   "public_uncertainty": null,
+   "research_status": "partial",
+   "open_questions": [
+    "Not verified in a source here that he was never ordained priest; text says only that he died before consecration/coronation."
+   ]
+  },
+  {
+   "roster_n": [
+    187
+   ],
+   "id": "john-xxi",
+   "papal_name": "John XXI",
+   "display_name": "John XXI",
+   "alt_names": [
+    "Peter of Spain",
+    "Petrus Hispanus",
+    "Pedro Julião"
+   ],
+   "secular_name": "Pedro Julião or Pedro Hispano",
+   "birth_date": "between 1210 and 1220",
+   "birthplace": {
+    "label": "Lisbon",
+    "country": "Portugal",
+    "historical_name": "Olisipo",
+    "precision": "exact",
+    "lat": 38.7223,
+    "lon": -9.1393,
+    "radius_km": null,
+    "roster_birth_field": "Lisbon",
+    "note": "Vatican and CE agree: born at Lisbon between 1210 and 1220. Numbering: there was no John XX; CE styles him John XXI (XX). Identification with the logician Peter of Spain is traditional (CE accepts it); some modern scholars question it.",
+    "public_note": null,
+    "sources": [
+     "S1",
+     "S2",
+     "S44"
+    ]
+   },
+   "saint": {
+    "status": "none",
+    "recognition": null,
+    "date": null,
+    "feast": null,
+    "note": "No S./B. label in the Vatican Italian table; the Catholic Encyclopedia records no cult or beatification.",
+    "public_note": null,
+    "sources": [
+     "S2",
+     "S44"
+    ]
+   },
+   "short_bio": "Pedro of Lisbon, a physician and scholar, is the only Portuguese pope. He died after the ceiling of his study at Viterbo collapsed.",
+   "long_bio": "Born in Lisbon, Pedro studied at Paris and taught medicine at Siena; he is traditionally identified with Peter of Spain, author of the influential logic textbook Summulae logicales. He became physician to Gregory X and cardinal bishop of Tusculum in 1273. Elected at Viterbo in September 1276, he suspended Gregory X's conclave rules and tried to mediate between France and Castile. In May 1277 part of his palace at Viterbo collapsed on him, and he died a few days later.",
+   "actions": [
+    "Suspended the conclave decree of Lyon (1276)",
+    "Mediated between Philip III of France and Alfonso X of Castile",
+    "Wrote works on logic and medicine (traditional attribution)"
+   ],
+   "context": "After the fall of the Hohenstaufen, Charles of Anjou dominated southern Italy and papal politics. Long vacancies and short reigns marked these years, and the popes worked for a crusade and for union with the Greek Church agreed at the Second Council of Lyons (1274).",
+   "bio_sources": [
+    "S1",
+    "S44"
+   ],
+   "public_uncertainty": "His identification with the writer Peter of Spain is traditional but debated.",
+   "research_status": "partial",
+   "open_questions": []
+  },
+  {
+   "roster_n": [
+    188
+   ],
+   "id": "nicholas-iii",
+   "papal_name": "Nicholas III",
+   "display_name": "Nicholas III",
+   "alt_names": [
+    "Giovanni Gaetano Orsini"
+   ],
+   "secular_name": "Giovanni Gaetano Orsini",
+   "birth_date": "c. 1216",
+   "birthplace": {
+    "label": "Rome",
+    "country": "Italy",
+    "historical_name": "Roma",
+    "precision": "exact",
+    "lat": 41.8933,
+    "lon": 12.4829,
+    "radius_km": null,
+    "roster_birth_field": "Rome",
+    "note": "Vatican: 'Romano'; CE: born at Rome c. 1216, son of Matteo Rosso Orsini.",
+    "public_note": null,
+    "sources": [
+     "S1",
+     "S2",
+     "S45"
+    ]
+   },
+   "saint": {
+    "status": "none",
+    "recognition": null,
+    "date": null,
+    "feast": null,
+    "note": "No S./B. label in the Vatican Italian table; the Catholic Encyclopedia records no cult or beatification.",
+    "public_note": null,
+    "sources": [
+     "S2",
+     "S45"
+    ]
+   },
+   "short_bio": "Giovanni Gaetano Orsini, of the powerful Roman family, curbed the power of Charles of Anjou and secured the Romagna for the papacy. Dante placed him among the simoniacs for his nepotism.",
+   "long_bio": "Son of the Roman senator Matteo Rosso Orsini, Giovanni was a cardinal for over three decades and protector of the Franciscans. Elected in 1277, he obtained from Rudolf of Habsburg the surrender of imperial claims to the Romagna (1278), limited Charles of Anjou's hold on Rome by reserving the office of senator to Romans, and issued Exiit qui seminat (1279) on Franciscan poverty. He sent missionaries towards the Mongols and rebuilt the Vatican palace, but promoted his relatives heavily. He died in 1280.",
+   "actions": [
+    "Gained the Romagna from Rudolf of Habsburg (1278)",
+    "Reserved the Roman senatorship to Romans (1278)",
+    "Bull Exiit qui seminat on Franciscan poverty (1279)"
+   ],
+   "context": "After the fall of the Hohenstaufen, Charles of Anjou dominated southern Italy and papal politics. Long vacancies and short reigns marked these years, and the popes worked for a crusade and for union with the Greek Church agreed at the Second Council of Lyons (1274).",
+   "bio_sources": [
+    "S1",
+    "S45"
+   ],
+   "public_uncertainty": null,
+   "research_status": "partial",
+   "open_questions": []
+  },
+  {
+   "roster_n": [
+    189
+   ],
+   "id": "martin-iv",
+   "papal_name": "Martin IV",
+   "display_name": "Martin IV",
+   "alt_names": [
+    "Simon de Brion",
+    "Simon de Brie"
+   ],
+   "secular_name": "Simon de Brie or of Brion or of Mainpincien",
+   "birth_date": "c. 1210",
+   "birthplace": {
+    "label": "Brie (Île-de-France)",
+    "country": "France",
+    "historical_name": null,
+    "precision": "region",
+    "lat": 48.6,
+    "lon": 2.9,
+    "radius_km": 50,
+    "roster_birth_field": "France",
+    "note": "Vatican: only 'Francese'/France. CE: born at the castle of Montpensier 'in Touraine' (an older reading, apparently a garbling of Mainpincien). Treccani: no birthplace or date, only that he was close to the counts of Champagne. Wikipedia body (citing Backes 1910, Mann & Hollnsteiner, Kay 1965): château of Meinpincien in Brie, Île-de-France; infobox names Andrezel (Seine-et-Marne), uncited. Region centred on the Brie near Andrezel/Melun with 50 km radius rather than claiming an exact castle site.",
+    "public_note": "The Vatican list says only France; scholars place his birth at the castle of Mainpincien in Brie, while older works say Montpensier.",
+    "sources": [
+     "S1",
+     "S2",
+     "S46",
+     "S55",
+     "S61"
+    ]
+   },
+   "saint": {
+    "status": "none",
+    "recognition": null,
+    "date": null,
+    "feast": null,
+    "note": "No S./B. label in the Vatican Italian table; the Catholic Encyclopedia records no cult or beatification.",
+    "public_note": null,
+    "sources": [
+     "S2",
+     "S46"
+    ]
+   },
+   "short_bio": "Simon de Brion, chancellor of France under Louis IX, was elected under pressure from Charles of Anjou. His support for Charles drew him into the war of the Sicilian Vespers.",
+   "long_bio": "Simon was chancellor of France under Louis IX and was made a cardinal by Urban IV, later serving as legate in France. Elected at Viterbo in 1281 after Charles of Anjou intervened in the conclave, he was crowned at Orvieto and never entered Rome. He excommunicated the Byzantine emperor Michael VIII, undermining the union of Lyon, and after the Sicilian Vespers of 1282 excommunicated Peter III of Aragon and proclaimed a crusade against him. He died at Perugia in 1285. He took the number IV because two popes named Marinus were then counted as Martin.",
+   "actions": [
+    "Excommunicated Michael VIII Palaiologos (1281)",
+    "Declared a crusade against Peter III of Aragon (1283–1284)",
+    "Crowned at Orvieto; never resided in Rome"
+   ],
+   "context": "After the fall of the Hohenstaufen, Charles of Anjou dominated southern Italy and papal politics. Long vacancies and short reigns marked these years, and the popes worked for a crusade and for union with the Greek Church agreed at the Second Council of Lyons (1274). The Sicilian Vespers revolt of 1282 drove the Angevins from Sicily.",
+   "bio_sources": [
+    "S1",
+    "S46"
+   ],
+   "public_uncertainty": null,
+   "research_status": "partial",
+   "open_questions": [
+    "Precise castle site of Mainpincien unverified; Andrezel suggestion uncited."
+   ]
+  },
+  {
+   "roster_n": [
+    190
+   ],
+   "id": "honorius-iv",
+   "papal_name": "Honorius IV",
+   "display_name": "Honorius IV",
+   "alt_names": [
+    "Giacomo Savelli"
+   ],
+   "secular_name": "Giacomo Savelli",
+   "birth_date": "c. 1210",
+   "birthplace": {
+    "label": "Rome",
+    "country": "Italy",
+    "historical_name": "Roma",
+    "precision": "exact",
+    "lat": 41.8933,
+    "lon": 12.4829,
+    "radius_km": null,
+    "roster_birth_field": "Rome",
+    "note": "Vatican: 'Romano'; CE: born at Rome about 1210, of the Savelli family, grandnephew of Honorius III.",
+    "public_note": null,
+    "sources": [
+     "S1",
+     "S2",
+     "S47"
+    ]
+   },
+   "saint": {
+    "status": "none",
+    "recognition": null,
+    "date": null,
+    "feast": null,
+    "note": "No S./B. label in the Vatican Italian table; the Catholic Encyclopedia records no cult or beatification.",
+    "public_note": null,
+    "sources": [
+     "S2",
+     "S47"
+    ]
+   },
+   "short_bio": "Giacomo Savelli, a Roman noble and grandnephew of Honorius III, was elected though severely crippled by gout. He continued Martin IV's support of the Angevins while trying to reform their rule in Sicily.",
+   "long_bio": "Born in Rome around 1210, Giacomo studied at Paris and became cardinal deacon of Santa Maria in Cosmedin. Elected in 1285, he reigned from Rome, living on the Aventine. He issued a constitution limiting royal abuses in the Angevin Kingdom of Sicily, and excommunicated James of Aragon, who had been crowned king of Sicily. He favoured the mendicant orders and approved the Carmelites' change of habit. He died in Rome in April 1287.",
+   "actions": [
+    "Constitution reforming government of the Kingdom of Sicily (1285)",
+    "Excommunicated James of Aragon and the bishops who crowned him (1286)",
+    "Reigned from Rome, residing on the Aventine"
+   ],
+   "context": "After the fall of the Hohenstaufen, Charles of Anjou dominated southern Italy and papal politics. Long vacancies and short reigns marked these years, and the popes worked for a crusade and for union with the Greek Church agreed at the Second Council of Lyons (1274).",
+   "bio_sources": [
+    "S1",
+    "S47"
+   ],
+   "public_uncertainty": null,
+   "research_status": "partial",
+   "open_questions": []
+  }
+ ],
+ "sources": [
+  {
+   "id": "S1",
+   "title": "The Holy Father: Supreme Pontiffs (list of popes)",
+   "url": "https://www.vatican.va/content/vatican/en/holy-father.html",
+   "publisher": "Holy See (vatican.va)",
+   "tier": "vatican",
+   "locator": "roster entries 153-190",
+   "accessed": "2026-10-10"
+  },
+  {
+   "id": "S2",
+   "title": "Elenco dei Sommi Pontefici",
+   "url": "https://www.vatican.va/holy_father/archivio_papi/documents/elencopapi_it.html",
+   "publisher": "Holy See (vatican.va)",
+   "tier": "vatican",
+   "locator": "entries Vittore II to Onorio IV: origin column and S./B. labels",
+   "accessed": "2026-10-10"
+  },
+  {
+   "id": "S3",
+   "title": "Saint of the day, 05/25 (St Gregory VII, Pope)",
+   "url": "https://www.vaticannews.va/en/saints/05/25.print.html",
+   "publisher": "Vatican News",
+   "tier": "vatican",
+   "locator": "entry: St Gregory VII, Pope",
+   "accessed": "2026-10-10"
+  },
+  {
+   "id": "S4",
+   "title": "Saint of the day, 09/16 (Bd Victor III, Pope)",
+   "url": "https://www.vaticannews.va/en/saints/09/16.print.html",
+   "publisher": "Vatican News",
+   "tier": "vatican",
+   "locator": "entry: Bd Victor III, Pope",
+   "accessed": "2026-10-10"
+  },
+  {
+   "id": "S5",
+   "title": "Saint of the day, 07/08 (B. Eugene III, Pope)",
+   "url": "https://www.vaticannews.va/en/saints/07/08.print.html",
+   "publisher": "Vatican News",
+   "tier": "vatican",
+   "locator": "entry: B. Eugene III, Pope",
+   "accessed": "2026-10-10"
+  },
+  {
+   "id": "S6",
+   "title": "Saint of the day, 01/10 (Bd Pope Gregory X)",
+   "url": "https://www.vaticannews.va/en/saints/01/10.print.html",
+   "publisher": "Vatican News",
+   "tier": "vatican",
+   "locator": "entry: Bd Pope Gregory X",
+   "accessed": "2026-10-10"
+  },
+  {
+   "id": "S7",
+   "title": "Saint of the day, 06/22 (B. Innocent V, Pope)",
+   "url": "https://www.vaticannews.va/en/saints/06/22.print.html",
+   "publisher": "Vatican News",
+   "tier": "vatican",
+   "locator": "entry: B. Innocent V, Pope",
+   "accessed": "2026-10-10"
+  },
+  {
+   "id": "S8",
+   "title": "Beatifications in the pontificate of Leo XIII",
+   "url": "https://gcatholic.org/saints/beati-L13.htm",
+   "publisher": "GCatholic.org",
+   "tier": "supplementary",
+   "locator": "entries for Urban II (1881.07.14), Victor III (1887.07.23), Innocent V (1898.03.14), listed as equipollent",
+   "accessed": "2026-10-10"
+  },
+  {
+   "id": "S9",
+   "title": "List of canonised popes",
+   "url": "https://en.wikipedia.org/wiki/List_of_canonised_popes",
+   "publisher": "Wikipedia",
+   "tier": "supplementary",
+   "locator": "table of saints and blessed popes (years and pope)",
+   "accessed": "2026-10-10"
+  },
+  {
+   "id": "S10",
+   "title": "Catholic Encyclopedia: Pope Victor II",
+   "url": "https://www.newadvent.org/cathen/15409a.htm",
+   "publisher": "Robert Appleton Company / New Advent",
+   "tier": "local_ecclesiastical_approval",
+   "locator": "whole article (opening lines for birth)",
+   "accessed": "2026-10-10"
+  },
+  {
+   "id": "S11",
+   "title": "Catholic Encyclopedia: Pope Stephen X (IX)",
+   "url": "https://www.newadvent.org/cathen/14290c.htm",
+   "publisher": "Robert Appleton Company / New Advent",
+   "tier": "local_ecclesiastical_approval",
+   "locator": "whole article (opening lines for birth)",
+   "accessed": "2026-10-10"
+  },
+  {
+   "id": "S12",
+   "title": "Catholic Encyclopedia: Pope Nicholas II",
+   "url": "https://www.newadvent.org/cathen/11055a.htm",
+   "publisher": "Robert Appleton Company / New Advent",
+   "tier": "local_ecclesiastical_approval",
+   "locator": "whole article (opening lines for birth)",
+   "accessed": "2026-10-10"
+  },
+  {
+   "id": "S13",
+   "title": "Catholic Encyclopedia: Pope Alexander II",
+   "url": "https://www.newadvent.org/cathen/01286a.htm",
+   "publisher": "Robert Appleton Company / New Advent",
+   "tier": "local_ecclesiastical_approval",
+   "locator": "whole article (opening lines for birth)",
+   "accessed": "2026-10-10"
+  },
+  {
+   "id": "S14",
+   "title": "Catholic Encyclopedia: Pope St. Gregory VII",
+   "url": "https://www.newadvent.org/cathen/06791c.htm",
+   "publisher": "Robert Appleton Company / New Advent",
+   "tier": "local_ecclesiastical_approval",
+   "locator": "whole article (opening lines for birth)",
+   "accessed": "2026-10-10"
+  },
+  {
+   "id": "S15",
+   "title": "Catholic Encyclopedia: Pope Bl. Victor III",
+   "url": "https://www.newadvent.org/cathen/15410a.htm",
+   "publisher": "Robert Appleton Company / New Advent",
+   "tier": "local_ecclesiastical_approval",
+   "locator": "whole article (opening lines for birth)",
+   "accessed": "2026-10-10"
+  },
+  {
+   "id": "S16",
+   "title": "Catholic Encyclopedia: Pope Bl. Urban II",
+   "url": "https://www.newadvent.org/cathen/15210a.htm",
+   "publisher": "Robert Appleton Company / New Advent",
+   "tier": "local_ecclesiastical_approval",
+   "locator": "whole article (opening lines for birth)",
+   "accessed": "2026-10-10"
+  },
+  {
+   "id": "S17",
+   "title": "Catholic Encyclopedia: Pope Paschal II",
+   "url": "https://www.newadvent.org/cathen/11514b.htm",
+   "publisher": "Robert Appleton Company / New Advent",
+   "tier": "local_ecclesiastical_approval",
+   "locator": "whole article (opening lines for birth)",
+   "accessed": "2026-10-10"
+  },
+  {
+   "id": "S18",
+   "title": "Catholic Encyclopedia: Pope Gelasius II",
+   "url": "https://www.newadvent.org/cathen/06407a.htm",
+   "publisher": "Robert Appleton Company / New Advent",
+   "tier": "local_ecclesiastical_approval",
+   "locator": "whole article (opening lines for birth)",
+   "accessed": "2026-10-10"
+  },
+  {
+   "id": "S19",
+   "title": "Catholic Encyclopedia: Pope Callistus II",
+   "url": "https://www.newadvent.org/cathen/03185a.htm",
+   "publisher": "Robert Appleton Company / New Advent",
+   "tier": "local_ecclesiastical_approval",
+   "locator": "whole article (opening lines for birth)",
+   "accessed": "2026-10-10"
+  },
+  {
+   "id": "S20",
+   "title": "Catholic Encyclopedia: Pope Honorius II",
+   "url": "https://www.newadvent.org/cathen/07456a.htm",
+   "publisher": "Robert Appleton Company / New Advent",
+   "tier": "local_ecclesiastical_approval",
+   "locator": "whole article (opening lines for birth)",
+   "accessed": "2026-10-10"
+  },
+  {
+   "id": "S21",
+   "title": "Catholic Encyclopedia: Pope Innocent II",
+   "url": "https://www.newadvent.org/cathen/08012a.htm",
+   "publisher": "Robert Appleton Company / New Advent",
+   "tier": "local_ecclesiastical_approval",
+   "locator": "whole article (opening lines for birth)",
+   "accessed": "2026-10-10"
+  },
+  {
+   "id": "S22",
+   "title": "Catholic Encyclopedia: Pope Celestine II",
+   "url": "https://www.newadvent.org/cathen/03478a.htm",
+   "publisher": "Robert Appleton Company / New Advent",
+   "tier": "local_ecclesiastical_approval",
+   "locator": "whole article (opening lines for birth)",
+   "accessed": "2026-10-10"
+  },
+  {
+   "id": "S23",
+   "title": "Catholic Encyclopedia: Pope Lucius II",
+   "url": "https://www.newadvent.org/cathen/09412a.htm",
+   "publisher": "Robert Appleton Company / New Advent",
+   "tier": "local_ecclesiastical_approval",
+   "locator": "whole article (opening lines for birth)",
+   "accessed": "2026-10-10"
+  },
+  {
+   "id": "S24",
+   "title": "Catholic Encyclopedia: Pope Bl. Eugene III",
+   "url": "https://www.newadvent.org/cathen/05599a.htm",
+   "publisher": "Robert Appleton Company / New Advent",
+   "tier": "local_ecclesiastical_approval",
+   "locator": "whole article (opening lines for birth)",
+   "accessed": "2026-10-10"
+  },
+  {
+   "id": "S25",
+   "title": "Catholic Encyclopedia: Pope Anastasius IV",
+   "url": "https://www.newadvent.org/cathen/01455b.htm",
+   "publisher": "Robert Appleton Company / New Advent",
+   "tier": "local_ecclesiastical_approval",
+   "locator": "whole article (opening lines for birth)",
+   "accessed": "2026-10-10"
+  },
+  {
+   "id": "S26",
+   "title": "Catholic Encyclopedia: Pope Adrian IV",
+   "url": "https://www.newadvent.org/cathen/01156c.htm",
+   "publisher": "Robert Appleton Company / New Advent",
+   "tier": "local_ecclesiastical_approval",
+   "locator": "whole article (opening lines for birth)",
+   "accessed": "2026-10-10"
+  },
+  {
+   "id": "S27",
+   "title": "Catholic Encyclopedia: Pope Alexander III",
+   "url": "https://www.newadvent.org/cathen/01287a.htm",
+   "publisher": "Robert Appleton Company / New Advent",
+   "tier": "local_ecclesiastical_approval",
+   "locator": "whole article (opening lines for birth)",
+   "accessed": "2026-10-10"
+  },
+  {
+   "id": "S28",
+   "title": "Catholic Encyclopedia: Pope Lucius III",
+   "url": "https://www.newadvent.org/cathen/09412b.htm",
+   "publisher": "Robert Appleton Company / New Advent",
+   "tier": "local_ecclesiastical_approval",
+   "locator": "whole article (opening lines for birth)",
+   "accessed": "2026-10-10"
+  },
+  {
+   "id": "S29",
+   "title": "Catholic Encyclopedia: Pope Urban III",
+   "url": "https://www.newadvent.org/cathen/15211a.htm",
+   "publisher": "Robert Appleton Company / New Advent",
+   "tier": "local_ecclesiastical_approval",
+   "locator": "whole article (opening lines for birth)",
+   "accessed": "2026-10-10"
+  },
+  {
+   "id": "S30",
+   "title": "Catholic Encyclopedia: Pope Gregory VIII",
+   "url": "https://www.newadvent.org/cathen/06795a.htm",
+   "publisher": "Robert Appleton Company / New Advent",
+   "tier": "local_ecclesiastical_approval",
+   "locator": "whole article (opening lines for birth)",
+   "accessed": "2026-10-10"
+  },
+  {
+   "id": "S31",
+   "title": "Catholic Encyclopedia: Pope Clement III",
+   "url": "https://www.newadvent.org/cathen/04018a.htm",
+   "publisher": "Robert Appleton Company / New Advent",
+   "tier": "local_ecclesiastical_approval",
+   "locator": "whole article (opening lines for birth)",
+   "accessed": "2026-10-10"
+  },
+  {
+   "id": "S32",
+   "title": "Catholic Encyclopedia: Pope Celestine III",
+   "url": "https://www.newadvent.org/cathen/03478b.htm",
+   "publisher": "Robert Appleton Company / New Advent",
+   "tier": "local_ecclesiastical_approval",
+   "locator": "whole article (opening lines for birth)",
+   "accessed": "2026-10-10"
+  },
+  {
+   "id": "S33",
+   "title": "Catholic Encyclopedia: Pope Innocent III",
+   "url": "https://www.newadvent.org/cathen/08013a.htm",
+   "publisher": "Robert Appleton Company / New Advent",
+   "tier": "local_ecclesiastical_approval",
+   "locator": "whole article (opening lines for birth)",
+   "accessed": "2026-10-10"
+  },
+  {
+   "id": "S34",
+   "title": "Catholic Encyclopedia: Pope Honorius III",
+   "url": "https://www.newadvent.org/cathen/07457a.htm",
+   "publisher": "Robert Appleton Company / New Advent",
+   "tier": "local_ecclesiastical_approval",
+   "locator": "whole article (opening lines for birth)",
+   "accessed": "2026-10-10"
+  },
+  {
+   "id": "S35",
+   "title": "Catholic Encyclopedia: Pope Gregory IX",
+   "url": "https://www.newadvent.org/cathen/06796a.htm",
+   "publisher": "Robert Appleton Company / New Advent",
+   "tier": "local_ecclesiastical_approval",
+   "locator": "whole article (opening lines for birth)",
+   "accessed": "2026-10-10"
+  },
+  {
+   "id": "S36",
+   "title": "Catholic Encyclopedia: Pope Celestine IV",
+   "url": "https://www.newadvent.org/cathen/03479a.htm",
+   "publisher": "Robert Appleton Company / New Advent",
+   "tier": "local_ecclesiastical_approval",
+   "locator": "whole article (opening lines for birth)",
+   "accessed": "2026-10-10"
+  },
+  {
+   "id": "S37",
+   "title": "Catholic Encyclopedia: Pope Innocent IV",
+   "url": "https://www.newadvent.org/cathen/08017a.htm",
+   "publisher": "Robert Appleton Company / New Advent",
+   "tier": "local_ecclesiastical_approval",
+   "locator": "whole article (opening lines for birth)",
+   "accessed": "2026-10-10"
+  },
+  {
+   "id": "S38",
+   "title": "Catholic Encyclopedia: Pope Alexander IV",
+   "url": "https://www.newadvent.org/cathen/01287b.htm",
+   "publisher": "Robert Appleton Company / New Advent",
+   "tier": "local_ecclesiastical_approval",
+   "locator": "whole article (opening lines for birth)",
+   "accessed": "2026-10-10"
+  },
+  {
+   "id": "S39",
+   "title": "Catholic Encyclopedia: Pope Urban IV",
+   "url": "https://www.newadvent.org/cathen/15212a.htm",
+   "publisher": "Robert Appleton Company / New Advent",
+   "tier": "local_ecclesiastical_approval",
+   "locator": "whole article (opening lines for birth)",
+   "accessed": "2026-10-10"
+  },
+  {
+   "id": "S40",
+   "title": "Catholic Encyclopedia: Pope Clement IV",
+   "url": "https://www.newadvent.org/cathen/04019a.htm",
+   "publisher": "Robert Appleton Company / New Advent",
+   "tier": "local_ecclesiastical_approval",
+   "locator": "whole article (opening lines for birth)",
+   "accessed": "2026-10-10"
+  },
+  {
+   "id": "S41",
+   "title": "Catholic Encyclopedia: Pope Bl. Gregory X",
+   "url": "https://www.newadvent.org/cathen/06798a.htm",
+   "publisher": "Robert Appleton Company / New Advent",
+   "tier": "local_ecclesiastical_approval",
+   "locator": "whole article (opening lines for birth)",
+   "accessed": "2026-10-10"
+  },
+  {
+   "id": "S42",
+   "title": "Catholic Encyclopedia: Pope Bl. Innocent V",
+   "url": "https://www.newadvent.org/cathen/08018a.htm",
+   "publisher": "Robert Appleton Company / New Advent",
+   "tier": "local_ecclesiastical_approval",
+   "locator": "whole article (opening lines for birth)",
+   "accessed": "2026-10-10"
+  },
+  {
+   "id": "S43",
+   "title": "Catholic Encyclopedia: Pope Adrian V",
+   "url": "https://www.newadvent.org/cathen/01159a.htm",
+   "publisher": "Robert Appleton Company / New Advent",
+   "tier": "local_ecclesiastical_approval",
+   "locator": "whole article (opening lines for birth)",
+   "accessed": "2026-10-10"
+  },
+  {
+   "id": "S44",
+   "title": "Catholic Encyclopedia: Pope John XXI (XX)",
+   "url": "https://www.newadvent.org/cathen/08429c.htm",
+   "publisher": "Robert Appleton Company / New Advent",
+   "tier": "local_ecclesiastical_approval",
+   "locator": "whole article (opening lines for birth)",
+   "accessed": "2026-10-10"
+  },
+  {
+   "id": "S45",
+   "title": "Catholic Encyclopedia: Pope Nicholas III",
+   "url": "https://www.newadvent.org/cathen/11056a.htm",
+   "publisher": "Robert Appleton Company / New Advent",
+   "tier": "local_ecclesiastical_approval",
+   "locator": "whole article (opening lines for birth)",
+   "accessed": "2026-10-10"
+  },
+  {
+   "id": "S46",
+   "title": "Catholic Encyclopedia: Pope Martin IV",
+   "url": "https://www.newadvent.org/cathen/09724a.htm",
+   "publisher": "Robert Appleton Company / New Advent",
+   "tier": "local_ecclesiastical_approval",
+   "locator": "whole article (opening lines for birth)",
+   "accessed": "2026-10-10"
+  },
+  {
+   "id": "S47",
+   "title": "Catholic Encyclopedia: Pope Honorius IV",
+   "url": "https://www.newadvent.org/cathen/07459a.htm",
+   "publisher": "Robert Appleton Company / New Advent",
+   "tier": "local_ecclesiastical_approval",
+   "locator": "whole article (opening lines for birth)",
+   "accessed": "2026-10-10"
+  },
+  {
+   "id": "S48",
+   "title": "Enciclopedia dei Papi: Vittore II",
+   "url": "https://www.treccani.it/enciclopedia/vittore-ii_(Enciclopedia-dei-Papi)/",
+   "publisher": "Istituto della Enciclopedia Italiana (Treccani)",
+   "tier": "scholarly",
+   "locator": "opening section (birth and origins)",
+   "accessed": "2026-10-10"
+  },
+  {
+   "id": "S49",
+   "title": "Enciclopedia dei Papi: Stefano IX",
+   "url": "https://www.treccani.it/enciclopedia/stefano-ix_(Enciclopedia-dei-Papi)/",
+   "publisher": "Istituto della Enciclopedia Italiana (Treccani)",
+   "tier": "scholarly",
+   "locator": "opening section (birth and origins)",
+   "accessed": "2026-10-10"
+  },
+  {
+   "id": "S50",
+   "title": "Enciclopedia dei Papi: Niccolò II",
+   "url": "https://www.treccani.it/enciclopedia/niccolo-ii_(Enciclopedia-dei-Papi)/",
+   "publisher": "Istituto della Enciclopedia Italiana (Treccani)",
+   "tier": "scholarly",
+   "locator": "opening section (birth and origins)",
+   "accessed": "2026-10-10"
+  },
+  {
+   "id": "S51",
+   "title": "Enciclopedia dei Papi: Pasquale II",
+   "url": "https://www.treccani.it/enciclopedia/pasquale-ii_(Enciclopedia-dei-Papi)/",
+   "publisher": "Istituto della Enciclopedia Italiana (Treccani)",
+   "tier": "scholarly",
+   "locator": "opening section (birth and origins)",
+   "accessed": "2026-10-10"
+  },
+  {
+   "id": "S52",
+   "title": "Enciclopedia dei Papi: Callisto II",
+   "url": "https://www.treccani.it/enciclopedia/callisto-ii_(Enciclopedia-dei-Papi)/",
+   "publisher": "Istituto della Enciclopedia Italiana (Treccani)",
+   "tier": "scholarly",
+   "locator": "opening section (birth and origins)",
+   "accessed": "2026-10-10"
+  },
+  {
+   "id": "S53",
+   "title": "Enciclopedia dei Papi: Innocenzo III",
+   "url": "https://www.treccani.it/enciclopedia/innocenzo-iii_(Enciclopedia-dei-Papi)/",
+   "publisher": "Istituto della Enciclopedia Italiana (Treccani)",
+   "tier": "scholarly",
+   "locator": "opening section (birth and origins)",
+   "accessed": "2026-10-10"
+  },
+  {
+   "id": "S54",
+   "title": "Enciclopedia dei Papi: Innocenzo IV",
+   "url": "https://www.treccani.it/enciclopedia/innocenzo-iv_(Enciclopedia-dei-Papi)/",
+   "publisher": "Istituto della Enciclopedia Italiana (Treccani)",
+   "tier": "scholarly",
+   "locator": "opening section (birth and origins)",
+   "accessed": "2026-10-10"
+  },
+  {
+   "id": "S55",
+   "title": "Enciclopedia dei Papi: Martino IV",
+   "url": "https://www.treccani.it/enciclopedia/martino-iv_(Enciclopedia-dei-Papi)/",
+   "publisher": "Istituto della Enciclopedia Italiana (Treccani)",
+   "tier": "scholarly",
+   "locator": "opening section (birth and origins)",
+   "accessed": "2026-10-10"
+  },
+  {
+   "id": "S56",
+   "title": "Wikipedia: Pope Victor II",
+   "url": "https://en.wikipedia.org/wiki/Pope_Victor_II",
+   "publisher": "Wikipedia",
+   "tier": "supplementary",
+   "locator": "infobox and early life section (orientation only)",
+   "accessed": "2026-10-10"
+  },
+  {
+   "id": "S57",
+   "title": "Wikipedia: Pope Stephen IX",
+   "url": "https://en.wikipedia.org/wiki/Pope_Stephen_IX",
+   "publisher": "Wikipedia",
+   "tier": "supplementary",
+   "locator": "infobox and early life section (orientation only)",
+   "accessed": "2026-10-10"
+  },
+  {
+   "id": "S58",
+   "title": "Wikipedia: Pope Nicholas II",
+   "url": "https://en.wikipedia.org/wiki/Pope_Nicholas_II",
+   "publisher": "Wikipedia",
+   "tier": "supplementary",
+   "locator": "infobox and early life section (orientation only)",
+   "accessed": "2026-10-10"
+  },
+  {
+   "id": "S59",
+   "title": "Wikipedia: Pope Paschal II",
+   "url": "https://en.wikipedia.org/wiki/Pope_Paschal_II",
+   "publisher": "Wikipedia",
+   "tier": "supplementary",
+   "locator": "infobox and early life section (orientation only)",
+   "accessed": "2026-10-10"
+  },
+  {
+   "id": "S60",
+   "title": "Wikipedia: Pope Callixtus II",
+   "url": "https://en.wikipedia.org/wiki/Pope_Callixtus_II",
+   "publisher": "Wikipedia",
+   "tier": "supplementary",
+   "locator": "infobox and early life section (orientation only)",
+   "accessed": "2026-10-10"
+  },
+  {
+   "id": "S61",
+   "title": "Wikipedia: Pope Martin IV",
+   "url": "https://en.wikipedia.org/wiki/Pope_Martin_IV",
+   "publisher": "Wikipedia",
+   "tier": "supplementary",
+   "locator": "infobox and early life section (orientation only)",
+   "accessed": "2026-10-10"
+  }
+ ],
+ "notes": "Rows 153-190 complete (38 people, no repeats). Saint/blessed feasts taken from Vatican News saint-of-the-day pages except Urban II (29 July, from the Catholic Encyclopedia; Vatican News 29 July page does not list him). Roster birth field conflicts/refinements: Stephen IX and Callixtus II blank (region assigned); Gregory VII Tuscia -> Sovana; Nicholas II Bourgogne kept at region (CE Chevron noted); Martin IV France -> Brie region; Innocent V Savoy -> Tarentaise region; Innocent III Gavignano vs CE Anagni; Innocent IV Lavagna vs CE Genoa; Adrian IV roster typo 'Lagnley'; Alexander III death date CE 3 Aug vs roster 30 Aug (roster untouched)."
+}
