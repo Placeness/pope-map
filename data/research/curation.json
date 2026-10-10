@@ -100,7 +100,8 @@
   "benedict-xi": {
    "saint.date": null,
    "saint.public_note": "Sources disagree on the year his cult was confirmed (1736 or 1773).",
-   "_why": "Year conflict: Catholic Encyclopedia 1773 vs uncited 1736."
+   "_why": "Year conflict: Catholic Encyclopedia 1773 vs uncited 1736. Independent fact review 2026-10-10: feast is the day of his death, 7 July (roster end 7.VII.1304). Cult-confirmation year still kept as disputed.",
+   "saint.feast": "7 July"
   },
   "pius-i": {
    "_replace": [
@@ -271,6 +272,133 @@
   "urban-iii": {
    "secular_name": "Uberto Crivelli",
    "_why": "Independent fact review 2026-10-10: name form made consistent with the bios."
+  },
+  "clement-viii": {
+   "_replace": [
+    [
+     "long_bio",
+     "He died on 5 March 1605.",
+     "He died on 3 March 1605."
+    ]
+   ],
+   "birth_date": "24 February 1536",
+   "_why": "Independent fact review 2026-10-10: death 3.III.1605 per roster; birth 24 Feb 1536 per Treccani."
+  },
+  "pius-vi": {
+   "birth_date": "25 December 1717",
+   "_why": "Independent fact review 2026-10-10: 27 December is his baptism; born 25 December (Treccani)."
+  },
+  "gregory-xvi": {
+   "birth_date": "18 September 1765 (some sources give 8 September)",
+   "_why": "Independent fact review 2026-10-10: CE gives 8 September, Treccani 18 September."
+  },
+  "paul-iv": {
+   "_replace": [
+    [
+     "short_bio",
+     "aged 79",
+     "aged 78"
+    ]
+   ],
+   "_why": "Independent fact review 2026-10-10: born 28.VI.1476, elected 23.V.1555."
+  },
+  "innocent-v": {
+   "saint.date": "1898",
+   "_why": "Independent fact review 2026-10-10: beatification day given as 9 or 14 March 1898; year only."
+  },
+  "celestine-v": {
+   "_replace": [
+    [
+     "short_bio",
+     "in his eighties",
+     "in old age"
+    ]
+   ],
+   "_why": "Independent fact review 2026-10-10: birth c. 1215 makes him about 79."
+  },
+  "sixtus-iv": {
+   "_replace": [
+    [
+     "long_bio",
+     "his nephew Cardinal Raffaele Riario",
+     "his great-nephew Cardinal Raffaele Riario"
+    ]
+   ],
+   "_why": "Independent fact review 2026-10-10: Raffaele Riario was a great-nephew."
+  },
+  "innocent-xii": {
+   "_replace": [
+    [
+     "long_bio",
+     "He became a cardinal in 1682 and archbishop of Naples in 1687.",
+     "He became a cardinal in 1681 and archbishop of Naples in 1686."
+    ]
+   ],
+   "_why": "Independent fact review 2026-10-10: cardinal 1681, Naples 1686 (Treccani)."
+  },
+  "benedict-xiii": {
+   "_replace": [
+    [
+     "long_bio",
+     "At sixteen he joined the Dominicans",
+     "As a young man he joined the Dominicans"
+    ]
+   ],
+   "_why": "Independent fact review 2026-10-10: took the habit in 1668, aged 18 or 19."
+  },
+  "innocent-vi": {
+   "_replace": [
+    [
+     "long_bio",
+     "He crowned Charles IV emperor in 1355",
+     "He had Charles IV crowned emperor in Rome by a cardinal legate in 1355"
+    ]
+   ],
+   "_why": "Independent fact review 2026-10-10: he stayed at Avignon; a cardinal crowned Charles IV in Rome."
+  },
+  "eugene-iv": {
+   "_replace": [
+    [
+     "long_bio",
+     "proclaimed on 5 July 1439",
+     "proclaimed on 6 July 1439"
+    ]
+   ],
+   "_why": "Independent fact review 2026-10-10: Laetentur coeli proclaimed 6 July 1439."
+  },
+  "julius-ii": {
+   "_replace": [
+    [
+     "long_bio",
+     "He convoked the Fifth Lateran Council in 1512.",
+     "He convoked the Fifth Lateran Council, which opened in 1512."
+    ],
+    [
+     "actions",
+     "Convoked the Fifth Lateran Council (1512)",
+     "Convoked the Fifth Lateran Council (1511)"
+    ]
+   ],
+   "_why": "Independent fact review 2026-10-10: convoked 1511, opened 1512."
+  },
+  "marcellus-ii": {
+   "_replace": [
+    [
+     "long_bio",
+     "He became Vatican librarian in 1548.",
+     "He became Vatican librarian in 1550."
+    ],
+    [
+     "long_bio",
+     "though it was written after his death",
+     "though it was probably written after his death"
+    ]
+   ],
+   "_why": "Independent fact review 2026-10-10: librarian brief dated 1550; Missa Papae Marcelli date unknown."
+  },
+  "gregory-x": {
+   "secular_name": "Teobaldo Visconti",
+   "_why": "Independent fact review 2026-10-10: spelling made consistent with the bios."
   }
  }
 }
