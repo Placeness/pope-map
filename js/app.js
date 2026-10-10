@@ -273,7 +273,8 @@
     var size = n >= 50 ? 54 : n >= 10 ? 46 : 40;
     var active = state.person && c.people.indexOf(state.person) >= 0;
     var activeCol = active ? eraOf(person(state.person)).color : null;
-    var label = c.kind === 'shared' ? (c.anchor.precision === 'region' ? '≈ ' : '') + c.anchor.label : 'Popes in this area';
+    var label = c.kind === 'shared' ? (c.anchor.precision === 'region' ? '≈ ' : '') + c.anchor.label
+      : (c.anchor.people.length >= 5 ? c.anchor.label + ' and nearby' : 'Popes in this area');
     var sub = n + ' popes' + (active ? ' · ' + person(state.person).display_name : '');
     var html = '<div class="pm-inner"><span class="pg-disc">' + n +
       (c.kind === 'shared' ? '<span class="pg-keys">' + KEYS_SVG + '</span>' : '') + '</span>' +
@@ -297,7 +298,7 @@
       kind: c.kind, key: c.key, members: c.people.slice(),
       label: c.anchor.label,
       precision: c.anchor.precision, mixed: !!c.anchor.mixed && c.anchor.precision === 'exact',
-      sites: c.sites.length,
+      sites: c.sites.length, anchorCount: c.anchor.people.length,
       center: [c.anchor.lat, c.anchor.lon]
     };
     var pick = state.person && c.people.indexOf(state.person) >= 0 ? state.person : c.people[0];
@@ -518,7 +519,7 @@
     var g = state.group; if (!g) return '';
     var i = g.members.indexOf(state.person); if (i < 0) return '';
     var p = person(state.person);
-    var title = g.kind === 'shared' ? (g.precision === 'region' ? 'Born in the region of ' : g.mixed ? 'Born in or near ' : 'Born in ') + g.label : 'Popes in this area';
+    var title = g.kind === 'shared' ? (g.precision === 'region' ? 'Born in the region of ' : g.mixed ? 'Born in or near ' : 'Born in ') + g.label : (g.anchorCount >= 5 ? g.label + ' and nearby' : 'Popes in this area');
     var kind = g.kind === 'shared' ? 'Shared birthplace' : 'Nearby birthplaces, grouped at this zoom';
     var opts = g.members.map(function (id, k) {
       var q = person(id);
