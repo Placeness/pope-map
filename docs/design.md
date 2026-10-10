@@ -9,8 +9,8 @@
   (Wojtyła, Józef, Chambéry).
 - Both are self-hosted woff2 (latin and latin-ext subsets) in `assets/fonts`, so the site makes no third-party font
   requests. Licences sit next to the files.
-- Evaluated and set aside: an all-serif setting (too heavy in the list), and a script face echoing the logo (hard to
-  read for names and dates; the logo already carries that voice).
+- Checked in rendered screenshots on desktop and mobile, including long names, accented names and the
+  narrow mobile header.
 
 ## Colour
 All colours are sampled from the supplied art: navy #22305F (header, modern era), gold #E8B04B (early era, saints),
