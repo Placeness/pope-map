@@ -171,6 +171,106 @@
     ]
    ],
    "_why": "Independent fact review 2026-10-10: 31.I.314 to 31.XII.335 is almost 22 years."
+  },
+  "damasus-ii": {
+   "_replace": [
+    [
+     "actions",
+     "Was the third German pope named by Henry III",
+     "Was the second German pope named by Henry III"
+    ]
+   ],
+   "_why": "Independent fact review 2026-10-10: Henry III named Clement II, then Damasus II."
+  },
+  "leo-viii": {
+   "_replace": [
+    [
+     "short_bio",
+     "He was twice driven out of Rome and died in 965.",
+     "He was driven out of Rome in 964, restored by Otto, and died in 965."
+    ]
+   ],
+   "_why": "Independent fact review 2026-10-10: sources record one expulsion (964)."
+  },
+  "benedict-ix": {
+   "_replace": [
+    [
+     "long_bio",
+     "The synod of Sutri in 1046 set all three claimants aside.",
+     "The synods of Sutri and Rome in December 1046 set all three claimants aside."
+    ],
+    [
+     "actions",
+     "Was set aside by the synod of Sutri (1046)",
+     "Was deposed by the Roman synod that followed Sutri (1046)"
+    ]
+   ],
+   "_why": "Independent fact review 2026-10-10: Sutri deposed Sylvester III and Gregory VI; the Roman synod after it deposed Benedict IX."
+  },
+  "gregory-v": {
+   "_replace": [
+    [
+     "long_bio",
+     "aged about 26",
+     "aged about 24"
+    ]
+   ],
+   "birth_date": "c. 972",
+   "_why": "Independent fact review 2026-10-10: Britannica gives c. 972."
+  },
+  "alexander-iii": {
+   "_replace": [
+    [
+     "long_bio",
+     "Rolando Bandinelli, from a leading Sienese family, became",
+     "Rolando of Siena (later tradition calls him a Bandinelli) became"
+    ],
+    [
+     "short_bio",
+     "Rolando of Siena, a canon lawyer, led",
+     "Rolando of Siena led"
+    ]
+   ],
+   "_why": "Independent fact review 2026-10-10: Treccani: Bandinelli link is a late attribution; identity with the canonist Rolandus rejected."
+  },
+  "celestine-iv": {
+   "_replace": [
+    [
+     "short_bio",
+     "Goffredo of Milan, nephew of Urban III, was",
+     "Goffredo of Milan, said by a later tradition to be a nephew of Urban III, was"
+    ],
+    [
+     "long_bio",
+     "A Milanese and nephew of Urban III, Goffredo",
+     "A Milanese, said by a later tradition to be a nephew of Urban III, Goffredo"
+    ]
+   ],
+   "_why": "Independent fact review 2026-10-10: Treccani: kinship with Urban III is a late family tradition."
+  },
+  "adrian-i": {
+   "_replace": [
+    [
+     "long_bio",
+     "Charlemagne wrote his epitaph.",
+     "Charlemagne commissioned his epitaph, composed by Alcuin."
+    ]
+   ],
+   "_why": "Independent fact review 2026-10-10: Alcuin composed the epitaph Charlemagne commissioned."
+  },
+  "john-xi": {
+   "_replace": [
+    [
+     "short_bio",
+     "his half-brother Alberic II",
+     "his brother Alberic II"
+    ]
+   ],
+   "_why": "Independent fact review 2026-10-10: paternity disputed, so not half-brother."
+  },
+  "urban-iii": {
+   "secular_name": "Uberto Crivelli",
+   "_why": "Independent fact review 2026-10-10: name form made consistent with the bios."
   }
  }
 }

@@ -6308,7 +6308,7 @@
     "label": null
    },
    "short_bio": "A Roman noble, pope for almost 24 years (772-795). Allied with Charlemagne, who ended the Lombard kingdom, he presided by legates over the Second Council of Nicaea.",
-   "long_bio": "Adrian came from a noble Roman family and served under Paul I and Stephen III. When the Lombard king Desiderius threatened Rome, he called on Charlemagne, who conquered the Lombard kingdom in 774 and, visiting Rome at Easter, confirmed and enlarged the papal territories. His legates took part in the Second Council of Nicaea (787), which approved the veneration of images. He also opposed Adoptionism and improved Rome's walls, churches and aqueducts. Charlemagne wrote his epitaph.",
+   "long_bio": "Adrian came from a noble Roman family and served under Paul I and Stephen III. When the Lombard king Desiderius threatened Rome, he called on Charlemagne, who conquered the Lombard kingdom in 774 and, visiting Rome at Easter, confirmed and enlarged the papal territories. His legates took part in the Second Council of Nicaea (787), which approved the veneration of images. He also opposed Adoptionism and improved Rome's walls, churches and aqueducts. Charlemagne commissioned his epitaph, composed by Alcuin.",
    "actions": [
     "Allied with Charlemagne, who ended the Lombard kingdom (774)",
     "Confirmed and enlarged papal territory",
@@ -8266,7 +8266,7 @@
     ],
     "label": null
    },
-   "short_bio": "The son of Marozia, made pope in 931 while still young. He was controlled first by his mother and then by his half-brother Alberic II, but he favoured the reforming monks of Cluny.",
+   "short_bio": "The son of Marozia, made pope in 931 while still young. He was controlled first by his mother and then by his brother Alberic II, but he favoured the reforming monks of Cluny.",
    "long_bio": "John was raised to the papacy through his mother Marozia, the most powerful figure in Rome. Ancient sources call him the son of Pope Sergius III; others make him the son of Marozia's husband Alberic. In 932 Alberic II overthrew Marozia and kept John under close watch, leaving him free only in spiritual matters. He granted the pallium to the archbishop of Reims and to the patriarch of Constantinople, and many privileges to Cluny.",
    "actions": [
     "Granted wide privileges to the abbey of Cluny",
@@ -8659,7 +8659,7 @@
     ],
     "label": null
    },
-   "short_bio": "A Roman layman, a senior official of the papal court, chosen pope at Otto I's wish when John XII was deposed in 963. He was twice driven out of Rome and died in 965.",
+   "short_bio": "A Roman layman, a senior official of the papal court, chosen pope at Otto I's wish when John XII was deposed in 963. He was driven out of Rome in 964, restored by Otto, and died in 965.",
    "long_bio": "Leo, the 'protonotary', was a layman when a synod under Otto I deposed John XII and elected him in December 963; he received all the orders within days. When Otto left, the Romans expelled him; after John's death they chose Benedict V. Otto returned in the summer of 964, and Leo had Benedict deposed. He died early in 965. The Vatican list counts him as pope from 963, though the Catholic Encyclopedia considers him a true pope only from 964, after Benedict V was deposed.",
    "actions": [
     "Was installed by Otto I in place of John XII",
@@ -9092,7 +9092,7 @@
     "Bruno of Carinthia"
    ],
    "secular_name": "Bruno",
-   "birth_date": "c. 970",
+   "birth_date": "c. 972",
    "birthplace": {
     "label": "Worms area",
     "country": "Germany",
@@ -9126,7 +9126,7 @@
     "label": null
    },
    "short_bio": "Bruno, a young German noble and cousin of Emperor Otto III, became the first German pope in 996. He crowned Otto emperor, was driven out by Crescentius and an antipope, and was restored by Otto shortly before his death in 999.",
-   "long_bio": "Bruno was a chaplain at Otto III's court when the emperor chose him as pope; consecrated in May 996, aged about 26, he took the name Gregory and crowned Otto emperor on 21 May. When Otto left Italy, the patrician Crescentius drove Gregory out and set up the antipope John XVI. Gregory excommunicated them, and Otto's return in 998 ended the revolt. He pressed King Robert II of France over his marriage to Bertha and treated Gerbert's claim to Reims as unlawful. He died early in 999 and was buried in St Peter's.",
+   "long_bio": "Bruno was a chaplain at Otto III's court when the emperor chose him as pope; consecrated in May 996, aged about 24, he took the name Gregory and crowned Otto emperor on 21 May. When Otto left Italy, the patrician Crescentius drove Gregory out and set up the antipope John XVI. Gregory excommunicated them, and Otto's return in 998 ended the revolt. He pressed King Robert II of France over his marriage to Bertha and treated Gerbert's claim to Reims as unlawful. He died early in 999 and was buried in St Peter's.",
    "actions": [
     "Crowned Otto III emperor (996)",
     "Excommunicated Crescentius and the antipope John XVI",
@@ -9602,11 +9602,11 @@
     "label": null
    },
    "short_bio": "Theophylact of Tusculum, nephew of the two previous popes, was made pope in 1032 and is the only man to have held the office three times. Driven out in 1044, he returned in 1045, gave up the see for money, and seized it again in 1047-1048.",
-   "long_bio": "Benedict IX was elected in 1032 through his family's power; chroniclers made him a boy, but Treccani thinks he was about twenty-five. His conduct provoked a revolt in 1044, and Sylvester III was set up in his place, but Benedict returned in March 1045. On 1 May 1045 he resigned in favour of his godfather John Gratian, Gregory VI, in return for a large sum. The synod of Sutri in 1046 set all three claimants aside. After the death of Clement II he seized Rome again from late 1047 until mid-1048, when Damasus II was installed. He was still alive in 1055 and probably died around the end of that year; a tradition says he died in penance at Grottaferrata.",
+   "long_bio": "Benedict IX was elected in 1032 through his family's power; chroniclers made him a boy, but Treccani thinks he was about twenty-five. His conduct provoked a revolt in 1044, and Sylvester III was set up in his place, but Benedict returned in March 1045. On 1 May 1045 he resigned in favour of his godfather John Gratian, Gregory VI, in return for a large sum. The synods of Sutri and Rome in December 1046 set all three claimants aside. After the death of Clement II he seized Rome again from late 1047 until mid-1048, when Damasus II was installed. He was still alive in 1055 and probably died around the end of that year; a tradition says he died in penance at Grottaferrata.",
    "actions": [
     "Held the papacy three times (1032-1044, 1045, 1047-1048)",
     "Resigned the office to Gregory VI for money (1045)",
-    "Was set aside by the synod of Sutri (1046)"
+    "Was deposed by the Roman synod that followed Sutri (1046)"
    ],
    "context": "In the 1040s Rome had three rival claimants at once, and the papacy was openly bought and sold. In 1046 the German king Henry III came to Italy, had the synod of Sutri remove the rival popes, and installed a series of German bishops, opening the way for the great church reform of the eleventh century.",
    "public_uncertainty": "His age at election and the scandals told of him are disputed; the date and place of his death are uncertain.",
@@ -9885,7 +9885,7 @@
    "long_bio": "Poppo was a trusted ally of Henry III and had been bishop of Brixen since about 1040. Named by the emperor in late 1047, he could enter Rome only in July 1048, after Benedict IX was driven out with the help of Boniface of Canossa. He was enthroned on 17 July 1048 but died at Palestrina on 9 August, where he had gone to escape the summer heat. He was buried at San Lorenzo fuori le Mura.",
    "actions": [
     "Ended Benedict IX's third tenure",
-    "Was the third German pope named by Henry III"
+    "Was the second German pope named by Henry III"
    ],
    "context": "In the 1040s Rome had three rival claimants at once, and the papacy was openly bought and sold. In 1046 the German king Henry III came to Italy, had the synod of Sutri remove the rival popes, and installed a series of German bishops, opening the way for the great church reform of the eleventh century.",
    "public_uncertainty": "Rumours of poison circulated, but malaria is the likely cause of his death.",
@@ -11204,8 +11204,8 @@
     ],
     "label": null
    },
-   "short_bio": "Rolando of Siena, a canon lawyer, led the papacy through a seventeen-year schism against Frederick Barbarossa's antipopes. He ended it at Venice in 1177 and held the Third Lateran Council.",
-   "long_bio": "Rolando Bandinelli, from a leading Sienese family, became chancellor of the Roman Church. At the Diet of Besançon in 1157 his words implying that the empire was a papal benefice enraged Barbarossa. Elected in 1159, he was opposed by an imperial antipope, Victor IV, and spent years in exile in France. Allied with the Lombard League, whose victory at Legnano in 1176 broke imperial power, he made peace with Barbarossa at Venice in 1177. In 1179 the Third Lateran Council required a two-thirds majority of cardinals to elect a pope. He also canonised Thomas Becket.",
+   "short_bio": "Rolando of Siena led the papacy through a seventeen-year schism against Frederick Barbarossa's antipopes. He ended it at Venice in 1177 and held the Third Lateran Council.",
+   "long_bio": "Rolando of Siena (later tradition calls him a Bandinelli) became chancellor of the Roman Church. At the Diet of Besançon in 1157 his words implying that the empire was a papal benefice enraged Barbarossa. Elected in 1159, he was opposed by an imperial antipope, Victor IV, and spent years in exile in France. Allied with the Lombard League, whose victory at Legnano in 1176 broke imperial power, he made peace with Barbarossa at Venice in 1177. In 1179 the Third Lateran Council required a two-thirds majority of cardinals to elect a pope. He also canonised Thomas Becket.",
    "actions": [
     "Opposed Barbarossa's antipopes (1159–1177)",
     "Peace of Venice (1177)",
@@ -11307,7 +11307,7 @@
    "alt_names": [
     "Uberto Crivelli"
    ],
-   "secular_name": "Umberto Crivelli",
+   "secular_name": "Uberto Crivelli",
    "birth_date": null,
    "birthplace": {
     "label": "Milan",
@@ -11804,8 +11804,8 @@
     ],
     "label": null
    },
-   "short_bio": "Goffredo of Milan, nephew of Urban III, was elected while Frederick II's forces threatened Rome. He died about two weeks later.",
-   "long_bio": "A Milanese and nephew of Urban III, Goffredo was made a cardinal by Gregory IX. He was elected in October 1241, after the death of Gregory IX, at a time when Frederick II was pressing hard on Rome. Already ill, he died on 10 November 1241, and the papacy then remained vacant for about a year and a half.",
+   "short_bio": "Goffredo of Milan, said by a later tradition to be a nephew of Urban III, was elected while Frederick II's forces threatened Rome. He died about two weeks later.",
+   "long_bio": "A Milanese, said by a later tradition to be a nephew of Urban III, Goffredo was made a cardinal by Gregory IX. He was elected in October 1241, after the death of Gregory IX, at a time when Frederick II was pressing hard on Rome. Already ill, he died on 10 November 1241, and the papacy then remained vacant for about a year and a half.",
    "actions": [],
    "context": "The papacy was locked in conflict with the Hohenstaufen emperor Frederick II, who ruled both Germany and Sicily, and then with his heirs; the popes eventually turned to Charles of Anjou to drive the Hohenstaufen from southern Italy.",
    "public_uncertainty": null,
