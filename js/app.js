@@ -417,7 +417,7 @@
       if (opts.source === 'chooser' && state.group && state.group.kind === 'area') { /* keep the area in view */ }
       else focusPerson(p, { animate: opts.source !== 'hash', onlyIfHidden: opts.source === 'chooser' });
     }
-    if (prevPerson !== pid || true) renderMarkers();
+    renderMarkers();
     if (mqMobile.matches) $('#panel').focus({ preventScroll: true });
   }
 

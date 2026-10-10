@@ -387,7 +387,7 @@ h3 { font-size: 21px; }
 .ov-section { display: grid; grid-template-columns: minmax(0,1fr) minmax(0,.8fr); gap: 26px; align-items: center; margin: 8px 0 18px; }
 .ov-section.flip { grid-template-columns: minmax(0,.8fr) minmax(0,1fr); }
 .ov-section.flip .ov-art { order: -1; }
-.ov-art img { border: 2.5px solid var(--ink); border-radius: var(--radius); box-shadow: var(--shadow); width: 100%; }
+.ov-art img { border: 2.5px solid var(--ink); border-radius: var(--radius); box-shadow: var(--shadow); width: 100%; max-height: 400px; object-fit: cover; }
 .ov-section p { margin: 0 0 10px; }
 .era-cards { display: grid; grid-template-columns: repeat(auto-fill, minmax(220px, 1fr)); gap: 12px; margin-top: 14px; }
 .era-card { display: grid; grid-template-columns: 34px 1fr; gap: 10px; background: var(--white); border: 2px solid var(--stone-dark); border-radius: var(--radius-sm); padding: 12px; }

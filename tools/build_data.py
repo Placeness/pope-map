@@ -266,7 +266,14 @@ def main():
         'eras_note': ov.get('eras_note', ''),
         'refs': sorted(set(eo_local.values())),
     }
-    resources = eo.get('resources_public') or []
+    resources = eo.get('resources_public') or [
+        {'title': 'The Holy See', 'text': "The Vatican's official website, with the Pope's documents, homilies and the list of pontiffs.",
+         'url': 'https://www.vatican.va/', 'link_label': 'vatican.va'},
+        {'title': "The Pope's prayer intentions", 'text': "Each month the Pope asks Catholics to pray for one intention, shared by the Pope's Worldwide Prayer Network.",
+         'url': 'https://www.popesprayer.va/pray/', 'link_label': 'popesprayer.va'},
+        {'title': 'Find a Mass near you', 'text': 'Search Catholic churches worldwide for Mass, Confession and Adoration times.',
+         'url': 'https://masstimes.org/', 'link_label': 'masstimes.org'},
+    ]
 
     out = {
         'meta': {
