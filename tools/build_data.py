@@ -115,7 +115,10 @@ def saint_label(s):
         else:
             lab = 'Saint'
     elif st == 'blessed':
-        lab = 'Blessed' + (', beatified ' + d if d else '')
+        if rec == 'cult_confirmed':
+            lab = 'Blessed, his ancient cult confirmed' + (' ' + d if d else '')
+        else:
+            lab = 'Blessed' + (', beatified ' + d if d else '')
     elif st == 'venerable':
         lab = 'Venerable' + (', declared ' + d if d else '')
     elif st == 'servant_of_god':
