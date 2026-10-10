@@ -203,6 +203,25 @@ def main():
         person['antipopes'] = []
         people[pid] = person
 
+    # integrator overrides (data/research/curation.json), applied before labels are derived
+    cur_path = os.path.join(RES, 'curation.json')
+    if os.path.exists(cur_path):
+        for pid, ov in load_json(cur_path).get('people', {}).items():
+            if pid not in people:
+                print('curation: unknown person', pid)
+                continue
+            for k, v in ov.items():
+                if k.startswith('_'):
+                    continue
+                obj = people[pid]
+                parts = k.split('.')
+                for part in parts[:-1]:
+                    obj = obj[part]
+                obj[parts[-1]] = v
+    for p in people.values():
+        if p['saint'].get('status') not in (None, 'none'):
+            p['saint']['label'] = saint_label(p['saint'])
+
     # place ids so shared birthplaces group exactly
     for p in people.values():
         bp = p['birthplace']

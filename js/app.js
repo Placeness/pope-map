@@ -48,6 +48,7 @@
   }
   function placeLabel(p, withCountry) {
     var bp = p.birthplace;
+    if (p.research_status === 'pending') return 'Birthplace still being researched';
     if (!bp || bp.precision === 'unknown') return 'Birthplace unknown';
     var s = bp.label;
     if (withCountry !== false && bp.country && bp.country !== bp.label && s.indexOf(bp.country) === -1) s += ', ' + bp.country;
@@ -539,7 +540,9 @@
       return '<li><button type="button" class="period" data-entry="' + k + '"' + (k === n ? ' aria-current="true"' : '') + ' style="--era:' + e.color + '"><b>No. ' + k + '</b>' + esc(y.dates_label) + '</button></li>';
     }).join('');
     var birthDd = '';
-    if (!bp || bp.precision === 'unknown') {
+    if (p.research_status === 'pending') {
+      birthDd = 'Still being researched<span class="note">This profile has not been checked against the sources yet.</span>';
+    } else if (!bp || bp.precision === 'unknown') {
       birthDd = 'Birthplace unknown<span class="note">' + esc((bp && bp.public_note) || 'No reliable source records where he was born, so he is not placed on the map. He remains in the list and tour.') + '</span>';
     } else {
       birthDd = esc(bp.label) + (bp.country && bp.country !== bp.label ? ', ' + esc(bp.country) : '') +

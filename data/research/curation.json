@@ -1,0 +1,81 @@
+{
+ "_doc": "Integrator overrides applied after merging research files. Each entry says why.",
+ "people": {
+  "anastasius-i": {
+   "saint.feast": null,
+   "_why": "Feast day not checked against a source (research worker note, rows 39-76)."
+  },
+  "innocent-i": {
+   "saint.feast": null,
+   "_why": "Feast day not checked against a source (research worker note, rows 39-76)."
+  },
+  "zosimus": {
+   "saint.feast": null,
+   "_why": "Feast day not checked against a source (research worker note, rows 39-76)."
+  },
+  "boniface-i": {
+   "saint.feast": null,
+   "_why": "Feast day not checked against a source (research worker note, rows 39-76)."
+  },
+  "celestine-i": {
+   "saint.feast": null,
+   "_why": "Feast day not checked against a source (research worker note, rows 39-76)."
+  },
+  "sixtus-iii": {
+   "saint.feast": null,
+   "_why": "Feast day not checked against a source (research worker note, rows 39-76)."
+  },
+  "hilarius": {
+   "saint.feast": null,
+   "_why": "Feast day not checked against a source (research worker note, rows 39-76)."
+  },
+  "simplicius": {
+   "saint.feast": null,
+   "_why": "Feast day not checked against a source (research worker note, rows 39-76)."
+  },
+  "felix-iii": {
+   "saint.feast": null,
+   "_why": "Feast day not checked against a source (research worker note, rows 39-76)."
+  },
+  "gelasius-i": {
+   "saint.feast": null,
+   "_why": "Feast day not checked against a source (research worker note, rows 39-76)."
+  },
+  "symmachus": {
+   "saint.feast": null,
+   "_why": "Feast day not checked against a source (research worker note, rows 39-76)."
+  },
+  "hormisdas": {
+   "saint.feast": null,
+   "_why": "Feast day not checked against a source (research worker note, rows 39-76)."
+  },
+  "felix-iv": {
+   "saint.feast": null,
+   "_why": "Feast day not checked against a source (research worker note, rows 39-76)."
+  },
+  "agapetus-i": {
+   "saint.feast": null,
+   "_why": "Feast day not checked against a source (research worker note, rows 39-76)."
+  },
+  "silverius": {
+   "saint.feast": null,
+   "_why": "Feast day not checked against a source (research worker note, rows 39-76)."
+  },
+  "boniface-iv": {
+   "saint.feast": null,
+   "_why": "Feast day not checked against a source (research worker note, rows 39-76)."
+  },
+  "adeodatus-i": {
+   "saint.feast": null,
+   "_why": "Feast day not checked against a source (research worker note, rows 39-76)."
+  },
+  "eugene-i": {
+   "saint.feast": null,
+   "_why": "Feast day not checked against a source (research worker note, rows 39-76)."
+  },
+  "vitalian": {
+   "saint.feast": null,
+   "_why": "Feast day not checked against a source (research worker note, rows 39-76)."
+  }
+ }
+}

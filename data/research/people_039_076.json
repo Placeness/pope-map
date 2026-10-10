@@ -1,0 +1,2565 @@
+{
+ "range": [
+  39,
+  76
+ ],
+ "people": [
+  {
+   "roster_n": [
+    39
+   ],
+   "id": "anastasius-i",
+   "papal_name": "Anastasius I",
+   "display_name": "St Anastasius I",
+   "alt_names": [],
+   "secular_name": null,
+   "birth_date": null,
+   "birthplace": {
+    "label": "Rome",
+    "country": "Italy",
+    "historical_name": "Roma",
+    "precision": "exact",
+    "lat": 41.9028,
+    "lon": 12.4964,
+    "radius_km": null,
+    "roster_birth_field": "Rome",
+    "note": "Vatican table: Romano. CE: Roman by birth. LP names father Maximus (not in CE summary).",
+    "public_note": null,
+    "sources": [
+     "S1",
+     "S2",
+     "C39"
+    ]
+   },
+   "saint": {
+    "status": "saint",
+    "recognition": "pre_congregation",
+    "date": null,
+    "feast": "19 December",
+    "note": "Labelled S. in Vatican table; ancient cult. Feast given is the Roman Martyrology day as I understand the current (2001/2004) edition; not verified online here. CE cites Butler for 27 April/September (older usage).",
+    "public_note": null,
+    "sources": [
+     "S2",
+     "C39",
+     "S6"
+    ]
+   },
+   "short_bio": "A Roman cleric who led the Church for about two years at the turn of the fifth century. He is remembered for condemning the teachings attributed to Origen. Jerome and Paulinus of Nola praised him.",
+   "long_bio": "Anastasius was a Roman, elected in late 399. His short pontificate is remembered mainly for his condemnation of Origenism, the speculative ideas drawn from the third-century theologian Origen that were then fiercely debated in the East and in Rome. Jerome, who was involved in that quarrel, spoke of him warmly. Few other details of his life are securely known.",
+   "actions": [
+    "Condemned Origenist teachings, c. 400",
+    "Kept close ties with Western bishops, including those of Africa"
+   ],
+   "context": "Around 400 the Roman Empire was formally Christian, but its Western half was under strain from Gothic incursions; within a decade Rome itself would be sacked. Church debates focused on Origen's legacy and, soon, on Pelagianism.",
+   "bio_sources": [
+    "S1",
+    "C39"
+   ],
+   "public_uncertainty": "Like most popes of this era, what we know comes mainly from the Liber Pontificalis, a papal chronicle compiled in the sixth century and later.",
+   "research_status": "partial",
+   "open_questions": []
+  },
+  {
+   "roster_n": [
+    40
+   ],
+   "id": "innocent-i",
+   "papal_name": "Innocent I",
+   "display_name": "St Innocent I",
+   "alt_names": [],
+   "secular_name": null,
+   "birth_date": null,
+   "birthplace": {
+    "label": "Albano Laziale",
+    "country": "Italy",
+    "historical_name": "Albanum",
+    "precision": "exact",
+    "lat": 41.7314,
+    "lon": 12.6597,
+    "radius_km": null,
+    "roster_birth_field": "Albano",
+    "note": "Vatican table and LP (per CE): native of Albano; father Innocentius. Jerome calls him son of his predecessor Anastasius I, which some read literally and others metaphorically.",
+    "public_note": null,
+    "sources": [
+     "S1",
+     "S2",
+     "C40"
+    ]
+   },
+   "saint": {
+    "status": "saint",
+    "recognition": "pre_congregation",
+    "date": null,
+    "feast": "12 March",
+    "note": "Labelled S. in Vatican table. Feast given is the Roman Martyrology day as I understand the current (2001/2004) edition; not verified online here. Older calendars kept 28 July.",
+    "public_note": null,
+    "sources": [
+     "S2",
+     "C40"
+    ]
+   },
+   "short_bio": "Born at Albano, near Rome, Innocent led the Church through the Visigothic sack of Rome in 410. He firmly asserted Rome's authority, defended John Chrysostom and confirmed the African condemnations of Pelagianism.",
+   "long_bio": "Innocent came from Albano in the hills south of Rome. During his long pontificate (401-417) he wrote influential letters on church discipline, such as his decretal to Bishop Victricius of Rouen, and insisted that serious questions be referred to Rome. He refused to accept the deposition of John Chrysostom in Constantinople. When Alaric's Goths besieged Rome he was away at Ravenna trying to negotiate peace, and the city was sacked in 410. Near the end of his life he confirmed the African bishops' condemnation of Pelagius.",
+   "actions": [
+    "Defended John Chrysostom against his deposition",
+    "Issued disciplinary decretals to bishops in Gaul and Spain",
+    "Confirmed African synods' condemnation of Pelagianism (417)",
+    "Took Roman churches back from the Novatians"
+   ],
+   "context": "In the early fifth century the Western Roman Empire was breaking under pressure from Goths and other peoples; Alaric's Visigoths sacked Rome in 410. The emperor now lived mostly at Ravenna, and the bishops of Rome grew in public importance. Church life was shaped by the Pelagian dispute over grace and free will, and by rivalry over jurisdiction with Constantinople and with Gallic and African churches.",
+   "bio_sources": [
+    "S1",
+    "C40"
+   ],
+   "public_uncertainty": null,
+   "research_status": "partial",
+   "open_questions": [
+    "Jerome's remark that Innocent was the son of Anastasius I: literal or figurative?"
+   ]
+  },
+  {
+   "roster_n": [
+    41
+   ],
+   "id": "zosimus",
+   "papal_name": "Zosimus",
+   "display_name": "St Zosimus",
+   "alt_names": [],
+   "secular_name": null,
+   "birth_date": null,
+   "birthplace": {
+    "label": "Greece",
+    "country": "Greece",
+    "historical_name": null,
+    "precision": "region",
+    "lat": 39.0,
+    "lon": 22.0,
+    "radius_km": 300,
+    "roster_birth_field": "Greece",
+    "note": "LP: natione Graecus, father Abram. 'Greek' may denote Greek-speaking origin rather than modern Greece; no town known.",
+    "public_note": "Ancient sources call him Greek but name no town.",
+    "sources": [
+     "S1",
+     "S2",
+     "C41"
+    ]
+   },
+   "saint": {
+    "status": "saint",
+    "recognition": "pre_congregation",
+    "date": null,
+    "feast": "26 December",
+    "note": "Labelled S. in Vatican table. Feast given is the Roman Martyrology day as I understand the current (2001/2004) edition; not verified online here. ",
+    "public_note": null,
+    "sources": [
+     "S2",
+     "C41"
+    ]
+   },
+   "short_bio": "A Greek by origin, Zosimus reigned for less than two years. He at first listened sympathetically to Pelagius, then condemned Pelagianism in a circular letter, and clashed with the African bishops over appeals to Rome.",
+   "long_bio": "Zosimus was described as Greek, the son of a man named Abram. Soon after his election in 417 he reopened the case of Pelagius and Caelestius and seemed ready to clear them, angering the African bishops. In 418 he reversed course and condemned Pelagianism in his letter known as the Tractoria. He also gave Bishop Patroclus of Arles wide powers in Gaul and accepted an appeal from the African priest Apiarius, both decisions that caused friction. He died in December 418 and was buried at St Lawrence outside the Walls.",
+   "actions": [
+    "Condemned Pelagianism in the Tractoria (418)",
+    "Made Patroclus of Arles papal vicar in Gaul",
+    "Received the appeal of the African priest Apiarius"
+   ],
+   "context": "In the early fifth century the Western Roman Empire was breaking under pressure from Goths and other peoples; Alaric's Visigoths sacked Rome in 410. The emperor now lived mostly at Ravenna, and the bishops of Rome grew in public importance. Church life was shaped by the Pelagian dispute over grace and free will, and by rivalry over jurisdiction with Constantinople and with Gallic and African churches.",
+   "bio_sources": [
+    "S1",
+    "C41"
+   ],
+   "public_uncertainty": "Like most popes of this era, what we know comes mainly from the Liber Pontificalis, a papal chronicle compiled in the sixth century and later.",
+   "research_status": "partial",
+   "open_questions": []
+  },
+  {
+   "roster_n": [
+    42
+   ],
+   "id": "boniface-i",
+   "papal_name": "Boniface I",
+   "display_name": "St Boniface I",
+   "alt_names": [],
+   "secular_name": null,
+   "birth_date": null,
+   "birthplace": {
+    "label": "Rome",
+    "country": "Italy",
+    "historical_name": "Roma",
+    "precision": "exact",
+    "lat": 41.9028,
+    "lon": 12.4964,
+    "radius_km": null,
+    "roster_birth_field": "Rome",
+    "note": "Vatican table: Romano. CE/LP: Roman, son of the priest Jocundus.",
+    "public_note": null,
+    "sources": [
+     "S1",
+     "S2",
+     "C42"
+    ]
+   },
+   "saint": {
+    "status": "saint",
+    "recognition": "pre_congregation",
+    "date": null,
+    "feast": "4 September",
+    "note": "Labelled S. in Vatican table. Feast given is the Roman Martyrology day as I understand the current (2001/2004) edition; not verified online here. CE gives 25 October (older usage).",
+    "public_note": null,
+    "sources": [
+     "S2",
+     "C42"
+    ]
+   },
+   "short_bio": "A Roman priest's son, Boniface was elected in a disputed double election against Eulalius. The emperor Honorius eventually recognised him. He supported Augustine against Pelagianism and defended Rome's rights in Illyricum.",
+   "long_bio": "Boniface, son of the Roman priest Jocundus, was elected in December 418 by part of the clergy, while a rival group chose Eulalius. The quarrel was settled only when Emperor Honorius recognised Boniface in 419. As pope he worked closely with Augustine against Pelagianism, reversed some of his predecessor's grants of power to Arles, and resisted Constantinople's claims over the churches of Illyricum in the Balkans. He died in 422 and was buried on the Via Salaria.",
+   "actions": [
+    "Overcame the rival claimant Eulalius (419)",
+    "Backed Augustine against the Pelagians",
+    "Defended Roman jurisdiction over Illyricum"
+   ],
+   "context": "In the early fifth century the Western Roman Empire was breaking under pressure from Goths and other peoples; Alaric's Visigoths sacked Rome in 410. The emperor now lived mostly at Ravenna, and the bishops of Rome grew in public importance. Church life was shaped by the Pelagian dispute over grace and free will, and by rivalry over jurisdiction with Constantinople and with Gallic and African churches.",
+   "bio_sources": [
+    "S1",
+    "C42"
+   ],
+   "public_uncertainty": null,
+   "research_status": "partial",
+   "open_questions": []
+  },
+  {
+   "roster_n": [
+    43
+   ],
+   "id": "celestine-i",
+   "papal_name": "Celestine I",
+   "display_name": "St Celestine I",
+   "alt_names": [],
+   "secular_name": null,
+   "birth_date": null,
+   "birthplace": {
+    "label": "Campania",
+    "country": "Italy",
+    "historical_name": "Campania",
+    "precision": "region",
+    "lat": 40.9,
+    "lon": 14.6,
+    "radius_km": 90,
+    "roster_birth_field": "Campania",
+    "note": "Vatican table: Campania. CE calls him a Roman, son of Priscus. Disagreement preserved; following Vatican table (region). Ancient Campania was roughly coextensive with the coastal plain around Capua and Naples.",
+    "public_note": "Some older sources call him a Roman instead.",
+    "sources": [
+     "S1",
+     "S2",
+     "C43"
+    ]
+   },
+   "saint": {
+    "status": "saint",
+    "recognition": "pre_congregation",
+    "date": null,
+    "feast": "27 July",
+    "note": "Labelled S. in Vatican table. Feast given is the Roman Martyrology day as I understand the current (2001/2004) edition; not verified online here. CE gives 6 April (Latin) and 8 April (Greek), older usage.",
+    "public_note": null,
+    "sources": [
+     "S2",
+     "C43"
+    ]
+   },
+   "short_bio": "Celestine led the Church during the Nestorian crisis. A Roman synod under him condemned Nestorius in 430, and his legates took part in the Council of Ephesus (431). He also sent Palladius as the first bishop to the Irish Christians.",
+   "long_bio": "Celestine was elected in 422. When Nestorius of Constantinople objected to calling Mary 'Mother of God', Celestine held a synod in Rome (430) that condemned him and asked Cyril of Alexandria to act. His legates joined Cyril at the Council of Ephesus in 431, which deposed Nestorius. He opposed the Pelagians, sent Palladius to the Irish believers, and later tradition links him with St Patrick's mission. He restored Roman churches, including Santa Sabina, and was buried in the catacomb of Priscilla.",
+   "actions": [
+    "Condemned Nestorius at a Roman synod (430)",
+    "Sent legates to the Council of Ephesus (431)",
+    "Sent Palladius to the Christians of Ireland (431)",
+    "Opposed Pelagian teachers in Italy"
+   ],
+   "context": "The 420s and 430s were dominated in the East by the dispute over Nestorius, who refused to call Mary Theotokos (God-bearer). The Council of Ephesus (431) condemned him, but bitterness between Alexandria and Antioch lingered. In the West, Vandals crossed into Africa in 429, and imperial power in Italy kept weakening.",
+   "bio_sources": [
+    "S1",
+    "C43"
+   ],
+   "public_uncertainty": "The link with St Patrick rests on later tradition.",
+   "research_status": "partial",
+   "open_questions": [
+    "Birthplace: Campania (Vatican) vs Rome (CE)"
+   ]
+  },
+  {
+   "roster_n": [
+    44
+   ],
+   "id": "sixtus-iii",
+   "papal_name": "Sixtus III",
+   "display_name": "St Sixtus III",
+   "alt_names": [
+    "Xystus III"
+   ],
+   "secular_name": null,
+   "birth_date": null,
+   "birthplace": {
+    "label": "Rome",
+    "country": "Italy",
+    "historical_name": "Roma",
+    "precision": "exact",
+    "lat": 41.9028,
+    "lon": 12.4964,
+    "radius_km": null,
+    "roster_birth_field": "Rome",
+    "note": "Vatican table: Romano. CE article silent on origin.",
+    "public_note": null,
+    "sources": [
+     "S1",
+     "S2"
+    ]
+   },
+   "saint": {
+    "status": "saint",
+    "recognition": "pre_congregation",
+    "date": null,
+    "feast": "19 August",
+    "note": "Labelled S. in Vatican table. Feast given is the Roman Martyrology day as I understand the current (2001/2004) edition; not verified online here. CE gives 28 March (older usage).",
+    "public_note": null,
+    "sources": [
+     "S2",
+     "C44"
+    ]
+   },
+   "short_bio": "A Roman priest who worked to heal the rift between Cyril of Alexandria and John of Antioch after Ephesus. He is best remembered for rebuilding the great Marian basilica now called Santa Maria Maggiore.",
+   "long_bio": "Sixtus was a Roman cleric elected in 432. He approved the decisions of the Council of Ephesus while encouraging the reconciliation of Cyril of Alexandria and John of Antioch, achieved in 433. He defended Rome's oversight of the churches of Illyricum and refused to readmit the Pelagian Julian of Eclanum. His building work in Rome was notable: he rebuilt the basilica of Liberius as Santa Maria Maggiore, whose mosaics still survive, and enlarged St Lawrence outside the Walls.",
+   "actions": [
+    "Supported the reunion of Cyril and John of Antioch (433)",
+    "Rebuilt Santa Maria Maggiore",
+    "Enlarged St Lawrence outside the Walls"
+   ],
+   "context": "The 420s and 430s were dominated in the East by the dispute over Nestorius, who refused to call Mary Theotokos (God-bearer). The Council of Ephesus (431) condemned him, but bitterness between Alexandria and Antioch lingered. In the West, Vandals crossed into Africa in 429, and imperial power in Italy kept weakening.",
+   "bio_sources": [
+    "S1",
+    "C44"
+   ],
+   "public_uncertainty": null,
+   "research_status": "partial",
+   "open_questions": []
+  },
+  {
+   "roster_n": [
+    45
+   ],
+   "id": "leo-i",
+   "papal_name": "Leo I",
+   "display_name": "St Leo I (the Great)",
+   "alt_names": [
+    "Leo the Great",
+    "Leo Magnus"
+   ],
+   "secular_name": null,
+   "birth_date": null,
+   "birthplace": {
+    "label": "Tuscia",
+    "country": "Italy",
+    "historical_name": "Tuscia",
+    "precision": "region",
+    "lat": 43.0,
+    "lon": 11.5,
+    "radius_km": 150,
+    "roster_birth_field": "Tuscia",
+    "note": "Vatican table: Tuscia. BXVI audience 2008: born in Tuscany. CE: place and date unknown; LP says natione Tuscus, father Quintianus. Later tradition naming Volterra is not supported by these sources; some scholars suggest Rome. Region centre placed in central Tuscia (ancient Etruria: Tuscany, northern Lazio).",
+    "public_note": "Ancient sources call him Tuscan; no town is recorded.",
+    "sources": [
+     "S1",
+     "S2",
+     "S3",
+     "C45"
+    ]
+   },
+   "saint": {
+    "status": "saint",
+    "recognition": "pre_congregation",
+    "date": null,
+    "feast": "10 November",
+    "note": "Universal cult; feast in General Roman Calendar 10 November (day of death, per BXVI). Declared Doctor of the Church by Benedict XIV in 1754. CE gives older 11 April (Latin).",
+    "public_note": null,
+    "sources": [
+     "S2",
+     "S3",
+     "C45"
+    ]
+   },
+   "short_bio": "Leo was one of the most important popes of antiquity. His letter to Flavian shaped the Council of Chalcedon's teaching on Christ, and he met Attila in 452 and the Vandal king Genseric in 455. He is a Doctor of the Church.",
+   "long_bio": "Leo was of Tuscan origin and became a deacon of the Roman Church around 430. He was on a peace mission in Gaul when he was elected in 440. His pontificate of more than twenty years combined doctrinal teaching, pastoral preaching and civic leadership. His Tome to Flavian, setting out that Christ is one person in two natures, was acclaimed at the Council of Chalcedon in 451. In 452 he met Attila near Mantua and persuaded him to withdraw; in 455 he could not stop the Vandals' sack of Rome but secured that the city was not burned. His sermons and letters survive in large numbers. He died on 10 November 461 and was buried at St Peter's.",
+   "actions": [
+    "Wrote the Tome to Flavian on the two natures of Christ (449)",
+    "His teaching was received at the Council of Chalcedon (451)",
+    "Met Attila near Mantua and dissuaded him from advancing (452)",
+    "Negotiated with Genseric so Rome was spared burning (455)",
+    "Left many sermons and letters, models of Latin preaching"
+   ],
+   "context": "Leo reigned as the Western Empire visibly collapsed: Huns invaded Italy in 452 and Vandals from Africa sacked Rome in 455, while emperors were weak or short-lived. In the East, the 'Robber Synod' of Ephesus (449) and then the Council of Chalcedon (451) fought over how Christ is both God and man, leaving lasting divisions.",
+   "bio_sources": [
+    "S1",
+    "S3",
+    "C45"
+   ],
+   "public_uncertainty": null,
+   "research_status": "verified",
+   "open_questions": [
+    "Volterra tradition: origin and reliability"
+   ]
+  },
+  {
+   "roster_n": [
+    46
+   ],
+   "id": "hilarius",
+   "papal_name": "Hilarius",
+   "display_name": "St Hilarius",
+   "alt_names": [
+    "Hilary",
+    "Hilarus"
+   ],
+   "secular_name": null,
+   "birth_date": null,
+   "birthplace": {
+    "label": "Sardinia",
+    "country": "Italy",
+    "historical_name": "Sardinia",
+    "precision": "region",
+    "lat": 40.1,
+    "lon": 9.0,
+    "radius_km": 130,
+    "roster_birth_field": "Sardinia",
+    "note": "Vatican table: Sardo; CE/LP: native of Sardinia. A local tradition names Cagliari, not supported in these sources.",
+    "public_note": "Ancient sources say only that he came from Sardinia.",
+    "sources": [
+     "S1",
+     "S2",
+     "C46"
+    ]
+   },
+   "saint": {
+    "status": "saint",
+    "recognition": "pre_congregation",
+    "date": null,
+    "feast": "28 February",
+    "note": "Labelled S. in Vatican table. Feast given is the Roman Martyrology day as I understand the current (2001/2004) edition; not verified online here. CE gives 17 November (older usage).",
+    "public_note": null,
+    "sources": [
+     "S2",
+     "C46"
+    ]
+   },
+   "short_bio": "A Sardinian, Hilarius had been Leo the Great's legate at the 'Robber Synod' of Ephesus, from which he escaped. As pope he regulated the churches of Gaul and Spain and built several oratories at the Lateran.",
+   "long_bio": "Hilarius came from Sardinia and was archdeacon of Rome. In 449 he represented Leo at the synod of Ephesus, opposed the condemnation of Flavian and had to flee. Elected in 461, he held Roman synods that settled disputes in Gaul and Spain and insisted that church rules be kept. He challenged Emperor Anthemius over his protection of a heretical favourite, and built churches and oratories, including chapels at the Lateran baptistery. He died in 468.",
+   "actions": [
+    "Leo I's legate at the synod of Ephesus (449)",
+    "Regulated church affairs in Gaul and Spain through Roman synods (462, 465)",
+    "Built oratories at the Lateran baptistery"
+   ],
+   "context": "After the Council of Chalcedon (451) the East was split over Christ's natures, and emperors kept trying compromise formulas. The last Western emperor was deposed in 476, and Italy came under Germanic kings, first Odoacer and then the Ostrogoth Theodoric. The Acacian schism (484-519) broke communion between Rome and Constantinople.",
+   "bio_sources": [
+    "S1",
+    "C46"
+   ],
+   "public_uncertainty": null,
+   "research_status": "partial",
+   "open_questions": []
+  },
+  {
+   "roster_n": [
+    47
+   ],
+   "id": "simplicius",
+   "papal_name": "Simplicius",
+   "display_name": "St Simplicius",
+   "alt_names": [],
+   "secular_name": null,
+   "birth_date": null,
+   "birthplace": {
+    "label": "Tivoli",
+    "country": "Italy",
+    "historical_name": "Tibur",
+    "precision": "exact",
+    "lat": 41.9633,
+    "lon": 12.7983,
+    "radius_km": null,
+    "roster_birth_field": "Tivoli",
+    "note": "Vatican table: Tivoli; CE/LP: son of Castinus, of Tivoli.",
+    "public_note": null,
+    "sources": [
+     "S1",
+     "S2",
+     "C47"
+    ]
+   },
+   "saint": {
+    "status": "saint",
+    "recognition": "pre_congregation",
+    "date": null,
+    "feast": "10 March",
+    "note": "Labelled S. in Vatican table. Feast given is the Roman Martyrology day as I understand the current (2001/2004) edition; not verified online here. CE gives 2 or 3 March (older usage).",
+    "public_note": null,
+    "sources": [
+     "S2",
+     "C47"
+    ]
+   },
+   "short_bio": "From Tivoli near Rome, Simplicius was pope when the last Western emperor was deposed in 476. He defended Chalcedon against Monophysite pressure in the East and founded Santo Stefano Rotondo in Rome.",
+   "long_bio": "Simplicius, son of Castinus of Tivoli, reigned from 468 to 483. During these years the Western Empire ended, with Odoacer deposing Romulus Augustulus in 476, yet the pope's attention was often on the East, where emperors and patriarchs were wavering over the Council of Chalcedon. He condemned anti-Chalcedonian leaders, resisted Constantinople's claims to precedence and appointed Zeno of Seville as papal vicar in Spain. In Rome he dedicated new churches, including Santo Stefano Rotondo.",
+   "actions": [
+    "Defended the Council of Chalcedon against Monophysite leaders",
+    "Opposed Constantinople's claim to second rank (canon 28 of Chalcedon)",
+    "Founded Santo Stefano Rotondo",
+    "Named Zeno of Seville papal vicar in Spain"
+   ],
+   "context": "After the Council of Chalcedon (451) the East was split over Christ's natures, and emperors kept trying compromise formulas. The last Western emperor was deposed in 476, and Italy came under Germanic kings, first Odoacer and then the Ostrogoth Theodoric. The Acacian schism (484-519) broke communion between Rome and Constantinople.",
+   "bio_sources": [
+    "S1",
+    "C47"
+   ],
+   "public_uncertainty": null,
+   "research_status": "partial",
+   "open_questions": []
+  },
+  {
+   "roster_n": [
+    48
+   ],
+   "id": "felix-iii",
+   "papal_name": "Felix III",
+   "display_name": "St Felix III",
+   "alt_names": [
+    "Felix II (in some older numbering)"
+   ],
+   "secular_name": null,
+   "birth_date": null,
+   "birthplace": {
+    "label": "Rome",
+    "country": "Italy",
+    "historical_name": "Roma",
+    "precision": "exact",
+    "lat": 41.9028,
+    "lon": 12.4964,
+    "radius_km": null,
+    "roster_birth_field": "Rome",
+    "note": "Vatican table: Romano. CE: Roman senatorial family, said to be an ancestor of Gregory the Great.",
+    "public_note": null,
+    "sources": [
+     "S1",
+     "S2",
+     "C48"
+    ]
+   },
+   "saint": {
+    "status": "saint",
+    "recognition": "pre_congregation",
+    "date": null,
+    "feast": "1 March",
+    "note": "Labelled S. in Vatican table. Feast given is the Roman Martyrology day as I understand the current (2001/2004) edition; not verified online here. ",
+    "public_note": null,
+    "sources": [
+     "S2",
+     "C48",
+     "S6"
+    ]
+   },
+   "short_bio": "A Roman of senatorial family, Felix excommunicated Patriarch Acacius of Constantinople in 484, opening a schism with the East that lasted about 35 years. He is said to have been an ancestor of Gregory the Great.",
+   "long_bio": "Felix came from a Roman senatorial family and had been married before ordination; Gregory the Great later counted him among his forebears. Elected in 483, he rejected Emperor Zeno's compromise formula, the Henotikon, and excommunicated Peter Mongus of Alexandria and then Patriarch Acacius in 484. The resulting Acacian schism divided Rome and Constantinople until 519. He also set terms for readmitting African Christians forcibly rebaptised by the Arian Vandals. He died in 492.",
+   "actions": [
+    "Excommunicated Acacius of Constantinople (484)",
+    "Rejected the emperor's Henotikon formula",
+    "Held a synod on reconciling Africans rebaptised by Arians (487)"
+   ],
+   "context": "After the Council of Chalcedon (451) the East was split over Christ's natures, and emperors kept trying compromise formulas. The last Western emperor was deposed in 476, and Italy came under Germanic kings, first Odoacer and then the Ostrogoth Theodoric. The Acacian schism (484-519) broke communion between Rome and Constantinople.",
+   "bio_sources": [
+    "S1",
+    "C48"
+   ],
+   "public_uncertainty": "The numbering 'III' reflects the counting of the earlier Felix II, now regarded as an antipope.",
+   "research_status": "partial",
+   "open_questions": []
+  },
+  {
+   "roster_n": [
+    49
+   ],
+   "id": "gelasius-i",
+   "papal_name": "Gelasius I",
+   "display_name": "St Gelasius I",
+   "alt_names": [],
+   "secular_name": null,
+   "birth_date": null,
+   "birthplace": {
+    "label": "Rome",
+    "country": "Italy",
+    "historical_name": "Roma",
+    "precision": "exact",
+    "lat": 41.9028,
+    "lon": 12.4964,
+    "radius_km": null,
+    "roster_birth_field": "Africa",
+    "note": "Vatican table: Africano; LP: natione Afer. CE: Gelasius describes himself in a letter to Emperor Anastasius as 'Romanus natus' (born a Roman). Chose Rome as birthplace (his own testimony) with African family origin; integrator may prefer region 'Africa' to match Vatican roster.",
+    "public_note": "He called himself Roman-born, but ancient sources describe him as African, probably by family origin.",
+    "sources": [
+     "S1",
+     "S2",
+     "C49"
+    ]
+   },
+   "saint": {
+    "status": "saint",
+    "recognition": "pre_congregation",
+    "date": null,
+    "feast": "21 November",
+    "note": "Labelled S. in Vatican table; CE gives feast 21 November.",
+    "public_note": null,
+    "sources": [
+     "S2",
+     "C49"
+    ]
+   },
+   "short_bio": "Probably Roman-born of African descent, Gelasius was a forceful writer. His letter to Emperor Anastasius set out the distinction between the sacred authority of bishops and the royal power. He also ended the pagan Lupercalia festival in Rome.",
+   "long_bio": "Gelasius was described in the papal chronicle as African, yet he called himself Roman-born, so he was probably born in Rome to a family from North Africa. Already influential under Felix III, he was elected in 492 and reigned four years. He kept up resistance to Constantinople during the Acacian schism, writing to Emperor Anastasius that the world is governed by two powers, the bishops' sacred authority and the royal power. He suppressed the Lupercalia, regulated the division of church revenues and cared for refugees and the poor in a time of famine.",
+   "actions": [
+    "Wrote to Emperor Anastasius on the two powers (494)",
+    "Ended the Lupercalia festival in Rome",
+    "Set rules for dividing church revenue into four parts",
+    "Opposed hidden Manichaeism in Rome"
+   ],
+   "context": "After the Council of Chalcedon (451) the East was split over Christ's natures, and emperors kept trying compromise formulas. The last Western emperor was deposed in 476, and Italy came under Germanic kings, first Odoacer and then the Ostrogoth Theodoric. The Acacian schism (484-519) broke communion between Rome and Constantinople.",
+   "bio_sources": [
+    "S1",
+    "C49"
+   ],
+   "public_uncertainty": null,
+   "research_status": "partial",
+   "open_questions": [
+    "Roster says Africa; CE cites 'Romanus natus': which to display"
+   ]
+  },
+  {
+   "roster_n": [
+    50
+   ],
+   "id": "anastasius-ii",
+   "papal_name": "Anastasius II",
+   "display_name": "Anastasius II",
+   "alt_names": [],
+   "secular_name": null,
+   "birth_date": null,
+   "birthplace": {
+    "label": "Rome",
+    "country": "Italy",
+    "historical_name": "Roma",
+    "precision": "exact",
+    "lat": 41.9028,
+    "lon": 12.4964,
+    "radius_km": null,
+    "roster_birth_field": "Rome",
+    "note": "Vatican table: Romano; CE: native of Rome.",
+    "public_note": null,
+    "sources": [
+     "S1",
+     "S2",
+     "C50"
+    ]
+   },
+   "saint": {
+    "status": "none",
+    "recognition": null,
+    "date": null,
+    "feast": null,
+    "note": "Not labelled S. in the Vatican Italian table; not in canonised-popes lists; no Roman Martyrology cult known to me. Dante places him in Hell (Inferno XI) due to a medieval legend; CE silent on this.",
+    "public_note": null,
+    "sources": [
+     "S2",
+     "S6",
+     "C50"
+    ]
+   },
+   "short_bio": "A Roman who reigned for two years, Anastasius tried to heal the Acacian schism with Constantinople. His conciliatory approach displeased many in Rome, and later legend unfairly cast him as a heretic.",
+   "long_bio": "Anastasius was a Roman, elected in November 496. He sought reconciliation with Constantinople, accepting that sacraments performed by Acacius were valid while still insisting his name be removed from the liturgical lists. Some Roman clergy saw this as weakness, and medieval writers later treated him as a heretic, which is why Dante placed him in Hell. He also condemned traducianism. He died in November 498, and his death was followed by a disputed election.",
+   "actions": [
+    "Sought reunion with Constantinople during the Acacian schism",
+    "Accepted the validity of sacraments given by Acacius",
+    "Condemned traducianism"
+   ],
+   "context": "After the Council of Chalcedon (451) the East was split over Christ's natures, and emperors kept trying compromise formulas. The last Western emperor was deposed in 476, and Italy came under Germanic kings, first Odoacer and then the Ostrogoth Theodoric. The Acacian schism (484-519) broke communion between Rome and Constantinople.",
+   "bio_sources": [
+    "S1",
+    "C50"
+   ],
+   "public_uncertainty": null,
+   "research_status": "partial",
+   "open_questions": []
+  },
+  {
+   "roster_n": [
+    51
+   ],
+   "id": "symmachus",
+   "papal_name": "Symmachus",
+   "display_name": "St Symmachus",
+   "alt_names": [],
+   "secular_name": null,
+   "birth_date": null,
+   "birthplace": {
+    "label": "Sardinia",
+    "country": "Italy",
+    "historical_name": "Sardinia",
+    "precision": "region",
+    "lat": 40.1,
+    "lon": 9.0,
+    "radius_km": 130,
+    "roster_birth_field": "Sardinia",
+    "note": "Vatican table: Sardo; CE: born in Sardinia, son of Fortunatus. No town in these sources.",
+    "public_note": "Ancient sources say only that he came from Sardinia.",
+    "sources": [
+     "S1",
+     "S2",
+     "C51"
+    ]
+   },
+   "saint": {
+    "status": "saint",
+    "recognition": "pre_congregation",
+    "date": null,
+    "feast": "19 July",
+    "note": "Labelled S. in Vatican table. Feast given is the Roman Martyrology day as I understand the current (2001/2004) edition; not verified online here. ",
+    "public_note": null,
+    "sources": [
+     "S2",
+     "C51",
+     "S6"
+    ]
+   },
+   "short_bio": "A Sardinian, Symmachus was elected on the same day as a rival, Laurentius, splitting Rome for years. King Theodoric ruled in his favour, and a synod in 502 cleared him of charges. He built extensively at St Peter's.",
+   "long_bio": "Symmachus, born in Sardinia and a convert from paganism, was elected in November 498, while a pro-Byzantine faction chose Laurentius. The Ostrogothic king Theodoric decided for Symmachus, but accusations against him led to years of street fighting and a rival occupation of churches. A synod in 502 refused to judge him, holding that the pope could not be judged by others. He expelled Manichaeans, built at St Peter's and elsewhere, and granted the pallium to Caesarius of Arles. He died in 514.",
+   "actions": [
+    "Won recognition against the rival Laurentius (498-506)",
+    "Cleared by the 'Palmary synod' (502)",
+    "Granted the pallium to Caesarius of Arles",
+    "Built and restored churches including at St Peter's"
+   ],
+   "context": "Italy was ruled by the Arian Ostrogoth Theodoric (493-526) and his heirs, while the emperor in Constantinople claimed overall authority. Rome's clergy and senate were divided between Gothic and Byzantine loyalties, and papal elections were often contested. Justinian (527-565) would soon launch the long, destructive Gothic War to retake Italy.",
+   "bio_sources": [
+    "S1",
+    "C51"
+   ],
+   "public_uncertainty": null,
+   "research_status": "partial",
+   "open_questions": []
+  },
+  {
+   "roster_n": [
+    52
+   ],
+   "id": "hormisdas",
+   "papal_name": "Hormisdas",
+   "display_name": "St Hormisdas",
+   "alt_names": [],
+   "secular_name": null,
+   "birth_date": null,
+   "birthplace": {
+    "label": "Frosinone",
+    "country": "Italy",
+    "historical_name": "Frusino",
+    "precision": "exact",
+    "lat": 41.6396,
+    "lon": 13.3401,
+    "radius_km": null,
+    "roster_birth_field": "",
+    "note": "Roster birth field blank. Vatican Italian table: Frosinone; CE: Frosinone (Frusino) in Latium, wealthy family.",
+    "public_note": null,
+    "sources": [
+     "S2",
+     "C52"
+    ]
+   },
+   "saint": {
+    "status": "saint",
+    "recognition": "pre_congregation",
+    "date": null,
+    "feast": "6 August",
+    "note": "Labelled S. in Vatican table. Feast given is the Roman Martyrology day as I understand the current (2001/2004) edition; not verified online here. ",
+    "public_note": null,
+    "sources": [
+     "S2",
+     "C52",
+     "S6"
+    ]
+   },
+   "short_bio": "From Frosinone in Lazio, Hormisdas ended both the Laurentian schism in Rome and the Acacian schism with the East. His 'Formula of Hormisdas' was signed in Constantinople in 519. His son later became Pope Silverius.",
+   "long_bio": "Hormisdas came from a well-off family of Frosinone and had been married; his son Silverius would be pope in 536. Elected in 514, he reconciled the last followers of Laurentius in Rome. With the accession of Emperor Justin he achieved reunion with the Eastern churches: in 519 the patriarch and bishops of Constantinople signed his profession of faith, the Formula of Hormisdas, which affirmed Rome's role in keeping the faith intact. He died in 523 and was buried at St Peter's.",
+   "actions": [
+    "Ended the Laurentian schism in Rome",
+    "Ended the Acacian schism (519)",
+    "Issued the Formula of Hormisdas"
+   ],
+   "context": "Italy was ruled by the Arian Ostrogoth Theodoric (493-526) and his heirs, while the emperor in Constantinople claimed overall authority. Rome's clergy and senate were divided between Gothic and Byzantine loyalties, and papal elections were often contested. Justinian (527-565) would soon launch the long, destructive Gothic War to retake Italy.",
+   "bio_sources": [
+    "S2",
+    "C52"
+   ],
+   "public_uncertainty": null,
+   "research_status": "partial",
+   "open_questions": [
+    "English roster has blank birth field; Italian table gives Frosinone"
+   ]
+  },
+  {
+   "roster_n": [
+    53
+   ],
+   "id": "john-i",
+   "papal_name": "John I",
+   "display_name": "St John I",
+   "alt_names": [],
+   "secular_name": null,
+   "birth_date": null,
+   "birthplace": {
+    "label": "Tuscia",
+    "country": "Italy",
+    "historical_name": "Tuscia",
+    "precision": "region",
+    "lat": 43.0,
+    "lon": 11.5,
+    "radius_km": 150,
+    "roster_birth_field": "Tuscia",
+    "note": "Vatican table: Tuscia; CE: Tuscan by birth, son of Constantius. Local traditions (e.g. Siena area/Populonia) not verified.",
+    "public_note": "Ancient sources call him Tuscan but name no town.",
+    "sources": [
+     "S1",
+     "S2",
+     "C53"
+    ]
+   },
+   "saint": {
+    "status": "saint",
+    "recognition": "pre_congregation",
+    "date": null,
+    "feast": "18 May",
+    "note": "Martyr; optional memorial in General Roman Calendar 18 May. CE gives older 27 May.",
+    "public_note": null,
+    "sources": [
+     "S2",
+     "C53"
+    ]
+   },
+   "short_bio": "A Tuscan, John was sent by King Theodoric to Constantinople in 525, the first pope known to visit the city. On his return the king, suspicious of his dealings with the emperor, had him imprisoned at Ravenna, where he died. He is honoured as a martyr.",
+   "long_bio": "John, of Tuscan birth, was an elderly deacon when elected in 523. The Arian king Theodoric forced him to lead an embassy to Constantinople to soften Emperor Justin's measures against Arians. He was received with great honour, and celebrated Easter there in 526. Theodoric, already suspicious of Roman senators after the executions of Boethius and Symmachus, imprisoned John at Ravenna on his return; he died there in May 526. His body was brought to St Peter's and he was venerated as a martyr.",
+   "actions": [
+    "Led an embassy to Constantinople for Theodoric (525-526)",
+    "First pope known to visit Constantinople",
+    "Died in prison at Ravenna (526)"
+   ],
+   "context": "Italy was ruled by the Arian Ostrogoth Theodoric (493-526) and his heirs, while the emperor in Constantinople claimed overall authority. Rome's clergy and senate were divided between Gothic and Byzantine loyalties, and papal elections were often contested. Justinian (527-565) would soon launch the long, destructive Gothic War to retake Italy.",
+   "bio_sources": [
+    "S1",
+    "C53"
+   ],
+   "public_uncertainty": null,
+   "research_status": "partial",
+   "open_questions": []
+  },
+  {
+   "roster_n": [
+    54
+   ],
+   "id": "felix-iv",
+   "papal_name": "Felix IV",
+   "display_name": "St Felix IV",
+   "alt_names": [
+    "Felix III (in some older numbering)"
+   ],
+   "secular_name": null,
+   "birth_date": null,
+   "birthplace": {
+    "label": "Samnium",
+    "country": "Italy",
+    "historical_name": "Samnium",
+    "precision": "region",
+    "lat": 41.4,
+    "lon": 14.5,
+    "radius_km": 70,
+    "roster_birth_field": "Samnium",
+    "note": "Vatican table: Sannio; CE: of Samnium, son of Castorius. Benevento tradition not verified. Region centre in the Molise/Benevento uplands.",
+    "public_note": "Ancient sources say only that he came from Samnium.",
+    "sources": [
+     "S1",
+     "S2",
+     "C54"
+    ]
+   },
+   "saint": {
+    "status": "saint",
+    "recognition": "pre_congregation",
+    "date": null,
+    "feast": "22 September",
+    "note": "Labelled S. in Vatican table. Feast given is the Roman Martyrology day as I understand the current (2001/2004) edition; not verified online here. CE gives 30 January (older usage).",
+    "public_note": null,
+    "sources": [
+     "S2",
+     "C54",
+     "S6"
+    ]
+   },
+   "short_bio": "From Samnium in southern Italy, Felix was chosen under Theodoric's influence after John I's death. He turned two ancient buildings on the Forum into the church of Santi Cosma e Damiano, whose mosaic still survives.",
+   "long_bio": "Felix, son of Castorius, came from Samnium. He was consecrated in July 526, with the backing of Theodoric, who died soon after. He received from the regent Amalasuntha buildings on the Roman Forum and converted them into the church of Santi Cosma e Damiano, where he appears in the apse mosaic. He sent statements on grace that were taken up by the Synod of Orange (529). Shortly before his death in 530 he tried to name the archdeacon Boniface as successor, which led to a disputed election.",
+   "actions": [
+    "Founded Santi Cosma e Damiano on the Forum",
+    "Supported the anti-Semipelagian teaching adopted at Orange (529)",
+    "Tried to designate Boniface II as his successor"
+   ],
+   "context": "Italy was ruled by the Arian Ostrogoth Theodoric (493-526) and his heirs, while the emperor in Constantinople claimed overall authority. Rome's clergy and senate were divided between Gothic and Byzantine loyalties, and papal elections were often contested. Justinian (527-565) would soon launch the long, destructive Gothic War to retake Italy.",
+   "bio_sources": [
+    "S1",
+    "C54"
+   ],
+   "public_uncertainty": null,
+   "research_status": "partial",
+   "open_questions": []
+  },
+  {
+   "roster_n": [
+    55
+   ],
+   "id": "boniface-ii",
+   "papal_name": "Boniface II",
+   "display_name": "Boniface II",
+   "alt_names": [],
+   "secular_name": null,
+   "birth_date": null,
+   "birthplace": {
+    "label": "Rome",
+    "country": "Italy",
+    "historical_name": "Roma",
+    "precision": "exact",
+    "lat": 41.9028,
+    "lon": 12.4964,
+    "radius_km": null,
+    "roster_birth_field": "Rome",
+    "note": "Vatican table: Romano. CE: of Germanic descent, son of Sigisbald; birthplace not given in CE, Rome per Vatican and LP (natione Romanus).",
+    "public_note": null,
+    "sources": [
+     "S1",
+     "S2",
+     "C55"
+    ]
+   },
+   "saint": {
+    "status": "none",
+    "recognition": null,
+    "date": null,
+    "feast": null,
+    "note": "Not labelled S. in the Vatican Italian table; not in canonised-popes lists; no Roman Martyrology cult known to me.",
+    "public_note": null,
+    "sources": [
+     "S2",
+     "S6",
+     "C55"
+    ]
+   },
+   "short_bio": "The first pope of Germanic descent, Boniface was a Roman-born son of Sigisbald. His election was contested by Dioscorus, who died after a few weeks. He confirmed the Synod of Orange's teaching on grace.",
+   "long_bio": "Boniface was born in Rome to a family of Germanic (probably Gothic) origin. Felix IV designated him as successor, but most of the Roman clergy elected Dioscorus instead; the rival died after 22 days, ending the split. Boniface approved the Synod of Orange's decisions against Semipelagianism. He tried to name his own successor, the deacon Vigilius, but faced opposition and withdrew the decree. He died in October 532.",
+   "actions": [
+    "Confirmed the Synod of Orange (531)",
+    "Briefly named Vigilius as successor, then revoked it"
+   ],
+   "context": "Italy was ruled by the Arian Ostrogoth Theodoric (493-526) and his heirs, while the emperor in Constantinople claimed overall authority. Rome's clergy and senate were divided between Gothic and Byzantine loyalties, and papal elections were often contested. Justinian (527-565) would soon launch the long, destructive Gothic War to retake Italy.",
+   "bio_sources": [
+    "S1",
+    "C55"
+   ],
+   "public_uncertainty": null,
+   "research_status": "partial",
+   "open_questions": []
+  },
+  {
+   "roster_n": [
+    56
+   ],
+   "id": "john-ii",
+   "papal_name": "John II",
+   "display_name": "John II",
+   "alt_names": [
+    "Mercurius"
+   ],
+   "secular_name": "Mercurius",
+   "birth_date": null,
+   "birthplace": {
+    "label": "Rome",
+    "country": "Italy",
+    "historical_name": "Roma",
+    "precision": "exact",
+    "lat": 41.9028,
+    "lon": 12.4964,
+    "radius_km": null,
+    "roster_birth_field": "Rome",
+    "note": "Vatican table: Romano. CE: Roman, possibly of the Caelian district; father Projectus.",
+    "public_note": null,
+    "sources": [
+     "S1",
+     "S2",
+     "C56"
+    ]
+   },
+   "saint": {
+    "status": "none",
+    "recognition": null,
+    "date": null,
+    "feast": null,
+    "note": "Not labelled S. in the Vatican Italian table; not in canonised-popes lists; no Roman Martyrology cult known to me.",
+    "public_note": null,
+    "sources": [
+     "S2",
+     "S6",
+     "C56"
+    ]
+   },
+   "short_bio": "Born Mercurius, a priest of San Clemente, he was the first pope known to take a new name on election, judging a pagan god's name unsuitable. He ruled during the uneasy final years of Gothic rule in Italy.",
+   "long_bio": "Mercurius was a Roman priest of the church of San Clemente, where inscriptions with his name survive. Elected after a vacancy of over two months marked by bribery, he took the name John in January 533, apparently the first pope to change his name. A senatorial decree against simony in papal elections was confirmed in his time. He accepted Emperor Justinian's theological formula that 'one of the Trinity suffered in the flesh', and condemned the Acoemetae monks who rejected it. He died in May 535.",
+   "actions": [
+    "First pope known to change his name on election",
+    "Confirmed measures against simony in papal elections",
+    "Condemned the Acoemetae monks (534)"
+   ],
+   "context": "Italy was ruled by the Arian Ostrogoth Theodoric (493-526) and his heirs, while the emperor in Constantinople claimed overall authority. Rome's clergy and senate were divided between Gothic and Byzantine loyalties, and papal elections were often contested. Justinian (527-565) would soon launch the long, destructive Gothic War to retake Italy.",
+   "bio_sources": [
+    "S1",
+    "C56"
+   ],
+   "public_uncertainty": null,
+   "research_status": "partial",
+   "open_questions": []
+  },
+  {
+   "roster_n": [
+    57
+   ],
+   "id": "agapetus-i",
+   "papal_name": "Agapetus I",
+   "display_name": "St Agapetus I",
+   "alt_names": [
+    "Agapitus"
+   ],
+   "secular_name": null,
+   "birth_date": null,
+   "birthplace": {
+    "label": "Rome",
+    "country": "Italy",
+    "historical_name": "Roma",
+    "precision": "exact",
+    "lat": 41.9028,
+    "lon": 12.4964,
+    "radius_km": null,
+    "roster_birth_field": "Rome",
+    "note": "Vatican table: Romano; CE: Roman, son of the priest Gordianus.",
+    "public_note": null,
+    "sources": [
+     "S1",
+     "S2",
+     "C57"
+    ]
+   },
+   "saint": {
+    "status": "saint",
+    "recognition": "pre_congregation",
+    "date": null,
+    "feast": "22 April",
+    "note": "Labelled S. in Vatican table; CE: honoured East and West, Latin feast 20 September, Greek 22 April. Current RM day believed to be 22 April (death). Feast given is the Roman Martyrology day as I understand the current (2001/2004) edition; not verified online here. ",
+    "public_note": null,
+    "sources": [
+     "S2",
+     "C57"
+    ]
+   },
+   "short_bio": "A Roman priest's son, Agapetus was sent by the Gothic king to Constantinople to avert war. He failed politically but deposed the Monophysite patriarch Anthimus and consecrated his successor. He died in Constantinople in 536.",
+   "long_bio": "Agapetus was the son of Gordianus, a Roman priest killed in the riots of Symmachus's time. With Cassiodorus he planned a school of Christian learning in Rome, and he gathered a library on the Caelian. Elected in 535, he was sent in 536 by King Theodahad to dissuade Justinian from invading Italy. He did not stop the war, but he persuaded the emperor to depose Patriarch Anthimus, suspected of Monophysitism, and himself consecrated Menas. He died in Constantinople that April; his body was brought back to St Peter's.",
+   "actions": [
+    "Burned Boniface II's anathema against Dioscorus",
+    "Travelled to Constantinople (536)",
+    "Deposed Anthimus and consecrated Menas as patriarch"
+   ],
+   "context": "Justinian was setting out to reconquer the West. Belisarius retook Africa from the Vandals in 534 and invaded Sicily and Italy in 535-536, beginning the Gothic War that would devastate Italy for almost twenty years. Empress Theodora sympathised with the anti-Chalcedonians and sought popes who would accommodate them.",
+   "bio_sources": [
+    "S1",
+    "C57"
+   ],
+   "public_uncertainty": null,
+   "research_status": "partial",
+   "open_questions": []
+  },
+  {
+   "roster_n": [
+    58
+   ],
+   "id": "silverius",
+   "papal_name": "Silverius",
+   "display_name": "St Silverius",
+   "alt_names": [],
+   "secular_name": null,
+   "birth_date": null,
+   "birthplace": {
+    "label": "Frosinone",
+    "country": "Italy",
+    "historical_name": "Frusino",
+    "precision": "exact",
+    "lat": 41.6396,
+    "lon": 13.3401,
+    "radius_km": null,
+    "roster_birth_field": "Frosinone",
+    "note": "Vatican table: Frosinone. Son of Pope Hormisdas (of Frosinone), born before his father's ordination. CE gives no birthplace; LP calls him Campanian. Frosinone plausible via family; kept as exact per Vatican but flagged.",
+    "public_note": "He is traditionally linked to Frosinone, his father's town.",
+    "sources": [
+     "S1",
+     "S2",
+     "C58"
+    ]
+   },
+   "saint": {
+    "status": "saint",
+    "recognition": "pre_congregation",
+    "date": null,
+    "feast": "20 June",
+    "note": "Martyr; Roman Martyrology 20 June (per CE). Cult attested from an 11th-century list.",
+    "public_note": null,
+    "sources": [
+     "S2",
+     "C58"
+    ]
+   },
+   "short_bio": "The son of Pope Hormisdas, Silverius was a subdeacon when made pope with Gothic backing in 536. Accused of treason by the Byzantine general Belisarius, he was deposed, exiled and died of hardship on a small island. He is venerated as a martyr.",
+   "long_bio": "Silverius was born before his father Hormisdas entered the higher clergy. King Theodahad secured his election in 536. Months later Belisarius took Rome for the emperor, and Empress Theodora sought a pope willing to accept anti-Chalcedonian leaders. Silverius refused. In March 537 he was accused, on forged evidence, of plotting to open the gates to the Goths, deposed, and replaced by Vigilius. Sent east, he was briefly allowed back to Italy, but was then confined on the island of Palmarola, where he died, probably in 537.",
+   "actions": [
+    "Refused Theodora's demands to restore Anthimus",
+    "Deposed on a false charge of treason (537)",
+    "Died in exile on Palmarola"
+   ],
+   "context": "The Gothic War (535-554) between Justinian's armies and the Ostrogoths ravaged Italy; Rome changed hands several times. Popes were now pressed hard by the emperor and empress, especially over the 'Three Chapters', writings Justinian wanted condemned to win over anti-Chalcedonian Christians. The Second Council of Constantinople (553) condemned them, provoking schism in northern Italy.",
+   "bio_sources": [
+    "S1",
+    "C58"
+   ],
+   "public_uncertainty": "The date and place of his death are uncertain.",
+   "research_status": "partial",
+   "open_questions": [
+    "Frosinone vs LP 'Campanus'",
+    "Death place: Palmarola (LP) vs Palmaria (CE)"
+   ]
+  },
+  {
+   "roster_n": [
+    59
+   ],
+   "id": "vigilius",
+   "papal_name": "Vigilius",
+   "display_name": "Vigilius",
+   "alt_names": [],
+   "secular_name": null,
+   "birth_date": null,
+   "birthplace": {
+    "label": "Rome",
+    "country": "Italy",
+    "historical_name": "Roma",
+    "precision": "exact",
+    "lat": 41.9028,
+    "lon": 12.4964,
+    "radius_km": null,
+    "roster_birth_field": "Rome",
+    "note": "Vatican table: Romano; CE: distinguished Roman family, father the consul Johannes.",
+    "public_note": null,
+    "sources": [
+     "S1",
+     "S2",
+     "C59"
+    ]
+   },
+   "saint": {
+    "status": "none",
+    "recognition": null,
+    "date": null,
+    "feast": null,
+    "note": "Not labelled S. in the Vatican Italian table; not in canonised-popes lists; no Roman Martyrology cult known to me.",
+    "public_note": null,
+    "sources": [
+     "S2",
+     "S6",
+     "C59"
+    ]
+   },
+   "short_bio": "A Roman aristocrat installed by Belisarius after Silverius was deposed, Vigilius spent much of his reign as a virtual prisoner in Constantinople. Under pressure he finally accepted the condemnation of the Three Chapters. He died at Syracuse on his way home.",
+   "long_bio": "Vigilius belonged to a noble Roman family and had served as papal representative in Constantinople. He became pope in 537 with Byzantine support after his predecessor's deposition. In 545 he was taken to Constantinople, where Justinian demanded that he condemn the Three Chapters. Vigilius wavered for years, issuing and withdrawing judgements, and refused to attend the Second Council of Constantinople (553), but in 553-554 he finally accepted its decisions. Allowed to return, he died at Syracuse in June 555, his reputation badly damaged in the West.",
+   "actions": [
+    "Became pope after Silverius's deposition (537)",
+    "Detained in Constantinople c. 545-555",
+    "Accepted the Second Council of Constantinople (553-554)"
+   ],
+   "context": "The Gothic War (535-554) between Justinian's armies and the Ostrogoths ravaged Italy; Rome changed hands several times. Popes were now pressed hard by the emperor and empress, especially over the 'Three Chapters', writings Justinian wanted condemned to win over anti-Chalcedonian Christians. The Second Council of Constantinople (553) condemned them, provoking schism in northern Italy.",
+   "bio_sources": [
+    "S1",
+    "C59"
+   ],
+   "public_uncertainty": null,
+   "research_status": "partial",
+   "open_questions": []
+  },
+  {
+   "roster_n": [
+    60
+   ],
+   "id": "pelagius-i",
+   "papal_name": "Pelagius I",
+   "display_name": "Pelagius I",
+   "alt_names": [],
+   "secular_name": null,
+   "birth_date": null,
+   "birthplace": {
+    "label": "Rome",
+    "country": "Italy",
+    "historical_name": "Roma",
+    "precision": "exact",
+    "lat": 41.9028,
+    "lon": 12.4964,
+    "radius_km": null,
+    "roster_birth_field": "Rome",
+    "note": "Vatican table: Romano; CE: Roman noble family, father John.",
+    "public_note": null,
+    "sources": [
+     "S1",
+     "S2",
+     "C60"
+    ]
+   },
+   "saint": {
+    "status": "none",
+    "recognition": null,
+    "date": null,
+    "feast": null,
+    "note": "Not labelled S. in the Vatican Italian table; not in canonised-popes lists; no Roman Martyrology cult known to me.",
+    "public_note": null,
+    "sources": [
+     "S2",
+     "S6",
+     "C60"
+    ]
+   },
+   "short_bio": "A Roman deacon and diplomat, Pelagius had first opposed the condemnation of the Three Chapters but accepted it and was made pope by Justinian. Mistrusted in Rome and northern Italy, he devoted himself to relieving the poor after the Gothic War.",
+   "long_bio": "Pelagius came from a noble Roman family and served as papal envoy in Constantinople. During the siege of Rome by Totila in 546 he pleaded with the Gothic king for the city. He at first defended the Three Chapters, then accepted the Second Council of Constantinople. Justinian chose him as pope in 556, but many suspected he had helped bring about Vigilius's suffering, and he publicly swore his innocence at St Peter's. Bishops in northern Italy broke communion. He reorganised church estates and cared for war refugees, and was remembered as 'father of the poor'. He died in 561.",
+   "actions": [
+    "Pleaded with Totila during the siege of Rome (546)",
+    "Accepted the Fifth Council and its condemnation of the Three Chapters",
+    "Reorganised church finances and relief after the Gothic War"
+   ],
+   "context": "The Gothic War (535-554) between Justinian's armies and the Ostrogoths ravaged Italy; Rome changed hands several times. Popes were now pressed hard by the emperor and empress, especially over the 'Three Chapters', writings Justinian wanted condemned to win over anti-Chalcedonian Christians. The Second Council of Constantinople (553) condemned them, provoking schism in northern Italy.",
+   "bio_sources": [
+    "S1",
+    "C60"
+   ],
+   "public_uncertainty": null,
+   "research_status": "partial",
+   "open_questions": []
+  },
+  {
+   "roster_n": [
+    61
+   ],
+   "id": "john-iii",
+   "papal_name": "John III",
+   "display_name": "John III",
+   "alt_names": [
+    "Catelinus"
+   ],
+   "secular_name": "Catelinus",
+   "birth_date": null,
+   "birthplace": {
+    "label": "Rome",
+    "country": "Italy",
+    "historical_name": "Roma",
+    "precision": "exact",
+    "lat": 41.9028,
+    "lon": 12.4964,
+    "radius_km": null,
+    "roster_birth_field": "Rome",
+    "note": "Vatican table: Romano; CE: Roman, surnamed Catelinus, son of Anastasius, an illustris. Roster secular 'Catalino'.",
+    "public_note": null,
+    "sources": [
+     "S1",
+     "S2",
+     "C61"
+    ]
+   },
+   "saint": {
+    "status": "none",
+    "recognition": null,
+    "date": null,
+    "feast": null,
+    "note": "Not labelled S. in the Vatican Italian table; not in canonised-popes lists; no Roman Martyrology cult known to me.",
+    "public_note": null,
+    "sources": [
+     "S2",
+     "S6",
+     "C61"
+    ]
+   },
+   "short_bio": "A Roman of high-ranking family, John III reigned as the Lombards poured into Italy. Few records of his time survive. He persuaded the general Narses to return to Rome, and restored the catacombs.",
+   "long_bio": "John, surnamed Catelinus, was the son of Anastasius, a man of senatorial rank. He waited months for imperial confirmation before consecration in 561. The Lombard invasion of 568 began during his pontificate, and almost all records of it were lost. When the general Narses fell out of favour, John persuaded him to come back to Rome, which made the pope unpopular, and for a time he withdrew to the catacomb of Praetextatus. He repaired cemeteries and churches and died in 574.",
+   "actions": [
+    "Persuaded Narses to return to Rome (571)",
+    "Restored Roman catacombs",
+    "Ruled on Gallic bishops condemned at Lyon"
+   ],
+   "context": "From 568 the Lombards invaded Italy, splitting the peninsula between Lombard duchies and Byzantine-held territories governed from Ravenna by an exarch. Rome was often isolated, short of food and hit by plague and floods, and popes increasingly took on civic responsibilities. Imperial confirmation from Constantinople was still needed before a new pope could be consecrated.",
+   "bio_sources": [
+    "S1",
+    "C61"
+   ],
+   "public_uncertainty": "Most records of his pontificate were lost in the Lombard wars.",
+   "research_status": "partial",
+   "open_questions": []
+  },
+  {
+   "roster_n": [
+    62
+   ],
+   "id": "benedict-i",
+   "papal_name": "Benedict I",
+   "display_name": "Benedict I",
+   "alt_names": [
+    "Bonosus"
+   ],
+   "secular_name": null,
+   "birth_date": null,
+   "birthplace": {
+    "label": "Rome",
+    "country": "Italy",
+    "historical_name": "Roma",
+    "precision": "exact",
+    "lat": 41.9028,
+    "lon": 12.4964,
+    "radius_km": null,
+    "roster_birth_field": "Rome",
+    "note": "Vatican table: Romano; CE: Roman, son of Boniface; called Bonosus by the Greeks (Evagrius).",
+    "public_note": null,
+    "sources": [
+     "S1",
+     "S2",
+     "C62"
+    ]
+   },
+   "saint": {
+    "status": "none",
+    "recognition": null,
+    "date": null,
+    "feast": null,
+    "note": "Not labelled S. in the Vatican Italian table; not in canonised-popes lists; no Roman Martyrology cult known to me.",
+    "public_note": null,
+    "sources": [
+     "S2",
+     "S6",
+     "C62"
+    ]
+   },
+   "short_bio": "A Roman, Benedict waited almost a year for imperial confirmation, a sign of how isolated Rome had become. His reign was overshadowed by Lombard raids and famine, and he died while trying to deal with them.",
+   "long_bio": "Benedict was the son of a Roman named Boniface. After John III's death the see stayed vacant for nearly eleven months because Lombard raids slowed communication with Constantinople; he was finally consecrated in June 575. Little is known of his pontificate beyond some ordinations and a grant of land to a monastery. Lombard attacks were followed by famine, and he died in July 579 while the city was under pressure.",
+   "actions": [
+    "Ordained priests and bishops for the Roman church",
+    "Granted an estate near Minturnae to a monastery"
+   ],
+   "context": "From 568 the Lombards invaded Italy, splitting the peninsula between Lombard duchies and Byzantine-held territories governed from Ravenna by an exarch. Rome was often isolated, short of food and hit by plague and floods, and popes increasingly took on civic responsibilities. Imperial confirmation from Constantinople was still needed before a new pope could be consecrated.",
+   "bio_sources": [
+    "S1",
+    "C62"
+   ],
+   "public_uncertainty": null,
+   "research_status": "minimal",
+   "open_questions": []
+  },
+  {
+   "roster_n": [
+    63
+   ],
+   "id": "pelagius-ii",
+   "papal_name": "Pelagius II",
+   "display_name": "Pelagius II",
+   "alt_names": [],
+   "secular_name": null,
+   "birth_date": null,
+   "birthplace": {
+    "label": "Rome",
+    "country": "Italy",
+    "historical_name": "Roma",
+    "precision": "exact",
+    "lat": 41.9028,
+    "lon": 12.4964,
+    "radius_km": null,
+    "roster_birth_field": "Rome",
+    "note": "Vatican table: Romano; CE: probably born in Rome, of Gothic descent, father Winigild.",
+    "public_note": null,
+    "sources": [
+     "S1",
+     "S2",
+     "C63"
+    ]
+   },
+   "saint": {
+    "status": "none",
+    "recognition": null,
+    "date": null,
+    "feast": null,
+    "note": "Not labelled S. in the Vatican Italian table; not in canonised-popes lists; no Roman Martyrology cult known to me.",
+    "public_note": null,
+    "sources": [
+     "S2",
+     "S6",
+     "C63"
+    ]
+   },
+   "short_bio": "Probably Roman-born of Gothic descent, Pelagius was elected while the Lombards besieged Rome. He sent the deacon Gregory, the future Gregory the Great, to Constantinople for aid. He died of plague in 590.",
+   "long_bio": "Pelagius, son of Winigild, was probably born in Rome to a Gothic family. Consecrated in 579 without waiting for imperial approval because of the Lombard siege, he relied on payments and diplomacy to keep the city safe. He sent Gregory as his envoy to Constantinople and asked the Franks to help against the Lombards, with little lasting success. He tried to end the Three Chapters schism in northern Italy and protested at the Patriarch of Constantinople's use of the title 'ecumenical'. He built the basilica of San Lorenzo fuori le Mura in its present eastern part and died in the plague of 590.",
+   "actions": [
+    "Sent Gregory (later Gregory I) as envoy to Constantinople",
+    "Sought to end the Istrian Three Chapters schism",
+    "Rebuilt San Lorenzo fuori le Mura",
+    "Protested the 'ecumenical patriarch' title"
+   ],
+   "context": "From 568 the Lombards invaded Italy, splitting the peninsula between Lombard duchies and Byzantine-held territories governed from Ravenna by an exarch. Rome was often isolated, short of food and hit by plague and floods, and popes increasingly took on civic responsibilities. Imperial confirmation from Constantinople was still needed before a new pope could be consecrated.",
+   "bio_sources": [
+    "S1",
+    "C63"
+   ],
+   "public_uncertainty": null,
+   "research_status": "partial",
+   "open_questions": []
+  },
+  {
+   "roster_n": [
+    64
+   ],
+   "id": "gregory-i",
+   "papal_name": "Gregory I",
+   "display_name": "St Gregory I (the Great)",
+   "alt_names": [
+    "Gregory the Great",
+    "Gregorius Magnus"
+   ],
+   "secular_name": null,
+   "birth_date": "c. 540",
+   "birthplace": {
+    "label": "Rome",
+    "country": "Italy",
+    "historical_name": "Roma",
+    "precision": "exact",
+    "lat": 41.9028,
+    "lon": 12.4964,
+    "radius_km": null,
+    "roster_birth_field": "Rome",
+    "note": "BXVI audience: born in Rome c. 540, of the gens Anicia; CE: Rome c. 540, parents Gordianus and Silvia; Vatican table Romano.",
+    "public_note": null,
+    "sources": [
+     "S1",
+     "S2",
+     "S4",
+     "C64"
+    ]
+   },
+   "saint": {
+    "status": "saint",
+    "recognition": "pre_congregation",
+    "date": null,
+    "feast": "3 September",
+    "note": "General Roman Calendar memorial 3 September (anniversary of his consecration, 590); formerly 12 March, his death day. One of the four great Latin Doctors (honoured as such from 1298 under Boniface VIII). Parents Gordian and Silvia venerated as saints.",
+    "public_note": null,
+    "sources": [
+     "S2",
+     "S4",
+     "C64"
+    ]
+   },
+   "short_bio": "Born in Rome around 540 to a patrician family, Gregory was city prefect, then a monk, papal envoy and finally pope from 590. He fed Rome in famine, negotiated with the Lombards and sent Augustine to the English. He is a Doctor of the Church.",
+   "long_bio": "Gregory came from a wealthy Roman family; his parents Gordian and Silvia are honoured as saints. After serving as prefect of the city (c. 572) he turned his family home on the Caelian into the monastery of St Andrew. Pelagius II sent him as envoy to Constantinople. Elected in 590 during a plague, he governed the Church and much of Rome's civic life: organising food supplies from church estates, ransoming captives and negotiating with the Lombards. In 596 he sent Augustine and monks to evangelise the English. His Pastoral Rule, Dialogues, Moralia on Job, homilies and some 800 letters shaped medieval Christianity. He styled himself 'servant of the servants of God'. He died on 12 March 604.",
+   "actions": [
+    "Sent Augustine and monks to the Anglo-Saxons (596)",
+    "Organised famine relief and administration of church estates",
+    "Negotiated with the Lombards to protect Rome",
+    "Wrote the Pastoral Rule, Dialogues and Moralia",
+    "Left a register of about 800 letters"
+   ],
+   "context": "From 568 the Lombards invaded Italy, splitting the peninsula between Lombard duchies and Byzantine-held territories governed from Ravenna by an exarch. Rome was often isolated, short of food and hit by plague and floods, and popes increasingly took on civic responsibilities. Imperial confirmation from Constantinople was still needed before a new pope could be consecrated. Gregory's own letters are the richest record of this world.",
+   "bio_sources": [
+    "S1",
+    "S4",
+    "C64"
+   ],
+   "public_uncertainty": null,
+   "research_status": "verified",
+   "open_questions": []
+  },
+  {
+   "roster_n": [
+    65
+   ],
+   "id": "sabinian",
+   "papal_name": "Sabinian",
+   "display_name": "Sabinian",
+   "alt_names": [
+    "Sabinianus"
+   ],
+   "secular_name": null,
+   "birth_date": null,
+   "birthplace": {
+    "label": "Blera",
+    "country": "Italy",
+    "historical_name": "Blera",
+    "precision": "exact",
+    "lat": 42.2733,
+    "lon": 12.0283,
+    "radius_km": null,
+    "roster_birth_field": "Blera, Tuscia",
+    "note": "Vatican table: Blera nella Tuscia; CE: born at Blera (Bieda) near Viterbo, son of Bonus. Some sources wrongly say Volterra.",
+    "public_note": null,
+    "sources": [
+     "S1",
+     "S2",
+     "C65"
+    ]
+   },
+   "saint": {
+    "status": "none",
+    "recognition": null,
+    "date": null,
+    "feast": null,
+    "note": "Not labelled S. in the Vatican Italian table; not in canonised-popes lists; no Roman Martyrology cult known to me.",
+    "public_note": null,
+    "sources": [
+     "S2",
+     "S6",
+     "C65"
+    ]
+   },
+   "short_bio": "Born at Blera near Viterbo, Sabinian had served as Gregory the Great's envoy in Constantinople. As pope during a famine he sold grain from church stores, which made him unpopular, and later legend treated him harshly.",
+   "long_bio": "Sabinian, son of Bonus, came from Blera in southern Tuscia. Gregory I sent him to Constantinople as envoy in 593, though he did not fully satisfy Gregory there. Consecrated in September 604 after imperial confirmation, he faced a famine and sold grain from church granaries at a set price rather than giving it away, which some contrasted unfavourably with Gregory's generosity. Hostile legends grew after his death in February 606, when his funeral procession reportedly had to avoid angry crowds.",
+   "actions": [
+    "Envoy of Gregory I to Constantinople (593)",
+    "Sold grain from church stores during famine"
+   ],
+   "context": "In the early seventh century Rome remained under nominal Byzantine rule, with the exarch in Ravenna and the Lombards dominating much of Italy. The empire fought Persia and then, from the 630s, the Arab conquests. Missions launched by Gregory the Great were taking root among the Anglo-Saxons.",
+   "bio_sources": [
+    "S1",
+    "C65"
+   ],
+   "public_uncertainty": "Stories of his avarice come from later, hostile tradition.",
+   "research_status": "partial",
+   "open_questions": []
+  },
+  {
+   "roster_n": [
+    66
+   ],
+   "id": "boniface-iii",
+   "papal_name": "Boniface III",
+   "display_name": "Boniface III",
+   "alt_names": [],
+   "secular_name": null,
+   "birth_date": null,
+   "birthplace": {
+    "label": "Rome",
+    "country": "Italy",
+    "historical_name": "Roma",
+    "precision": "exact",
+    "lat": 41.9028,
+    "lon": 12.4964,
+    "radius_km": null,
+    "roster_birth_field": "Rome",
+    "note": "Vatican table: Romano; CE: of Roman extraction, son of John Cataadioce (name suggests Greek family).",
+    "public_note": null,
+    "sources": [
+     "S1",
+     "S2",
+     "C66"
+    ]
+   },
+   "saint": {
+    "status": "none",
+    "recognition": null,
+    "date": null,
+    "feast": null,
+    "note": "Not labelled S. in the Vatican Italian table; not in canonised-popes lists; no Roman Martyrology cult known to me.",
+    "public_note": null,
+    "sources": [
+     "S2",
+     "S6",
+     "C66"
+    ]
+   },
+   "short_bio": "A Roman deacon and Gregory the Great's envoy to Constantinople, Boniface reigned less than nine months in 607. He obtained from Emperor Phocas a decree recognising the see of Peter as head of all the churches.",
+   "long_bio": "Boniface was the son of John Cataadioce, of a Roman family possibly of Greek background. Gregory I sent him to Constantinople in 603. Elected after a vacancy of almost a year, he was consecrated in February 607. He obtained from Emperor Phocas a decree acknowledging the Roman see as head of all churches, against the claims of the Patriarch of Constantinople. A Roman synod under him forbade discussing a pope's successor during his lifetime. He died in November 607.",
+   "actions": [
+    "Obtained Phocas's decree on the primacy of the Roman see",
+    "Banned campaigning for a pope's successor while he lived"
+   ],
+   "context": "In the early seventh century Rome remained under nominal Byzantine rule, with the exarch in Ravenna and the Lombards dominating much of Italy. The empire fought Persia and then, from the 630s, the Arab conquests. Missions launched by Gregory the Great were taking root among the Anglo-Saxons.",
+   "bio_sources": [
+    "S1",
+    "C66"
+   ],
+   "public_uncertainty": null,
+   "research_status": "partial",
+   "open_questions": []
+  },
+  {
+   "roster_n": [
+    67
+   ],
+   "id": "boniface-iv",
+   "papal_name": "Boniface IV",
+   "display_name": "St Boniface IV",
+   "alt_names": [],
+   "secular_name": null,
+   "birth_date": null,
+   "birthplace": {
+    "label": "Marsica",
+    "country": "Italy",
+    "historical_name": "Valeria / territory of the Marsi",
+    "precision": "region",
+    "lat": 42.03,
+    "lon": 13.43,
+    "radius_km": 35,
+    "roster_birth_field": "Marsican territory",
+    "note": "Vatican table: territorio dei Marsi; CE: born in Valeria, Marsian province, son of John, a physician. Tradition names San Benedetto dei Marsi (ancient Marruvium), not verified here. Region centred on the Fucino basin (Abruzzo).",
+    "public_note": "Ancient sources place his origin among the Marsi, in today's Abruzzo, without naming a town.",
+    "sources": [
+     "S1",
+     "S2",
+     "C67"
+    ]
+   },
+   "saint": {
+    "status": "saint",
+    "recognition": "pre_congregation",
+    "date": null,
+    "feast": "8 May",
+    "note": "Labelled S. in Vatican table; in the Roman Martyrology (CE). CE gives 25 May (older); current RM day believed 8 May. Feast given is the Roman Martyrology day as I understand the current (2001/2004) edition; not verified online here. ",
+    "public_note": null,
+    "sources": [
+     "S2",
+     "C67"
+    ]
+   },
+   "short_bio": "From the land of the Marsi in Abruzzo, Boniface IV turned the Pantheon into a church dedicated to Mary and all the martyrs. The Irish monk Columbanus wrote to him frankly about the Three Chapters. He ended his life having turned his house into a monastery.",
+   "long_bio": "Boniface, son of a physician named John, came from the Marsian territory of central Italy and was probably a monk of Gregory I's circle. Consecrated in 608, he obtained permission from Emperor Phocas to convert the Pantheon into the church of Santa Maria ad Martyres, dedicated in 609, one of the first pagan temples in Rome turned into a church. He held a synod on monastic life and corresponded with Mellitus of London. Columbanus wrote him a blunt letter urging action on the Three Chapters schism. He died in 615 and was buried at St Peter's.",
+   "actions": [
+    "Dedicated the Pantheon as a church (609)",
+    "Held a Roman synod on English and monastic affairs (610)",
+    "Turned his house into a monastery"
+   ],
+   "context": "In the early seventh century Rome remained under nominal Byzantine rule, with the exarch in Ravenna and the Lombards dominating much of Italy. The empire fought Persia and then, from the 630s, the Arab conquests. Missions launched by Gregory the Great were taking root among the Anglo-Saxons.",
+   "bio_sources": [
+    "S1",
+    "C67"
+   ],
+   "public_uncertainty": null,
+   "research_status": "partial",
+   "open_questions": []
+  },
+  {
+   "roster_n": [
+    68
+   ],
+   "id": "adeodatus-i",
+   "papal_name": "Deusdedit or Adeodatus I",
+   "display_name": "St Adeodatus I (Deusdedit)",
+   "alt_names": [
+    "Deusdedit",
+    "Adeodatus I"
+   ],
+   "secular_name": null,
+   "birth_date": null,
+   "birthplace": {
+    "label": "Rome",
+    "country": "Italy",
+    "historical_name": "Roma",
+    "precision": "exact",
+    "lat": 41.9028,
+    "lon": 12.4964,
+    "radius_km": null,
+    "roster_birth_field": "Rome",
+    "note": "Vatican table: Romano. CE gives no origin. LP (not checked here) names father Stephen, a subdeacon.",
+    "public_note": null,
+    "sources": [
+     "S1",
+     "S2"
+    ]
+   },
+   "saint": {
+    "status": "saint",
+    "recognition": "pre_congregation",
+    "date": null,
+    "feast": "8 November",
+    "note": "Labelled S. in Vatican table; CE feast 8 November.",
+    "public_note": null,
+    "sources": [
+     "S2",
+     "C68"
+    ]
+   },
+   "short_bio": "A Roman priest, Deusdedit favoured the secular clergy after a period when monks had been prominent. He cared for victims of an earthquake and of an epidemic in Rome. He is the first pope whose lead seal survives.",
+   "long_bio": "Deusdedit, also called Adeodatus, was a Roman who had served as a priest for decades. Elected in 615, he restored positions to the clergy impoverished by the troubles of the time. When an earthquake and then an outbreak of a skin disease, described as leprosy, struck Rome, he personally cared for the sick. A lead seal bearing his name and the Good Shepherd survives, the earliest known papal bulla. He died in November 618 and left a bequest to the clergy.",
+   "actions": [
+    "Supported impoverished Roman clergy",
+    "Cared for the sick after an earthquake and epidemic",
+    "Earliest pope whose lead seal survives"
+   ],
+   "context": "In the early seventh century Rome remained under nominal Byzantine rule, with the exarch in Ravenna and the Lombards dominating much of Italy. The empire fought Persia and then, from the 630s, the Arab conquests. Missions launched by Gregory the Great were taking root among the Anglo-Saxons.",
+   "bio_sources": [
+    "S1",
+    "C68"
+   ],
+   "public_uncertainty": "Like most popes of this era, what we know comes mainly from the Liber Pontificalis, a papal chronicle compiled in the sixth century and later.",
+   "research_status": "partial",
+   "open_questions": [
+    "Choice of id: roster lists 'Deusdedit or Adeodatus I'; id set to adeodatus-i"
+   ]
+  },
+  {
+   "roster_n": [
+    69
+   ],
+   "id": "boniface-v",
+   "papal_name": "Boniface V",
+   "display_name": "Boniface V",
+   "alt_names": [],
+   "secular_name": null,
+   "birth_date": null,
+   "birthplace": {
+    "label": "Naples",
+    "country": "Italy",
+    "historical_name": "Neapolis",
+    "precision": "exact",
+    "lat": 40.8518,
+    "lon": 14.2681,
+    "radius_km": null,
+    "roster_birth_field": "Naples",
+    "note": "Vatican table: Napoli; CE: Neapolitan.",
+    "public_note": null,
+    "sources": [
+     "S1",
+     "S2",
+     "C69"
+    ]
+   },
+   "saint": {
+    "status": "none",
+    "recognition": null,
+    "date": null,
+    "feast": null,
+    "note": "Not labelled S. in the Vatican Italian table; not in canonised-popes lists; no Roman Martyrology cult known to me.",
+    "public_note": null,
+    "sources": [
+     "S2",
+     "S6",
+     "C69"
+    ]
+   },
+   "short_bio": "A Neapolitan, Boniface V legislated on the right of sanctuary in churches and on wills. He encouraged the mission in England, sending the pallium to Justus of Canterbury and writing to King Edwin of Northumbria.",
+   "long_bio": "Boniface came from Naples and was consecrated in December 619 after a long vacancy. He confirmed that churches could give sanctuary to fugitives and required church notaries to follow imperial law on wills. He took a keen interest in the Anglo-Saxon mission, granting the pallium to Archbishop Justus of Canterbury in 624 and writing to King Edwin of Northumbria and his Christian queen Æthelburh to encourage Edwin's conversion. He died in October 625.",
+   "actions": [
+    "Legislated on church sanctuary",
+    "Sent the pallium to Justus of Canterbury (624)",
+    "Wrote to King Edwin of Northumbria urging conversion"
+   ],
+   "context": "In the early seventh century Rome remained under nominal Byzantine rule, with the exarch in Ravenna and the Lombards dominating much of Italy. The empire fought Persia and then, from the 630s, the Arab conquests. Missions launched by Gregory the Great were taking root among the Anglo-Saxons.",
+   "bio_sources": [
+    "S1",
+    "C69"
+   ],
+   "public_uncertainty": null,
+   "research_status": "partial",
+   "open_questions": []
+  },
+  {
+   "roster_n": [
+    70
+   ],
+   "id": "honorius-i",
+   "papal_name": "Honorius I",
+   "display_name": "Honorius I",
+   "alt_names": [],
+   "secular_name": null,
+   "birth_date": null,
+   "birthplace": {
+    "label": "Campania",
+    "country": "Italy",
+    "historical_name": "Campania",
+    "precision": "region",
+    "lat": 40.9,
+    "lon": 14.6,
+    "radius_km": 90,
+    "roster_birth_field": "Campania",
+    "note": "Vatican table: Campania; CE: Campanian. LP (not checked here) names father Petronius, a consul.",
+    "public_note": "Ancient sources say only that he came from Campania.",
+    "sources": [
+     "S1",
+     "S2",
+     "C70"
+    ]
+   },
+   "saint": {
+    "status": "none",
+    "recognition": null,
+    "date": null,
+    "feast": null,
+    "note": "Not a saint: not labelled S. in Vatican table; anathematised by the Third Council of Constantinople (681), confirmed by Leo II, for his letters on Christ's will.",
+    "public_note": null,
+    "sources": [
+     "S2",
+     "C70"
+    ]
+   },
+   "short_bio": "From Campania, Honorius was an able administrator who backed the English and Irish missions. His letter to Patriarch Sergius, speaking of 'one will' in Christ, led a later ecumenical council to condemn him posthumously.",
+   "long_bio": "Honorius, from a noble Campanian family, reigned from 625 to 638. He managed church estates well, restored many Roman churches, including Sant'Agnese fuori le Mura with its apse mosaic, and supported missions in England, sending Birinus to the West Saxons and pallia to the archbishops of Canterbury and York. He urged the southern Irish to adopt the Roman date of Easter. When Patriarch Sergius sought support for a compromise on Christ's activity, Honorius replied in terms that spoke of one will in Christ. In 681 the Third Council of Constantinople condemned him, and Leo II confirmed it for his failing to oppose heresy.",
+   "actions": [
+    "Sent Birinus to the West Saxons",
+    "Sent pallia to Canterbury and York (634)",
+    "Urged Irish churches to adopt the Roman Easter",
+    "Rebuilt Sant'Agnese fuori le Mura",
+    "Wrote to Sergius on 'one will', later condemned (681)"
+   ],
+   "context": "To unite Christians against Persian and Arab threats, Emperor Heraclius and Patriarch Sergius promoted Monoenergism and then Monothelitism, the teaching that Christ has only one will; the Ecthesis (638) imposed it. Rome resisted, and the struggle continued under Constans II, whose Typos (648) banned all discussion. Meanwhile Arab armies took Syria, Jerusalem (638) and Egypt.",
+   "bio_sources": [
+    "S1",
+    "C70"
+   ],
+   "public_uncertainty": null,
+   "research_status": "partial",
+   "open_questions": []
+  },
+  {
+   "roster_n": [
+    71
+   ],
+   "id": "severinus",
+   "papal_name": "Severinus",
+   "display_name": "Severinus",
+   "alt_names": [],
+   "secular_name": null,
+   "birth_date": null,
+   "birthplace": {
+    "label": "Rome",
+    "country": "Italy",
+    "historical_name": "Roma",
+    "precision": "exact",
+    "lat": 41.9028,
+    "lon": 12.4964,
+    "radius_km": null,
+    "roster_birth_field": "Rome",
+    "note": "Vatican table: Romano; CE: Roman, son of Abienus.",
+    "public_note": null,
+    "sources": [
+     "S1",
+     "S2",
+     "C71"
+    ]
+   },
+   "saint": {
+    "status": "none",
+    "recognition": null,
+    "date": null,
+    "feast": null,
+    "note": "Not labelled S. in the Vatican Italian table; not in canonised-popes lists; no Roman Martyrology cult known to me.",
+    "public_note": null,
+    "sources": [
+     "S2",
+     "S6",
+     "C71"
+    ]
+   },
+   "short_bio": "An elderly Roman, Severinus waited nearly twenty months for imperial confirmation because he would not sign the Monothelite Ecthesis. Meanwhile Byzantine officials plundered the Lateran. He reigned only about two months after his consecration.",
+   "long_bio": "Severinus, son of Abienus, was elected in October 638, but Emperor Heraclius withheld confirmation unless he accepted the Ecthesis, the decree imposing belief in one will in Christ. During the delay the exarch Isaac and his men seized the Lateran treasury. Imperial approval finally came and Severinus was consecrated in May 640. He is reported to have rejected Monothelitism, though his short reign gave little time for action. He died in August 640 and was buried at St Peter's.",
+   "actions": [
+    "Refused to sign the Ecthesis",
+    "Endured the plundering of the Lateran by imperial officials"
+   ],
+   "context": "To unite Christians against Persian and Arab threats, Emperor Heraclius and Patriarch Sergius promoted Monoenergism and then Monothelitism, the teaching that Christ has only one will; the Ecthesis (638) imposed it. Rome resisted, and the struggle continued under Constans II, whose Typos (648) banned all discussion. Meanwhile Arab armies took Syria, Jerusalem (638) and Egypt.",
+   "bio_sources": [
+    "S1",
+    "C71"
+   ],
+   "public_uncertainty": null,
+   "research_status": "partial",
+   "open_questions": []
+  },
+  {
+   "roster_n": [
+    72
+   ],
+   "id": "john-iv",
+   "papal_name": "John IV",
+   "display_name": "John IV",
+   "alt_names": [],
+   "secular_name": null,
+   "birth_date": null,
+   "birthplace": {
+    "label": "Dalmatia",
+    "country": "Croatia",
+    "historical_name": "Dalmatia",
+    "precision": "region",
+    "lat": 43.5,
+    "lon": 16.4,
+    "radius_km": 150,
+    "roster_birth_field": "Dalmatia",
+    "note": "Vatican table: Dalmata; CE: native of Dalmatia, son of the scholasticus Venantius. Traditions naming Zadar or Salona are not verified. Region centred near Split (ancient Salona); Dalmatia spans modern Croatia and parts of Bosnia and Montenegro.",
+    "public_note": "Ancient sources say only that he came from Dalmatia.",
+    "sources": [
+     "S1",
+     "S2",
+     "C72"
+    ]
+   },
+   "saint": {
+    "status": "none",
+    "recognition": null,
+    "date": null,
+    "feast": null,
+    "note": "Not labelled S. in the Vatican Italian table; not in canonised-popes lists; no Roman Martyrology cult known to me.",
+    "public_note": null,
+    "sources": [
+     "S2",
+     "S6",
+     "C72"
+    ]
+   },
+   "short_bio": "A Dalmatian archdeacon, John IV condemned Monothelitism and defended Honorius's memory. Grieved by the Slav and Avar devastation of his homeland, he ransomed captives and brought relics of Dalmatian martyrs to Rome.",
+   "long_bio": "John, son of the advocate Venantius, was born in Dalmatia and served as archdeacon of Rome. Consecrated in December 640, he condemned Monothelitism and argued that Honorius had not meant to teach one will. Dalmatia and Istria were being overrun by Avars and Slavs, and he sent the abbot Martin with funds to ransom captives. He brought relics of Dalmatian martyrs, including St Domnius of Salona, to Rome and built an oratory for them beside the Lateran baptistery, where its mosaics survive. He died in October 642.",
+   "actions": [
+    "Condemned Monothelitism",
+    "Ransomed captives in Dalmatia and Istria",
+    "Built the oratory of San Venanzio at the Lateran"
+   ],
+   "context": "To unite Christians against Persian and Arab threats, Emperor Heraclius and Patriarch Sergius promoted Monoenergism and then Monothelitism, the teaching that Christ has only one will; the Ecthesis (638) imposed it. Rome resisted, and the struggle continued under Constans II, whose Typos (648) banned all discussion. Meanwhile Arab armies took Syria, Jerusalem (638) and Egypt.",
+   "bio_sources": [
+    "S1",
+    "C72"
+   ],
+   "public_uncertainty": null,
+   "research_status": "partial",
+   "open_questions": []
+  },
+  {
+   "roster_n": [
+    73
+   ],
+   "id": "theodore-i",
+   "papal_name": "Theodore I",
+   "display_name": "Theodore I",
+   "alt_names": [],
+   "secular_name": null,
+   "birth_date": null,
+   "birthplace": {
+    "label": "Jerusalem",
+    "country": "Israel/Palestine",
+    "historical_name": "Hierosolyma",
+    "precision": "exact",
+    "lat": 31.7683,
+    "lon": 35.2137,
+    "radius_km": null,
+    "roster_birth_field": "Jerusalem",
+    "note": "Vatican table: Gerusalemme; CE: Greek of Jerusalem, son of a bishop named Theodore. Country label left as 'Israel/Palestine' for integrator's neutral convention.",
+    "public_note": null,
+    "sources": [
+     "S1",
+     "S2",
+     "C73"
+    ]
+   },
+   "saint": {
+    "status": "none",
+    "recognition": null,
+    "date": null,
+    "feast": null,
+    "note": "Not labelled S. in the Vatican Italian table; not in canonised-popes lists; no Roman Martyrology cult known to me.",
+    "public_note": null,
+    "sources": [
+     "S2",
+     "S6",
+     "C73"
+    ]
+   },
+   "short_bio": "A Greek from Jerusalem, perhaps a refugee from the Arab conquest, Theodore firmly opposed Monothelitism. He excommunicated Patriarch Paul of Constantinople and received the recantation of the former patriarch Pyrrhus.",
+   "long_bio": "Theodore was a Greek born in Jerusalem, the son of a bishop also named Theodore, and probably came to Rome among clergy fleeing the Arab conquests. Consecrated in November 642, he urged Constans II to withdraw the Ecthesis and refused to recognise Patriarch Paul without a proper deposition of Pyrrhus. Pyrrhus came to Rome and recanted in 645, then relapsed and was condemned in 648. Theodore deposed Paul in 649 for upholding one will. He died in May 649, before the Lateran synod he had prepared.",
+   "actions": [
+    "Opposed the Ecthesis and Monothelitism",
+    "Received and later condemned Pyrrhus (645-648)",
+    "Excommunicated Patriarch Paul II of Constantinople (649)"
+   ],
+   "context": "To unite Christians against Persian and Arab threats, Emperor Heraclius and Patriarch Sergius promoted Monoenergism and then Monothelitism, the teaching that Christ has only one will; the Ecthesis (638) imposed it. Rome resisted, and the struggle continued under Constans II, whose Typos (648) banned all discussion. Meanwhile Arab armies took Syria, Jerusalem (638) and Egypt.",
+   "bio_sources": [
+    "S1",
+    "C73"
+   ],
+   "public_uncertainty": null,
+   "research_status": "partial",
+   "open_questions": []
+  },
+  {
+   "roster_n": [
+    74
+   ],
+   "id": "martin-i",
+   "papal_name": "Martin I",
+   "display_name": "St Martin I",
+   "alt_names": [],
+   "secular_name": null,
+   "birth_date": null,
+   "birthplace": {
+    "label": "Todi",
+    "country": "Italy",
+    "historical_name": "Tuder",
+    "precision": "exact",
+    "lat": 42.781,
+    "lon": 12.406,
+    "radius_km": null,
+    "roster_birth_field": "Todi",
+    "note": "Vatican table: Todi, Martire; CE: born at Todi, son of Fabricius.",
+    "public_note": null,
+    "sources": [
+     "S1",
+     "S2",
+     "C74"
+    ]
+   },
+   "saint": {
+    "status": "saint",
+    "recognition": "pre_congregation",
+    "date": null,
+    "feast": "13 April",
+    "note": "Martyr. General Roman Calendar optional memorial 13 April (since 1969; formerly 12 November per CE). Greek feasts 13 April/15 September. Died 16 September 655 at Cherson.",
+    "public_note": null,
+    "sources": [
+     "S2",
+     "C74"
+    ]
+   },
+   "short_bio": "Born at Todi in Umbria, Martin held the Lateran Synod of 649 that condemned Monothelitism. Arrested by imperial troops, he was tried in Constantinople and exiled to Crimea, where he died in 655. He is the last pope venerated as a martyr.",
+   "long_bio": "Martin, son of Fabricius, came from Todi and had been papal envoy in Constantinople. Elected in 649 and consecrated without waiting for imperial approval, he at once held a large synod at the Lateran that condemned Monothelitism and both the Ecthesis and the Typos. Emperor Constans II ordered his arrest; in June 653 the exarch Theodore Calliopas seized him in the Lateran. In Constantinople he was tried for treason, publicly humiliated and condemned, then exiled to Cherson in Crimea. Suffering hunger and illness, he died there on 16 September 655.",
+   "actions": [
+    "Held the Lateran Synod of 649 against Monothelitism",
+    "Arrested in Rome by imperial forces (653)",
+    "Tried in Constantinople and exiled to Cherson",
+    "Died in exile, honoured as a martyr (655)"
+   ],
+   "context": "To unite Christians against Persian and Arab threats, Emperor Heraclius and Patriarch Sergius promoted Monoenergism and then Monothelitism, the teaching that Christ has only one will; the Ecthesis (638) imposed it. Rome resisted, and the struggle continued under Constans II, whose Typos (648) banned all discussion. Meanwhile Arab armies took Syria, Jerusalem (638) and Egypt.",
+   "bio_sources": [
+    "S1",
+    "C74"
+   ],
+   "public_uncertainty": null,
+   "research_status": "verified",
+   "open_questions": []
+  },
+  {
+   "roster_n": [
+    75
+   ],
+   "id": "eugene-i",
+   "papal_name": "Eugene I",
+   "display_name": "St Eugene I",
+   "alt_names": [
+    "Eugenius I"
+   ],
+   "secular_name": null,
+   "birth_date": null,
+   "birthplace": {
+    "label": "Rome",
+    "country": "Italy",
+    "historical_name": "Roma",
+    "precision": "exact",
+    "lat": 41.9028,
+    "lon": 12.4964,
+    "radius_km": null,
+    "roster_birth_field": "Rome",
+    "note": "Vatican table: Romano; CE: Roman of the first ecclesiastical region, son of Rufinianus.",
+    "public_note": null,
+    "sources": [
+     "S1",
+     "S2",
+     "C75"
+    ]
+   },
+   "saint": {
+    "status": "saint",
+    "recognition": "pre_congregation",
+    "date": null,
+    "feast": "2 June",
+    "note": "Labelled S. in Vatican table; CE: in the Roman Martyrology; death day 2 June.",
+    "public_note": null,
+    "sources": [
+     "S2",
+     "C75",
+     "S6"
+    ]
+   },
+   "short_bio": "A Roman cleric, Eugene was elected in 654 while Martin I was still alive in exile. When a vague Monothelite-leaning letter came from Constantinople, the Roman clergy and people rejected it, and he refused to accept it.",
+   "long_bio": "Eugene, son of Rufinianus, was a Roman who had long served in the clergy. He was elected in August 654 under imperial pressure while Martin I was in exile; Martin seems to have accepted the arrangement. Eugene sent legates to Constans II, who returned with an ambiguous letter from Patriarch Peter. In St Mary Major the clergy and people refused to let the pope proceed until he promised to reject it. He died in June 657 and was buried at St Peter's.",
+   "actions": [
+    "Elected while Martin I was in exile (654)",
+    "Refused the ambiguous letter of Patriarch Peter"
+   ],
+   "context": "To unite Christians against Persian and Arab threats, Emperor Heraclius and Patriarch Sergius promoted Monoenergism and then Monothelitism, the teaching that Christ has only one will; the Ecthesis (638) imposed it. Rome resisted, and the struggle continued under Constans II, whose Typos (648) banned all discussion. Meanwhile Arab armies took Syria, Jerusalem (638) and Egypt.",
+   "bio_sources": [
+    "S1",
+    "C75"
+   ],
+   "public_uncertainty": "His election during Martin I's lifetime is why the roster dates overlap.",
+   "research_status": "partial",
+   "open_questions": []
+  },
+  {
+   "roster_n": [
+    76
+   ],
+   "id": "vitalian",
+   "papal_name": "Vitalian",
+   "display_name": "St Vitalian",
+   "alt_names": [
+    "Vitalianus"
+   ],
+   "secular_name": null,
+   "birth_date": null,
+   "birthplace": {
+    "label": "Segni",
+    "country": "Italy",
+    "historical_name": "Signia",
+    "precision": "exact",
+    "lat": 41.6906,
+    "lon": 13.0225,
+    "radius_km": null,
+    "roster_birth_field": "Segni",
+    "note": "Vatican table: Segni; CE/LP: born at Segni in Campagna, son of Anastasius.",
+    "public_note": null,
+    "sources": [
+     "S1",
+     "S2",
+     "C76"
+    ]
+   },
+   "saint": {
+    "status": "saint",
+    "recognition": "pre_congregation",
+    "date": null,
+    "feast": "27 January",
+    "note": "Labelled S. in Vatican table. Feast given is the Roman Martyrology day as I understand the current (2001/2004) edition; not verified online here. ",
+    "public_note": null,
+    "sources": [
+     "S2",
+     "C76",
+     "S6"
+    ]
+   },
+   "short_bio": "Born at Segni in Lazio, Vitalian kept peace with Constantinople while avoiding Monothelitism. He received Emperor Constans II in Rome in 663, and sent Theodore of Tarsus to England as archbishop of Canterbury.",
+   "long_bio": "Vitalian, son of Anastasius, came from Segni. Consecrated in 657, he sought good relations with Emperor Constans II without accepting Monothelitism, and when the emperor visited Rome in 663, the last emperor to do so for centuries, Vitalian received him with honour, though Constans stripped bronze from the city's monuments. The emperor supported Archbishop Maurus of Ravenna's bid for independence from Rome. Vitalian took a decisive step for England, consecrating Theodore of Tarsus as archbishop of Canterbury in 668 and sending him with Abbot Hadrian. He died in January 672.",
+   "actions": [
+    "Received Constans II in Rome (663)",
+    "Consecrated Theodore of Tarsus for Canterbury (668)",
+    "Resisted Ravenna's claim to independence"
+   ],
+   "context": "To unite Christians against Persian and Arab threats, Emperor Heraclius and Patriarch Sergius promoted Monoenergism and then Monothelitism, the teaching that Christ has only one will; the Ecthesis (638) imposed it. Rome resisted, and the struggle continued under Constans II, whose Typos (648) banned all discussion. Meanwhile Arab armies took Syria, Jerusalem (638) and Egypt. Constans II moved west, campaigning in Italy and residing at Syracuse until his murder in 668.",
+   "bio_sources": [
+    "S1",
+    "C76"
+   ],
+   "public_uncertainty": null,
+   "research_status": "partial",
+   "open_questions": []
+  }
+ ],
+ "sources": [
+  {
+   "id": "S1",
+   "title": "The Holy Father: Supreme Pontiffs (list of popes)",
+   "url": "https://www.vatican.va/content/vatican/en/holy-father.html",
+   "publisher": "Holy See (vatican.va)",
+   "tier": "vatican",
+   "locator": "roster entry for the pope concerned",
+   "accessed": "2026-10-10"
+  },
+  {
+   "id": "S2",
+   "title": "Elenco dei Sommi Pontefici",
+   "url": "https://www.vatican.va/holy_father/archivio_papi/documents/elencopapi_it.html",
+   "publisher": "Holy See (vatican.va)",
+   "tier": "vatican",
+   "locator": "entry for the pope concerned (origin and S./B. label)",
+   "accessed": "2026-10-10"
+  },
+  {
+   "id": "S3",
+   "title": "Benedict XVI, General Audience, 5 March 2008: Saint Leo the Great",
+   "url": "https://www.vatican.va/content/benedict-xvi/en/audiences/2008/documents/hf_ben-xvi_aud_20080305.html",
+   "publisher": "Holy See (vatican.va)",
+   "tier": "vatican",
+   "locator": "whole audience",
+   "accessed": "2026-10-10"
+  },
+  {
+   "id": "S4",
+   "title": "Benedict XVI, General Audience, 28 May 2008: Saint Gregory the Great (1)",
+   "url": "https://www.vatican.va/content/benedict-xvi/en/audiences/2008/documents/hf_ben-xvi_aud_20080528.html",
+   "publisher": "Holy See (vatican.va)",
+   "tier": "vatican",
+   "locator": "whole audience",
+   "accessed": "2026-10-10"
+  },
+  {
+   "id": "S6",
+   "title": "List of canonised popes",
+   "url": "https://en.wikipedia.org/wiki/List_of_canonised_popes",
+   "publisher": "Wikipedia",
+   "tier": "supplementary",
+   "locator": "5th-7th century entries",
+   "accessed": "2026-10-10"
+  },
+  {
+   "id": "C39",
+   "title": "Pope St. Anastasius I (Catholic Encyclopedia)",
+   "url": "https://www.newadvent.org/cathen/01454c.htm",
+   "publisher": "Robert Appleton Company / New Advent",
+   "tier": "local_ecclesiastical_approval",
+   "locator": "whole article (draws on the Liber Pontificalis)",
+   "accessed": "2026-10-10"
+  },
+  {
+   "id": "C40",
+   "title": "Pope St. Innocent I (Catholic Encyclopedia)",
+   "url": "https://www.newadvent.org/cathen/08011a.htm",
+   "publisher": "Robert Appleton Company / New Advent",
+   "tier": "local_ecclesiastical_approval",
+   "locator": "whole article (draws on the Liber Pontificalis)",
+   "accessed": "2026-10-10"
+  },
+  {
+   "id": "C41",
+   "title": "Pope St. Zosimus (Catholic Encyclopedia)",
+   "url": "https://www.newadvent.org/cathen/15764c.htm",
+   "publisher": "Robert Appleton Company / New Advent",
+   "tier": "local_ecclesiastical_approval",
+   "locator": "whole article (draws on the Liber Pontificalis)",
+   "accessed": "2026-10-10"
+  },
+  {
+   "id": "C42",
+   "title": "Pope St. Boniface I (Catholic Encyclopedia)",
+   "url": "https://www.newadvent.org/cathen/02658a.htm",
+   "publisher": "Robert Appleton Company / New Advent",
+   "tier": "local_ecclesiastical_approval",
+   "locator": "whole article (draws on the Liber Pontificalis)",
+   "accessed": "2026-10-10"
+  },
+  {
+   "id": "C43",
+   "title": "Pope St. Celestine I (Catholic Encyclopedia)",
+   "url": "https://www.newadvent.org/cathen/03477c.htm",
+   "publisher": "Robert Appleton Company / New Advent",
+   "tier": "local_ecclesiastical_approval",
+   "locator": "whole article (draws on the Liber Pontificalis)",
+   "accessed": "2026-10-10"
+  },
+  {
+   "id": "C44",
+   "title": "Pope St. Sixtus III (Catholic Encyclopedia)",
+   "url": "https://www.newadvent.org/cathen/14032a.htm",
+   "publisher": "Robert Appleton Company / New Advent",
+   "tier": "local_ecclesiastical_approval",
+   "locator": "whole article (draws on the Liber Pontificalis)",
+   "accessed": "2026-10-10"
+  },
+  {
+   "id": "C45",
+   "title": "Pope St. Leo I (the Great) (Catholic Encyclopedia)",
+   "url": "https://www.newadvent.org/cathen/09154b.htm",
+   "publisher": "Robert Appleton Company / New Advent",
+   "tier": "local_ecclesiastical_approval",
+   "locator": "whole article (draws on the Liber Pontificalis)",
+   "accessed": "2026-10-10"
+  },
+  {
+   "id": "C46",
+   "title": "Pope St. Hilarius (Catholic Encyclopedia)",
+   "url": "https://www.newadvent.org/cathen/07348b.htm",
+   "publisher": "Robert Appleton Company / New Advent",
+   "tier": "local_ecclesiastical_approval",
+   "locator": "whole article (draws on the Liber Pontificalis)",
+   "accessed": "2026-10-10"
+  },
+  {
+   "id": "C47",
+   "title": "Pope St. Simplicius (Catholic Encyclopedia)",
+   "url": "https://www.newadvent.org/cathen/14002a.htm",
+   "publisher": "Robert Appleton Company / New Advent",
+   "tier": "local_ecclesiastical_approval",
+   "locator": "whole article (draws on the Liber Pontificalis)",
+   "accessed": "2026-10-10"
+  },
+  {
+   "id": "C48",
+   "title": "Pope St. Felix III (II) (Catholic Encyclopedia)",
+   "url": "https://www.newadvent.org/cathen/06030b.htm",
+   "publisher": "Robert Appleton Company / New Advent",
+   "tier": "local_ecclesiastical_approval",
+   "locator": "whole article (draws on the Liber Pontificalis)",
+   "accessed": "2026-10-10"
+  },
+  {
+   "id": "C49",
+   "title": "Pope St. Gelasius I (Catholic Encyclopedia)",
+   "url": "https://www.newadvent.org/cathen/06406a.htm",
+   "publisher": "Robert Appleton Company / New Advent",
+   "tier": "local_ecclesiastical_approval",
+   "locator": "whole article (draws on the Liber Pontificalis)",
+   "accessed": "2026-10-10"
+  },
+  {
+   "id": "C50",
+   "title": "Pope Anastasius II (Catholic Encyclopedia)",
+   "url": "https://www.newadvent.org/cathen/01454d.htm",
+   "publisher": "Robert Appleton Company / New Advent",
+   "tier": "local_ecclesiastical_approval",
+   "locator": "whole article (draws on the Liber Pontificalis)",
+   "accessed": "2026-10-10"
+  },
+  {
+   "id": "C51",
+   "title": "Pope St. Symmachus (Catholic Encyclopedia)",
+   "url": "https://www.newadvent.org/cathen/14377a.htm",
+   "publisher": "Robert Appleton Company / New Advent",
+   "tier": "local_ecclesiastical_approval",
+   "locator": "whole article (draws on the Liber Pontificalis)",
+   "accessed": "2026-10-10"
+  },
+  {
+   "id": "C52",
+   "title": "Pope St. Hormisdas (Catholic Encyclopedia)",
+   "url": "https://www.newadvent.org/cathen/07470a.htm",
+   "publisher": "Robert Appleton Company / New Advent",
+   "tier": "local_ecclesiastical_approval",
+   "locator": "whole article (draws on the Liber Pontificalis)",
+   "accessed": "2026-10-10"
+  },
+  {
+   "id": "C53",
+   "title": "Pope St. John I (Catholic Encyclopedia)",
+   "url": "https://www.newadvent.org/cathen/08421a.htm",
+   "publisher": "Robert Appleton Company / New Advent",
+   "tier": "local_ecclesiastical_approval",
+   "locator": "whole article (draws on the Liber Pontificalis)",
+   "accessed": "2026-10-10"
+  },
+  {
+   "id": "C54",
+   "title": "Pope St. Felix IV (III) (Catholic Encyclopedia)",
+   "url": "https://www.newadvent.org/cathen/06031a.htm",
+   "publisher": "Robert Appleton Company / New Advent",
+   "tier": "local_ecclesiastical_approval",
+   "locator": "whole article (draws on the Liber Pontificalis)",
+   "accessed": "2026-10-10"
+  },
+  {
+   "id": "C55",
+   "title": "Pope Boniface II (Catholic Encyclopedia)",
+   "url": "https://www.newadvent.org/cathen/02660a.htm",
+   "publisher": "Robert Appleton Company / New Advent",
+   "tier": "local_ecclesiastical_approval",
+   "locator": "whole article (draws on the Liber Pontificalis)",
+   "accessed": "2026-10-10"
+  },
+  {
+   "id": "C56",
+   "title": "Pope John II (Catholic Encyclopedia)",
+   "url": "https://www.newadvent.org/cathen/08421b.htm",
+   "publisher": "Robert Appleton Company / New Advent",
+   "tier": "local_ecclesiastical_approval",
+   "locator": "whole article (draws on the Liber Pontificalis)",
+   "accessed": "2026-10-10"
+  },
+  {
+   "id": "C57",
+   "title": "Pope St. Agapetus I (Catholic Encyclopedia)",
+   "url": "https://www.newadvent.org/cathen/01202c.htm",
+   "publisher": "Robert Appleton Company / New Advent",
+   "tier": "local_ecclesiastical_approval",
+   "locator": "whole article (draws on the Liber Pontificalis)",
+   "accessed": "2026-10-10"
+  },
+  {
+   "id": "C58",
+   "title": "Pope St. Silverius (Catholic Encyclopedia)",
+   "url": "https://www.newadvent.org/cathen/13793a.htm",
+   "publisher": "Robert Appleton Company / New Advent",
+   "tier": "local_ecclesiastical_approval",
+   "locator": "whole article (draws on the Liber Pontificalis)",
+   "accessed": "2026-10-10"
+  },
+  {
+   "id": "C59",
+   "title": "Pope Vigilius (Catholic Encyclopedia)",
+   "url": "https://www.newadvent.org/cathen/15427b.htm",
+   "publisher": "Robert Appleton Company / New Advent",
+   "tier": "local_ecclesiastical_approval",
+   "locator": "whole article (draws on the Liber Pontificalis)",
+   "accessed": "2026-10-10"
+  },
+  {
+   "id": "C60",
+   "title": "Pope Pelagius I (Catholic Encyclopedia)",
+   "url": "https://www.newadvent.org/cathen/11602a.htm",
+   "publisher": "Robert Appleton Company / New Advent",
+   "tier": "local_ecclesiastical_approval",
+   "locator": "whole article (draws on the Liber Pontificalis)",
+   "accessed": "2026-10-10"
+  },
+  {
+   "id": "C61",
+   "title": "Pope John III (Catholic Encyclopedia)",
+   "url": "https://www.newadvent.org/cathen/08422a.htm",
+   "publisher": "Robert Appleton Company / New Advent",
+   "tier": "local_ecclesiastical_approval",
+   "locator": "whole article (draws on the Liber Pontificalis)",
+   "accessed": "2026-10-10"
+  },
+  {
+   "id": "C62",
+   "title": "Pope Benedict I (Catholic Encyclopedia)",
+   "url": "https://www.newadvent.org/cathen/02427c.htm",
+   "publisher": "Robert Appleton Company / New Advent",
+   "tier": "local_ecclesiastical_approval",
+   "locator": "whole article (draws on the Liber Pontificalis)",
+   "accessed": "2026-10-10"
+  },
+  {
+   "id": "C63",
+   "title": "Pope Pelagius II (Catholic Encyclopedia)",
+   "url": "https://www.newadvent.org/cathen/11603a.htm",
+   "publisher": "Robert Appleton Company / New Advent",
+   "tier": "local_ecclesiastical_approval",
+   "locator": "whole article (draws on the Liber Pontificalis)",
+   "accessed": "2026-10-10"
+  },
+  {
+   "id": "C64",
+   "title": "Pope St. Gregory I (the Great) (Catholic Encyclopedia)",
+   "url": "https://www.newadvent.org/cathen/06780a.htm",
+   "publisher": "Robert Appleton Company / New Advent",
+   "tier": "local_ecclesiastical_approval",
+   "locator": "whole article (draws on the Liber Pontificalis)",
+   "accessed": "2026-10-10"
+  },
+  {
+   "id": "C65",
+   "title": "Pope Sabinian (Catholic Encyclopedia)",
+   "url": "https://www.newadvent.org/cathen/13291a.htm",
+   "publisher": "Robert Appleton Company / New Advent",
+   "tier": "local_ecclesiastical_approval",
+   "locator": "whole article (draws on the Liber Pontificalis)",
+   "accessed": "2026-10-10"
+  },
+  {
+   "id": "C66",
+   "title": "Pope Boniface III (Catholic Encyclopedia)",
+   "url": "https://www.newadvent.org/cathen/02660b.htm",
+   "publisher": "Robert Appleton Company / New Advent",
+   "tier": "local_ecclesiastical_approval",
+   "locator": "whole article (draws on the Liber Pontificalis)",
+   "accessed": "2026-10-10"
+  },
+  {
+   "id": "C67",
+   "title": "Pope St. Boniface IV (Catholic Encyclopedia)",
+   "url": "https://www.newadvent.org/cathen/02660c.htm",
+   "publisher": "Robert Appleton Company / New Advent",
+   "tier": "local_ecclesiastical_approval",
+   "locator": "whole article (draws on the Liber Pontificalis)",
+   "accessed": "2026-10-10"
+  },
+  {
+   "id": "C68",
+   "title": "Pope St. Deusdedit (Adeodatus I) (Catholic Encyclopedia)",
+   "url": "https://www.newadvent.org/cathen/04760a.htm",
+   "publisher": "Robert Appleton Company / New Advent",
+   "tier": "local_ecclesiastical_approval",
+   "locator": "whole article (draws on the Liber Pontificalis)",
+   "accessed": "2026-10-10"
+  },
+  {
+   "id": "C69",
+   "title": "Pope Boniface V (Catholic Encyclopedia)",
+   "url": "https://www.newadvent.org/cathen/02661a.htm",
+   "publisher": "Robert Appleton Company / New Advent",
+   "tier": "local_ecclesiastical_approval",
+   "locator": "whole article (draws on the Liber Pontificalis)",
+   "accessed": "2026-10-10"
+  },
+  {
+   "id": "C70",
+   "title": "Pope Honorius I (Catholic Encyclopedia)",
+   "url": "https://www.newadvent.org/cathen/07452b.htm",
+   "publisher": "Robert Appleton Company / New Advent",
+   "tier": "local_ecclesiastical_approval",
+   "locator": "whole article (draws on the Liber Pontificalis)",
+   "accessed": "2026-10-10"
+  },
+  {
+   "id": "C71",
+   "title": "Pope Severinus (Catholic Encyclopedia)",
+   "url": "https://www.newadvent.org/cathen/13742c.htm",
+   "publisher": "Robert Appleton Company / New Advent",
+   "tier": "local_ecclesiastical_approval",
+   "locator": "whole article (draws on the Liber Pontificalis)",
+   "accessed": "2026-10-10"
+  },
+  {
+   "id": "C72",
+   "title": "Pope John IV (Catholic Encyclopedia)",
+   "url": "https://www.newadvent.org/cathen/08422b.htm",
+   "publisher": "Robert Appleton Company / New Advent",
+   "tier": "local_ecclesiastical_approval",
+   "locator": "whole article (draws on the Liber Pontificalis)",
+   "accessed": "2026-10-10"
+  },
+  {
+   "id": "C73",
+   "title": "Pope Theodore I (Catholic Encyclopedia)",
+   "url": "https://www.newadvent.org/cathen/14570a.htm",
+   "publisher": "Robert Appleton Company / New Advent",
+   "tier": "local_ecclesiastical_approval",
+   "locator": "whole article (draws on the Liber Pontificalis)",
+   "accessed": "2026-10-10"
+  },
+  {
+   "id": "C74",
+   "title": "Pope St. Martin I (Catholic Encyclopedia)",
+   "url": "https://www.newadvent.org/cathen/09723c.htm",
+   "publisher": "Robert Appleton Company / New Advent",
+   "tier": "local_ecclesiastical_approval",
+   "locator": "whole article (draws on the Liber Pontificalis)",
+   "accessed": "2026-10-10"
+  },
+  {
+   "id": "C75",
+   "title": "Pope St. Eugene I (Catholic Encyclopedia)",
+   "url": "https://www.newadvent.org/cathen/05598a.htm",
+   "publisher": "Robert Appleton Company / New Advent",
+   "tier": "local_ecclesiastical_approval",
+   "locator": "whole article (draws on the Liber Pontificalis)",
+   "accessed": "2026-10-10"
+  },
+  {
+   "id": "C76",
+   "title": "Pope St. Vitalian (Catholic Encyclopedia)",
+   "url": "https://www.newadvent.org/cathen/15484b.htm",
+   "publisher": "Robert Appleton Company / New Advent",
+   "tier": "local_ecclesiastical_approval",
+   "locator": "whole article (draws on the Liber Pontificalis)",
+   "accessed": "2026-10-10"
+  }
+ ],
+ "notes": "Rows 39-76 complete (38 people, one row each). Saints: 23 (all pre_congregation); none: 15 (Anastasius II, Boniface II, John II, Vigilius, Pelagius I, John III, Benedict I, Pelagius II, Sabinian, Boniface III, Boniface V, Honorius I, Severinus, John IV, Theodore I), consistent with S./no-S. labels in the Vatican Italian table. Feast days: for Leo I (10 Nov), Gregory I (3 Sep), John I (18 May), Martin I (13 Apr) these are General Roman Calendar days; for the rest the feast is the Roman Martyrology day per my knowledge of the 2001/2004 edition and was NOT verified online; Catholic Encyclopedia (1911) often gives older dates, noted in saint.note. Conflicts with roster birth field: Gelasius I (roster 'Africa'; I chose Rome because of his own 'Romanus natus', flagged); Celestine I (Vatican Campania vs CE Roman; kept Campania); Hormisdas (English roster blank; Italian table and CE give Frosinone); Silverius (Frosinone per Vatican, LP only 'Campanian'). Region-only: Zosimus (Greece), Celestine I and Honorius I (Campania), Leo I and John I (Tuscia), Hilarius and Symmachus (Sardinia), Felix IV (Samnium), Boniface IV (Marsica), John IV (Dalmatia). Theodore I country given as 'Israel/Palestine' for integrator to normalise. Most CE 'father' details derive from the Liber Pontificalis. The Wikipedia list (S6) omitted Innocent I and Zosimus in its fetch summary, but both are S. in the Vatican table."
+}
