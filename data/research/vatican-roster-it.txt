@@ -1,0 +1,278 @@
+L0:  |
+L1: 【0†SANTO PADRE】 【1†CURIA ROMANA】 SERVIZI
+L2: INFORMAZIONE 【2†CITTA' DEL VATICANO】 【3†ANNO LITURGICO】
+L3: 【4†CELEBRAZIONI LITURGICHE】 【5†Image: Back】 【6†Image: Top】
+L4:
+L5: * * *
+L6:   NOME PONTIFICALE DA FINO A NOME SECOLARE LUOGO DI NASCITA
+L7: 1 S. Pietro   64 o 67   Bethsaida in Galilea
+L8: 2 S. Lino 68 79   Tuscia
+L9: 3 S. Anacleto o Cleto 80 92   Romano
+L10: 4 S. Clemente 92 99   Romano
+L11: 5 S. Evaristo 99 o 96 108   Greco
+L12: 6 S. Alessandro I 108 o 109 116 o 119   Romano
+L13: 7 S. Sisto I 117 o 119  126 o 128    Romano
+L14: 8 S. Telesforo 127 o 128 137 o 138   Greco
+L15: 9 S. Igino 138 142 o 149   Greco
+L16: 10 S. Pio  I 142 o 146 157 o 161   Aquileia
+L17: 11 S. Aniceto 150 o 157 153 o 168   Emesa (Siria)
+L18: 12 S. Sotero 162 o 168 170 o 177   Fondi (Campania)
+L19: 13 S. Eleuterio 171 o 177 185 o 193   Nicopoli (Epiro)
+L20: 14 S. Vittore  I 186 o 189 197 o 201   Africano
+L21: 15 S. Zefirino 198 217 o 218   Romano
+L22: 16 S. Callisto I 218 222   Romano
+L23: 17 S. Urbano I 222 230   Romano
+L24: 18 S. Ponziano 21.VII.230 28.IX.235   Romano
+L25: 19 S. Antero 21.XI.235 3.I.236   Greco
+L26: 20 S. Fabiano ... 236 20.I.250   Romano
+L27: 21 S. Cornelio 6 o 13.III.251 ...VI.253   Romano
+L28: 22 S. Lucio I ... VI o VII. 253 5.III.254   Romano
+L29: 23 S. Stefano I 12.III.254 2.VIII.257   Romano
+L30: 24 S. Sisto II 30.VIII.257 6.VIII.258   Greco
+L31: 25 S. Dionisio 22.VII.259 26.XII.268   patria ignota
+L32: 26 S. Felice I 5.I.269 30.XII.274   Romano
+L33: 27 S. Eutichiano 4.I.275 7.XII.283   Luni
+L34: 28 S. Gaio 17.XII.283 22.IV.296   Dalmata
+L35: 29 S. Marcellino 30.VI.296 25.X.304   Romano
+L36: 30 S. Marcello I 306 16.I.309   Romano
+L37: 31 S. Eusebio 18.IV.309 17.VIII.309   Greco
+L38: 32 S. Milziade o Melchiade 2.VII.311 10.I.314   Africano
+L39: 33 S. Silvestro I 31.I.314 31.XII.335   Romano
+L40: 34 S. Marco 18.I.336 7.X.336   Romano
+L41: 35 S. Giulio  I 6.II.337 12.IV.352   Romano
+L42: 36 Liberio 17.V.352 24.IX.366   Romano
+L43: 37 S. Damaso I 1.X.366 11.XII.384   Romano
+L44: 38 S. Siricio 15 o 22 o 29.XII.384 26.XI.399   Romano
+L45: 39 S. Anastasio I 27.XI.399 19.XII.401   Romano
+L46: 40 S. Innocenzo I 22.XII.401 12.III.417   Albano
+L47: 41 S. Zosimo 18.III.417 26.XII.418   Greco
+L48: 42 S. Bonifacio I 28,29.XII.418 4.IX.422   Romano
+L49: 43 S. Celestino I 10.IX.422 27.VII.432   Campania
+L50: 44 S. Sisto III 31.VII.432 19.VIII.440   Romano
+L51: 45 S. Leone I,  Magno 29.IX.440 10.XI.461   Tuscia
+L52: 46 S. Ilario 19.XI.461 29.II.468   Sardo
+L53: 47 S. Simplicio 3.III.468 10.III.483   Tivoli
+L54: 48 S. Felice III 13.III.483 25.II o 1.III.492   Romano
+L55: 49 S. Gelasio I 1.III.492 21.XI.496   Africano
+L56: 50  Anastasio II 24.XI.496 19.XI.498   Romano
+L57: 51 S. Simmaco 22.XI.498 19.VII.514   Sardo
+L58: 52 S. Ormisda 20.VII.514 6.VIII.523   Frosinone
+L59: 53 S. Giovanni I 13.VIII.523 18.V.526   Tuscia
+L60: 54 S. Felice IV 12.VII.526 20 o 22.IX.530   Sannio
+L61: 55 Bonifacio II 20 o 22.IX.530 17.X.532   Romano
+L62: 56 Giovanni II 31.XII.532,2.I.533 8.V.535 Mercurio Romano
+L63: 57 S. Agapito I 13.V.535 22.IV.536   Romano
+L64: 58 S. Silverio 8.VI.536 ... 537   Frosinone
+L65: 59 Vigilio 29.III.537 7.VI.555   Romano
+L66: 60 Pelagio I 16.IV.556 4.III.561   Romano
+L67: 61 Giovanni III 17.VII.561 13.VII.574 Catalino Romano
+L68: 62 Benedetto I 2.VI.575 30.VII.579   Romano
+L69: 63 Pelagio II 26.XI.579 7.II.590   Romano
+L70: 64 S. Gregorio I 3.IX.590 12.III.604   Romano
+L71: 65 Sabiniano ... III, 13.IX.604 22.II.606   Blera nella Tuscia
+L72: 66 Bonifacio III 19.II.607 10.XI.607   Romano
+L73: 67 S. Bonifacio IV 25.VIII.608 8.V.615   territorio dei Marsi
+L74: 68 S. Deusdedit o  Adeodato I 19.X.615 8.XI.618   Romano
+L75: 69 Bonifacio V 23.XII.619 23.X.625   Napoli
+L76: 70 Onorio I 27.X.625 12.X.638   Campania
+L77: 71 Severino ... X.638,28.V.640 2.VIII.640   Romano
+L78: 72 Giovanni IV ...VIII, 24.XII.640 12.X.642   Dalmata
+L79: 73 Teodoro I 12.X,24.XI.642 14.V.649   Gerusalemme
+L80: 74 S. Martino I 5.VII.649 16.IX.655   Todi, Martire
+L81: 75 S. Eugenio I 10.VIII.654 2.VI.657   Romano
+L82: 76 S. Vitaliano 30.VII.657 27.I.672   Segni
+L83: 77 Adeodato II 11.IV.672 16.VI.676   Romano
+L84: 78 Dono 2.XI.676 11.IV.678   Romano
+L85: 79 S. Agatone 27.VI.678 10.I.681   Siciliano
+L86: 80 S. Leone II ... I.681,17.VIII.682 3.VII.683   Siciliano
+L87: 81 S. Benedetto II 26.VI.684 8.V.685   Romano
+L88: 82 Giovanni V 23.VII.685 2.VIII.686   Siro
+L89: 83 Conone 23.X.686 21.IX.687   patria ignota
+L90: 84 San Sergio I 15.XII.687 7.IX.701   Siro
+L91: 85 Giovanni VI 30.X.701 11.I.705   Greco
+L92: 86 Giovanni VII 1.III.705 18.X.707   Greco
+L93: 87 Sisinnio 15.I.708 4.II.708   Siro
+L94: 88 Costantino 25.III.708 9.IV.715   Siro
+L95: 89 S. Gregorio II 19.V.715 11.II.731   Romano
+L96: 90 S. Gregorio III 18.III.731 28.XI.741   Siro
+L97: 91 S. Zaccaria 3.XII.741 15.III.752   Greco
+L98: 92 Stefano II 26.III.752 26.IV.757   Romano
+L99: 93 S. Paolo I ... IV,29.V.757 28.VI.767   Romano
+L100: 94 Stefano III 1,7.VIII.768 24.I.772   Siciliano
+L101: 95 Adriano I 1,9.II.772 25.XII.795   Romano
+L102: 96 S. Leone III 26,27.XII.795 12.VI.816   Romano
+L103: 97 Stefano IV 22.VI.816 24.I.817   Romano
+L104: 98 S. Pasquale I 25.I.817 ... II-V.824   Romano
+L105: 99 Eugenio II ... II-V.824 ...VIII.827   Romano
+L106: 100 Valentino ... VIII.827 ...IX.827   Romano
+L107: 101 Gregorio IV ... IX.827,29.III.828 25.I.844   Romano
+L108: 102 Sergio II 25.I.844 27.I.847   Romano
+L109: 103 S. Leone IV ...I,10.IV.847 17.VII.855   Romano
+L110: 104 Benedetto III ...VII, 29.IX.855 17.IV.858   Romano
+L111: 105 S. Niccolò 24.IV.858 13.XI.867   Romano
+L112: 106 Adriano II 14.XII.867 ...XI o XII.872   Romano
+L113: 107 Giovanni VIII 14.XII.872 16.XII.882   Romano
+L114: 108 Marino I ... XII.882 15.V.884   Gallese
+L115: 109 S. Adriano III 17.V.884 ... VIII o IX.885   Romano
+L116: 110 Stefano V ...IX.885 14.IX.891   Romano
+L117: 111 Formoso 6.X.891 4.IV.896   Vescovo di Porto
+L118: 112 Bonifacio VI 11.IV.896 26.IV.896   Romano
+L119: 113 Stefano VI ...V o VI.896 ...VII o VIII.897   Romano
+L120: 114 Romano ...VII o VIII.897 ...XI.897   Gallese
+L121: 115 Teodoro II ...XII.897 ...XII.897 o I.898   Romano
+L122: 116 Giovanni IX ...XII.897 o I.898 ...I-V.900   Tivoli
+L123: 117 Benedetto IV ...I-V.900 ...VII.903   Romano
+L124: 118 Leone V ... VII.903 ... IX.903   Ardea
+L125: 119 Sergio III 29.I.904 14.IV.911   Romano
+L126: 120 Anastasio III ... VI o IX.911 ... VI o VIII o X. 913   Romano
+L127: 121 Landone ... VII o XI. 913 ... III.914   Sabina
+L128: 122 Giovanni X ... III. IV.914 ... V o VI.928   Tossignano (Imola)
+L129: 123 Leone VI ... V o VI. 928 ... XII.928 o I.929   Romano
+L130: 124 Stefano VII ... I. 929 ...II.931   Romano
+L131: 125 Giovanni XI ...III.931 ...I.936   Romano
+L132: 126 Leone VII ... I.936 13.VII.939   Romano
+L133: 127 Stefano VIII 14.VII.939 ... X.942   Romano
+L134: 128 Marino II 30.X,...XI.942 ...V.946   Romano
+L135: 129 Agapito II 10.V.946 ...XII.955   Romano
+L136: 130 Giovanni XII 16.XII.955 14.V.964 Ottaviano, dei conti di Tuscolo
+L137: 131 Leone VIII 4,6.XII.963 ...III.965   Romano
+L138: 132 Benedetto V ... V.964 4.VII.964 o 965   Romano
+L139: 133 Giovanni XIII 1.X.965 6.IX.972   Romano
+L140: 134 Benedetto VI ... XII.972, 19.I.973 ... VII.974   Romano
+L141: 135 Benedetto VII ... X. 974 10.VII.983   Romano
+L142: 136 Giovanni XIV ... XI o XII.983 20.VIII.984 Pietro Pavia
+L143: 137 Giovanni XV ... VIII.985 ...III.996   Romano
+L144: 138 Gregorio V 3.V.996 ... II o III.999 Brunone dei duchi di Carinzia La Sassonia
+L145: 139 Silvestro II 2.IV.999 12.V.1003 Gelberto L'Aquitania
+L146: 140 Giovanni XVII 16.V.1003 6.XI.1003 Siccone Romano
+L147: 141 Giovanni XVIII 25.XII.1003 ...VI o VII. 1009 Fasano Romano
+L148: 142 Sergio IV 31.VII.1009 12.V.1012 Pietro Romano
+L149: 143 Benedetto VIII 18.V.1012 9.IV.1024 Teofilatto dei conti di Tuscolo
+L150: 144 Giovanni XIX 19.IV.1024 ...1032 Romano dei conti di Tuscolo
+L151: 145 Benedetto IX ... VIII o IX. 1032 ... IX.1044 Teofilatto dei conti di Tuscolo
+L152: 146 Silvestro III 13 o 20.I.1045 ... III.1045 Giovanni Romano
+L153: 147 Benedetto IX 10.III.1045 1.V.1045
+L154: 148 Gregorio VI 1.V.1045 20.XII.1046 Giovanni Graziano Romano
+L155: 149 Clemente II 24.XII.1046 9.X.1047 Suitgero dei signori di Morsleben von Horneburg Sassonia
+L156: 150 Benedetto IX ... X.1047 ... VII.1048
+L157: 151 Damaso II 17.VII.1048 9.VIII.1048 Poppone Tirolo
+L158: 152 S. Leone IX 2,12.II.1049 19.IV.1054 Brunone dei conti di Egisheim Alsaziano
+L159: 153 Vittore II 13.IV.1055 28.VII.1057 Gebeardo dei conti di Dollnstein-Hirschberg Svevo
+L160: 154 Stefano IX 2,3.VIII.1057 29.III.1058 Federico dei duchi di Lorena Lorenese
+L161: 155 Niccolò II ... XII.1058,24.I.1059 27.VII.1061 Gerardo Borgogna
+L162: 156 Alessandro II 30.IX, 1.X.1061 21.IV.1073 Anselmo Baggio (Milano)
+L163: 157 S. Gregorio VII 22.IV,30.VI.1073 25.V.1085 Ildebrando Tuscia
+L164: 158 B. Vittore III 24.V.1086, 9.V.1087 16.IX.1087 Dauferio (Desiderio) Benevento
+L165: 159 B. Urbano II 12.III.1088 29.VII.1099 Oddone di Lagery Châtillon-sur-Marne
+L166: 160 Pasquale II 13,14.VIII.1099 21.I.1118 Raniero Bleda o Galeata
+L167: 161 Gelasio II 24.I, 10.III.1118 28.I.1119 Giovanni Caetani Gaeta
+L168: 162 Callisto II 2, 9.II.1119 13 o 14.XII.1124 Guido di Borgogna
+L169: 163 Onorio II 15,21.XII.1124 13 o 14.II.1130 Lamberto Scannabecchi Fiagnano (Imola)
+L170: 164 Innocenzo II 14,23.II.1130 24.IX.1143 Gregorio Papareschi Romano
+L171: 165 Celestino II 26.IX,3.X.1143 8.III.1144 Guido Città di Castello
+L172: 166 Lucio II 12.III.1144 15.II.1145 Gerardo Bolognese
+L173: 167 B. Eugenio III 15,18.II.1145 8.VII.1153 Bernardo Pisa
+L174: 168 Anastasio IV 12.VII.1153 3.XII.1154 Corrado Romano
+L175: 169 Adriano IV 4,5.XII.1154 1.IX.1159 Nicola Breakspear Abbot's Lagnley
+L176: 170 Alessandro III 7,20.IX.1159 30.VIII.1181 Rolando Bandinelli Siena
+L177: 171 Lucio III 1,6.IX.1181 25.IX.1185 Ubaldo Allucingoli Lucchese
+L178: 172 Urbano III 25.XI,1.XII.1185 20.X.1187 Uberto Crivelli Milanese
+L179: 173 Gregorio VIII 21.25.X.1187 17.XII.1187 Alberto di Morra Benevento
+L180: 174 Clemente III 19,20.XII.1187 ...III.1191 Paolo Scolari Romano
+L181: 175 Celestino III 10,14.IV.1191 8.I.1198 Giacinto Bobone Romano
+L182: 176 Innocenzo III 8.I,22.II.1198 16.VII.1216 Lotario dei conti di Segni Gavignano (Roma)
+L183: 177 Onorio III 18,24.VII.1216 18.III.1227 Cencio Romano
+L184: 178 Gregorio IX 19,21.III.1227 22.VIII.1241 Ugolino dei conti di Segni Anagni
+L185: 179 Celestino IV 25,28.X.1241 10.XI.1241 Goffredo da Castiglione Milanese
+L186: 180 Innocenzo IV 25,28.VI.1243 7.XII.1254 Sinibaldo Fieschi Lavagna (Genova)
+L187: 181 Alessandro IV 12,20.XII.1254 25.V.1261 Rinaldo dei signori di Ienne Ienne (Roma)
+L188: 182 Urbano IV 29.VIII,4.IX.1261 2.X.1264 Giacomo Pantaléon Troyes
+L189: 183 Clemente IV 5,11.II.1265 29.XI.1268 Guido Foucois Saint-Gilles (Francia meridionale)
+L190: 184 B. Gregorio X 1.IX.1271,27.II.1272 10.I.1276 Tedaldo Visconti Piacenza
+L191: 185 B. Innocenzo V 21.I,22.II.1276 22.VI.1276 Pietro di Tarentaise Savoia
+L192: 186 Adriano V 11.VII.1276 18.VIII.1276 Ottobono Fieschi Genovese
+L193: 187 Giovanni XXI 16,20.IX.1276 20.V.1277 Pietro di Giuliano o Pietro Ispano Lisbona
+L194: 188 Niccolò III 25.XI, 26.XII.1277 22.VIII.1280 Giovanni Gaetano Orsini Romano
+L195: 189 Martino IV 22.II,23.III.1281 29.III.1285 Simone de Brie o di Brion o di Mainpincien Francese
+L196: 190 Onorio IV 2.IV, 20.V.1285 3.IV.1287 Giacomo Savelli Romano
+L197: 191 Niccolò IV 22.II.1288 4.IV.1292 Girolamo Lisciano (Ascoli Piceno)
+L198: 192 S. Celestino V 5.VII, 29.VIII.1294 13.XII.1294 Pietro del Morrone Molise
+L199: 193 Bonifacio VIII 24.XII.1294, 23.I.1295 11.X.1303 Benedetto Caetani Anagni
+L200: 194 Benedetto XI 22, 27.X.1303 7.VII.1304 Niccolò di Boccasio Treviso
+L201: 195 Clemente V 5.VI, 14.XI.1305 20.IV.1314 Bertrando de Got Villandraut (Gironde)
+L202: 196 Giovanni XXII 7.VIII,5.IX.1316 4.XII.1334 Giacomo Duèse Cahors
+L203: 197 Benedetto XII 20.XII.1334, 8.I.1335 25.IV.1342 Giacomo Fournier Saverdun (Francia meridionale)
+L204: 198 Clemente VI 7,19.V.1342 6.XII.1352 Pietro Roger Maumont (Limosino)
+L205: 199 Innocenzo VI 18,30.XII.1352 12.IX.1362 Stefano Aubert Monts (Limosino)
+L206: 200 B. Urbano V 28.IX,6.XI.1362 19.XII.1370 Guglielmo Grimoard Grizac (Francia meridionale)
+L207: 201 Gregorio XI 30.XII.1370, 3.I.1371 26.III.1378 Pietro Roger de Beaufort Rosiers d'Egletons (Limosino)
+L208: 202 Urbano VI 8, 18.IV.1378 15.X.1389 Bartolomeo Prignano Napoli
+L209: 203 Bonifacio IX 2,9.XI.1389 1.X.1404 Pietro Tomacelli Napoli
+L210: 204 Innocenzo VII 17.X,11.XI.1404 6.XI.1406 Cosma Migliorati Sulmona
+L211: 205 Gregorio XII 30.XI,19.XII.1406 4.VII.1415 Angelo Correr Veneziano
+L212: 206 Martino V 11, 21.XI.1417 20.II.1431 Oddone Colonna Genazzano
+L213: 207 Eugenio IV 3,11.III.1431 23.II.1447 Gabriele Condulmer Veneziano
+L214: 208 Niccolò V 6,19.III.1447 24.III.1455 Tommaso Parentucelli Sarzana
+L215: 209 Callisto III 8,20.IV.1455 6.VIII.1458 Alonso Borja Torre del Canals presso Játiva (Valencia)
+L216: 210 Pio II 19.VIII, 3.IX.1458 14.VIII.1464 Enea Silvio Piccolomini Corsignano (Siena)
+L217: 211 Paolo II 30.VIII, 16.IX.1464 26.VII. 1471 Pietro Barbo Veneziano
+L218: 212 Sisto IV 1,9, 25.VIII.1471 12.VIII.1484 Francesco della Rovere Celle (Savona)
+L219: 213 Innocenzo VIII 29.VIII, 12.IX.1484 25.VII.1492 Giovanni Battista Cibo Genovese
+L220: 214 Alessandro VI 11,26.VIII.1492 18.VIII.1503 Rodrigo de Borja Játiva (Valencia)
+L221: 215 Pio III 22.IX, 1,8.X.1503 18.X.1503 Francesco Todeschini-Piccolomini Siena
+L222: 216 Giulio II 1,26.XI.1503 21.II.1513 Giuliano della Rovere Albisola
+L223: 217 Leone X 11,19.III.1513 1.XII.1521 Giovanni de'Medici Fiorentino
+L224: 218 Adriano VI 9.I,31.VIII.1522 14.IX.1523 Adriano Florensz Utrecht
+L225: 219 Clemente VII 19,26.XI.1523 25.IX.1534 Giulio de'Medici Fiorentino
+L226: 220 Paolo III 13.X, 3.XI.1534 10.XI.1549 Alessandro Farnese Canino (Viterbo)
+L227: 221 Giulio III 7,22.II.1550 23.III.1555 Giovanni Maria Ciocchi del Monte Romano
+L228: 222 Marcello II 9,10.IV.1555 1.V.1555 Marcello Cervini Montefano
+L229: 223 Paolo IV 23,26.V.1555 18.VIII.1559 Gian Pietro Carafa Capriglia (Avelino)
+L230: 224 Pio IV 26.XII.1559, 6.I.1560 9.XII.1565 Giovan Angelo Medici Milanese
+L231: 225 S. Pio V 7,17.I.1566 1.V.1572 Antonio (Michele)Ghislieri Bosco (Alessandria)
+L232: 226 Gregorio XIII 13,25.V.1572 10.IV.1585 Ugo Boncompagni Bolognese
+L233: 227 Sisto V 24.IV, 1.V.1585 27.VIII.1590 Felice Peretti Grottammare (Ascoli Piceno)
+L234: 228 Urbano VII 15.IX.1590 27.IX.1590 Giambattista Castagna Romano
+L235: 229 Gregorio XIV 5,8.XII.1590 16.X.1591 Niccolò Sfondrati Somma Lombarda
+L236: 230 Innocenzo IX 29.X, 3.XI.1591 30.XII.1591 Giovan Antonio Facchinetti Bolognese
+L237: 231 Clemente VIII 30.I,9.II.1592 3.III.1605 Ippolito Aldobrandini Fano
+L238: 232 Leone XI 1,10.IV.1605 27.IV.1605 Alessandro de'Medici Fiorentino
+L239: 233 Paolo V 16,29.V.1605 28.I.1621 Camillo Borghese Romano
+L240: 234 Gregorio XV 9,14.II.1621 8.VII.1623 Alessandro Ludovisi Bolognese
+L241: 235 Urbano VIII 6.VIII,29.IX.1623 29.VII.1644 Maffeo Barberini Fiorentino
+L242: 236 Innocenzo X 15.IX,4.X.1644 7.I.1655 Giovanni Battista Pamphilj Romano
+L243: 237 Alessandro VII 7,18.IV.1655 22.V.1667 Fabio Chigi Siena
+L244: 238 Clemente IX 20,26.VI.1667 9.XII.1669 Giulio Rospigliosi Pistoia
+L245: 239 Clemente X 29.IV,11.V.1670 22.VII.1676 Emilio Altieri Romano
+L246: 240 B. Innocenzo XI 21.IX, 4.X.1676 12.VIII.1689 Benedetto Odescalchi Como
+L247: 241 Alessandro VIII 6,16.X.1689 1.II.1691 Pietro Ottoboni Veneziano
+L248: 242 Innocenzo XII 12,15.VII.1691 27.IX.1700 Antonio Pignatelli Spinazzola
+L249: 243 Clemente XI 23,30.XI, 8.XII.1700 19.III.1721 Giovanni Francesco Albani Urbino
+L250: 244 Innocenzo XIII 8,18.V.1721 7.III.1724 Michelangelo Conti Poli
+L251: 245 Benedetto XIII 29.V,4.VI.1724 21.II.1730 Pietro Francesco (Vincenzo Maria) Orsini Gravina
+L252: 246 Clemente XII 12,16.VII.1730 6.II.1740 Lorenzo Corsini Fiorentino
+L253: 247 Benedetto XIV 17,22.VIII.1740 3.V.1758 Prospero Lambertini Bolognese
+L254: 248 Clemente XIII 6,16.VII.1758 2.II.1769 Carlo Rezzonico Veneziano
+L255: 249 Clemente XIV 19,28.V,4.VI.1769 22.IX.1774 Giovanni Vincenzo Antonio (Lorenzo) Ganganelli Sant'Arcangelo di Romagna
+L256: 250 Pio VI 15,22.II.1775 29.VIII.1799 Giannangelo Braschi Cesena
+L257: 251 Pio VII 14,21.III.1800 20.VIII.1823 Barnaba (Gregorio) Chiaramonti Cesena
+L258: 252 Leone XII 28.IX, 5.X.1823 10.II.1829 Annibale della Genga Monticelli di Genga (Fabriano)
+L259: 253 Pio VIII 31.III, 5.IV.1829 30.XI.1830 Francesco Saverio Castiglioni Cingoli
+L260: 254 Gregorio XVI 2,6.II.1831 1.VI.1846 Bartolomeo Alberto (Mauro) Cappellari Belluno
+L261: 255 B.  Pio IX 16,21.VI.1846 7.II.1878 Giovanni Maria Mastai Ferretti Senigallia
+L262: 256 Leone XIII 20.II, 3.III.1878 20.VII.1903 Vincenzo Gioacchino Pecci Carpineto Romano
+L263: 257 S. Pio X 4,9.VIII.1903 20.VIII.1914 Giuseppe Melchiorre Sarto Riese (Treviso)
+L264: 258 Benedetto XV 3,6.IX.1914 22.I.1922 Giacomo della Chiesa Genovese
+L265: 259 Pio XI 6,12.II.1922 10.II.1939 Achille Ratti Desio (Milano)
+L266: 260 Pio XII, Venerabile 2,12.III.1939 9.X.1958 Eugenio Pacelli Romano
+L267: 261 S. Giovanni XXIII 28.X,4.XI.1958 3.VI.1963 Angelo Giuseppe Roncalli Sotto il Monte (Bergamo)
+L268: 262 S. Paolo VI 21,30.VI.1963 6.VIII.1978 Giovanni Battista Montini Concesio (Brescia)
+L269: 263 Giovanni Paolo I, Venerabile 26.VIII,3.IX.1978 28.IX.1978 Albino Luciani Forno di Canale (Belluno)
+L270: 264 S. Giovanni Paolo II 16,22.X.1978 2.IV.2005 Karol Wojtyla Wadowice (Kraków)
+L271: 265 Benedetto XVI 19,24.IV.2005 28.II.2013 Joseph Ratzinger Marktl am Inn (Baviera)
+L272: 266 Francesco 13,19.III.2013   Jorge Mario Bergoglio Buenos Aires (Argentina)
+L273: * * *
+L274: Annuario Pontificio 2014 NOTE: - S. Pietro di Bethsaida in Galilea, Principe degli Apostoli, che ricevette da Gesù Cristo la suprema Pontificia Potestà da trasmettersi ai suoi Successori; risiedette prima in Antiochia, quindi, a quanto riferisce il Cronografo dell'anno 354, per anni 25 in Roma, dove incontrò il martirio nell'anno 64 o 67 dell'era volgare.
+L275: - Libri liturgici e agiografici della Chiesa di Roma considerano come Martiri tutti i Papi anteriori a Silvestro I (314-335) e come Santi quelli da Silvestro I a Felice IV (526-530) inclusi, tranne Liberio (352-366) e Anastasio II (496-498); danno poi nei secoli seguenti altri Santi e Beati fino a che s'incontrano formali beatificazioni e canonizzazioni, o conferme di culto. - Per i primi due secoli gli anni d'inizio e fine dei pontificati non sono sicuri.
+L276: Anche in seguito, fino alla metà del secolo XI, restano dubbi sul giorno e sul mese, che nelle tabelle cronologiche presso Duchesne, Le Liber Pontificalis, I, CCLX ss., e II, LXXV ss., sono avvertibili per la stampa in carattere corsivo. Due o tre date di giorno e mese all'inizio del pontificato indicano l'elezione, la ordinazione e la coronazione, dalla quale i Pontefici solevano computare gli anni di pontificato.
+L277: - Il pontificato di Benedetto IX fu interrotto una prima volta per l'intrusione di Silvestro III; in un secondo tempo Benedetto IX rinunciò e gli succedette Gregorio VI; infine Benedetto IX tornò papa per la terza volta dopo la morte di Clemente II. © Copyright Libreria Editrice Vaticana

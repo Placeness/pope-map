@@ -1,0 +1,2785 @@
+{
+  "Bethsaida of Galilee": {
+    "label": "Galilee, near ancient Bethsaida (approximate)",
+    "country": "Israel / Palestine",
+    "countryCode": null,
+    "precision": "region",
+    "coordinates": null,
+    "bounds": [
+      [
+        35.15,
+        32.65
+      ],
+      [
+        35.8,
+        33.35
+      ]
+    ],
+    "placeId": "region-galilee-near-ancient-bethsaida-approximate",
+    "uncertainty": "Approximate origin only; the cartographic envelope is for orientation, not a documented birthplace or a historical boundary.",
+    "geonamesRecord": null,
+    "reasoning": "The roster names ancient Bethsaida; an exact archaeological site is disputed, so show the northern Galilee area without a birthplace point.",
+    "sourceUrls": [
+      "https://www.vatican.va/content/vatican/en/holy-father.html"
+    ]
+  },
+  "Tuscia": {
+    "label": "Tuscany / northern Lazio (approximate)",
+    "country": "Italy",
+    "countryCode": null,
+    "precision": "region",
+    "coordinates": null,
+    "bounds": [
+      [
+        9.5,
+        41.5
+      ],
+      [
+        13.3,
+        44.8
+      ]
+    ],
+    "placeId": "region-tuscany-northern-lazio-approximate",
+    "uncertainty": "Approximate origin only; the cartographic envelope is for orientation, not a documented birthplace or a historical boundary.",
+    "geonamesRecord": null,
+    "reasoning": "The source names historical Tuscia; this broad Tuscany–Lazio envelope is cartographic and does not assert ancient borders.",
+    "sourceUrls": [
+      "https://www.vatican.va/content/vatican/en/holy-father.html"
+    ]
+  },
+  "Rome": {
+    "label": "Rome",
+    "country": "Italy",
+    "countryCode": "IT",
+    "precision": "place",
+    "coordinates": [
+      12.51133,
+      41.89193
+    ],
+    "bounds": null,
+    "placeId": "place-it-rome",
+    "uncertainty": "Coordinates identify the modern named place, not a birth house or independent verification of the roster tradition.",
+    "geonamesRecord": {
+      "name": "Rome",
+      "lat": "41.89193",
+      "lng": "12.51133",
+      "country": "IT",
+      "admin1": "07",
+      "admin2": "RM"
+    },
+    "reasoning": "Vatican named place matched by name and modern country; the roster remains the origin authority.",
+    "sourceUrls": [
+      "https://www.vatican.va/content/vatican/en/holy-father.html",
+      "https://www.npmjs.com/package/cities.json/v/1.1.65"
+    ]
+  },
+  "Greece": {
+    "label": "Greece (approximate origin)",
+    "country": "Greece",
+    "countryCode": null,
+    "precision": "region",
+    "coordinates": null,
+    "bounds": [
+      [
+        19.3,
+        34.8
+      ],
+      [
+        29.6,
+        41.8
+      ]
+    ],
+    "placeId": "region-greece-approximate-origin",
+    "uncertainty": "Approximate origin only; the cartographic envelope is for orientation, not a documented birthplace or a historical boundary.",
+    "geonamesRecord": null,
+    "reasoning": "The roster supplies Greece and the older Italian table often says Greek; this modern geographical overview does not identify an ancient town or equate ethnic origin with citizenship.",
+    "sourceUrls": [
+      "https://www.vatican.va/content/vatican/en/holy-father.html"
+    ]
+  },
+  "Aquileia": {
+    "label": "Aquileia",
+    "country": "Italy",
+    "countryCode": "IT",
+    "precision": "place",
+    "coordinates": [
+      13.36779,
+      45.7683
+    ],
+    "bounds": null,
+    "placeId": "place-it-aquileia",
+    "uncertainty": "Coordinates identify the modern named place, not a birth house or independent verification of the roster tradition.",
+    "geonamesRecord": {
+      "name": "Aquileia",
+      "lat": "45.7683",
+      "lng": "13.36779",
+      "country": "IT",
+      "admin1": "06",
+      "admin2": "UD"
+    },
+    "reasoning": "Vatican named place matched by name and modern country; the roster remains the origin authority.",
+    "sourceUrls": [
+      "https://www.vatican.va/content/vatican/en/holy-father.html",
+      "https://www.npmjs.com/package/cities.json/v/1.1.65"
+    ]
+  },
+  "Emesa (Syria)": {
+    "label": "Homs",
+    "country": "Syria",
+    "countryCode": "SY",
+    "precision": "place",
+    "coordinates": [
+      36.72559,
+      34.72405
+    ],
+    "bounds": null,
+    "placeId": "place-sy-homs",
+    "uncertainty": "Coordinates identify the modern named place, not a birth house or independent verification of the roster tradition.",
+    "geonamesRecord": {
+      "name": "Homs",
+      "lat": "34.72405",
+      "lng": "36.72559",
+      "country": "SY",
+      "admin1": "11",
+      "admin2": ""
+    },
+    "reasoning": "Ancient Emesa is identified with modern Homs; this is a geographic name alias, not new biographical evidence.",
+    "sourceUrls": [
+      "https://www.vatican.va/content/vatican/en/holy-father.html",
+      "https://www.npmjs.com/package/cities.json/v/1.1.65",
+      "https://www.getty.edu/publications/cultural-heritage-mass-atrocities/part-2/11-al-sabouni/"
+    ]
+  },
+  "Fondi": {
+    "label": "Fondi",
+    "country": "Italy",
+    "countryCode": "IT",
+    "precision": "place",
+    "coordinates": [
+      13.42718,
+      41.35787
+    ],
+    "bounds": null,
+    "placeId": "place-it-fondi",
+    "uncertainty": "Coordinates identify the modern named place, not a birth house or independent verification of the roster tradition.",
+    "geonamesRecord": {
+      "name": "Fondi",
+      "lat": "41.35787",
+      "lng": "13.42718",
+      "country": "IT",
+      "admin1": "07",
+      "admin2": "LT"
+    },
+    "reasoning": "Vatican named place matched by name and modern country; the roster remains the origin authority.",
+    "sourceUrls": [
+      "https://www.vatican.va/content/vatican/en/holy-father.html",
+      "https://www.npmjs.com/package/cities.json/v/1.1.65"
+    ]
+  },
+  "Nicopolis (Epirus)": {
+    "label": "Nicopolis (Epirus)",
+    "country": "Greece",
+    "countryCode": "GR",
+    "precision": "place",
+    "coordinates": null,
+    "bounds": null,
+    "placeId": "place-gr-nicopolis-epirus",
+    "uncertainty": "The named place is retained, but no unique supported gazetteer match was found; no nearby town is substituted.",
+    "geonamesRecord": null,
+    "reasoning": "Vatican named place matched by name and modern country; the roster remains the origin authority.",
+    "sourceUrls": [
+      "https://www.vatican.va/content/vatican/en/holy-father.html",
+      "https://www.npmjs.com/package/cities.json/v/1.1.65"
+    ]
+  },
+  "Africa": {
+    "label": "Africa (broad origin)",
+    "country": "Country unknown",
+    "countryCode": null,
+    "precision": "region",
+    "coordinates": null,
+    "bounds": [
+      [
+        -18,
+        -35.2
+      ],
+      [
+        52,
+        37.6
+      ]
+    ],
+    "placeId": "region-africa-broad-origin",
+    "uncertainty": "Approximate origin only; the cartographic envelope is for orientation, not a documented birthplace or a historical boundary.",
+    "geonamesRecord": null,
+    "reasoning": "The roster says Africa only; do not infer a modern country or an exact ancient African province. The bounds show continental geography for orientation.",
+    "sourceUrls": [
+      "https://www.vatican.va/content/vatican/en/holy-father.html"
+    ]
+  },
+  "UNKNOWN": {
+    "label": "Birthplace unknown",
+    "country": null,
+    "countryCode": null,
+    "precision": "unknown",
+    "coordinates": null,
+    "bounds": null,
+    "placeId": null,
+    "uncertainty": "The official roster leaves the birthplace/origin field empty.",
+    "geonamesRecord": null,
+    "reasoning": "The official roster leaves the birthplace/origin field empty.",
+    "sourceUrls": [
+      "https://www.vatican.va/content/vatican/en/holy-father.html"
+    ]
+  },
+  "Unknown": {
+    "label": "Birthplace unknown",
+    "country": null,
+    "countryCode": null,
+    "precision": "unknown",
+    "coordinates": null,
+    "bounds": null,
+    "placeId": null,
+    "uncertainty": "The official roster explicitly says Unknown.",
+    "geonamesRecord": null,
+    "reasoning": "The official roster explicitly says Unknown.",
+    "sourceUrls": [
+      "https://www.vatican.va/content/vatican/en/holy-father.html"
+    ]
+  },
+  "Luni": {
+    "label": "Luni",
+    "country": "Italy",
+    "countryCode": "IT",
+    "precision": "place",
+    "coordinates": null,
+    "bounds": null,
+    "placeId": "place-it-luni",
+    "uncertainty": "The named place is retained, but no unique supported gazetteer match was found; no nearby town is substituted.",
+    "geonamesRecord": null,
+    "reasoning": "Vatican named place matched by name and modern country; the roster remains the origin authority.",
+    "sourceUrls": [
+      "https://www.vatican.va/content/vatican/en/holy-father.html",
+      "https://www.npmjs.com/package/cities.json/v/1.1.65"
+    ]
+  },
+  "Dalmatia": {
+    "label": "Dalmatia (approximate)",
+    "country": "Croatia / Bosnia and Herzegovina / Montenegro",
+    "countryCode": null,
+    "precision": "region",
+    "coordinates": null,
+    "bounds": [
+      [
+        14.8,
+        41.9
+      ],
+      [
+        19.4,
+        45.5
+      ]
+    ],
+    "placeId": "region-dalmatia-approximate",
+    "uncertainty": "Approximate origin only; the cartographic envelope is for orientation, not a documented birthplace or a historical boundary.",
+    "geonamesRecord": null,
+    "reasoning": "Historical Dalmatian origin is not a documented town; use an eastern Adriatic navigation envelope, not a historical boundary.",
+    "sourceUrls": [
+      "https://www.vatican.va/content/vatican/en/holy-father.html"
+    ]
+  },
+  "Romano": {
+    "label": "Rome",
+    "country": "Italy",
+    "countryCode": "IT",
+    "precision": "place",
+    "coordinates": [
+      12.51133,
+      41.89193
+    ],
+    "bounds": null,
+    "placeId": "place-it-rome",
+    "uncertainty": "Coordinates identify the modern named place, not a birth house or independent verification of the roster tradition.",
+    "geonamesRecord": {
+      "name": "Rome",
+      "lat": "41.89193",
+      "lng": "12.51133",
+      "country": "IT",
+      "admin1": "07",
+      "admin2": "RM"
+    },
+    "reasoning": "The untranslated Italian adjective Romano denotes Roman origin; share the Rome location identifier, retaining origin uncertainty.",
+    "sourceUrls": [
+      "https://www.vatican.va/content/vatican/en/holy-father.html",
+      "https://www.npmjs.com/package/cities.json/v/1.1.65"
+    ]
+  },
+  "Albano": {
+    "label": "Albano Laziale",
+    "country": "Italy",
+    "countryCode": "IT",
+    "precision": "place",
+    "coordinates": [
+      12.659,
+      41.72748
+    ],
+    "bounds": null,
+    "placeId": "place-it-albano-laziale",
+    "uncertainty": "Coordinates identify the modern named place, not a birth house or independent verification of the roster tradition.",
+    "geonamesRecord": {
+      "name": "Albano Laziale",
+      "lat": "41.72748",
+      "lng": "12.659",
+      "country": "IT",
+      "admin1": "07",
+      "admin2": "RM"
+    },
+    "reasoning": "Vatican News identifies the roster birthplace Albano as Albano Laziale and qualifies the account as deriving from Liber Pontificalis.",
+    "sourceUrls": [
+      "https://www.vatican.va/content/vatican/en/holy-father.html",
+      "https://www.npmjs.com/package/cities.json/v/1.1.65",
+      "https://www.vaticannews.va/it/santo-del-giorno/03/12/sant-innocenzo-i--papa.html"
+    ]
+  },
+  "Campania": {
+    "label": "Campania (approximate)",
+    "country": "Italy",
+    "countryCode": null,
+    "precision": "region",
+    "coordinates": null,
+    "bounds": [
+      [
+        13.7,
+        39.9
+      ],
+      [
+        15.9,
+        41.6
+      ]
+    ],
+    "placeId": "region-campania-approximate",
+    "uncertainty": "Approximate origin only; the cartographic envelope is for orientation, not a documented birthplace or a historical boundary.",
+    "geonamesRecord": null,
+    "reasoning": "Regional origin only; a broad southern Italian navigation envelope is not a birthplace point.",
+    "sourceUrls": [
+      "https://www.vatican.va/content/vatican/en/holy-father.html"
+    ]
+  },
+  "Sardinia": {
+    "label": "Sardinia (approximate)",
+    "country": "Italy",
+    "countryCode": null,
+    "precision": "region",
+    "coordinates": null,
+    "bounds": [
+      [
+        8,
+        38.8
+      ],
+      [
+        9.9,
+        41.4
+      ]
+    ],
+    "placeId": "region-sardinia-approximate",
+    "uncertainty": "Approximate origin only; the cartographic envelope is for orientation, not a documented birthplace or a historical boundary.",
+    "geonamesRecord": null,
+    "reasoning": "Island origin only; bounds identify island geography without choosing a town.",
+    "sourceUrls": [
+      "https://www.vatican.va/content/vatican/en/holy-father.html"
+    ]
+  },
+  "Tivoli": {
+    "label": "Tivoli",
+    "country": "Italy",
+    "countryCode": "IT",
+    "precision": "place",
+    "coordinates": [
+      12.8016,
+      41.95952
+    ],
+    "bounds": null,
+    "placeId": "place-it-tivoli",
+    "uncertainty": "Coordinates identify the modern named place, not a birth house or independent verification of the roster tradition.",
+    "geonamesRecord": {
+      "name": "Tivoli",
+      "lat": "41.95952",
+      "lng": "12.8016",
+      "country": "IT",
+      "admin1": "07",
+      "admin2": "RM"
+    },
+    "reasoning": "Vatican named place matched by name and modern country; the roster remains the origin authority.",
+    "sourceUrls": [
+      "https://www.vatican.va/content/vatican/en/holy-father.html",
+      "https://www.npmjs.com/package/cities.json/v/1.1.65"
+    ]
+  },
+  "Samnium": {
+    "label": "Samnium (approximate)",
+    "country": "Italy",
+    "countryCode": null,
+    "precision": "region",
+    "coordinates": null,
+    "bounds": [
+      [
+        13.7,
+        40.8
+      ],
+      [
+        15.5,
+        42.3
+      ]
+    ],
+    "placeId": "region-samnium-approximate",
+    "uncertainty": "Approximate origin only; the cartographic envelope is for orientation, not a documented birthplace or a historical boundary.",
+    "geonamesRecord": null,
+    "reasoning": "Historical regional origin only; indicative southern Apennine navigation envelope, not ancient provincial limits.",
+    "sourceUrls": [
+      "https://www.vatican.va/content/vatican/en/holy-father.html"
+    ]
+  },
+  "Frosinone": {
+    "label": "Frosinone",
+    "country": "Italy",
+    "countryCode": "IT",
+    "precision": "place",
+    "coordinates": [
+      13.34109,
+      41.63976
+    ],
+    "bounds": null,
+    "placeId": "place-it-frosinone",
+    "uncertainty": "Coordinates identify the modern named place, not a birth house or independent verification of the roster tradition.",
+    "geonamesRecord": {
+      "name": "Frosinone",
+      "lat": "41.63976",
+      "lng": "13.34109",
+      "country": "IT",
+      "admin1": "07",
+      "admin2": "FR"
+    },
+    "reasoning": "Vatican named place matched by name and modern country; the roster remains the origin authority.",
+    "sourceUrls": [
+      "https://www.vatican.va/content/vatican/en/holy-father.html",
+      "https://www.npmjs.com/package/cities.json/v/1.1.65"
+    ]
+  },
+  "Blera, Tuscia": {
+    "label": "Blera",
+    "country": "Italy",
+    "countryCode": "IT",
+    "precision": "place",
+    "coordinates": [
+      12.03016,
+      42.27293
+    ],
+    "bounds": null,
+    "placeId": "place-it-blera",
+    "uncertainty": "Coordinates identify the modern named place, not a birth house or independent verification of the roster tradition.",
+    "geonamesRecord": {
+      "name": "Blera",
+      "lat": "42.27293",
+      "lng": "12.03016",
+      "country": "IT",
+      "admin1": "07",
+      "admin2": "VT"
+    },
+    "reasoning": "Vatican named place matched by name and modern country; the roster remains the origin authority.",
+    "sourceUrls": [
+      "https://www.vatican.va/content/vatican/en/holy-father.html",
+      "https://www.npmjs.com/package/cities.json/v/1.1.65"
+    ]
+  },
+  "Marsican territory": {
+    "label": "Marsican territory (approximate)",
+    "country": "Italy",
+    "countryCode": null,
+    "precision": "region",
+    "coordinates": null,
+    "bounds": [
+      [
+        13,
+        41.3
+      ],
+      [
+        14,
+        42.1
+      ]
+    ],
+    "placeId": "region-marsican-territory-approximate",
+    "uncertainty": "Approximate origin only; the cartographic envelope is for orientation, not a documented birthplace or a historical boundary.",
+    "geonamesRecord": null,
+    "reasoning": "The roster supplies a territory rather than a town; the central Apennine envelope is indicative only.",
+    "sourceUrls": [
+      "https://www.vatican.va/content/vatican/en/holy-father.html"
+    ]
+  },
+  "Naples": {
+    "label": "Naples",
+    "country": "Italy",
+    "countryCode": "IT",
+    "precision": "place",
+    "coordinates": [
+      14.26811,
+      40.85216
+    ],
+    "bounds": null,
+    "placeId": "place-it-naples",
+    "uncertainty": "Coordinates identify the modern named place, not a birth house or independent verification of the roster tradition.",
+    "geonamesRecord": {
+      "name": "Naples",
+      "lat": "40.85216",
+      "lng": "14.26811",
+      "country": "IT",
+      "admin1": "04",
+      "admin2": "NA"
+    },
+    "reasoning": "Vatican named place matched by name and modern country; the roster remains the origin authority.",
+    "sourceUrls": [
+      "https://www.vatican.va/content/vatican/en/holy-father.html",
+      "https://www.npmjs.com/package/cities.json/v/1.1.65"
+    ]
+  },
+  "Jerusalem": {
+    "label": "Jerusalem",
+    "country": "Israel / Palestine",
+    "countryCode": "IL",
+    "precision": "place",
+    "coordinates": [
+      35.21633,
+      31.76904
+    ],
+    "bounds": null,
+    "placeId": "place-il-jerusalem",
+    "uncertainty": "Coordinates identify the modern named place, not a birth house or independent verification of the roster tradition.",
+    "geonamesRecord": {
+      "name": "Jerusalem",
+      "lat": "31.76904",
+      "lng": "35.21633",
+      "country": "IL",
+      "admin1": "06",
+      "admin2": ""
+    },
+    "reasoning": "Vatican named place matched by name and modern country; the roster remains the origin authority.",
+    "sourceUrls": [
+      "https://www.vatican.va/content/vatican/en/holy-father.html",
+      "https://www.npmjs.com/package/cities.json/v/1.1.65"
+    ]
+  },
+  "Todi": {
+    "label": "Todi",
+    "country": "Italy",
+    "countryCode": "IT",
+    "precision": "place",
+    "coordinates": [
+      12.41202,
+      42.77881
+    ],
+    "bounds": null,
+    "placeId": "place-it-todi",
+    "uncertainty": "Coordinates identify the modern named place, not a birth house or independent verification of the roster tradition.",
+    "geonamesRecord": {
+      "name": "Todi",
+      "lat": "42.77881",
+      "lng": "12.41202",
+      "country": "IT",
+      "admin1": "18",
+      "admin2": "PG"
+    },
+    "reasoning": "Vatican named place matched by name and modern country; the roster remains the origin authority.",
+    "sourceUrls": [
+      "https://www.vatican.va/content/vatican/en/holy-father.html",
+      "https://www.npmjs.com/package/cities.json/v/1.1.65"
+    ]
+  },
+  "Segni": {
+    "label": "Segni",
+    "country": "Italy",
+    "countryCode": "IT",
+    "precision": "place",
+    "coordinates": [
+      13.01934,
+      41.68893
+    ],
+    "bounds": null,
+    "placeId": "place-it-segni",
+    "uncertainty": "Coordinates identify the modern named place, not a birth house or independent verification of the roster tradition.",
+    "geonamesRecord": {
+      "name": "Segni",
+      "lat": "41.68893",
+      "lng": "13.01934",
+      "country": "IT",
+      "admin1": "07",
+      "admin2": "RM"
+    },
+    "reasoning": "Vatican named place matched by name and modern country; the roster remains the origin authority.",
+    "sourceUrls": [
+      "https://www.vatican.va/content/vatican/en/holy-father.html",
+      "https://www.npmjs.com/package/cities.json/v/1.1.65"
+    ]
+  },
+  "Sicily": {
+    "label": "Sicily (approximate)",
+    "country": "Italy",
+    "countryCode": null,
+    "precision": "region",
+    "coordinates": null,
+    "bounds": [
+      [
+        12.3,
+        36.6
+      ],
+      [
+        15.7,
+        38.4
+      ]
+    ],
+    "placeId": "region-sicily-approximate",
+    "uncertainty": "Approximate origin only; the cartographic envelope is for orientation, not a documented birthplace or a historical boundary.",
+    "geonamesRecord": null,
+    "reasoning": "Island origin only; retain region precision rather than selecting a town.",
+    "sourceUrls": [
+      "https://www.vatican.va/content/vatican/en/holy-father.html"
+    ]
+  },
+  "Syria": {
+    "label": "Syria / Levant (approximate origin)",
+    "country": "Syria / Lebanon / Israel / Palestine / Turkey",
+    "countryCode": null,
+    "precision": "region",
+    "coordinates": null,
+    "bounds": [
+      [
+        34.5,
+        31.7
+      ],
+      [
+        42.5,
+        37.6
+      ]
+    ],
+    "placeId": "region-syria-levant-approximate-origin",
+    "uncertainty": "Approximate origin only; the cartographic envelope is for orientation, not a documented birthplace or a historical boundary.",
+    "geonamesRecord": null,
+    "reasoning": "Ancient Syrian origin can cross modern boundaries; a broad Levant envelope is for orientation and does not identify a town or nationality.",
+    "sourceUrls": [
+      "https://www.vatican.va/content/vatican/en/holy-father.html"
+    ]
+  },
+  "Gallese": {
+    "label": "Gallese",
+    "country": "Italy",
+    "countryCode": "IT",
+    "precision": "place",
+    "coordinates": [
+      12.39646,
+      42.37376
+    ],
+    "bounds": null,
+    "placeId": "place-it-gallese",
+    "uncertainty": "Coordinates identify the modern named place, not a birth house or independent verification of the roster tradition.",
+    "geonamesRecord": {
+      "name": "Gallese",
+      "lat": "42.37376",
+      "lng": "12.39646",
+      "country": "IT",
+      "admin1": "07",
+      "admin2": "VT"
+    },
+    "reasoning": "Vatican named place matched by name and modern country; the roster remains the origin authority.",
+    "sourceUrls": [
+      "https://www.vatican.va/content/vatican/en/holy-father.html",
+      "https://www.npmjs.com/package/cities.json/v/1.1.65"
+    ]
+  },
+  "Bishop of Portus": {
+    "label": "Birthplace unknown",
+    "country": null,
+    "countryCode": null,
+    "precision": "unknown",
+    "coordinates": null,
+    "bounds": null,
+    "placeId": null,
+    "uncertainty": "The source field is a later episcopal office, not a birthplace.",
+    "geonamesRecord": null,
+    "reasoning": "The source field is a later episcopal office, not a birthplace.",
+    "sourceUrls": [
+      "https://www.vatican.va/content/vatican/en/holy-father.html"
+    ]
+  },
+  "Ardea": {
+    "label": "Ardea",
+    "country": "Italy",
+    "countryCode": "IT",
+    "precision": "place",
+    "coordinates": [
+      12.54158,
+      41.60742
+    ],
+    "bounds": null,
+    "placeId": "place-it-ardea",
+    "uncertainty": "Coordinates identify the modern named place, not a birth house or independent verification of the roster tradition.",
+    "geonamesRecord": {
+      "name": "Ardea",
+      "lat": "41.60742",
+      "lng": "12.54158",
+      "country": "IT",
+      "admin1": "07",
+      "admin2": "RM"
+    },
+    "reasoning": "Vatican named place matched by name and modern country; the roster remains the origin authority.",
+    "sourceUrls": [
+      "https://www.vatican.va/content/vatican/en/holy-father.html",
+      "https://www.npmjs.com/package/cities.json/v/1.1.65"
+    ]
+  },
+  "Sabina": {
+    "label": "Sabina (approximate)",
+    "country": "Italy",
+    "countryCode": null,
+    "precision": "region",
+    "coordinates": null,
+    "bounds": [
+      [
+        12.4,
+        42
+      ],
+      [
+        13.3,
+        42.9
+      ]
+    ],
+    "placeId": "region-sabina-approximate",
+    "uncertainty": "Approximate origin only; the cartographic envelope is for orientation, not a documented birthplace or a historical boundary.",
+    "geonamesRecord": null,
+    "reasoning": "The named historical area supports regional placement only; indicative Lazio–Umbria envelope.",
+    "sourceUrls": [
+      "https://www.vatican.va/content/vatican/en/holy-father.html"
+    ]
+  },
+  "Tossignano (Imola)": {
+    "label": "Tossignano",
+    "country": "Italy",
+    "countryCode": "IT",
+    "precision": "place",
+    "coordinates": null,
+    "bounds": null,
+    "placeId": "place-it-tossignano",
+    "uncertainty": "The named place is retained, but no unique supported gazetteer match was found; no nearby town is substituted.",
+    "geonamesRecord": null,
+    "reasoning": "Vatican named place matched by name and modern country; the roster remains the origin authority.",
+    "sourceUrls": [
+      "https://www.vatican.va/content/vatican/en/holy-father.html",
+      "https://www.npmjs.com/package/cities.json/v/1.1.65"
+    ]
+  },
+  "Counts of Tusculum": {
+    "label": "Birthplace unknown",
+    "country": null,
+    "countryCode": null,
+    "precision": "unknown",
+    "coordinates": null,
+    "bounds": null,
+    "placeId": null,
+    "uncertainty": "The source field describes family/dynasty, not a documented birthplace.",
+    "geonamesRecord": null,
+    "reasoning": "The source field describes family/dynasty, not a documented birthplace.",
+    "sourceUrls": [
+      "https://www.vatican.va/content/vatican/en/holy-father.html"
+    ]
+  },
+  "Pavia": {
+    "label": "Pavia",
+    "country": "Italy",
+    "countryCode": "IT",
+    "precision": "place",
+    "coordinates": [
+      9.15917,
+      45.19205
+    ],
+    "bounds": null,
+    "placeId": "place-it-pavia",
+    "uncertainty": "Coordinates identify the modern named place, not a birth house or independent verification of the roster tradition.",
+    "geonamesRecord": {
+      "name": "Pavia",
+      "lat": "45.19205",
+      "lng": "9.15917",
+      "country": "IT",
+      "admin1": "09",
+      "admin2": "PV"
+    },
+    "reasoning": "Vatican named place matched by name and modern country; the roster remains the origin authority.",
+    "sourceUrls": [
+      "https://www.vatican.va/content/vatican/en/holy-father.html",
+      "https://www.npmjs.com/package/cities.json/v/1.1.65"
+    ]
+  },
+  "Saxony": {
+    "label": "Historical Saxony (approximate)",
+    "country": "Germany",
+    "countryCode": null,
+    "precision": "region",
+    "coordinates": null,
+    "bounds": [
+      [
+        7,
+        50.2
+      ],
+      [
+        14.5,
+        54.6
+      ]
+    ],
+    "placeId": "region-historical-saxony-approximate",
+    "uncertainty": "Approximate origin only; the cartographic envelope is for orientation, not a documented birthplace or a historical boundary.",
+    "geonamesRecord": null,
+    "reasoning": "Historical Saxony is not automatically the modern German state; use a broad German navigation envelope and no exact town.",
+    "sourceUrls": [
+      "https://www.vatican.va/content/vatican/en/holy-father.html"
+    ]
+  },
+  "Aquitaine": {
+    "label": "Aquitaine (approximate)",
+    "country": "France",
+    "countryCode": null,
+    "precision": "region",
+    "coordinates": null,
+    "bounds": [
+      [
+        -1.9,
+        42.4
+      ],
+      [
+        3.2,
+        46.5
+      ]
+    ],
+    "placeId": "region-aquitaine-approximate",
+    "uncertainty": "Approximate origin only; the cartographic envelope is for orientation, not a documented birthplace or a historical boundary.",
+    "geonamesRecord": null,
+    "reasoning": "The roster names Aquitaine; historical geographical meanings vary, so the broad French envelope is indicative only.",
+    "sourceUrls": [
+      "https://www.vatican.va/content/vatican/en/holy-father.html"
+    ]
+  },
+  "Tyrol": {
+    "label": "Tyrol (approximate)",
+    "country": "Austria / Italy",
+    "countryCode": null,
+    "precision": "region",
+    "coordinates": null,
+    "bounds": [
+      [
+        10.1,
+        46.4
+      ],
+      [
+        13,
+        47.8
+      ]
+    ],
+    "placeId": "region-tyrol-approximate",
+    "uncertainty": "Approximate origin only; the cartographic envelope is for orientation, not a documented birthplace or a historical boundary.",
+    "geonamesRecord": null,
+    "reasoning": "Historical regional origin only; indicative Alpine envelope spanning modern borders.",
+    "sourceUrls": [
+      "https://www.vatican.va/content/vatican/en/holy-father.html"
+    ]
+  },
+  "Alsace": {
+    "label": "Alsace (approximate)",
+    "country": "France",
+    "countryCode": null,
+    "precision": "region",
+    "coordinates": null,
+    "bounds": [
+      [
+        6.8,
+        47.4
+      ],
+      [
+        8.4,
+        49
+      ]
+    ],
+    "placeId": "region-alsace-approximate",
+    "uncertainty": "Approximate origin only; the cartographic envelope is for orientation, not a documented birthplace or a historical boundary.",
+    "geonamesRecord": null,
+    "reasoning": "Regional origin only; retain an indicative eastern French envelope, not a town.",
+    "sourceUrls": [
+      "https://www.vatican.va/content/vatican/en/holy-father.html"
+    ]
+  },
+  "Swabia": {
+    "label": "Swabia (approximate)",
+    "country": "Germany",
+    "countryCode": null,
+    "precision": "region",
+    "coordinates": null,
+    "bounds": [
+      [
+        7.7,
+        47.4
+      ],
+      [
+        11.1,
+        49.5
+      ]
+    ],
+    "placeId": "region-swabia-approximate",
+    "uncertainty": "Approximate origin only; the cartographic envelope is for orientation, not a documented birthplace or a historical boundary.",
+    "geonamesRecord": null,
+    "reasoning": "Historical regional origin only; broad southwest German envelope rather than modern administrative boundaries.",
+    "sourceUrls": [
+      "https://www.vatican.va/content/vatican/en/holy-father.html"
+    ]
+  },
+  "Bourgogne": {
+    "label": "Burgundy (approximate)",
+    "country": "France",
+    "countryCode": null,
+    "precision": "region",
+    "coordinates": null,
+    "bounds": [
+      [
+        2.8,
+        46.1
+      ],
+      [
+        6.5,
+        48.6
+      ]
+    ],
+    "placeId": "region-burgundy-approximate",
+    "uncertainty": "Approximate origin only; the cartographic envelope is for orientation, not a documented birthplace or a historical boundary.",
+    "geonamesRecord": null,
+    "reasoning": "Translate the regional name for English labels; indicative French envelope without identifying a town.",
+    "sourceUrls": [
+      "https://www.vatican.va/content/vatican/en/holy-father.html"
+    ]
+  },
+  "Baggio (Milano)": {
+    "label": "Baggio, Milan",
+    "country": "Italy",
+    "countryCode": "IT",
+    "precision": "place",
+    "coordinates": null,
+    "bounds": null,
+    "placeId": "place-it-baggio-milan",
+    "uncertainty": "The named place is retained, but no unique supported gazetteer match was found; no nearby town is substituted.",
+    "geonamesRecord": null,
+    "reasoning": "Vatican named place matched by name and modern country; the roster remains the origin authority.",
+    "sourceUrls": [
+      "https://www.vatican.va/content/vatican/en/holy-father.html",
+      "https://www.npmjs.com/package/cities.json/v/1.1.65"
+    ]
+  },
+  "Benevento": {
+    "label": "Benevento",
+    "country": "Italy",
+    "countryCode": "IT",
+    "precision": "place",
+    "coordinates": [
+      14.77816,
+      41.1307
+    ],
+    "bounds": null,
+    "placeId": "place-it-benevento",
+    "uncertainty": "Coordinates identify the modern named place, not a birth house or independent verification of the roster tradition.",
+    "geonamesRecord": {
+      "name": "Benevento",
+      "lat": "41.1307",
+      "lng": "14.77816",
+      "country": "IT",
+      "admin1": "04",
+      "admin2": "BN"
+    },
+    "reasoning": "Vatican named place matched by name and modern country; the roster remains the origin authority.",
+    "sourceUrls": [
+      "https://www.vatican.va/content/vatican/en/holy-father.html",
+      "https://www.npmjs.com/package/cities.json/v/1.1.65"
+    ]
+  },
+  "Châtillon-sur-Marne": {
+    "label": "Châtillon-sur-Marne",
+    "country": "France",
+    "countryCode": "FR",
+    "precision": "place",
+    "coordinates": [
+      3.76023,
+      49.10048
+    ],
+    "bounds": null,
+    "placeId": "place-fr-chatillon-sur-marne",
+    "uncertainty": "Coordinates identify the modern named place, not a birth house or independent verification of the roster tradition.",
+    "geonamesRecord": {
+      "name": "Châtillon-sur-Marne",
+      "lat": "49.10048",
+      "lng": "3.76023",
+      "country": "FR",
+      "admin1": "44",
+      "admin2": "51"
+    },
+    "reasoning": "Vatican named place matched by name and modern country; the roster remains the origin authority.",
+    "sourceUrls": [
+      "https://www.vatican.va/content/vatican/en/holy-father.html",
+      "https://www.npmjs.com/package/cities.json/v/1.1.65"
+    ]
+  },
+  "Bleda or Galeata": {
+    "label": "Bleda or Galeata (birthplace uncertain)",
+    "country": "Italy",
+    "countryCode": null,
+    "precision": "region",
+    "coordinates": null,
+    "bounds": [
+      [
+        11.65,
+        43.7
+      ],
+      [
+        12.1,
+        44.25
+      ]
+    ],
+    "placeId": "region-bleda-or-galeata-birthplace-uncertain",
+    "uncertainty": "Approximate origin only; the cartographic envelope is for orientation, not a documented birthplace or a historical boundary.",
+    "geonamesRecord": null,
+    "reasoning": "The source gives alternative locations. Show a broad local envelope around the alternatives; do not choose Galeata merely because it appears in the gazetteer.",
+    "sourceUrls": [
+      "https://www.vatican.va/content/vatican/en/holy-father.html"
+    ]
+  },
+  "Gaeta": {
+    "label": "Gaeta",
+    "country": "Italy",
+    "countryCode": "IT",
+    "precision": "place",
+    "coordinates": [
+      13.57082,
+      41.21408
+    ],
+    "bounds": null,
+    "placeId": "place-it-gaeta",
+    "uncertainty": "Coordinates identify the modern named place, not a birth house or independent verification of the roster tradition.",
+    "geonamesRecord": {
+      "name": "Gaeta",
+      "lat": "41.21408",
+      "lng": "13.57082",
+      "country": "IT",
+      "admin1": "07",
+      "admin2": "LT"
+    },
+    "reasoning": "Vatican named place matched by name and modern country; the roster remains the origin authority.",
+    "sourceUrls": [
+      "https://www.vatican.va/content/vatican/en/holy-father.html",
+      "https://www.npmjs.com/package/cities.json/v/1.1.65"
+    ]
+  },
+  "Fiagnano (Imola)": {
+    "label": "Fiagnano",
+    "country": "Italy",
+    "countryCode": "IT",
+    "precision": "place",
+    "coordinates": null,
+    "bounds": null,
+    "placeId": "place-it-fiagnano",
+    "uncertainty": "The named place is retained, but no unique supported gazetteer match was found; no nearby town is substituted.",
+    "geonamesRecord": null,
+    "reasoning": "Vatican named place matched by name and modern country; the roster remains the origin authority.",
+    "sourceUrls": [
+      "https://www.vatican.va/content/vatican/en/holy-father.html",
+      "https://www.npmjs.com/package/cities.json/v/1.1.65"
+    ]
+  },
+  "Città di Castello": {
+    "label": "Città di Castello",
+    "country": "Italy",
+    "countryCode": "IT",
+    "precision": "place",
+    "coordinates": [
+      12.2375,
+      43.46556
+    ],
+    "bounds": null,
+    "placeId": "place-it-citta-di-castello",
+    "uncertainty": "Coordinates identify the modern named place, not a birth house or independent verification of the roster tradition.",
+    "geonamesRecord": {
+      "name": "Città di Castello",
+      "lat": "43.46556",
+      "lng": "12.2375",
+      "country": "IT",
+      "admin1": "18",
+      "admin2": "PG"
+    },
+    "reasoning": "Vatican named place matched by name and modern country; the roster remains the origin authority.",
+    "sourceUrls": [
+      "https://www.vatican.va/content/vatican/en/holy-father.html",
+      "https://www.npmjs.com/package/cities.json/v/1.1.65"
+    ]
+  },
+  "Bologna": {
+    "label": "Bologna",
+    "country": "Italy",
+    "countryCode": "IT",
+    "precision": "place",
+    "coordinates": [
+      11.33875,
+      44.49381
+    ],
+    "bounds": null,
+    "placeId": "place-it-bologna",
+    "uncertainty": "Coordinates identify the modern named place, not a birth house or independent verification of the roster tradition.",
+    "geonamesRecord": {
+      "name": "Bologna",
+      "lat": "44.49381",
+      "lng": "11.33875",
+      "country": "IT",
+      "admin1": "05",
+      "admin2": "BO"
+    },
+    "reasoning": "Vatican named place matched by name and modern country; the roster remains the origin authority.",
+    "sourceUrls": [
+      "https://www.vatican.va/content/vatican/en/holy-father.html",
+      "https://www.npmjs.com/package/cities.json/v/1.1.65"
+    ]
+  },
+  "Pisa": {
+    "label": "Pisa",
+    "country": "Italy",
+    "countryCode": "IT",
+    "precision": "place",
+    "coordinates": [
+      10.4036,
+      43.70853
+    ],
+    "bounds": null,
+    "placeId": "place-it-pisa",
+    "uncertainty": "Coordinates identify the modern named place, not a birth house or independent verification of the roster tradition.",
+    "geonamesRecord": {
+      "name": "Pisa",
+      "lat": "43.70853",
+      "lng": "10.4036",
+      "country": "IT",
+      "admin1": "16",
+      "admin2": "PI"
+    },
+    "reasoning": "Vatican named place matched by name and modern country; the roster remains the origin authority.",
+    "sourceUrls": [
+      "https://www.vatican.va/content/vatican/en/holy-father.html",
+      "https://www.npmjs.com/package/cities.json/v/1.1.65"
+    ]
+  },
+  "Abbot's Lagnley (Hertfordshire)": {
+    "label": "Abbots Langley",
+    "country": "United Kingdom",
+    "countryCode": "GB",
+    "precision": "place",
+    "coordinates": [
+      -0.41757,
+      51.70573
+    ],
+    "bounds": null,
+    "placeId": "place-gb-abbots-langley",
+    "uncertainty": "Coordinates identify the modern named place, not a birth house or independent verification of the roster tradition.",
+    "geonamesRecord": {
+      "name": "Abbots Langley",
+      "lat": "51.70573",
+      "lng": "-0.41757",
+      "country": "GB",
+      "admin1": "ENG",
+      "admin2": "F8"
+    },
+    "reasoning": "Correct the roster typographical spelling Lagnley to Langley and remove the possessive apostrophe for the modern gazetteer spelling; source Hertfordshire identifies the English town.",
+    "sourceUrls": [
+      "https://www.vatican.va/content/vatican/en/holy-father.html",
+      "https://www.npmjs.com/package/cities.json/v/1.1.65"
+    ]
+  },
+  "Siena": {
+    "label": "Siena",
+    "country": "Italy",
+    "countryCode": "IT",
+    "precision": "place",
+    "coordinates": [
+      11.33064,
+      43.31822
+    ],
+    "bounds": null,
+    "placeId": "place-it-siena",
+    "uncertainty": "Coordinates identify the modern named place, not a birth house or independent verification of the roster tradition.",
+    "geonamesRecord": {
+      "name": "Siena",
+      "lat": "43.31822",
+      "lng": "11.33064",
+      "country": "IT",
+      "admin1": "16",
+      "admin2": "SI"
+    },
+    "reasoning": "Vatican named place matched by name and modern country; the roster remains the origin authority.",
+    "sourceUrls": [
+      "https://www.vatican.va/content/vatican/en/holy-father.html",
+      "https://www.npmjs.com/package/cities.json/v/1.1.65"
+    ]
+  },
+  "Lucca": {
+    "label": "Lucca",
+    "country": "Italy",
+    "countryCode": "IT",
+    "precision": "place",
+    "coordinates": [
+      10.50447,
+      43.84369
+    ],
+    "bounds": null,
+    "placeId": "place-it-lucca",
+    "uncertainty": "Coordinates identify the modern named place, not a birth house or independent verification of the roster tradition.",
+    "geonamesRecord": {
+      "name": "Lucca",
+      "lat": "43.84369",
+      "lng": "10.50447",
+      "country": "IT",
+      "admin1": "16",
+      "admin2": "LU"
+    },
+    "reasoning": "Vatican named place matched by name and modern country; the roster remains the origin authority.",
+    "sourceUrls": [
+      "https://www.vatican.va/content/vatican/en/holy-father.html",
+      "https://www.npmjs.com/package/cities.json/v/1.1.65"
+    ]
+  },
+  "Milan": {
+    "label": "Milan",
+    "country": "Italy",
+    "countryCode": "IT",
+    "precision": "place",
+    "coordinates": [
+      9.18951,
+      45.46427
+    ],
+    "bounds": null,
+    "placeId": "place-it-milan",
+    "uncertainty": "Coordinates identify the modern named place, not a birth house or independent verification of the roster tradition.",
+    "geonamesRecord": {
+      "name": "Milan",
+      "lat": "45.46427",
+      "lng": "9.18951",
+      "country": "IT",
+      "admin1": "09",
+      "admin2": "MI"
+    },
+    "reasoning": "Vatican named place matched by name and modern country; the roster remains the origin authority.",
+    "sourceUrls": [
+      "https://www.vatican.va/content/vatican/en/holy-father.html",
+      "https://www.npmjs.com/package/cities.json/v/1.1.65"
+    ]
+  },
+  "Gavignano (Rome)": {
+    "label": "Gavignano",
+    "country": "Italy",
+    "countryCode": "IT",
+    "precision": "place",
+    "coordinates": [
+      13.05032,
+      41.69891
+    ],
+    "bounds": null,
+    "placeId": "place-it-gavignano",
+    "uncertainty": "Coordinates identify the modern named place, not a birth house or independent verification of the roster tradition.",
+    "geonamesRecord": {
+      "name": "Gavignano",
+      "lat": "41.69891",
+      "lng": "13.05032",
+      "country": "IT",
+      "admin1": "07",
+      "admin2": "RM"
+    },
+    "reasoning": "Vatican named place matched by name and modern country; the roster remains the origin authority.",
+    "sourceUrls": [
+      "https://www.vatican.va/content/vatican/en/holy-father.html",
+      "https://www.npmjs.com/package/cities.json/v/1.1.65"
+    ]
+  },
+  "Anagni": {
+    "label": "Anagni",
+    "country": "Italy",
+    "countryCode": "IT",
+    "precision": "place",
+    "coordinates": [
+      13.15542,
+      41.7435
+    ],
+    "bounds": null,
+    "placeId": "place-it-anagni",
+    "uncertainty": "Coordinates identify the modern named place, not a birth house or independent verification of the roster tradition.",
+    "geonamesRecord": {
+      "name": "Anagni",
+      "lat": "41.7435",
+      "lng": "13.15542",
+      "country": "IT",
+      "admin1": "07",
+      "admin2": "FR"
+    },
+    "reasoning": "Vatican named place matched by name and modern country; the roster remains the origin authority.",
+    "sourceUrls": [
+      "https://www.vatican.va/content/vatican/en/holy-father.html",
+      "https://www.npmjs.com/package/cities.json/v/1.1.65"
+    ]
+  },
+  "Lavagna (Genoa)": {
+    "label": "Lavagna",
+    "country": "Italy",
+    "countryCode": "IT",
+    "precision": "place",
+    "coordinates": [
+      9.35383,
+      44.3062
+    ],
+    "bounds": null,
+    "placeId": "place-it-lavagna",
+    "uncertainty": "Coordinates identify the modern named place, not a birth house or independent verification of the roster tradition.",
+    "geonamesRecord": {
+      "name": "Lavagna",
+      "lat": "44.3062",
+      "lng": "9.35383",
+      "country": "IT",
+      "admin1": "08",
+      "admin2": "GE"
+    },
+    "reasoning": "Vatican named place matched by name and modern country; the roster remains the origin authority.",
+    "sourceUrls": [
+      "https://www.vatican.va/content/vatican/en/holy-father.html",
+      "https://www.npmjs.com/package/cities.json/v/1.1.65"
+    ]
+  },
+  "Jenne (Rome)": {
+    "label": "Jenne",
+    "country": "Italy",
+    "countryCode": "IT",
+    "precision": "place",
+    "coordinates": [
+      13.16959,
+      41.88882
+    ],
+    "bounds": null,
+    "placeId": "place-it-jenne",
+    "uncertainty": "Coordinates identify the modern named place, not a birth house or independent verification of the roster tradition.",
+    "geonamesRecord": {
+      "name": "Jenne",
+      "lat": "41.88882",
+      "lng": "13.16959",
+      "country": "IT",
+      "admin1": "07",
+      "admin2": "RM"
+    },
+    "reasoning": "Vatican named place matched by name and modern country; the roster remains the origin authority.",
+    "sourceUrls": [
+      "https://www.vatican.va/content/vatican/en/holy-father.html",
+      "https://www.npmjs.com/package/cities.json/v/1.1.65"
+    ]
+  },
+  "Troyes": {
+    "label": "Troyes",
+    "country": "France",
+    "countryCode": "FR",
+    "precision": "place",
+    "coordinates": [
+      4.08524,
+      48.30073
+    ],
+    "bounds": null,
+    "placeId": "place-fr-troyes",
+    "uncertainty": "Coordinates identify the modern named place, not a birth house or independent verification of the roster tradition.",
+    "geonamesRecord": {
+      "name": "Troyes",
+      "lat": "48.30073",
+      "lng": "4.08524",
+      "country": "FR",
+      "admin1": "44",
+      "admin2": "10"
+    },
+    "reasoning": "Vatican named place matched by name and modern country; the roster remains the origin authority.",
+    "sourceUrls": [
+      "https://www.vatican.va/content/vatican/en/holy-father.html",
+      "https://www.npmjs.com/package/cities.json/v/1.1.65"
+    ]
+  },
+  "Saint-Gilles (Southern French)": {
+    "label": "Saint-Gilles",
+    "country": "France",
+    "countryCode": "FR",
+    "precision": "place",
+    "coordinates": [
+      4.43024,
+      43.67656
+    ],
+    "bounds": null,
+    "placeId": "place-fr-saint-gilles",
+    "uncertainty": "Coordinates identify the modern named place, not a birth house or independent verification of the roster tradition.",
+    "geonamesRecord": {
+      "name": "Saint-Gilles",
+      "lat": "43.67656",
+      "lng": "4.43024",
+      "country": "FR",
+      "admin1": "76",
+      "admin2": "30"
+    },
+    "reasoning": "The source explicitly says Southern French; select the Gard (admin2 30) town, not the same-name town in Brittany.",
+    "sourceUrls": [
+      "https://www.vatican.va/content/vatican/en/holy-father.html",
+      "https://www.npmjs.com/package/cities.json/v/1.1.65"
+    ]
+  },
+  "Piacenza": {
+    "label": "Piacenza",
+    "country": "Italy",
+    "countryCode": "IT",
+    "precision": "place",
+    "coordinates": [
+      9.69342,
+      45.05242
+    ],
+    "bounds": null,
+    "placeId": "place-it-piacenza",
+    "uncertainty": "Coordinates identify the modern named place, not a birth house or independent verification of the roster tradition.",
+    "geonamesRecord": {
+      "name": "Piacenza",
+      "lat": "45.05242",
+      "lng": "9.69342",
+      "country": "IT",
+      "admin1": "05",
+      "admin2": "PC"
+    },
+    "reasoning": "Vatican named place matched by name and modern country; the roster remains the origin authority.",
+    "sourceUrls": [
+      "https://www.vatican.va/content/vatican/en/holy-father.html",
+      "https://www.npmjs.com/package/cities.json/v/1.1.65"
+    ]
+  },
+  "Savoy": {
+    "label": "Savoy (approximate)",
+    "country": "France / Italy",
+    "countryCode": null,
+    "precision": "region",
+    "coordinates": null,
+    "bounds": [
+      [
+        5,
+        45.1
+      ],
+      [
+        7.5,
+        46.6
+      ]
+    ],
+    "placeId": "region-savoy-approximate",
+    "uncertainty": "Approximate origin only; the cartographic envelope is for orientation, not a documented birthplace or a historical boundary.",
+    "geonamesRecord": null,
+    "reasoning": "Historical regional origin only; indicative Alpine envelope spanning modern borders.",
+    "sourceUrls": [
+      "https://www.vatican.va/content/vatican/en/holy-father.html"
+    ]
+  },
+  "Genoa": {
+    "label": "Genoa",
+    "country": "Italy",
+    "countryCode": "IT",
+    "precision": "place",
+    "coordinates": [
+      8.94439,
+      44.40478
+    ],
+    "bounds": null,
+    "placeId": "place-it-genoa",
+    "uncertainty": "Coordinates identify the modern named place, not a birth house or independent verification of the roster tradition.",
+    "geonamesRecord": {
+      "name": "Genoa",
+      "lat": "44.40478",
+      "lng": "8.94439",
+      "country": "IT",
+      "admin1": "08",
+      "admin2": "GE"
+    },
+    "reasoning": "Vatican named place matched by name and modern country; the roster remains the origin authority.",
+    "sourceUrls": [
+      "https://www.vatican.va/content/vatican/en/holy-father.html",
+      "https://www.npmjs.com/package/cities.json/v/1.1.65"
+    ]
+  },
+  "Lisbon": {
+    "label": "Lisbon",
+    "country": "Portugal",
+    "countryCode": "PT",
+    "precision": "place",
+    "coordinates": [
+      -9.1498,
+      38.72509
+    ],
+    "bounds": null,
+    "placeId": "place-pt-lisbon",
+    "uncertainty": "Coordinates identify the modern named place, not a birth house or independent verification of the roster tradition.",
+    "geonamesRecord": {
+      "name": "Lisbon",
+      "lat": "38.72509",
+      "lng": "-9.1498",
+      "country": "PT",
+      "admin1": "14",
+      "admin2": "1106"
+    },
+    "reasoning": "Vatican named place matched by name and modern country; the roster remains the origin authority.",
+    "sourceUrls": [
+      "https://www.vatican.va/content/vatican/en/holy-father.html",
+      "https://www.npmjs.com/package/cities.json/v/1.1.65"
+    ]
+  },
+  "France": {
+    "label": "France (approximate origin)",
+    "country": "France",
+    "countryCode": null,
+    "precision": "region",
+    "coordinates": null,
+    "bounds": [
+      [
+        -5.5,
+        41.3
+      ],
+      [
+        9.8,
+        51.2
+      ]
+    ],
+    "placeId": "region-france-approximate-origin",
+    "uncertainty": "Approximate origin only; the cartographic envelope is for orientation, not a documented birthplace or a historical boundary.",
+    "geonamesRecord": null,
+    "reasoning": "Country-level source origin, with metropolitan geographical bounds for orientation; no town inferred.",
+    "sourceUrls": [
+      "https://www.vatican.va/content/vatican/en/holy-father.html"
+    ]
+  },
+  "Lisciano (Ascoli PIceno)": {
+    "label": "Lisciano, Ascoli Piceno",
+    "country": "Italy",
+    "countryCode": "IT",
+    "precision": "place",
+    "coordinates": null,
+    "bounds": null,
+    "placeId": "place-it-lisciano-ascoli-piceno",
+    "uncertainty": "The named place is retained, but no unique supported gazetteer match was found; no nearby town is substituted.",
+    "geonamesRecord": null,
+    "reasoning": "Vatican named place matched by name and modern country; the roster remains the origin authority.",
+    "sourceUrls": [
+      "https://www.vatican.va/content/vatican/en/holy-father.html",
+      "https://www.npmjs.com/package/cities.json/v/1.1.65"
+    ]
+  },
+  "Molise": {
+    "label": "Molise (approximate)",
+    "country": "Italy",
+    "countryCode": null,
+    "precision": "region",
+    "coordinates": null,
+    "bounds": [
+      [
+        13.9,
+        41.3
+      ],
+      [
+        15.2,
+        42.2
+      ]
+    ],
+    "placeId": "region-molise-approximate",
+    "uncertainty": "Approximate origin only; the cartographic envelope is for orientation, not a documented birthplace or a historical boundary.",
+    "geonamesRecord": null,
+    "reasoning": "Regional origin only; approximate modern-area navigation envelope does not establish medieval boundaries.",
+    "sourceUrls": [
+      "https://www.vatican.va/content/vatican/en/holy-father.html"
+    ]
+  },
+  "Treviso": {
+    "label": "Treviso",
+    "country": "Italy",
+    "countryCode": "IT",
+    "precision": "place",
+    "coordinates": [
+      12.2416,
+      45.66673
+    ],
+    "bounds": null,
+    "placeId": "place-it-treviso",
+    "uncertainty": "Coordinates identify the modern named place, not a birth house or independent verification of the roster tradition.",
+    "geonamesRecord": {
+      "name": "Treviso",
+      "lat": "45.66673",
+      "lng": "12.2416",
+      "country": "IT",
+      "admin1": "20",
+      "admin2": "TV"
+    },
+    "reasoning": "Vatican named place matched by name and modern country; the roster remains the origin authority.",
+    "sourceUrls": [
+      "https://www.vatican.va/content/vatican/en/holy-father.html",
+      "https://www.npmjs.com/package/cities.json/v/1.1.65"
+    ]
+  },
+  "Villandraut (Gironde)": {
+    "label": "Villandraut",
+    "country": "France",
+    "countryCode": "FR",
+    "precision": "place",
+    "coordinates": null,
+    "bounds": null,
+    "placeId": "place-fr-villandraut",
+    "uncertainty": "The named place is retained, but no unique supported gazetteer match was found; no nearby town is substituted.",
+    "geonamesRecord": null,
+    "reasoning": "Vatican named place matched by name and modern country; the roster remains the origin authority.",
+    "sourceUrls": [
+      "https://www.vatican.va/content/vatican/en/holy-father.html",
+      "https://www.npmjs.com/package/cities.json/v/1.1.65"
+    ]
+  },
+  "Cahors": {
+    "label": "Cahors",
+    "country": "France",
+    "countryCode": "FR",
+    "precision": "place",
+    "coordinates": [
+      1.43663,
+      44.4491
+    ],
+    "bounds": null,
+    "placeId": "place-fr-cahors",
+    "uncertainty": "Coordinates identify the modern named place, not a birth house or independent verification of the roster tradition.",
+    "geonamesRecord": {
+      "name": "Cahors",
+      "lat": "44.4491",
+      "lng": "1.43663",
+      "country": "FR",
+      "admin1": "76",
+      "admin2": "46"
+    },
+    "reasoning": "Vatican named place matched by name and modern country; the roster remains the origin authority.",
+    "sourceUrls": [
+      "https://www.vatican.va/content/vatican/en/holy-father.html",
+      "https://www.npmjs.com/package/cities.json/v/1.1.65"
+    ]
+  },
+  "Saverdun (Southern France)": {
+    "label": "Saverdun",
+    "country": "France",
+    "countryCode": "FR",
+    "precision": "place",
+    "coordinates": [
+      1.57443,
+      43.23458
+    ],
+    "bounds": null,
+    "placeId": "place-fr-saverdun",
+    "uncertainty": "Coordinates identify the modern named place, not a birth house or independent verification of the roster tradition.",
+    "geonamesRecord": {
+      "name": "Saverdun",
+      "lat": "43.23458",
+      "lng": "1.57443",
+      "country": "FR",
+      "admin1": "76",
+      "admin2": "09"
+    },
+    "reasoning": "Vatican named place matched by name and modern country; the roster remains the origin authority.",
+    "sourceUrls": [
+      "https://www.vatican.va/content/vatican/en/holy-father.html",
+      "https://www.npmjs.com/package/cities.json/v/1.1.65"
+    ]
+  },
+  "Maumont (Limousin)": {
+    "label": "Maumont, Limousin",
+    "country": "France",
+    "countryCode": "FR",
+    "precision": "place",
+    "coordinates": null,
+    "bounds": null,
+    "placeId": "place-fr-maumont-limousin",
+    "uncertainty": "The named place is retained, but no unique supported gazetteer match was found; no nearby town is substituted.",
+    "geonamesRecord": null,
+    "reasoning": "Vatican named place matched by name and modern country; the roster remains the origin authority.",
+    "sourceUrls": [
+      "https://www.vatican.va/content/vatican/en/holy-father.html",
+      "https://www.npmjs.com/package/cities.json/v/1.1.65"
+    ]
+  },
+  "Monts (Limousin)": {
+    "label": "Monts, Limousin",
+    "country": "France",
+    "countryCode": "FR",
+    "precision": "place",
+    "coordinates": null,
+    "bounds": null,
+    "placeId": "place-fr-monts-limousin",
+    "uncertainty": "The named place is retained, but no unique supported gazetteer match was found; no nearby town is substituted.",
+    "geonamesRecord": null,
+    "reasoning": "Vatican named place matched by name and modern country; the roster remains the origin authority.",
+    "sourceUrls": [
+      "https://www.vatican.va/content/vatican/en/holy-father.html",
+      "https://www.npmjs.com/package/cities.json/v/1.1.65"
+    ]
+  },
+  "Grizac (Southern France)": {
+    "label": "Grizac",
+    "country": "France",
+    "countryCode": "FR",
+    "precision": "place",
+    "coordinates": null,
+    "bounds": null,
+    "placeId": "place-fr-grizac",
+    "uncertainty": "The named place is retained, but no unique supported gazetteer match was found; no nearby town is substituted.",
+    "geonamesRecord": null,
+    "reasoning": "Vatican named place matched by name and modern country; the roster remains the origin authority.",
+    "sourceUrls": [
+      "https://www.vatican.va/content/vatican/en/holy-father.html",
+      "https://www.npmjs.com/package/cities.json/v/1.1.65"
+    ]
+  },
+  "Rosiers d'Egletons (Limousin)": {
+    "label": "Rosiers-d'Égletons",
+    "country": "France",
+    "countryCode": "FR",
+    "precision": "place",
+    "coordinates": null,
+    "bounds": null,
+    "placeId": "place-fr-rosiers-d-egletons",
+    "uncertainty": "The named place is retained, but no unique supported gazetteer match was found; no nearby town is substituted.",
+    "geonamesRecord": null,
+    "reasoning": "Vatican named place matched by name and modern country; the roster remains the origin authority.",
+    "sourceUrls": [
+      "https://www.vatican.va/content/vatican/en/holy-father.html",
+      "https://www.npmjs.com/package/cities.json/v/1.1.65"
+    ]
+  },
+  "Sulmona": {
+    "label": "Sulmona",
+    "country": "Italy",
+    "countryCode": "IT",
+    "precision": "place",
+    "coordinates": [
+      13.92578,
+      42.04945
+    ],
+    "bounds": null,
+    "placeId": "place-it-sulmona",
+    "uncertainty": "Coordinates identify the modern named place, not a birth house or independent verification of the roster tradition.",
+    "geonamesRecord": {
+      "name": "Sulmona",
+      "lat": "42.04945",
+      "lng": "13.92578",
+      "country": "IT",
+      "admin1": "01",
+      "admin2": "AQ"
+    },
+    "reasoning": "Vatican named place matched by name and modern country; the roster remains the origin authority.",
+    "sourceUrls": [
+      "https://www.vatican.va/content/vatican/en/holy-father.html",
+      "https://www.npmjs.com/package/cities.json/v/1.1.65"
+    ]
+  },
+  "Venice": {
+    "label": "Venice",
+    "country": "Italy",
+    "countryCode": "IT",
+    "precision": "place",
+    "coordinates": [
+      12.33265,
+      45.43713
+    ],
+    "bounds": null,
+    "placeId": "place-it-venice",
+    "uncertainty": "Coordinates identify the modern named place, not a birth house or independent verification of the roster tradition.",
+    "geonamesRecord": {
+      "name": "Venice",
+      "lat": "45.43713",
+      "lng": "12.33265",
+      "country": "IT",
+      "admin1": "20",
+      "admin2": "VE"
+    },
+    "reasoning": "Vatican named place matched by name and modern country; the roster remains the origin authority.",
+    "sourceUrls": [
+      "https://www.vatican.va/content/vatican/en/holy-father.html",
+      "https://www.npmjs.com/package/cities.json/v/1.1.65"
+    ]
+  },
+  "Genazzano": {
+    "label": "Genazzano",
+    "country": "Italy",
+    "countryCode": "IT",
+    "precision": "place",
+    "coordinates": [
+      12.97196,
+      41.82807
+    ],
+    "bounds": null,
+    "placeId": "place-it-genazzano",
+    "uncertainty": "Coordinates identify the modern named place, not a birth house or independent verification of the roster tradition.",
+    "geonamesRecord": {
+      "name": "Genazzano",
+      "lat": "41.82807",
+      "lng": "12.97196",
+      "country": "IT",
+      "admin1": "07",
+      "admin2": "RM"
+    },
+    "reasoning": "Vatican named place matched by name and modern country; the roster remains the origin authority.",
+    "sourceUrls": [
+      "https://www.vatican.va/content/vatican/en/holy-father.html",
+      "https://www.npmjs.com/package/cities.json/v/1.1.65"
+    ]
+  },
+  "Sarzana": {
+    "label": "Sarzana",
+    "country": "Italy",
+    "countryCode": "IT",
+    "precision": "place",
+    "coordinates": [
+      9.9622,
+      44.11178
+    ],
+    "bounds": null,
+    "placeId": "place-it-sarzana",
+    "uncertainty": "Coordinates identify the modern named place, not a birth house or independent verification of the roster tradition.",
+    "geonamesRecord": {
+      "name": "Sarzana",
+      "lat": "44.11178",
+      "lng": "9.9622",
+      "country": "IT",
+      "admin1": "08",
+      "admin2": "SP"
+    },
+    "reasoning": "Vatican named place matched by name and modern country; the roster remains the origin authority.",
+    "sourceUrls": [
+      "https://www.vatican.va/content/vatican/en/holy-father.html",
+      "https://www.npmjs.com/package/cities.json/v/1.1.65"
+    ]
+  },
+  "Torre de Canals, Játiva (Valencia)": {
+    "label": "Torre de Canals",
+    "country": "Spain",
+    "countryCode": "ES",
+    "precision": "place",
+    "coordinates": null,
+    "bounds": null,
+    "placeId": "place-es-torre-de-canals",
+    "uncertainty": "The named place is retained, but no unique supported gazetteer match was found; no nearby town is substituted.",
+    "geonamesRecord": null,
+    "reasoning": "Vatican named place matched by name and modern country; the roster remains the origin authority.",
+    "sourceUrls": [
+      "https://www.vatican.va/content/vatican/en/holy-father.html",
+      "https://www.npmjs.com/package/cities.json/v/1.1.65"
+    ]
+  },
+  "Corsignano (Siena)": {
+    "label": "Pienza",
+    "country": "Italy",
+    "countryCode": "IT",
+    "precision": "place",
+    "coordinates": [
+      11.67671,
+      43.07873
+    ],
+    "bounds": null,
+    "placeId": "place-it-pienza",
+    "uncertainty": "Coordinates identify the modern named place, not a birth house or independent verification of the roster tradition.",
+    "geonamesRecord": {
+      "name": "Pienza",
+      "lat": "43.07873",
+      "lng": "11.67671",
+      "country": "IT",
+      "admin1": "16",
+      "admin2": "SI"
+    },
+    "reasoning": "The Municipality of Pienza tourism site identifies Corsignano as the former town name; use the modern Pienza gazetteer record.",
+    "sourceUrls": [
+      "https://www.vatican.va/content/vatican/en/holy-father.html",
+      "https://www.npmjs.com/package/cities.json/v/1.1.65",
+      "https://www.pienzawelcome.it/en/discover-pienza/thematic-itineraries/history-and-memory/"
+    ]
+  },
+  "Celle (Savona)": {
+    "label": "Celle Ligure",
+    "country": "Italy",
+    "countryCode": "IT",
+    "precision": "place",
+    "coordinates": [
+      8.54685,
+      44.34509
+    ],
+    "bounds": null,
+    "placeId": "place-it-celle-ligure",
+    "uncertainty": "Coordinates identify the modern named place, not a birth house or independent verification of the roster tradition.",
+    "geonamesRecord": {
+      "name": "Celle Ligure",
+      "lat": "44.34509",
+      "lng": "8.54685",
+      "country": "IT",
+      "admin1": "08",
+      "admin2": "SV"
+    },
+    "reasoning": "The official Vatican French profile names Celle Ligure, disambiguating the shorter English Celle (Savona).",
+    "sourceUrls": [
+      "https://www.vatican.va/content/vatican/en/holy-father.html",
+      "https://www.npmjs.com/package/cities.json/v/1.1.65",
+      "https://www.vatican.va/content/vatican/fr/holy-father/sisto-iv.html"
+    ]
+  },
+  "Játiva (Valencia)": {
+    "label": "Xàtiva",
+    "country": "Spain",
+    "countryCode": "ES",
+    "precision": "place",
+    "coordinates": [
+      -0.51852,
+      38.99042
+    ],
+    "bounds": null,
+    "placeId": "place-es-xativa",
+    "uncertainty": "Coordinates identify the modern named place, not a birth house or independent verification of the roster tradition.",
+    "geonamesRecord": {
+      "name": "Xàtiva",
+      "lat": "38.99042",
+      "lng": "-0.51852",
+      "country": "ES",
+      "admin1": "60",
+      "admin2": "V"
+    },
+    "reasoning": "Játiva and Xàtiva are Spanish/Valencian name forms of the same Valencian town; gazetteer record uses Xàtiva.",
+    "sourceUrls": [
+      "https://www.vatican.va/content/vatican/en/holy-father.html",
+      "https://www.npmjs.com/package/cities.json/v/1.1.65"
+    ]
+  },
+  "Albisola (Savona)": {
+    "label": "Albisola",
+    "country": "Italy",
+    "countryCode": "IT",
+    "precision": "place",
+    "coordinates": null,
+    "bounds": null,
+    "placeId": "place-it-albisola",
+    "uncertainty": "The named place is retained, but no unique supported gazetteer match was found; no nearby town is substituted.",
+    "geonamesRecord": null,
+    "reasoning": "Vatican named place matched by name and modern country; the roster remains the origin authority.",
+    "sourceUrls": [
+      "https://www.vatican.va/content/vatican/en/holy-father.html",
+      "https://www.npmjs.com/package/cities.json/v/1.1.65"
+    ]
+  },
+  "Florence": {
+    "label": "Florence",
+    "country": "Italy",
+    "countryCode": "IT",
+    "precision": "place",
+    "coordinates": [
+      11.24626,
+      43.77925
+    ],
+    "bounds": null,
+    "placeId": "place-it-florence",
+    "uncertainty": "Coordinates identify the modern named place, not a birth house or independent verification of the roster tradition.",
+    "geonamesRecord": {
+      "name": "Florence",
+      "lat": "43.77925",
+      "lng": "11.24626",
+      "country": "IT",
+      "admin1": "16",
+      "admin2": "FI"
+    },
+    "reasoning": "Vatican named place matched by name and modern country; the roster remains the origin authority.",
+    "sourceUrls": [
+      "https://www.vatican.va/content/vatican/en/holy-father.html",
+      "https://www.npmjs.com/package/cities.json/v/1.1.65"
+    ]
+  },
+  "Utrecht": {
+    "label": "Utrecht",
+    "country": "Netherlands",
+    "countryCode": "NL",
+    "precision": "place",
+    "coordinates": [
+      5.12222,
+      52.09083
+    ],
+    "bounds": null,
+    "placeId": "place-nl-utrecht",
+    "uncertainty": "Coordinates identify the modern named place, not a birth house or independent verification of the roster tradition.",
+    "geonamesRecord": {
+      "name": "Utrecht",
+      "lat": "52.09083",
+      "lng": "5.12222",
+      "country": "NL",
+      "admin1": "09",
+      "admin2": "0344"
+    },
+    "reasoning": "Vatican named place matched by name and modern country; the roster remains the origin authority.",
+    "sourceUrls": [
+      "https://www.vatican.va/content/vatican/en/holy-father.html",
+      "https://www.npmjs.com/package/cities.json/v/1.1.65"
+    ]
+  },
+  "Canino (Viterbo)": {
+    "label": "Canino",
+    "country": "Italy",
+    "countryCode": "IT",
+    "precision": "place",
+    "coordinates": [
+      11.75294,
+      42.46592
+    ],
+    "bounds": null,
+    "placeId": "place-it-canino",
+    "uncertainty": "Coordinates identify the modern named place, not a birth house or independent verification of the roster tradition.",
+    "geonamesRecord": {
+      "name": "Canino",
+      "lat": "42.46592",
+      "lng": "11.75294",
+      "country": "IT",
+      "admin1": "07",
+      "admin2": "VT"
+    },
+    "reasoning": "Vatican named place matched by name and modern country; the roster remains the origin authority.",
+    "sourceUrls": [
+      "https://www.vatican.va/content/vatican/en/holy-father.html",
+      "https://www.npmjs.com/package/cities.json/v/1.1.65"
+    ]
+  },
+  "Montefano": {
+    "label": "Montefano",
+    "country": "Italy",
+    "countryCode": "IT",
+    "precision": "place",
+    "coordinates": [
+      13.4369,
+      43.40982
+    ],
+    "bounds": null,
+    "placeId": "place-it-montefano",
+    "uncertainty": "Coordinates identify the modern named place, not a birth house or independent verification of the roster tradition.",
+    "geonamesRecord": {
+      "name": "Montefano",
+      "lat": "43.40982",
+      "lng": "13.4369",
+      "country": "IT",
+      "admin1": "10",
+      "admin2": "MC"
+    },
+    "reasoning": "Vatican named place matched by name and modern country; the roster remains the origin authority.",
+    "sourceUrls": [
+      "https://www.vatican.va/content/vatican/en/holy-father.html",
+      "https://www.npmjs.com/package/cities.json/v/1.1.65"
+    ]
+  },
+  "Capriglia (Avellino)": {
+    "label": "Capriglia Irpina",
+    "country": "Italy",
+    "countryCode": "IT",
+    "precision": "place",
+    "coordinates": [
+      14.77724,
+      40.96032
+    ],
+    "bounds": null,
+    "placeId": "place-it-capriglia-irpina",
+    "uncertainty": "Coordinates identify the modern named place, not a birth house or independent verification of the roster tradition.",
+    "geonamesRecord": {
+      "name": "Capriglia Irpina",
+      "lat": "40.96032",
+      "lng": "14.77724",
+      "country": "IT",
+      "admin1": "04",
+      "admin2": "AV"
+    },
+    "reasoning": "Use the municipality Capriglia Irpina in Avellino; the source provincial qualifier excludes same-name Capriglia in Salerno.",
+    "sourceUrls": [
+      "https://www.vatican.va/content/vatican/en/holy-father.html",
+      "https://www.npmjs.com/package/cities.json/v/1.1.65"
+    ]
+  },
+  "Bosco (Alessandria)": {
+    "label": "Bosco Marengo",
+    "country": "Italy",
+    "countryCode": "IT",
+    "precision": "place",
+    "coordinates": [
+      8.68008,
+      44.82373
+    ],
+    "bounds": null,
+    "placeId": "place-it-bosco-marengo",
+    "uncertainty": "Coordinates identify the modern named place, not a birth house or independent verification of the roster tradition.",
+    "geonamesRecord": {
+      "name": "Bosco Marengo",
+      "lat": "44.82373",
+      "lng": "8.68008",
+      "country": "IT",
+      "admin1": "12",
+      "admin2": "AL"
+    },
+    "reasoning": "The Vatican German profile supplies Bosco Marengo bei Alessandria, disambiguating the shortened English name.",
+    "sourceUrls": [
+      "https://www.vatican.va/content/vatican/en/holy-father.html",
+      "https://www.npmjs.com/package/cities.json/v/1.1.65",
+      "https://www.vatican.va/content/vatican/de/holy-father/pio-v.html"
+    ]
+  },
+  "Grottammare (Ascoli Piceno)": {
+    "label": "Grottammare",
+    "country": "Italy",
+    "countryCode": "IT",
+    "precision": "place",
+    "coordinates": [
+      13.86765,
+      42.98182
+    ],
+    "bounds": null,
+    "placeId": "place-it-grottammare",
+    "uncertainty": "Coordinates identify the modern named place, not a birth house or independent verification of the roster tradition.",
+    "geonamesRecord": {
+      "name": "Grottammare",
+      "lat": "42.98182",
+      "lng": "13.86765",
+      "country": "IT",
+      "admin1": "10",
+      "admin2": "AP"
+    },
+    "reasoning": "Vatican named place matched by name and modern country; the roster remains the origin authority.",
+    "sourceUrls": [
+      "https://www.vatican.va/content/vatican/en/holy-father.html",
+      "https://www.npmjs.com/package/cities.json/v/1.1.65"
+    ]
+  },
+  "Somma Lombarda": {
+    "label": "Somma Lombardo",
+    "country": "Italy",
+    "countryCode": "IT",
+    "precision": "place",
+    "coordinates": [
+      8.70759,
+      45.68213
+    ],
+    "bounds": null,
+    "placeId": "place-it-somma-lombardo",
+    "uncertainty": "Coordinates identify the modern named place, not a birth house or independent verification of the roster tradition.",
+    "geonamesRecord": {
+      "name": "Somma Lombardo",
+      "lat": "45.68213",
+      "lng": "8.70759",
+      "country": "IT",
+      "admin1": "09",
+      "admin2": "VA"
+    },
+    "reasoning": "The Municipality of Somma Lombardo identifies Gregory XIV with its town; use the modern spelling.",
+    "sourceUrls": [
+      "https://www.vatican.va/content/vatican/en/holy-father.html",
+      "https://www.npmjs.com/package/cities.json/v/1.1.65",
+      "https://comune.sommalombardo.va.it/novita/notizia/gregorio-xiv-485-anni-fa-nasceva-il-papa-sommese/"
+    ]
+  },
+  "Fano": {
+    "label": "Fano",
+    "country": "Italy",
+    "countryCode": "IT",
+    "precision": "place",
+    "coordinates": [
+      13.01665,
+      43.84052
+    ],
+    "bounds": null,
+    "placeId": "place-it-fano",
+    "uncertainty": "Coordinates identify the modern named place, not a birth house or independent verification of the roster tradition.",
+    "geonamesRecord": {
+      "name": "Fano",
+      "lat": "43.84052",
+      "lng": "13.01665",
+      "country": "IT",
+      "admin1": "10",
+      "admin2": "PU"
+    },
+    "reasoning": "Vatican named place matched by name and modern country; the roster remains the origin authority.",
+    "sourceUrls": [
+      "https://www.vatican.va/content/vatican/en/holy-father.html",
+      "https://www.npmjs.com/package/cities.json/v/1.1.65"
+    ]
+  },
+  "Pistoia": {
+    "label": "Pistoia",
+    "country": "Italy",
+    "countryCode": "IT",
+    "precision": "place",
+    "coordinates": [
+      10.92365,
+      43.93064
+    ],
+    "bounds": null,
+    "placeId": "place-it-pistoia",
+    "uncertainty": "Coordinates identify the modern named place, not a birth house or independent verification of the roster tradition.",
+    "geonamesRecord": {
+      "name": "Pistoia",
+      "lat": "43.93064",
+      "lng": "10.92365",
+      "country": "IT",
+      "admin1": "16",
+      "admin2": "PT"
+    },
+    "reasoning": "Vatican named place matched by name and modern country; the roster remains the origin authority.",
+    "sourceUrls": [
+      "https://www.vatican.va/content/vatican/en/holy-father.html",
+      "https://www.npmjs.com/package/cities.json/v/1.1.65"
+    ]
+  },
+  "Como": {
+    "label": "Como",
+    "country": "Italy",
+    "countryCode": "IT",
+    "precision": "place",
+    "coordinates": [
+      9.0832,
+      45.80819
+    ],
+    "bounds": null,
+    "placeId": "place-it-como",
+    "uncertainty": "Coordinates identify the modern named place, not a birth house or independent verification of the roster tradition.",
+    "geonamesRecord": {
+      "name": "Como",
+      "lat": "45.80819",
+      "lng": "9.0832",
+      "country": "IT",
+      "admin1": "09",
+      "admin2": "CO"
+    },
+    "reasoning": "Vatican named place matched by name and modern country; the roster remains the origin authority.",
+    "sourceUrls": [
+      "https://www.vatican.va/content/vatican/en/holy-father.html",
+      "https://www.npmjs.com/package/cities.json/v/1.1.65"
+    ]
+  },
+  "Spinazzola": {
+    "label": "Spinazzola",
+    "country": "Italy",
+    "countryCode": "IT",
+    "precision": "place",
+    "coordinates": [
+      16.09111,
+      40.96399
+    ],
+    "bounds": null,
+    "placeId": "place-it-spinazzola",
+    "uncertainty": "Coordinates identify the modern named place, not a birth house or independent verification of the roster tradition.",
+    "geonamesRecord": {
+      "name": "Spinazzola",
+      "lat": "40.96399",
+      "lng": "16.09111",
+      "country": "IT",
+      "admin1": "13",
+      "admin2": "BT"
+    },
+    "reasoning": "Vatican named place matched by name and modern country; the roster remains the origin authority.",
+    "sourceUrls": [
+      "https://www.vatican.va/content/vatican/en/holy-father.html",
+      "https://www.npmjs.com/package/cities.json/v/1.1.65"
+    ]
+  },
+  "Urbino": {
+    "label": "Urbino",
+    "country": "Italy",
+    "countryCode": "IT",
+    "precision": "place",
+    "coordinates": [
+      12.63633,
+      43.72621
+    ],
+    "bounds": null,
+    "placeId": "place-it-urbino",
+    "uncertainty": "Coordinates identify the modern named place, not a birth house or independent verification of the roster tradition.",
+    "geonamesRecord": {
+      "name": "Urbino",
+      "lat": "43.72621",
+      "lng": "12.63633",
+      "country": "IT",
+      "admin1": "10",
+      "admin2": "PU"
+    },
+    "reasoning": "Vatican named place matched by name and modern country; the roster remains the origin authority.",
+    "sourceUrls": [
+      "https://www.vatican.va/content/vatican/en/holy-father.html",
+      "https://www.npmjs.com/package/cities.json/v/1.1.65"
+    ]
+  },
+  "Poli": {
+    "label": "Poli",
+    "country": "Italy",
+    "countryCode": "IT",
+    "precision": "place",
+    "coordinates": [
+      12.89037,
+      41.88913
+    ],
+    "bounds": null,
+    "placeId": "place-it-poli",
+    "uncertainty": "Coordinates identify the modern named place, not a birth house or independent verification of the roster tradition.",
+    "geonamesRecord": {
+      "name": "Poli",
+      "lat": "41.88913",
+      "lng": "12.89037",
+      "country": "IT",
+      "admin1": "07",
+      "admin2": "RM"
+    },
+    "reasoning": "Vatican named place matched by name and modern country; the roster remains the origin authority.",
+    "sourceUrls": [
+      "https://www.vatican.va/content/vatican/en/holy-father.html",
+      "https://www.npmjs.com/package/cities.json/v/1.1.65"
+    ]
+  },
+  "Gravina": {
+    "label": "Gravina",
+    "country": "Italy",
+    "countryCode": "IT",
+    "precision": "place",
+    "coordinates": null,
+    "bounds": null,
+    "placeId": "place-it-gravina",
+    "uncertainty": "The named place is retained, but no unique supported gazetteer match was found; no nearby town is substituted.",
+    "geonamesRecord": null,
+    "reasoning": "Vatican named place matched by name and modern country; the roster remains the origin authority.",
+    "sourceUrls": [
+      "https://www.vatican.va/content/vatican/en/holy-father.html",
+      "https://www.npmjs.com/package/cities.json/v/1.1.65"
+    ]
+  },
+  "Sant'Arcangelo di Romagna": {
+    "label": "Santarcangelo di Romagna",
+    "country": "Italy",
+    "countryCode": "IT",
+    "precision": "place",
+    "coordinates": [
+      12.44657,
+      44.06326
+    ],
+    "bounds": null,
+    "placeId": "place-it-santarcangelo-di-romagna",
+    "uncertainty": "Coordinates identify the modern named place, not a birth house or independent verification of the roster tradition.",
+    "geonamesRecord": {
+      "name": "Santarcangelo",
+      "lat": "44.06326",
+      "lng": "12.44657",
+      "country": "IT",
+      "admin1": "05",
+      "admin2": "RN"
+    },
+    "reasoning": "Normalize the modern compound town name Santarcangelo di Romagna; gazetteer short name Santarcangelo has Rimini admin2 RN.",
+    "sourceUrls": [
+      "https://www.vatican.va/content/vatican/en/holy-father.html",
+      "https://www.npmjs.com/package/cities.json/v/1.1.65"
+    ]
+  },
+  "Cesena": {
+    "label": "Cesena",
+    "country": "Italy",
+    "countryCode": "IT",
+    "precision": "place",
+    "coordinates": [
+      12.24315,
+      44.1391
+    ],
+    "bounds": null,
+    "placeId": "place-it-cesena",
+    "uncertainty": "Coordinates identify the modern named place, not a birth house or independent verification of the roster tradition.",
+    "geonamesRecord": {
+      "name": "Cesena",
+      "lat": "44.1391",
+      "lng": "12.24315",
+      "country": "IT",
+      "admin1": "05",
+      "admin2": "FC"
+    },
+    "reasoning": "Vatican named place matched by name and modern country; the roster remains the origin authority.",
+    "sourceUrls": [
+      "https://www.vatican.va/content/vatican/en/holy-father.html",
+      "https://www.npmjs.com/package/cities.json/v/1.1.65"
+    ]
+  },
+  "Monticelli di Genga (Fabriano)": {
+    "label": "Monticelli di Genga",
+    "country": "Italy",
+    "countryCode": "IT",
+    "precision": "place",
+    "coordinates": null,
+    "bounds": null,
+    "placeId": "place-it-monticelli-di-genga",
+    "uncertainty": "The named place is retained, but no unique supported gazetteer match was found; no nearby town is substituted.",
+    "geonamesRecord": null,
+    "reasoning": "Vatican named place matched by name and modern country; the roster remains the origin authority.",
+    "sourceUrls": [
+      "https://www.vatican.va/content/vatican/en/holy-father.html",
+      "https://www.npmjs.com/package/cities.json/v/1.1.65"
+    ]
+  },
+  "Cingoli": {
+    "label": "Cingoli",
+    "country": "Italy",
+    "countryCode": "IT",
+    "precision": "place",
+    "coordinates": [
+      13.20787,
+      43.37573
+    ],
+    "bounds": null,
+    "placeId": "place-it-cingoli",
+    "uncertainty": "Coordinates identify the modern named place, not a birth house or independent verification of the roster tradition.",
+    "geonamesRecord": {
+      "name": "Cingoli",
+      "lat": "43.37573",
+      "lng": "13.20787",
+      "country": "IT",
+      "admin1": "10",
+      "admin2": "MC"
+    },
+    "reasoning": "Vatican named place matched by name and modern country; the roster remains the origin authority.",
+    "sourceUrls": [
+      "https://www.vatican.va/content/vatican/en/holy-father.html",
+      "https://www.npmjs.com/package/cities.json/v/1.1.65"
+    ]
+  },
+  "Belluno": {
+    "label": "Belluno",
+    "country": "Italy",
+    "countryCode": "IT",
+    "precision": "place",
+    "coordinates": [
+      12.2156,
+      46.14262
+    ],
+    "bounds": null,
+    "placeId": "place-it-belluno",
+    "uncertainty": "Coordinates identify the modern named place, not a birth house or independent verification of the roster tradition.",
+    "geonamesRecord": {
+      "name": "Belluno",
+      "lat": "46.14262",
+      "lng": "12.2156",
+      "country": "IT",
+      "admin1": "20",
+      "admin2": "BL"
+    },
+    "reasoning": "Vatican named place matched by name and modern country; the roster remains the origin authority.",
+    "sourceUrls": [
+      "https://www.vatican.va/content/vatican/en/holy-father.html",
+      "https://www.npmjs.com/package/cities.json/v/1.1.65"
+    ]
+  },
+  "Senigallia": {
+    "label": "Senigallia",
+    "country": "Italy",
+    "countryCode": "IT",
+    "precision": "place",
+    "coordinates": [
+      13.20882,
+      43.71626
+    ],
+    "bounds": null,
+    "placeId": "place-it-senigallia",
+    "uncertainty": "Coordinates identify the modern named place, not a birth house or independent verification of the roster tradition.",
+    "geonamesRecord": {
+      "name": "Senigallia",
+      "lat": "43.71626",
+      "lng": "13.20882",
+      "country": "IT",
+      "admin1": "10",
+      "admin2": "AN"
+    },
+    "reasoning": "Vatican named place matched by name and modern country; the roster remains the origin authority.",
+    "sourceUrls": [
+      "https://www.vatican.va/content/vatican/en/holy-father.html",
+      "https://www.npmjs.com/package/cities.json/v/1.1.65"
+    ]
+  },
+  "Carpineto Romano": {
+    "label": "Carpineto Romano",
+    "country": "Italy",
+    "countryCode": "IT",
+    "precision": "place",
+    "coordinates": [
+      13.0841,
+      41.6047
+    ],
+    "bounds": null,
+    "placeId": "place-it-carpineto-romano",
+    "uncertainty": "Coordinates identify the modern named place, not a birth house or independent verification of the roster tradition.",
+    "geonamesRecord": {
+      "name": "Carpineto Romano",
+      "lat": "41.6047",
+      "lng": "13.0841",
+      "country": "IT",
+      "admin1": "07",
+      "admin2": "RM"
+    },
+    "reasoning": "Vatican named place matched by name and modern country; the roster remains the origin authority.",
+    "sourceUrls": [
+      "https://www.vatican.va/content/vatican/en/holy-father.html",
+      "https://www.npmjs.com/package/cities.json/v/1.1.65"
+    ]
+  },
+  "Riese (Treviso)": {
+    "label": "Riese Pio X",
+    "country": "Italy",
+    "countryCode": "IT",
+    "precision": "place",
+    "coordinates": [
+      11.91801,
+      45.72858
+    ],
+    "bounds": null,
+    "placeId": "place-it-riese-pio-x",
+    "uncertainty": "Coordinates identify the modern named place, not a birth house or independent verification of the roster tradition.",
+    "geonamesRecord": {
+      "name": "Riese Pio X",
+      "lat": "45.72858",
+      "lng": "11.91801",
+      "country": "IT",
+      "admin1": "20",
+      "admin2": "TV"
+    },
+    "reasoning": "Use the expanded modern name Riese Pio X; gazetteer administrative province TV matches the source Treviso qualifier.",
+    "sourceUrls": [
+      "https://www.vatican.va/content/vatican/en/holy-father.html",
+      "https://www.npmjs.com/package/cities.json/v/1.1.65"
+    ]
+  },
+  "Desio (Milan)": {
+    "label": "Desio",
+    "country": "Italy",
+    "countryCode": "IT",
+    "precision": "place",
+    "coordinates": [
+      9.20249,
+      45.61831
+    ],
+    "bounds": null,
+    "placeId": "place-it-desio",
+    "uncertainty": "Coordinates identify the modern named place, not a birth house or independent verification of the roster tradition.",
+    "geonamesRecord": {
+      "name": "Desio",
+      "lat": "45.61831",
+      "lng": "9.20249",
+      "country": "IT",
+      "admin1": "09",
+      "admin2": "MB"
+    },
+    "reasoning": "Vatican named place matched by name and modern country; the roster remains the origin authority.",
+    "sourceUrls": [
+      "https://www.vatican.va/content/vatican/en/holy-father.html",
+      "https://www.npmjs.com/package/cities.json/v/1.1.65"
+    ]
+  },
+  "Sotto il Monte (Bergamo)": {
+    "label": "Sotto il Monte Giovanni XXIII",
+    "country": "Italy",
+    "countryCode": "IT",
+    "precision": "place",
+    "coordinates": [
+      9.50345,
+      45.70568
+    ],
+    "bounds": null,
+    "placeId": "place-it-sotto-il-monte-giovanni-xxiii",
+    "uncertainty": "Coordinates identify the modern named place, not a birth house or independent verification of the roster tradition.",
+    "geonamesRecord": {
+      "name": "Sotto il Monte Giovanni XXIII",
+      "lat": "45.70568",
+      "lng": "9.50345",
+      "country": "IT",
+      "admin1": "09",
+      "admin2": "BG"
+    },
+    "reasoning": "Use the expanded modern municipality name Sotto il Monte Giovanni XXIII; gazetteer province BG matches the source Bergamo qualifier.",
+    "sourceUrls": [
+      "https://www.vatican.va/content/vatican/en/holy-father.html",
+      "https://www.npmjs.com/package/cities.json/v/1.1.65"
+    ]
+  },
+  "Concesio (Brescia)": {
+    "label": "Concesio",
+    "country": "Italy",
+    "countryCode": "IT",
+    "precision": "place",
+    "coordinates": [
+      10.21697,
+      45.60518
+    ],
+    "bounds": null,
+    "placeId": "place-it-concesio",
+    "uncertainty": "Coordinates identify the modern named place, not a birth house or independent verification of the roster tradition.",
+    "geonamesRecord": {
+      "name": "Concesio",
+      "lat": "45.60518",
+      "lng": "10.21697",
+      "country": "IT",
+      "admin1": "09",
+      "admin2": "BS"
+    },
+    "reasoning": "Vatican named place matched by name and modern country; the roster remains the origin authority.",
+    "sourceUrls": [
+      "https://www.vatican.va/content/vatican/en/holy-father.html",
+      "https://www.npmjs.com/package/cities.json/v/1.1.65"
+    ]
+  },
+  "Forno di Canale (Belluno)": {
+    "label": "Canale d'Agordo",
+    "country": "Italy",
+    "countryCode": "IT",
+    "precision": "place",
+    "coordinates": [
+      11.91429,
+      46.35693
+    ],
+    "bounds": null,
+    "placeId": "place-it-canale-d-agordo",
+    "uncertainty": "Coordinates identify the modern named place, not a birth house or independent verification of the roster tradition.",
+    "geonamesRecord": {
+      "name": "Canale d'Agordo",
+      "lat": "46.35693",
+      "lng": "11.91429",
+      "country": "IT",
+      "admin1": "20",
+      "admin2": "BL"
+    },
+    "reasoning": "The official Dolomites portal identifies Canale d’Agordo as formerly Forno di Canale; use its modern gazetteer name.",
+    "sourceUrls": [
+      "https://www.vatican.va/content/vatican/en/holy-father.html",
+      "https://www.npmjs.com/package/cities.json/v/1.1.65",
+      "https://grandeguerra.dolomiti.org/en/canale-d-agordo/canale-d-agordo/canale-d-agordo-paese-di-papa-luciani"
+    ]
+  },
+  "Wadowice (Kraków)": {
+    "label": "Wadowice",
+    "country": "Poland",
+    "countryCode": "PL",
+    "precision": "place",
+    "coordinates": [
+      19.49292,
+      49.88335
+    ],
+    "bounds": null,
+    "placeId": "place-pl-wadowice",
+    "uncertainty": "Coordinates identify the modern named place, not a birth house or independent verification of the roster tradition.",
+    "geonamesRecord": {
+      "name": "Wadowice",
+      "lat": "49.88335",
+      "lng": "19.49292",
+      "country": "PL",
+      "admin1": "77",
+      "admin2": "1218"
+    },
+    "reasoning": "Vatican named place matched by name and modern country; the roster remains the origin authority.",
+    "sourceUrls": [
+      "https://www.vatican.va/content/vatican/en/holy-father.html",
+      "https://www.npmjs.com/package/cities.json/v/1.1.65"
+    ]
+  },
+  "Marktl am Inn (Bavaria)": {
+    "label": "Marktl am Inn",
+    "country": "Germany",
+    "countryCode": "DE",
+    "precision": "place",
+    "coordinates": [
+      12.8447,
+      48.25516
+    ],
+    "bounds": null,
+    "placeId": "place-de-marktl-am-inn",
+    "uncertainty": "Coordinates identify the modern named place, not a birth house or independent verification of the roster tradition.",
+    "geonamesRecord": {
+      "name": "Marktl",
+      "lat": "48.25516",
+      "lng": "12.8447",
+      "country": "DE",
+      "admin1": "02",
+      "admin2": "091"
+    },
+    "reasoning": "The gazetteer uses the shorter name Marktl, with Bavaria admin1 02; retain the roster am Inn qualifier in the display label.",
+    "sourceUrls": [
+      "https://www.vatican.va/content/vatican/en/holy-father.html",
+      "https://www.npmjs.com/package/cities.json/v/1.1.65"
+    ]
+  },
+  "Buenos Aires (Argentina)": {
+    "label": "Buenos Aires",
+    "country": "Argentina",
+    "countryCode": "AR",
+    "precision": "place",
+    "coordinates": [
+      -58.37723,
+      -34.61315
+    ],
+    "bounds": null,
+    "placeId": "place-ar-buenos-aires",
+    "uncertainty": "Coordinates identify the modern named place, not a birth house or independent verification of the roster tradition.",
+    "geonamesRecord": {
+      "name": "Buenos Aires",
+      "lat": "-34.61315",
+      "lng": "-58.37723",
+      "country": "AR",
+      "admin1": "07",
+      "admin2": ""
+    },
+    "reasoning": "Vatican named place matched by name and modern country; the roster remains the origin authority.",
+    "sourceUrls": [
+      "https://www.vatican.va/content/vatican/en/holy-father.html",
+      "https://www.npmjs.com/package/cities.json/v/1.1.65"
+    ]
+  },
+  "Chicago": {
+    "label": "Chicago",
+    "country": "United States",
+    "countryCode": "US",
+    "precision": "place",
+    "coordinates": [
+      -87.65005,
+      41.85003
+    ],
+    "bounds": null,
+    "placeId": "place-us-chicago",
+    "uncertainty": "Coordinates identify the modern named place, not a birth house or independent verification of the roster tradition.",
+    "geonamesRecord": {
+      "name": "Chicago",
+      "lat": "41.85003",
+      "lng": "-87.65005",
+      "country": "US",
+      "admin1": "IL",
+      "admin2": "031"
+    },
+    "reasoning": "Vatican named place matched by name and modern country; the roster remains the origin authority.",
+    "sourceUrls": [
+      "https://www.vatican.va/content/vatican/en/holy-father.html",
+      "https://www.npmjs.com/package/cities.json/v/1.1.65"
+    ]
+  },
+  "Lorraine": {
+    "label": "Lorraine (approximate)",
+    "country": "France",
+    "countryCode": null,
+    "precision": "region",
+    "coordinates": null,
+    "bounds": [
+      [
+        4.8,
+        47.8
+      ],
+      [
+        7.7,
+        49.7
+      ]
+    ],
+    "placeId": "region-lorraine-approximate",
+    "uncertainty": "Approximate origin only; the cartographic envelope is for orientation, not a documented birthplace or a historical boundary.",
+    "geonamesRecord": null,
+    "reasoning": "Optional supplement from the older Italian table for Stephen IX; Lorrainian origin supports only an indicative regional envelope.",
+    "sourceUrls": [
+      "https://www.vatican.va/content/vatican/en/holy-father.html"
+    ]
+  }
+}

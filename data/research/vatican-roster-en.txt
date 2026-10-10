@@ -1,0 +1,298 @@
+L0: ## 【0†The Holy See】
+L1:
+L2: English
+L3:
+L4:   * 【1†Français】
+L5:   * 【0†English】
+L6:   * 【2†Italiano】
+L7:   * 【3†Português】
+L8:   * 【4†Español】
+L9:   * 【5†Deutsch】
+L10:   * 【6†Polski】
+L11:   * 【7†العربيّة】
+L12:   * 【8†中文】
+L13:   * 【9†Latine】
+L14:
+L15: [Input: Cerca su vatican.va...]
+L16:
+L17: [Input]
+L18:    | PAPAL NAME  | BEGINNING PONTIFICATE  | END PONTIFICATE  | SECULAR NAME  | BIRTH  | CENTURY
+L19: --- | --- | --- | --- | --- | --- | ---
+L20: 1  | 【10†Peter】  |  | 64 or 67  |    | Bethsaida of Galilee  | 1
+L21: 2  | 【11†Linus】  | 68  | 79  |    | Tuscia  | 1
+L22: 3  | 【12†Anacletus or Cletus】  | 80  | 92  |    | Rome  | 1
+L23: 4  | 【13†Clement】  | 92  | 99  |    | Rome  | 1
+L24: 5  | 【14†Evaristus】  | 99 or 96  | 108  |    | Greece  | 1
+L25: 6  | 【15†Alexander I】  | 108 or 109  | 116 or 119  |    | Rome  | 2
+L26: 7  | 【16†Sixtus I】  | 117 or 119  | 126 or 128  |    | Rome  | 2
+L27: 8  | 【17†Telesphorus】  | 127 or 128  | 137 or 138  |    | Greece  | 2
+L28: 9  | 【18†Hyginus】  | 138  | 142 or 149  |    | Greece  | 2
+L29: 10  | 【19†Pius I】  | 142 or 146  | 157 or 161  |    | Aquileia  | 2
+L30: 11  | 【20†Anicetus】  | 150 or 157  | 153 or 168  |    | Emesa (Syria)  | 2
+L31: 12  | 【21†Soterus】  | 162 or 168  | 170 or 177  |    | Fondi  | 2
+L32: 13  | 【22†Eleutherius】  | 171 or 177  | 185 or 193  |    | Nicopolis (Epirus)  | 2
+L33: 14  | 【23†Victor I】  | 186 or 189  | 197 or 201  |    | Africa  | 2
+L34: 15  | 【24†Zephyrinus】  | 198  | 217 or 218  |    | Rome  | 2
+L35: 16  | 【25†Callistus I】  | 218  | 222  |    |    | 3
+L36: 17  | 【26†Urban I】  | 222  | 230  |    | Rome  | 3
+L37: 18  | 【27†Pontianus】  | 21.VII.230  | 28.IX.235  |    | Rome  | 3
+L38: 19  | 【28†Anterus】  | 21.XI.235  | 3.I.236  |    | Greece  | 3
+L39: 20  | 【29†Fabian】  | ... 236  | 20.I.250  |    | Rome  | 3
+L40: 21  | 【30†Cornelius】  | 6 or 13.III.251  | ... VI.253  |    | Rome  | 3
+L41: 22  | 【31†Lucius I】  | ... VI or VII.253  | 5.III.254  |    | Rome  | 3
+L42: 23  | 【32†Stephen I】  | 12.III.254  | 2.VIII.257  |    | Rome  | 3
+L43: 24  | 【33†Sixtus II】  | 30.VIII.257  | 6.VIII.258  |    | Greece  | 3
+L44: 25  | 【34†Dionysius】  | 22.VII.259  | 26.XII.268  |    | Unknown  | 3
+L45: 26  | 【35†Felix I】  | 5.I.269  | 30.XII.274  |    | Rome  | 3
+L46: 27  | 【36†Eutichianus】  | 4.I.275  | 7.XII.283  |    | Luni  | 3
+L47: 28  | 【37†Caius】  | 17.XII.283  | 22.IV.296  |    | Dalmatia  | 3
+L48: 29  | 【38†Marcellinus】  | 30.VI.296  | 25.X.304  |    | Rome  | 3
+L49: 30  | 【39†Marcellus I】  | 306  | 16.I.309  |    | Rome  | 4
+L50: 31  | 【40†Eusebius】  | 18.IV.309  | 17.VIII.309  |    | Greece  | 4
+L51: 32  | 【41†Miltiades or Melchiades】  | 2.VII.311  | 10.I.314  |    | Africa  | 4
+L52: 33  | 【42†Sylvester I】  | 31.I.314  | 31.XII.335  |    | Rome  | 4
+L53: 34  | 【43†Mark】  | 18.I.336  | 7.X.336  |    | Rome  | 4
+L54: 35  | 【44†Julius I】  | 6.II.337  | 12.IV.352  |    | Rome  | 4
+L55: 36  | 【45†Liberius】  | 17.V.352  | 24.IX.366  |    | Romano  | 4
+L56: 37  | 【46†Damasus I】  | 1.X.366  | 11.XII.384  |    | Rome  | 4
+L57: 38  | 【47†Siricius】  | 15 o 22 o 29.XII.384  | 26.XI.399  |    | Rome  | 4
+L58: 39  | 【48†Anastasius I】  | 27.XI.399  | 19.XII.401  |    | Rome  | 4
+L59: 40  | 【49†Innocent I】  | 22.XII.401  | 12.III.417  |    | Albano  | 5
+L60: 41  | 【50†Zosimus】  | 18.III.417  | 26.XII.418  |    | Greece  | 5
+L61: 42  | 【51†Boniface I】  | 28,29.XII.418  | 4.IX.422  |    | Rome  | 5
+L62: 43  | 【52†Celestine I】  | 10.IX.422  | 27.VII.432  |    | Campania  | 5
+L63: 44  | 【53†Sixtus III】  | 31.VII.432  | 19.VIII.440  |    | Rome  | 5
+L64: 45  | 【54†Leo I】  | 29.IX.440  | 10.XI.461  |    | Tuscia  | 5
+L65: 46  | 【55†Hilarius】  | 19.XI.461  | 29.II.468  |    | Sardinia  | 5
+L66: 47  | 【56†Simplicius】  | 3.III.468  | 10.III.483  |    | Tivoli  | 5
+L67: 48  | 【57†Felix III】  | 13.III.483  | 25.II o 1.III.492  |    | Rome  | 5
+L68: 49  | 【58†Gelasius I】  | 1.III.492  | 21.XI.496  |    | Africa  | 5
+L69: 50  | 【59†Anastasius II】  | 24.XI.496  | 19.XI.498  |    | Rome  | 5
+L70: 51  | 【60†Symmachus】  | 22.XI.498  | 19.VII.514  |    | Sardinia  | 5
+L71: 52  | 【61†Hormisdas】  | 20.VII.514  | 6.VIII.523  |    |    | 6
+L72: 53  | 【62†John I】  | 13.VIII.523  | 18.V.526  |    | Tuscia  | 6
+L73: 54  | 【63†Felix IV】  | 12.VII.526  | 20 or 22.IX.530  |    | Samnium  | 6
+L74: 55  | 【64†Boniface II】  | 20 o 22.IX.530  | 17.X.532  |    | Rome  | 6
+L75: 56  | 【65†John II】  | 31.XII.532, 2.I.533  | 8.V.535  | Mercurio  | Rome  | 6
+L76: 57  | 【66†Agapetus I】  | 13.V.535  | 22.IV.536  |    | Rome  | 6
+L77: 58  | 【67†Silverius】  | 8.VI.536  | ... 537  |    | Frosinone  | 6
+L78: 59  | 【68†Vigilius】  | 29.III.537  | 7.VI.555  |    | Rome  | 6
+L79: 60  | 【69†Pelagius I】  | 16.IV.556  | 4.III.561  |    | Rome  | 6
+L80: 61  | 【70†John III】  | 17.VII.561  | 13.VII.574  | Catalino  | Rome  | 6
+L81: 62  | 【71†Benedict I】  | 2.VI.575  | 30.VII.579  |    | Rome  | 6
+L82: 63  | 【72†Pelagius II】  | 26.XI.579  | 7.II.590  |    | Rome  | 6
+L83: 64  | 【73†Gregory I】  | 3.IX.590  | 12.III.604  |    | Rome  | 6
+L84: 65  | 【74†Sabinian】  | ... III, 13.IX.604  | 22.II.606  |    | Blera, Tuscia  | 7
+L85: 66  | 【75†Boniface III】  | 19.II.607  | 10.XI.607  |    | Rome  | 7
+L86: 67  | 【76†Boniface IV】  | 25.VIII.608  | 8.V.615  |    | Marsican territory  | 7
+L87: 68  | 【77†Deusdedit or Adeodatus I】  | 19.X.615  | 8.XI.618  |    | Rome  | 7
+L88: 69  | 【78†Boniface V】  | 23.XII.619  | 23.X.625  |    | Naples  | 7
+L89: 70  | 【79†Honorius I】  | 27.X.625  | 12.X.638  |    | Campania  | 7
+L90: 71  | 【80†Severinus】  | ... X.638, 28.V.640  | 2.VIII.640  |    | Rome  | 7
+L91: 72  | 【81†John IV】  | ... VIII, 24.XII.640  | 12.X.642  |    | Dalmatia  | 7
+L92: 73  | 【82†Theodore I】  | 12.X, 24.XI.642  | 14.V.649  |    | Jerusalem  | 7
+L93: 74  | 【83†Martin I】  | 5.VII.649  | 16.IX.655  |    | Todi  | 7
+L94: 75  | 【84†Eugene I】  | 10.VIII.654  | 2.VI.657  |    | Rome  | 7
+L95: 76  | 【85†Vitalian】  | 30.VII.657  | 27.I.672  |    | Segni  | 7
+L96: 77  | 【86†Adeodatus II】  | 11.IV.672  | 16.VI.676  |    | Rome  | 7
+L97: 78  | 【87†Donus】  | 2.XI.676  | 11.IV.678  |    | Rome  | 7
+L98: 79  | 【88†Agatho】  | 27.VI.678  | 10.I.681  |    | Sicily  | 7
+L99: 80  | 【89†Leo II】  | ... I.681, 17.VIII.682  | 3.VII.683  |    | Sicily  | 7
+L100: 81  | 【90†Benedict II】  | 26.VI.684  | 8.V.685  |    | Rome  | 7
+L101: 82  | 【91†John V】  | 23.VII.685  | 2.VIII.686  |    | Syria  | 7
+L102: 83  | 【92†Conon】  | 23.X.686  | 21.IX.687  |    | Unknown  | 7
+L103: 84  | 【93†Sergius I】  | 15.XII.687  | 7.IX.701  |    | Syria  | 7
+L104: 85  | 【94†John VI】  | 30.X.701  | 11.I.705  |    | Greece  | 8
+L105: 86  | 【95†John VII】  | 1.III.705  | 18.X.707  |    | Greece  | 8
+L106: 87  | 【96†Sisinnius】  | 15.I.708  | 4.II.708  |    | Syria  | 8
+L107: 88  | 【97†Constantine】  | 25.III.708  | 9.IV.715  |    | Syria  | 8
+L108: 89  | 【98†Gregory II】  | 19.V.715  | 11.II.731  |    | Rome  | 8
+L109: 90  | 【99†Gregory III】  | 18.III.731  | 28.XI.741  |    | Syria  | 8
+L110: 91  | 【100†Zachary】  | 3.XII.741  | 15.III.752  |    | Greece  | 8
+L111: 92  | 【101†Stephen II】  | 26.III.752  | 26.IV.757  |    | Rome  | 8
+L112: 93  | 【102†Paul I】  | ... IV, 29.V.757  | 28.VI.767  |    | Rome  | 8
+L113: 94  | 【103†Stephen III】  | 1,7.VIII.768  | 24.I.772  |    | Sicily  | 8
+L114: 95  | 【104†Adrian I】  | 1,9.II.772  | 25.XII.795  |    | Rome  | 8
+L115: 96  | 【105†Leo III】  | 26,27.XII.795  | 12.VI.816  |    | Rome  | 8
+L116: 97  | 【106†Stephen IV】  | 22.VI.816  | 24.I.817  |    | Rome  | 9
+L117: 98  | 【107†Paschal I】  | 25.I.817  | ... II-V.824  |    | Rome  | 9
+L118: 99  | 【108†Eugene II】  | ... II-V.824  | ...VIII.827  |    | Rome  | 9
+L119: 100  | 【109†Valentine】  | ... VIII.827  | ...IX.827  |    | Rome  | 9
+L120: 101  | 【110†Gregory IV】  | ... IX.827, 29.III.828  | 25.I.844  |    | Rome  | 9
+L121: 102  | 【111†Sergius II】  | 25.I.844  | 27.I.847  |    | Rome  | 9
+L122: 103  | 【112†Leo IV】  | ...I,10.V.847  | 17.VII.855  |    | Rome  | 9
+L123: 104  | 【113†Benedict III】  | ...VII, 29.IX.855  | 17.IV.858  |    | Rome  | 9
+L124: 105  | 【114†Nicholas I】  | 24.IV.858  | 13.XI.867  |    | Rome  | 9
+L125: 106  | 【115†Adrian II】  | 14.XII.867  | ...XI or XII.872  |    | Rome  | 9
+L126: 107  | 【116†John VIII】  | 14.XII.872  | 16.XII.882  |    | Rome  | 9
+L127: 108  | 【117†Marinus I】  | ... XII.882  | 15.V.884  |    | Gallese  | 9
+L128: 109  | 【118†Adrian III】  | 17.V.884  | ...VIII or IX.885  |    | Rome  | 9
+L129: 110  | 【119†Stephen V】  | ...IX.885  | 14.IX.891  |    | Rome  | 9
+L130: 111  | 【120†Formosus】  | 6.X.891  | 4.IV.896  |    | Bishop of Portus  | 9
+L131: 112  | 【121†Boniface VI】  | 11.IV.896  | 26.IV.896  |    | Rome  | 9
+L132: 113  | 【122†Stephen VI】  | ...V or VI.896  | ...VII or VIII.897  |    | Rome  | 9
+L133: 114  | 【123†Romanus】  | ...VII or VIII.897  | ...XI.897  |    | Gallese  | 9
+L134: 115  | 【124†Theodore II】  | ...XII.897  | ...XII.897 or I.898  |    | Rome  | 9
+L135: 116  | 【125†John IX】  | ..XII.897 or I.898  | ...I-V.900  |    | Tivoli  | 9
+L136: 117  | 【126†Benedict IV】  | ...I-V.900  | ...VII.903  |    | Rome  | 10
+L137: 118  | 【127†Leo V】  | ... VII.903  | ... IX.903  |    | Ardea  | 10
+L138: 119  | 【128†Sergius III】  | 29.I.904  | 14.IV.911  |    | Rome  | 10
+L139: 120  | 【129†Anastasius III】  | ... VI or IX.911  | ... VI or VIII or X.913  |    | Rome  | 10
+L140: 121  | 【130†Lando】  | ... VII or XI.913  | ... III.914  |    | Sabina  | 10
+L141: 122  | 【131†John X】  | ... III or IV.914  | ... V or VI.928  |    | Tossignano (Imola)  | 10
+L142: 123  | 【132†Leo VI】  | ... V or VI.928  | ... XII.928 or I.929  |    | Rome  | 10
+L143: 124  | 【133†Stephen VII】  | ...I.929  | ...II.931  |    | Rome  | 10
+L144: 125  | 【134†John XI】  | ...III.931  | ...I.936  |    | Rome  | 10
+L145: 126  | 【135†Leo VII】  | ...I.936  | 13.VII.939  |    | Rome  | 10
+L146: 127  | 【136†Stephen VIII】  | 14.VII.939  | ... X.942  |    | Rome  | 10
+L147: 128  | 【137†Marinus II】  | 30.X,...XI.942  | ...V.946  |    | Rome  | 10
+L148: 129  | 【138†Agapetus II】  | 10.V.946  | ...XII.955  |    | Rome  | 10
+L149: 130  | 【139†John XII】  | 16.XII.955  | 14.V.964  | Ottaviano  | Counts of Tusculum  | 10
+L150: 131  | 【140†Leo VIII】  | 4,6.XII.963  | ...III.965  |    | Rome  | 10
+L151: 132  | 【141†Benedict V】  | ...V.964  | 4.VII.964 or 965  |    | Rome  | 10
+L152: 133  | 【142†John XIII】  | 1.X.965  | 6.IX.972  |    | Rome  | 10
+L153: 134  | 【143†Benedict VI】  | ...XII.972, 19.I.973  | ...VII.974  |    | Rome  | 10
+L154: 135  | 【144†Benedict VII】  | ...X.974  | 10.VII.983  |    | Rome  | 10
+L155: 136  | 【145†John XIV】  | ...XI or XII.983  | 20.VIII.984  | Pietro  | Pavia  | 10
+L156: 137  | 【146†John XV】  | ...VIII.985  | ...III.996  |    | Rome  | 10
+L157: 138  | 【147†Gregory V】  | 3.V.996  | ...II or III.999  | Bruno of Carinthia  | Saxony  | 10
+L158: 139  | 【148†Sylvester II】  | 2.IV.999  | 12.V.1003  | Gerbert  | Aquitaine  | 10
+L159: 140  | 【149†John XVII】  | 16.V.1003  | 6.XI.1003  | Siccone  | Rome  | 11
+L160: 141  | 【150†John XVIII】  | 25.XII.1003  | ...VI or VII.1009  | Fasano  | Rome  | 11
+L161: 142  | 【151†Sergius IV】  | 31.VII.1009  | 12.V.1012  | Pietro  | Rome  | 11
+L162: 143  | 【152†Benedict VIII】  | 18.V.1012  | 9.IV.1024  | Teofilatto dei conti di Tuscolo  |    | 11
+L163: 144  | 【153†John XIX】  | 19.IV.1024  | ...1032  | Romano dei conti di Tuscolo  |    | 11
+L164: 145  | 【154†Benedict IX】  | ...VIII or IX.1032  | ...IX.1044  | Theophylactus of Tusculum  |    | 11
+L165: 146  | 【155†Sylvester III】  | 13 or 20.I.1045  | ...III.1045  | Giovanni  | Rome  | 11
+L166: 147  | 【156†Benedict IX】  | 10.III.1045  | 1.V.1045  | Theophylactus of Tusculum  |    | 11
+L167: 148  | 【157†Gregory VI】  | 1.V.1045  | 20.XII.1046  | Giovanni Graziano  | Rome  | 11
+L168: 149  | 【158†Clement II】  | 24.XII.1046  | 9.X.1047  | Suidger, Graf von Morsleben und Hornburg  | Saxony  | 11
+L169: 150  | 【159†Benedict IX】  | ...X.1047  | ... VIII.1048  | Theophylactus of Tusculum  |    | 11
+L170: 151  | 【160†Damasus II】  | 17.VII.1048  | 9.VIII.1048  | Poppo  | Tyrol  | 11
+L171: 152  | 【161†Leo IX】  | 2,12.II.1049  | 19.IV.1054  | Bruno of Eguisheim-Dagsburg  | Alsace  | 11
+L172: 153  | 【162†Victor II】  | 13.IV.1055  | 28.VII.1057  | Gebhard Of Dollnstein-hirschberg  | Swabia  | 11
+L173: 154  | 【163†Stephen IX】  | 2,3.VIII.1057  | 29.III.1058  | Frédéric de Lorraine  |    | 11
+L174: 155  | 【164†Nicholas II】  | ...XII.1058, 24.I.1059  | 27.VII.1061  | Gérard  | Bourgogne  | 11
+L175: 156  | 【165†Alexander II】  | 30.IX, 1.X.1061  | 21.IV.1073  | Anselmo  | Baggio (Milano)  | 11
+L176: 157  | 【166†Gregory VII】  | 22.IV,30.VI.1073  | 25.V.1085  | Ildebrando  | Tuscia  | 11
+L177: 158  | 【167†Victor III】  | 24.V.1086, 9.V.1087  | 16.IX.1087  | Dauferio (Desiderio)  | Benevento  | 11
+L178: 159  | 【168†Urban II】  | 12.III.1088  | 29.VII.1099  | Odo of Lagery  | Châtillon-sur-Marne  | 11
+L179: 160  | 【169†Paschal II】  | 13,14.VIII.1099  | 21.I.1118  | Raniero  | Bleda or Galeata  | 11
+L180: 161  | 【170†Gelasius II】  | 24.I,10.III.1118  | 28.I.1119  | Giovanni Caetani  | Gaeta  | 12
+L181: 162  | 【171†Callixtus II】  | 2,9.II.1119  | 13 or 14.XII.1124  | Guy of Burgundy  |    | 12
+L182: 163  | 【172†Honorius II】  | 15,21.XII.1124  | 13 or 14.II.1130  | Lamberto Scannabecchi  | Fiagnano (Imola)  | 12
+L183: 164  | 【173†Innocent II】  | 14,23.II.1130  | 24.IX.1143  | Gregorio Papareschi  | Rome  | 12
+L184: 165  | 【174†Celestine II】  | 26.IX,3.X.1143  | 8.III.1144  | Guido  | Città di Castello  | 12
+L185: 166  | 【175†Lucius II】  | 12.III.1144  | 15.II.1145  | Gerardo  | Bologna  | 12
+L186: 167  | 【176†Eugene III】  | 15,18.II.1145  | 8.VII.1153  | Bernardo  | Pisa  | 12
+L187: 168  | 【177†Anastasius IV】  | 12.VII.1153  | 3.XII.1154  | Corrado  | Rome  | 12
+L188: 169  | 【178†Adrian IV】  | 4,5.XII.1154  | 1.IX.1159  | Nicholas Breakspear  | Abbot's Lagnley (Hertfordshire)  | 12
+L189: 170  | 【179†Alexander III】  | 7,20.IX.1159  | 30.VIII.1181  | Rolando Bandinelli  | Siena  | 12
+L190: 171  | 【180†Lucius III】  | 1. 6.IX.1181  | 25.IX.1185  | Ubaldo Allucingoli  | Lucca  | 12
+L191: 172  | 【181†Urban III】  | 25.XI,1.XII.1185  | 20.X.1187  | Umberto Crivelli  | Milan  | 12
+L192: 173  | 【182†Gregory VIII】  | 21.25.X.1187  | 17.XII.1187  | Alberto di Morra  | Benevento  | 12
+L193: 174  | 【183†Clement III】  | 19,20.XII.1187  | ...III.1191  | Paolo Scolari  | Rome  | 12
+L194: 175  | 【184†Celestine III】  | 10,14.IV.1191  | 8.I.1198  | Giacinto Bobone  | Rome  | 12
+L195: 176  | 【185†Innocent III】  | 8.I,22.II.1198  | 16.VII.1216  | Lotario dei conti di Segni  | Gavignano (Rome)  | 12
+L196: 177  | 【186†Honorius III】  | 18,24.VII.1216  | 18.III.1227  | Cencio  | Rome  | 13
+L197: 178  | 【187†Gregory IX】  | 19,21.III.1227  | 22.VIII.1241  | Ugolino di Segni  | Anagni  | 13
+L198: 179  | 【188†Celestine IV】  | 25,28.X.1241  | 10.XI.1241  | Goffredo da Castiglione  | Milan  | 13
+L199: 180  | 【189†Innocent IV】  | 25,28.VI.1243  | 7.XII.1254  | Sinibaldo Fieschi  | Lavagna (Genoa)  | 13
+L200: 181  | 【190†Alexander IV】  | 12,20.XII.1254  | 25.V.1261  | Rinaldo di Jenne  | Jenne (Rome)  | 13
+L201: 182  | 【191†Urban IV】  | 29.VIII,4.IX.1261  | 2.X.1264  | Jacques Pantaléon  | Troyes  | 13
+L202: 183  | 【192†Clement IV】  | 5,22.II.1265  | 29.XI.1268  | Gui Foulques  | Saint-Gilles (Southern French)  | 13
+L203: 184  | 【193†Gregory X】  | 1.IX.1271,27.III.1272  | 10.I.1276  | Tebaldo Visconti  | Piacenza  | 13
+L204: 185  | 【194†Innocent V】  | 21.I,22.II.1276  | 22.VI.1276  | Pierre De Tarentaise  | Savoy  | 13
+L205: 186  | 【195†Adrian V】  | 11.VII.1276  | 18.VIII.1276  | Ottobono Fieschi  | Genoa  | 13
+L206: 187  | 【196†John XXI】  | 16,20.IX.1276  | 20.V.1277  | Pedro Julião or Pedro Hispano  | Lisbon  | 13
+L207: 188  | 【197†Nicholas III】  | 25.XI, 26.XII.1277  | 22.VIII.1280  | Giovanni Gaetano Orsini  | Rome  | 13
+L208: 189  | 【198†Martin IV】  | 22.II,23.III.1281  | 29.III.1285  | Simon de Brie or of Brion or of Mainpincien  | France  | 13
+L209: 190  | 【199†Honorius IV】  | 2.IV, 20.V.1285  | 3.IV.1287  | Giacomo Savelli  | Rome  | 13
+L210: 191  | 【200†Nicholas IV】  | 22.II.1288  | 4.IV.1292  | Girolamo  | Lisciano (Ascoli PIceno)  | 13
+L211: 192  | 【201†Celestine V】  | 5.VII, 29.VIII.1294  | 13.XII.1294  | Pietro del Morrone  | Molise  | 13
+L212: 193  | 【202†Boniface VIII】  | 24.XII.1294, 23.I.1295  | 11.X.1303  | Benedetto Caetani  | Anagni  | 13
+L213: 194  | 【203†Benedict XI】  | 22,27.X.1303  | 7.VII.1304  | Niccolò di Boccasio  | Treviso  | 14
+L214: 195  | 【204†Clement V】  | 5.VI, 14.XI.1305  | 20.IV.1314  | Bertrand de Got  | Villandraut (Gironde)  | 14
+L215: 196  | 【205†John XXII】  | 7.VIII,5.IX.1316  | 4.XII.1334  | Jacques Duèse  | Cahors  | 14
+L216: 197  | 【206†Benedict XII】  | 20.XII.1334, 8.I.1335  | 25.IV.1342  | Jacques Fournier  | Saverdun (Southern France)  | 14
+L217: 198  | 【207†Clement VI】  | 7,19.V.1342  | 6.XII.1352  | Pierre Roger  | Maumont (Limousin)  | 14
+L218: 199  | 【208†Innocent VI】  | 18,30.XII.1352  | 12.IX.1362  | Étienne Aubert  | Monts (Limousin)  | 14
+L219: 200  | 【209†Urban V】  | 28.IX,6.XI.1362  | 19.XII.1370  | Guillaume Grimoard  | Grizac (Southern France)  | 14
+L220: 201  | 【210†Gregory XI】  | 30.XII.1370, 3.I.1371  | 26.III.1378  | Pierre Roger de Beaufort  | Rosiers d'Egletons (Limousin)  | 14
+L221: 202  | 【211†Urban VI】  | 8,18.IV.1378  | 15.X.1389  | Bartolomeo Prignano  | Naples  | 14
+L222: 203  | 【212†Boniface IX】  | 2,9.XI.1389  | 1.X.1404  | Pietro Tomacelli  | Naples  | 14
+L223: 204  | 【213†Innocent VII】  | 17.X,11.XI.1404  | 6.XI.1406  | Cosma Migliorati  | Sulmona  | 15
+L224: 205  | 【214†Gregory XII】  | 30.XI,19.XII.1406  | 4.VII.1415  | Angelo Correr  | Venice  | 15
+L225: 206  | 【215†Martin V】  | 11,21.XI.1417  | 20.II.1431  | Oddone Colonna  | Genazzano  | 15
+L226: 207  | 【216†Eugene IV】  | 3,11.III.1431  | 23.II.1447  | Gabriele Condulmer  | Venice  | 15
+L227: 208  | 【217†Nicholas V】  | 6,19.III.1447  | 24.III.1455  | Tommaso Parentucelli  | Sarzana  | 15
+L228: 209  | 【218†Callixtus III】  | 8,20.IV.1455  | 6.VIII.1458  | Alonso Borja  | Torre de Canals, Játiva (Valencia)  | 15
+L229: 210  | 【219†Pius II】  | 19.VIII, 3.IX.1458  | 14.VIII.1464  | Enea Silvio Piccolomini  | Corsignano (Siena)  | 15
+L230: 211  | 【220†Paul II】  | 30.VIII, 16.IX.1464  | 26.VII.1471  | Pietro Barbo  | Venice  | 15
+L231: 212  | 【221†Sixtus IV】  | 1,9,25.VIII.1471  | 12.VIII.1484  | Francesco della Rovere  | Celle (Savona)  | 15
+L232: 213  | 【222†Innocent VIII】  | 29.VIII, 12.IX.1484  | 25.VII.1492  | Giovanni Battista Cibo  | Genoa  | 15
+L233: 214  | 【223†Alexander VI】  | 11,26.VIII.1492  | 18.VIII.1503  | Rodrigo de Borja  | Játiva (Valencia)  | 15
+L234: 215  | 【224†Pius III】  | 22.IX, 1,8.X.1503  | 18.X.1503  | Francesco Todeschini-Piccolomini  | Siena  | 16
+L235: 216  | 【225†Julius II】  | 1,26.XI.1503  | 21.II.1513  | Giuliano della Rovere  | Albisola (Savona)  | 16
+L236: 217  | 【226†Leo X】  | 11,19.III.1513  | 1.XII.1521  | Giovanni de' Medici  | Florence  | 16
+L237: 218  | 【227†Adrian VI】  | 9.I,31.VIII.1522  | 14.IX.1523  | Adriaan Florensz  | Utrecht  | 16
+L238: 219  | 【228†Clement VII】  | 19,26.XI.1523  | 25.IX.1534  | Giulio de' Medici  | Florence  | 16
+L239: 220  | 【229†Paul III】  | 13.X, 3.XI.1534  | 10.XI.1549  | Alessandro Farnese  | Canino (Viterbo)  | 16
+L240: 221  | 【230†Julius III】  | 7,22.II.1550  | 23.III.1555  | Giovanni Maria Ciocchi del Monte  | Rome  | 16
+L241: 222  | 【231†Marcellus II】  | 9,10.IV.1555  | 1.V.1555  | Marcello Cervini  | Montefano  | 16
+L242: 223  | 【232†Paul IV】  | 23,26.V.1555  | 18.VIII.1559  | Gian Pietro Carafa  | Capriglia (Avellino)  | 16
+L243: 224  | 【233†Pius IV】  | 26.XII.1559, 6.I.1560  | 9.XII.1565  | Giovan Angelo Medici  | Milan  | 16
+L244: 225  | 【234†Pius V】  | 7,17.I.1566  | 1.V.1572  | Antonio (Michele) Ghisleri  | Bosco (Alessandria)  | 16
+L245: 226  | 【235†Gregory XIII】  | 13,25.V.1572  | 10.IV.1585  | Ugo Boncompagni  | Bologna  | 16
+L246: 227  | 【236†Sixtus V】  | 24.IV, 1.V.1585  | 27.VIII.1590  | Felice Peretti  | Grottammare (Ascoli Piceno)  | 16
+L247: 228  | 【237†Urban VII】  | 15.IX.1590  | 27.IX.1590  | Giambattista Castagna  | Rome  | 16
+L248: 229  | 【238†Gregory XIV】  | 5,8.XII.1590  | 16.X.1591  | Niccolò Sfondrati  | Somma Lombarda  | 16
+L249: 230  | 【239†Innocent IX】  | 29.X,3.XI.1591  | 30.XII.1591  | Giovan Antonio Facchinetti  | Bologna  | 16
+L250: 231  | 【240†Clement VIII】  | 30.I,9.II.1592  | 3.III.1605  | Ippolito Aldobrandini  | Fano  | 16
+L251: 232  | 【241†Leo XI】  | 1,10.IV.1605  | 27.IV.1605  | Alessandro de' Medici  | Florence  | 17
+L252: 233  | 【242†Paul V】  | 16,29.V.1605  | 28.I.1621  | Camillo Borghese  | Rome  | 17
+L253: 234  | 【243†Gregory XV】  | 9,14.II.1621  | 8.VII.1623  | Alessandro Ludovisi  | Bologna  | 17
+L254: 235  | 【244†Urban VIII】  | 6.VIII, 29.IX.1623  | 29.VII.1644  | Maffeo Barberini  | Florence  | 17
+L255: 236  | 【245†Innocent X】  | 15.IX,4.X.1644  | 7.I.1655  | Giovanni Battista Pamphilj  | Rome  | 17
+L256: 237  | 【246†Alexander VII】  | 7,18.IV.1655  | 22.V.1667  | Fabio Chigi  | Siena  | 17
+L257: 238  | 【247†Clement IX】  | 20,26.VI.1667  | 9.XII.1669  | Giulio Rospigliosi  | Pistoia  | 17
+L258: 239  | 【248†Clement X】  | 29.IV,11.V.1670  | 22.VII.1676  | Emilio Altieri  | Rome  | 17
+L259: 240  | 【249†Innocent XI】  | 21.IX, 4.X.1676  | 12.VIII.1689  | Benedetto Odescalchi  | Como  | 17
+L260: 241  | 【250†Alexander VIII】  | 6,16.X.1689  | 1.II.1691  | Pietro Ottoboni  | Venice  | 17
+L261: 242  | 【251†Innocent XII】  | 12,15.VII.1691  | 27.IX.1700  | Antonio Pignatelli  | Spinazzola  | 17
+L262: 243  | 【252†Clement XI】  | 23,30.XI, 8.XII.1700  | 19.III.1721  | Giovanni Francesco Albani  | Urbino  | 18
+L263: 244  | 【253†Innocent XIII】  | 8,18.V.1721  | 7.III.1724  | Michelangelo Conti  | Poli  | 18
+L264: 245  | 【254†Benedict XIII】  | 29.V, 4.VI.1724  | 21.II.1730  | Pietro Francesco (Vincenzo Maria) Orsini  | Gravina  | 18
+L265: 246  | 【255†Clement XII】  | 12,16.VII.1730  | 6.II.1740  | Lorenzo Corsini  | Florence  | 18
+L266: 247  | 【256†Benedict XIV】  | 17,22.VIII.1740  | 3.V.1758  | Prospero Lambertini  | Bologna  | 18
+L267: 248  | 【257†Clement XIII】  | 6,16.VII.1758  | 2.II.1769  | Carlo Rezzonico  | Venice  | 18
+L268: 249  | 【258†Clement XIV】  | 19,28.V, 4.VI.1769  | 22.IX.1774  | Giovanni Vincenzo Antonio (Lorenzo) Ganganelli  | Sant'Arcangelo di Romagna  | 18
+L269: 250  | 【259†Pius VI】  | 15,22.II.1775  | 29.VIII.1799  | Giannangelo Braschi  | Cesena  | 18
+L270: 251  | 【260†Pius VII】  | 14,21.III.1800  | 20.VIII.1823  | Barnaba (Gregorio) Chiaramonti  | Cesena  | 19
+L271: 252  | 【261†Leo XII】  | 28.IX, 5.X.1823  | 10.II.1829  | Annibale della Genga  | Monticelli di Genga (Fabriano)  | 19
+L272: 253  | 【262†Pius VIII】  | 31.III, 5.IV.1829  | 30.XI.1830  | Francesco Saverio Castiglioni  | Cingoli  | 19
+L273: 254  | 【263†Gregory XVI】  | 2,6.II.1831  | 1.VI.1846  | Bartolomeo Alberto (Mauro) Cappellari  | Belluno  | 19
+L274: 255  | 【264†Pius IX】  | 16,21.VI.1846  | 7.II.1878  | Giovanni Maria Mastai Ferretti  | Senigallia  | 19
+L275: 256  | 【265†Leo XIII】  | 20.II, 3.III.1878  | 20.VII.1903  | Vincenzo Gioacchino Pecci  | Carpineto Romano  | 19
+L276: 257  | 【266†Pius X】  | 4,9.VIII.1903  | 20.VIII.1914  | Giuseppe Melchiorre Sarto  | Riese (Treviso)  | 20
+L277: 258  | 【267†Benedict XV】  | 3,6.IX.1914  | 22.I.1922  | Giacomo della Chiesa  |    | 20
+L278: 259  | 【268†Pius XI】  | 6,12.II.1922  | 10.II.1939  | Achille Ratti  | Desio (Milan)  | 20
+L279: 260  | 【269†Pius XII】  | 2,12.III.1939  | 9.X.1958  | Eugenio Pacelli  | Rome  | 20
+L280: 261  | 【270†John XXIII】  | 28.X, 4.XI.1958  | 3.VI.1963  | Angelo Giuseppe Roncalli  | Sotto il Monte (Bergamo)  | 20
+L281: 262  | 【271†Paul VI】  | 21,30.VI.1963  | 6.VIII.1978  | Giovanni Battista Montini  | Concesio (Brescia)  | 20
+L282: 263  | 【272†John Paul I】  | 26.VIII, 3.IX.1978  | 28.IX.1978  | Albino Luciani  | Forno di Canale (Belluno)  | 20
+L283: 264  | 【273†John Paul II】  | 16,22.X.1978  | 2.IV.2005  | Karol Wojtyła  | Wadowice (Kraków)  | 20
+L284: 265  | 【274†Benedict XVI】  | 19,24.IV.2005  | 28.II.2013  | Joseph Ratzinger  | Marktl am Inn (Bavaria)  | 21
+L285: 266  | 【275†Francis】  | 13,19.III.2013  | 21.IV.2025  | Jorge Mario Bergoglio  | Buenos Aires (Argentina)  | 21
+L286: 267  | 【276†Leo XIV】  | 8,18.V.2025  |    | Robert Francis Prevost  | Chicago  | 21
+L287: Copyright © Dicastery for Communication
+L288:
+L289: 【0†The Holy See】
+L290:
+L291:   * 【277†FAQ】
+L292:
+L293:   * 【278†Legal Notes】
+L294:
+L295:   * 【279†Cookie Policy】
+L296:
+L297:   * 【280†Privacy Policy】
