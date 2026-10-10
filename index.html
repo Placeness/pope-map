@@ -2,30 +2,78 @@
 <html lang="en">
 <head>
   <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>Pope Map</title>
-  <meta name="description" content="A map tour of places connected to the popes, with the history of the papacy.">
-  <style>
-    :root { --bg: #faf7f0; --fg: #2b2622; --muted: #6b625a; --accent: #a8842c; }
-    @media (prefers-color-scheme: dark) {
-      :root { --bg: #1c1a17; --fg: #f1ece3; --muted: #a9a094; --accent: #d4b25a; }
-    }
-    * { box-sizing: border-box; }
-    body {
-      margin: 0; min-height: 100vh; display: grid; place-items: center;
-      padding: 16px; background: var(--bg); color: var(--fg);
-      font-family: Georgia, "Times New Roman", serif; text-align: center;
-    }
-    h1 { font-size: clamp(2rem, 6vw, 3.25rem); margin: 0 0 .5rem; }
-    .rule { width: 64px; height: 2px; background: var(--accent); margin: 1rem auto; border: 0; }
-    p { color: var(--muted); font-size: 1.125rem; max-width: 32rem; margin: 0 auto; line-height: 1.5; }
-  </style>
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <title>Pope Placeness · a map of every pope</title>
+  <meta name="description" content="An interactive birthplace map of the popes in the official Vatican sequence, from St Peter to Leo XIV, with a manual pope tour, saints and antipope notes.">
+  <meta name="theme-color" content="#22305F">
+  <link rel="icon" type="image/png" href="assets/art/favicon.png">
+  <link rel="stylesheet" href="assets/fonts/fonts.css">
+  <link rel="stylesheet" href="vendor/leaflet/leaflet.css">
+  <link rel="stylesheet" href="css/app.css">
 </head>
 <body>
-  <main>
-    <h1>Pope Map</h1>
-    <hr class="rule">
-    <p>A map tour of the places connected to the popes, with the history of the papacy. Coming soon.</p>
+  <a class="skip-link" href="#panel">Skip to the list and profiles</a>
+
+  <header class="site-header">
+    <a class="brand" href="#" data-action="home" aria-label="Pope Placeness, back to the map">
+      <img src="assets/art/logo-header-navy.webp" alt="" width="190" height="60">
+    </a>
+    <nav class="primary-nav" aria-label="Main">
+      <button type="button" class="nav-link" data-action="map" aria-pressed="false">Map</button>
+      <button type="button" class="nav-link" data-action="list" aria-pressed="false"><span class="long">List of popes</span><span class="short">List</span></button>
+      <button type="button" class="nav-link" data-action="tour" aria-pressed="false"><span class="long">Pope tour</span><span class="short">Tour</span></button>
+      <button type="button" class="nav-link" data-action="overview" aria-pressed="false"><span class="long">What is a pope?</span><span class="short">About</span></button>
+    </nav>
+  </header>
+
+  <main class="stage" id="stage">
+    <div id="map" class="map" role="region" aria-label="Map of papal birthplaces"></div>
+    <div class="map-fallback" id="map-fallback" hidden>
+      <p>The map could not load. The list of popes, profiles and tour still work.</p>
+    </div>
+
+    <aside id="panel" class="panel" aria-label="Popes" tabindex="-1" data-view="welcome"></aside>
+
+    <section class="map-tools" aria-label="Map filters">
+      <div class="filter-modes" role="group" aria-label="Show on the map">
+        <button type="button" class="chip" data-mode="all" aria-pressed="true">All popes</button>
+        <button type="button" class="chip" data-mode="saints" aria-pressed="false"><span class="chip-halo" aria-hidden="true"></span>Pope saints</button>
+        <button type="button" class="chip" data-mode="antipopes" aria-pressed="false"><span class="chip-dot" aria-hidden="true"></span>Antipopes</button>
+      </div>
+      <details class="legend" id="legend">
+        <summary><span>Eras</span><span class="legend-count" id="legend-count"></span></summary>
+        <div class="legend-body" id="legend-body" role="group" aria-label="Filter by era"></div>
+      </details>
+      <p class="mode-note" id="mode-note" hidden></p>
+    </section>
+
+    <section class="tour-dock" id="tour-dock" aria-label="Pope tour">
+      <div class="tour-controls" id="tour-controls"></div>
+      <div class="rail-wrap">
+        <div class="rail" id="rail" role="slider" tabindex="0" aria-label="Vatican sequence timeline" aria-valuemin="1" aria-valuemax="267" aria-valuenow="1"></div>
+        <div class="rail-preview" id="rail-preview" role="status" aria-live="polite" hidden></div>
+      </div>
+    </section>
+
+    <button type="button" class="resources-toggle" id="resources-toggle" aria-haspopup="dialog">Resources</button>
   </main>
+
+  <dialog class="resources" id="resources" aria-labelledby="resources-title">
+    <div class="resources-inner">
+      <button type="button" class="icon-btn close-resources" data-close aria-label="Close resources">×</button>
+      <img class="resources-art" src="assets/art/keys-scroll.webp" alt="" width="700" height="481">
+      <p class="eyebrow">Keep exploring</p>
+      <h2 id="resources-title">Resources</h2>
+      <div class="resource-cards" id="resource-cards"></div>
+      <p class="credit">Art: <a href="https://www.etsy.com/shop/PrintAndPraise" target="_blank" rel="noopener">Print &amp; Praise</a></p>
+      <p class="small-print">Map outlines from Natural Earth. Eras are groupings used by this project, not official Vatican classifications.</p>
+    </div>
+  </dialog>
+
+  <noscript><p class="noscript">This map needs JavaScript. The official list of popes is on <a href="https://www.vatican.va/content/vatican/en/holy-father.html">vatican.va</a>.</p></noscript>
+
+  <script src="vendor/leaflet/leaflet.js"></script>
+  <script src="js/dates.js"></script>
+  <script src="js/app.js"></script>
 </body>
 </html>
