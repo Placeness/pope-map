@@ -128,6 +128,15 @@
     lineLayer = L.layerGroup().addTo(map);
     markerLayer = L.layerGroup().addTo(map);
     map.on('zoomend', function () { renderMarkers(); updateLabelClass(); });
+    // markers are focusable buttons: Enter or Space activates them like a click
+    $('#map').addEventListener('keydown', function (ev) {
+      var t = ev.target;
+      if ((ev.key === 'Enter' || ev.key === ' ') && t.classList && t.classList.contains('leaflet-marker-icon') && t.getAttribute('role') === 'button') {
+        ev.preventDefault(); ev.stopPropagation(); t.click();
+        // move focus to what opened, so keyboard users land in the profile or chooser
+        setTimeout(function () { var h = $('#panel h1, #panel .chooser select'); if (h) { if (h.tagName === 'H1') h.setAttribute('tabindex', '-1'); h.focus({ preventScroll: true }); } }, 60);
+      }
+    });
     map.on('click', function () { /* clicking empty map keeps the selection */ });
     window.addEventListener('resize', debounce(function () { map.invalidateSize(); renderMarkers(); }, 150));
   }
