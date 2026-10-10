@@ -89,6 +89,11 @@
   "leo-ix": {
    "saint.date": null,
    "_why": "The 1082 elevation date rests on Wikipedia alone; withheld until checked."
+  },
+  "benedict-xi": {
+   "saint.date": null,
+   "saint.public_note": "Sources disagree on the year his cult was confirmed (1736 or 1773).",
+   "_why": "Year conflict: Catholic Encyclopedia 1773 vs uncited 1736."
   }
  }
 }

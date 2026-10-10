@@ -1,0 +1,2743 @@
+{
+ "range": [
+  191,
+  229
+ ],
+ "people": [
+  {
+   "roster_n": [
+    191
+   ],
+   "id": "nicholas-iv",
+   "papal_name": "Nicholas IV",
+   "display_name": "Nicholas IV",
+   "alt_names": [
+    "Niccolò IV",
+    "Girolamo Masci"
+   ],
+   "secular_name": "Girolamo Masci",
+   "birth_date": null,
+   "birthplace": {
+    "label": "Lisciano",
+    "country": "Italy",
+    "historical_name": null,
+    "precision": "exact",
+    "lat": 42.85,
+    "lon": 13.6,
+    "radius_km": null,
+    "roster_birth_field": "Lisciano (Ascoli PIceno)",
+    "note": "Vatican roster and Italian table: Lisciano (Ascoli Piceno). CE says only 'Ascoli, in the March of Ancona'. Lisciano is a small locality near Ascoli Piceno; coordinates approximate.",
+    "public_note": null,
+    "sources": [
+     "S1",
+     "S2",
+     "C191"
+    ]
+   },
+   "saint": {
+    "status": "none",
+    "recognition": null,
+    "date": null,
+    "feast": null,
+    "note": "Not marked S./B. in the Vatican Italian table; no saint or blessed recognition found in Vatican sources or the Catholic Encyclopedia.",
+    "public_note": null,
+    "sources": [
+     "S2",
+     "C191"
+    ]
+   },
+   "short_bio": "Girolamo Masci was the first Franciscan pope. Minister general of his order after St Bonaventure, he was elected in 1288 after a long vacancy and died in Rome in 1292.",
+   "long_bio": "Born near Ascoli in the Marche, Girolamo Masci joined the Franciscans young and was sent on a mission to Constantinople in 1272. He succeeded St Bonaventure as minister general, became a cardinal in 1278 and bishop of Palestrina in 1281. As pope he crowned Charles II king of Sicily and Naples, granted the cardinals half of the revenues of the Apostolic See, and sent missionaries east, among them John of Montecorvino, who went on to China.",
+   "actions": [
+    "First Franciscan pope",
+    "Crowned Charles II of Naples (1289)",
+    "Gave the cardinals half the revenues of the Holy See",
+    "Sent John of Montecorvino on mission to the East"
+   ],
+   "context": "The late thirteenth century saw the papacy entangled in the struggle between the Angevins of Naples and the Aragonese over Sicily after the Sicilian Vespers of 1282. In 1291 Acre, the last crusader stronghold in the Holy Land, fell to the Mamluks. In Rome the Colonna and Orsini families competed for influence over the curia.",
+   "bio_sources": [
+    "C191"
+   ],
+   "public_uncertainty": null,
+   "research_status": "partial",
+   "open_questions": [
+    "CE gives no birth year; c. 1227 is often cited elsewhere but was not verified here."
+   ]
+  },
+  {
+   "roster_n": [
+    192
+   ],
+   "id": "celestine-v",
+   "papal_name": "Celestine V",
+   "display_name": "St Celestine V",
+   "alt_names": [
+    "Celestino V",
+    "Pietro del Morrone",
+    "Peter Celestine"
+   ],
+   "secular_name": "Pietro del Morrone (Pietro Angelerio)",
+   "birth_date": "c. 1215",
+   "birthplace": {
+    "label": "Molise",
+    "country": "Italy",
+    "historical_name": null,
+    "precision": "region",
+    "lat": 41.65,
+    "lon": 14.45,
+    "radius_km": 40,
+    "roster_birth_field": "Molise",
+    "note": "Vatican roster and Italian table give only 'Molise'; CE: born 1215 in the province of Molise. Two traditional candidate towns: Isernia (Britannica, marked uncertain) and Sant'Angelo Limosano (Wikipedia 'believed to be'). Neither is supported by a Vatican source, so precision is 'region'; centre placed between the two candidates (Isernia 41.596,14.233; Sant'Angelo Limosano 41.693,14.604), radius covers both.",
+    "public_note": "Tradition names either Isernia or Sant'Angelo Limosano in Molise as his birthplace.",
+    "sources": [
+     "S1",
+     "S2",
+     "C192",
+     "S7",
+     "S8"
+    ]
+   },
+   "saint": {
+    "status": "saint",
+    "recognition": "canonized",
+    "date": "5 May 1313",
+    "feast": "19 May",
+    "note": "Marked S. in the Vatican Italian table. CE: canonized 1313 by Clement V; Britannica and Wikipedia give 5 May 1313. Feast 19 May (Vatican News saint of the day; anniversary of death 1296).",
+    "public_note": "Canonized by Clement V in 1313.",
+    "sources": [
+     "S2",
+     "S3",
+     "C192",
+     "S7"
+    ]
+   },
+   "short_bio": "A hermit of the Abruzzo mountains, Pietro del Morrone was elected pope in his eighties in 1294 to end a two-year deadlock. Overwhelmed by the office, he resigned after five months and died in custody in 1296.",
+   "long_bio": "Of humble origins in Molise, Pietro became a Benedictine and then a hermit on Monte Morrone and the Maiella, gathering followers who became the Celestine congregation, approved by Urban IV in 1264. In July 1294 the cardinals, deadlocked at Perugia for over two years, unanimously chose him. He fell under the influence of Charles II of Naples and, after decreeing that a pope could resign, abdicated at Naples on 13 December 1294. His successor kept him confined at the castle of Fumone, where he died on 19 May 1296.",
+   "actions": [
+    "Founded the hermit congregation later called the Celestines",
+    "Ended a two-year papal vacancy",
+    "Decreed that a pope may resign, then resigned (13 December 1294)"
+   ],
+   "context": "The papacy was caught between the Angevin kings of Naples and Roman baronial families. A deadlocked conclave left the see empty from 1292 to 1294. Spiritual movements stressing poverty and hoping for an 'angelic pope' greeted the hermit's election with enthusiasm.",
+   "bio_sources": [
+    "C192",
+    "S7",
+    "S8"
+   ],
+   "public_uncertainty": "His birth year and exact birthplace rest on tradition.",
+   "research_status": "verified",
+   "open_questions": []
+  },
+  {
+   "roster_n": [
+    193
+   ],
+   "id": "boniface-viii",
+   "papal_name": "Boniface VIII",
+   "display_name": "Boniface VIII",
+   "alt_names": [
+    "Bonifacio VIII",
+    "Benedetto Caetani"
+   ],
+   "secular_name": "Benedetto Caetani",
+   "birth_date": "c. 1235",
+   "birthplace": {
+    "label": "Anagni",
+    "country": "Italy",
+    "historical_name": null,
+    "precision": "exact",
+    "lat": 41.7436,
+    "lon": 13.1583,
+    "radius_km": null,
+    "roster_birth_field": "Anagni",
+    "note": "Roster, Italian table and CE agree: Anagni.",
+    "public_note": null,
+    "sources": [
+     "S1",
+     "S2",
+     "C193"
+    ]
+   },
+   "saint": {
+    "status": "none",
+    "recognition": null,
+    "date": null,
+    "feast": null,
+    "note": "Not marked S./B. in the Vatican Italian table; no saint or blessed recognition found in Vatican sources or the Catholic Encyclopedia.",
+    "public_note": null,
+    "sources": [
+     "S2",
+     "C193"
+    ]
+   },
+   "short_bio": "A canon lawyer from Anagni, Benedetto Caetani succeeded Celestine V in 1294. He proclaimed the first Jubilee in 1300 and clashed fiercely with Philip IV of France over papal authority.",
+   "long_bio": "Benedetto Caetani studied canon and civil law and served as legate in France and Sicily before becoming a cardinal in 1281. Elected on 24 December 1294, he defended the rights of the Church against Philip IV of France in bulls such as Clericis laicos (1296) and Unam sanctam (1302), which asserted the supremacy of spiritual power. He proclaimed the Jubilee of 1300, which drew great crowds to Rome. In September 1303 agents of Philip, led by Guillaume de Nogaret with Sciarra Colonna, seized him at Anagni; freed by the townspeople, he returned to Rome and died there on 11 October 1303.",
+   "actions": [
+    "Proclaimed the first Holy Year (1300)",
+    "Issued Clericis laicos (1296) and Unam sanctam (1302)",
+    "Opposed Philip IV of France over taxation of clergy",
+    "Seized at Anagni by French agents (1303)"
+   ],
+   "context": "Strong national monarchies, above all Philip IV's France, now challenged papal claims to authority over kings, especially over taxing the clergy. In Rome the Caetani fought the Colonna family. The Anagni outrage of 1303 marked a turning point toward the papacy's later move to Avignon.",
+   "bio_sources": [
+    "C193"
+   ],
+   "public_uncertainty": null,
+   "research_status": "partial",
+   "open_questions": []
+  },
+  {
+   "roster_n": [
+    194
+   ],
+   "id": "benedict-xi",
+   "papal_name": "Benedict XI",
+   "display_name": "Bl. Benedict XI",
+   "alt_names": [
+    "Benedetto XI",
+    "Niccolò Boccasini"
+   ],
+   "secular_name": "Niccolò Boccasini",
+   "birth_date": "1240",
+   "birthplace": {
+    "label": "Treviso",
+    "country": "Italy",
+    "historical_name": null,
+    "precision": "exact",
+    "lat": 45.6669,
+    "lon": 12.243,
+    "radius_km": null,
+    "roster_birth_field": "Treviso",
+    "note": "Roster, Italian table and CE agree: Treviso.",
+    "public_note": null,
+    "sources": [
+     "S1",
+     "S2",
+     "C194"
+    ]
+   },
+   "saint": {
+    "status": "blessed",
+    "recognition": "cult_confirmed",
+    "date": "24 April 1736",
+    "feast": "6 July",
+    "note": "Italian table lists him WITHOUT 'B.' (outdated); Vatican News lists 'B. Benedict XI, Pope' under 6 July. CE says beatified 1773 (no pope named); Wikipedia: cultus approved by Clement XII on 24 April 1736 (equipollent beatification), uncited. Brief expects 1736. Date conflict 1736 vs 1773 noted. Wikipedia gives feast 7 July (death date); Vatican News page is under 6 July — used Vatican News.",
+    "public_note": "Declared blessed through confirmation of his long-standing cult, in 1736 according to most sources.",
+    "sources": [
+     "S4",
+     "C194",
+     "S9"
+    ]
+   },
+   "short_bio": "A Dominican from Treviso and former master general of his order, Niccolò Boccasini was elected in 1303 after the death of Boniface VIII. He made peace with France but died suddenly at Perugia after eight months.",
+   "long_bio": "Niccolò Boccasini joined the Dominicans at fourteen, became a lector in theology and was elected master general in 1296. Made a cardinal in 1298, he served as legate to Hungary and stood by Boniface VIII at Anagni. Elected unanimously on 22 October 1303, he worked for reconciliation with Philip IV of France, while excommunicating Nogaret and Sciarra Colonna for the attack on his predecessor. He died suddenly at Perugia on 7 July 1304; poisoning was suspected but never proved.",
+   "actions": [
+    "Reconciled the papacy with Philip IV of France",
+    "Excommunicated those responsible for the outrage at Anagni"
+   ],
+   "context": "The papacy was still reeling from the clash between Boniface VIII and Philip IV and the violence at Anagni. Rome was unsafe because of baronial feuds, and Benedict moved to Perugia. His early death led to a long conclave and the election of a Frenchman, Clement V.",
+   "bio_sources": [
+    "C194",
+    "S9"
+   ],
+   "public_uncertainty": null,
+   "research_status": "partial",
+   "open_questions": [
+    "Beatification year: Wikipedia 1736 (Clement XII) vs CE 1773; Vatican primary decree not located."
+   ]
+  },
+  {
+   "roster_n": [
+    195
+   ],
+   "id": "clement-v",
+   "papal_name": "Clement V",
+   "display_name": "Clement V",
+   "alt_names": [
+    "Clemente V",
+    "Bertrand de Got"
+   ],
+   "secular_name": "Bertrand de Got",
+   "birth_date": "1264",
+   "birthplace": {
+    "label": "Villandraut",
+    "country": "France",
+    "historical_name": null,
+    "precision": "exact",
+    "lat": 44.46,
+    "lon": -0.3706,
+    "radius_km": null,
+    "roster_birth_field": "Villandraut (Gironde)",
+    "note": "Roster, Italian table and CE agree: Villandraut in Gascony (Gironde).",
+    "public_note": null,
+    "sources": [
+     "S1",
+     "S2",
+     "C195"
+    ]
+   },
+   "saint": {
+    "status": "none",
+    "recognition": null,
+    "date": null,
+    "feast": null,
+    "note": "Not marked S./B. in the Vatican Italian table; no saint or blessed recognition found in Vatican sources or the Catholic Encyclopedia.",
+    "public_note": null,
+    "sources": [
+     "S2",
+     "C195"
+    ]
+   },
+   "short_bio": "A Gascon archbishop of Bordeaux, Bertrand de Got was elected in 1305 and never went to Rome. He settled the papal court at Avignon, beginning some seventy years of residence there.",
+   "long_bio": "Bertrand de Got held church posts at Bordeaux, served as papal chaplain and was bishop of Comminges before becoming archbishop of Bordeaux. Elected in 1305 after a long conclave, he was crowned at Lyon and, after years moving around southern France, settled at Avignon in 1309. Under heavy pressure from Philip IV, he suppressed the Knights Templar at the Council of Vienne (1311-1312) without a formal condemnation of the order. He also promulgated the collection of decretals called the Clementines. He died at Roquemaure on 20 April 1314.",
+   "actions": [
+    "Settled the papal court at Avignon (1309)",
+    "Convened the Council of Vienne (1311-1312)",
+    "Suppressed the Knights Templar (1312)",
+    "Canonized Celestine V (1313)",
+    "Issued the Clementine decretals"
+   ],
+   "context": "From 1309 the popes lived at Avignon in Provence, close to the French crown. The papal court grew into a large, efficient administration funded by new taxes on benefices, while Italy and the Papal States were left to rival factions. Critics, among them Petrarch, spoke of a 'Babylonian captivity', and the Hundred Years' War between France and England began in 1337.",
+   "bio_sources": [
+    "C195",
+    "S7"
+   ],
+   "public_uncertainty": null,
+   "research_status": "verified",
+   "open_questions": []
+  },
+  {
+   "roster_n": [
+    196
+   ],
+   "id": "john-xxii",
+   "papal_name": "John XXII",
+   "display_name": "John XXII",
+   "alt_names": [
+    "Giovanni XXII",
+    "Jacques Duèse"
+   ],
+   "secular_name": "Jacques Duèse (d'Euse)",
+   "birth_date": "1249",
+   "birthplace": {
+    "label": "Cahors",
+    "country": "France",
+    "historical_name": null,
+    "precision": "exact",
+    "lat": 44.4475,
+    "lon": 1.4419,
+    "radius_km": null,
+    "roster_birth_field": "Cahors",
+    "note": "Roster, Italian table and CE agree: Cahors.",
+    "public_note": null,
+    "sources": [
+     "S1",
+     "S2",
+     "C196"
+    ]
+   },
+   "saint": {
+    "status": "none",
+    "recognition": null,
+    "date": null,
+    "feast": null,
+    "note": "Not marked S./B. in the Vatican Italian table; no saint or blessed recognition found in Vatican sources or the Catholic Encyclopedia.",
+    "public_note": null,
+    "sources": [
+     "S2",
+     "C196"
+    ]
+   },
+   "short_bio": "A lawyer from Cahors, Jacques Duèse was elected at Lyon in 1316 aged about 67 and reigned for eighteen years from Avignon. He reorganised papal finances and fought long battles with Louis of Bavaria and the Spiritual Franciscans.",
+   "long_bio": "Jacques Duèse taught canon and civil law, became bishop of Fréjus, chancellor to Charles II of Naples and cardinal-bishop of Porto. Elected at Lyon on 7 August 1316 after a two-year vacancy, he settled at Avignon and centralised church administration, expanding annates and other revenues. He excommunicated Louis of Bavaria, who had himself crowned in Rome and set up an antipope. He condemned the Spiritual Franciscans and in 1323 declared heretical the claim that Christ and the apostles owned nothing. His sermons suggesting that the saints see God only after the Last Judgment caused controversy; he withdrew the view before his death at Avignon on 4 December 1334.",
+   "actions": [
+    "Centralised papal finances and administration",
+    "Excommunicated Louis of Bavaria (1324)",
+    "Ruled against the Spiritual Franciscans on apostolic poverty (1323)",
+    "Canonized Thomas Aquinas (1323)"
+   ],
+   "context": "From 1309 the popes lived at Avignon in Provence, close to the French crown. The papal court grew into a large, efficient administration funded by new taxes on benefices, while Italy and the Papal States were left to rival factions. Critics, among them Petrarch, spoke of a 'Babylonian captivity', and the Hundred Years' War between France and England began in 1337.",
+   "bio_sources": [
+    "C196"
+   ],
+   "public_uncertainty": null,
+   "research_status": "partial",
+   "open_questions": [
+    "Canonization of Thomas Aquinas by John XXII (1323) is well known but not in the fetched CE summary; verify or drop."
+   ]
+  },
+  {
+   "roster_n": [
+    197
+   ],
+   "id": "benedict-xii",
+   "papal_name": "Benedict XII",
+   "display_name": "Benedict XII",
+   "alt_names": [
+    "Benedetto XII",
+    "Jacques Fournier"
+   ],
+   "secular_name": "Jacques Fournier",
+   "birth_date": null,
+   "birthplace": {
+    "label": "Saverdun",
+    "country": "France",
+    "historical_name": null,
+    "precision": "exact",
+    "lat": 43.2353,
+    "lon": 1.5753,
+    "radius_km": null,
+    "roster_birth_field": "Saverdun (Southern France)",
+    "note": "Roster, Italian table and CE agree: Saverdun (Ariège), in the county of Foix.",
+    "public_note": null,
+    "sources": [
+     "S1",
+     "S2",
+     "C197"
+    ]
+   },
+   "saint": {
+    "status": "none",
+    "recognition": null,
+    "date": null,
+    "feast": null,
+    "note": "Not marked S./B. in the Vatican Italian table; no saint or blessed recognition found in Vatican sources or the Catholic Encyclopedia.",
+    "public_note": null,
+    "sources": [
+     "S2",
+     "C197"
+    ]
+   },
+   "short_bio": "A Cistercian monk from Saverdun, Jacques Fournier was elected at Avignon in 1334. He settled the question of the beatific vision and began the great papal palace at Avignon.",
+   "long_bio": "Jacques Fournier became a Cistercian, abbot of Fontfroide, then bishop of Pamiers (1317) and of Mirepoix, and a cardinal in 1327. As pope he issued the constitution Benedictus Deus (1336), defining that the souls of the just see God immediately after death, closing the controversy raised by his predecessor. He worked to reform religious orders and curb clerical abuses, and in 1339 began building the Palace of the Popes at Avignon. He died there on 25 April 1342.",
+   "actions": [
+    "Issued Benedictus Deus on the beatific vision (1336)",
+    "Began the Palace of the Popes at Avignon",
+    "Reformed religious orders and the curia"
+   ],
+   "context": "From 1309 the popes lived at Avignon in Provence, close to the French crown. The papal court grew into a large, efficient administration funded by new taxes on benefices, while Italy and the Papal States were left to rival factions. Critics, among them Petrarch, spoke of a 'Babylonian captivity', and the Hundred Years' War between France and England began in 1337.",
+   "bio_sources": [
+    "C197"
+   ],
+   "public_uncertainty": null,
+   "research_status": "partial",
+   "open_questions": [
+    "CE gives death 24 April 1342; roster 25 April 1342. Bio uses roster date.",
+    "Birth year (c. 1285) not verified."
+   ]
+  },
+  {
+   "roster_n": [
+    198
+   ],
+   "id": "clement-vi",
+   "papal_name": "Clement VI",
+   "display_name": "Clement VI",
+   "alt_names": [
+    "Clemente VI",
+    "Pierre Roger"
+   ],
+   "secular_name": "Pierre Roger",
+   "birth_date": "1291",
+   "birthplace": {
+    "label": "Rosiers-d'Égletons",
+    "country": "France",
+    "historical_name": "Château de Maumont",
+    "precision": "exact",
+    "lat": 45.3703,
+    "lon": 2.0067,
+    "radius_km": null,
+    "roster_birth_field": "Maumont (Limousin)",
+    "note": "Roster/Italian table: Maumont (Limousin). CE: castle of Maumont, Corrèze. The castle of Maumont lies in the commune of Rosiers-d'Égletons (Corrèze); coordinates are the commune.",
+    "public_note": "Born at the castle of Maumont, near Rosiers-d'Égletons.",
+    "sources": [
+     "S1",
+     "S2",
+     "C198"
+    ]
+   },
+   "saint": {
+    "status": "none",
+    "recognition": null,
+    "date": null,
+    "feast": null,
+    "note": "Not marked S./B. in the Vatican Italian table; no saint or blessed recognition found in Vatican sources or the Catholic Encyclopedia.",
+    "public_note": null,
+    "sources": [
+     "S2",
+     "C198"
+    ]
+   },
+   "short_bio": "A Benedictine from the Limousin and a celebrated preacher, Pierre Roger was elected in 1342. He bought Avignon for the papacy, protected Jews during the Black Death and kept a splendid court.",
+   "long_bio": "Pierre Roger entered the Benedictine abbey of La Chaise-Dieu, taught at Paris and rose to be abbot, archbishop and cardinal (1338). Elected at Avignon on 7 May 1342, he bought the city from Queen Joanna of Naples in 1348. When the Black Death struck in 1348-1349 he issued bulls protecting the Jews, who were being blamed for the plague, and offered them refuge. He granted a Jubilee for 1350, which brought huge numbers of pilgrims to Rome. His court was famous for its magnificence. He died at Avignon on 6 December 1352.",
+   "actions": [
+    "Purchased Avignon from Joanna of Naples (1348)",
+    "Protected Jews during the Black Death",
+    "Proclaimed the Jubilee of 1350"
+   ],
+   "context": "From 1309 the popes lived at Avignon in Provence, close to the French crown. The papal court grew into a large, efficient administration funded by new taxes on benefices, while Italy and the Papal States were left to rival factions. Critics, among them Petrarch, spoke of a 'Babylonian captivity', and the Hundred Years' War between France and England began in 1337. The Black Death (1347-1351) killed perhaps a third of Europe's population.",
+   "bio_sources": [
+    "C198"
+   ],
+   "public_uncertainty": null,
+   "research_status": "partial",
+   "open_questions": []
+  },
+  {
+   "roster_n": [
+    199
+   ],
+   "id": "innocent-vi",
+   "papal_name": "Innocent VI",
+   "display_name": "Innocent VI",
+   "alt_names": [
+    "Innocenzo VI",
+    "Étienne Aubert"
+   ],
+   "secular_name": "Étienne Aubert",
+   "birth_date": null,
+   "birthplace": {
+    "label": "Beyssac",
+    "country": "France",
+    "historical_name": "Les Monts",
+    "precision": "exact",
+    "lat": 45.44,
+    "lon": 1.43,
+    "radius_km": null,
+    "roster_birth_field": "Monts (Limousin)",
+    "note": "Roster/Italian table: Monts (Limousin). CE: 'Mont, in the Diocese of Limoges'. The hamlet of Les Monts is usually placed in the commune of Beyssac (Corrèze); this commune identification is from general knowledge and not verified in a fetched source. Coordinates approximate.",
+    "public_note": "Born at Les Monts in the Limousin; the exact hamlet is identified only approximately.",
+    "sources": [
+     "S1",
+     "S2",
+     "C199"
+    ]
+   },
+   "saint": {
+    "status": "none",
+    "recognition": null,
+    "date": null,
+    "feast": null,
+    "note": "Not marked S./B. in the Vatican Italian table; no saint or blessed recognition found in Vatican sources or the Catholic Encyclopedia.",
+    "public_note": null,
+    "sources": [
+     "S2",
+     "C199"
+    ]
+   },
+   "short_bio": "A law professor from the Limousin, Étienne Aubert was elected at Avignon in 1352. He reformed the papal court and sent Cardinal Albornoz to win back the Papal States.",
+   "long_bio": "Étienne Aubert taught civil law at Toulouse and became a senior judge there, then bishop of Noyon and of Clermont, cardinal and Grand Penitentiary. Elected on 18 December 1352, he sent clergy back to their posts, curbed abuses in benefices and reduced luxury at the papal court. Cardinal Gil de Albornoz, sent to Italy, restored papal authority in the Papal States, preparing the way for a return to Rome. He crowned Charles IV emperor in 1355 and helped bring about the Peace of Brétigny between France and England in 1360. He died at Avignon on 12 September 1362.",
+   "actions": [
+    "Sent Cardinal Albornoz to restore the Papal States",
+    "Reformed the papal court and benefices",
+    "Helped broker the Peace of Brétigny (1360)"
+   ],
+   "context": "From 1309 the popes lived at Avignon in Provence, close to the French crown. The papal court grew into a large, efficient administration funded by new taxes on benefices, while Italy and the Papal States were left to rival factions. Critics, among them Petrarch, spoke of a 'Babylonian captivity', and the Hundred Years' War between France and England began in 1337.",
+   "bio_sources": [
+    "C199"
+   ],
+   "public_uncertainty": null,
+   "research_status": "partial",
+   "open_questions": [
+    "Identification of 'Monts' with Les Monts, Beyssac not source-verified.",
+    "Birth year unknown in fetched sources."
+   ]
+  },
+  {
+   "roster_n": [
+    200
+   ],
+   "id": "urban-v",
+   "papal_name": "Urban V",
+   "display_name": "Bl. Urban V",
+   "alt_names": [
+    "Urbano V",
+    "Guillaume de Grimoard"
+   ],
+   "secular_name": "Guillaume de Grimoard",
+   "birth_date": "1310",
+   "birthplace": {
+    "label": "Grizac",
+    "country": "France",
+    "historical_name": null,
+    "precision": "exact",
+    "lat": 44.36,
+    "lon": 3.72,
+    "radius_km": null,
+    "roster_birth_field": "Grizac (Southern France)",
+    "note": "Roster/Italian table: Grizac; CE: Grisac, Languedoc. Grizac castle is near Le Pont-de-Montvert (Lozère); coordinates approximate.",
+    "public_note": null,
+    "sources": [
+     "S1",
+     "S2",
+     "C200"
+    ]
+   },
+   "saint": {
+    "status": "blessed",
+    "recognition": "cult_confirmed",
+    "date": "10 March 1870",
+    "feast": "19 December",
+    "note": "Marked B. in the Vatican Italian table; Vatican News lists 'B. Urban V, Pope' on 19 December. CE: cultus approved by Pius IX in 1870. Day 10 March 1870 is from general knowledge (commonly cited) and not verified in a fetched source.",
+    "public_note": "Declared blessed by Pius IX in 1870, confirming his long-standing cult.",
+    "sources": [
+     "S2",
+     "S5",
+     "C200"
+    ]
+   },
+   "short_bio": "A Benedictine abbot and canon lawyer, Guillaume de Grimoard was elected in 1362. He brought the papacy back to Rome in 1367, but returned to Avignon in 1370, where he died.",
+   "long_bio": "Born into a knightly family at Grizac in the Languedoc, Guillaume de Grimoard became a Benedictine monk, a professor of canon law and a papal diplomat, and in 1352 an abbot. Elected in 1362 while not yet a cardinal, he kept a simple monastic life as pope. He worked for peace in Europe and for a crusade, excommunicated Bernabò Visconti of Milan and founded or supported universities, including Kraków and Vienna. In 1367 he moved the papacy back to Rome, staying about three years, but in September 1370 he returned to Avignon, where he died on 19 December 1370.",
+   "actions": [
+    "Returned the papal residence to Rome (1367-1370)",
+    "Founded the universities of Kraków and Vienna",
+    "Excommunicated Bernabò Visconti",
+    "Worked for peace among Christian rulers and for a crusade"
+   ],
+   "context": "From 1309 the popes lived at Avignon in Provence, close to the French crown. The papal court grew into a large, efficient administration funded by new taxes on benefices, while Italy and the Papal States were left to rival factions. Critics, among them Petrarch, spoke of a 'Babylonian captivity', and the Hundred Years' War between France and England began in 1337.",
+   "bio_sources": [
+    "C200"
+   ],
+   "public_uncertainty": null,
+   "research_status": "verified",
+   "open_questions": []
+  },
+  {
+   "roster_n": [
+    201
+   ],
+   "id": "gregory-xi",
+   "papal_name": "Gregory XI",
+   "display_name": "Gregory XI",
+   "alt_names": [
+    "Gregorio XI",
+    "Pierre Roger de Beaufort"
+   ],
+   "secular_name": "Pierre Roger de Beaufort",
+   "birth_date": "1331",
+   "birthplace": {
+    "label": "Rosiers-d'Égletons",
+    "country": "France",
+    "historical_name": "Château de Maumont",
+    "precision": "exact",
+    "lat": 45.3703,
+    "lon": 2.0067,
+    "radius_km": null,
+    "roster_birth_field": "Rosiers d'Egletons (Limousin)",
+    "note": "Roster/Italian table: Rosiers d'Egletons. CE: castle of Maumont, diocese of Limoges, which lies in the commune of Rosiers-d'Égletons (Corrèze). Same castle as his uncle Clement VI.",
+    "public_note": "Born at the castle of Maumont, near Rosiers-d'Égletons.",
+    "sources": [
+     "S1",
+     "S2",
+     "C201"
+    ]
+   },
+   "saint": {
+    "status": "none",
+    "recognition": null,
+    "date": null,
+    "feast": null,
+    "note": "Not marked S./B. in the Vatican Italian table; no saint or blessed recognition found in Vatican sources or the Catholic Encyclopedia.",
+    "public_note": null,
+    "sources": [
+     "S2",
+     "C201"
+    ]
+   },
+   "short_bio": "Nephew of Clement VI, Pierre Roger de Beaufort was elected at Avignon in 1370. Urged on by St Catherine of Siena among others, he returned the papacy to Rome in 1377, and died there the following year.",
+   "long_bio": "Pierre Roger de Beaufort received many benefices from his uncle Clement VI and was made a cardinal young. Elected at Avignon at the end of December 1370, he fought a costly war with Florence, placing the city under interdict. Encouraged by the prayers and letters of St Catherine of Siena, he moved the papal see back to Rome in January 1377. That year he condemned propositions of John Wyclif in five bulls. He died in Rome in March 1378. He was the last French pope, and the disputed election after his death began the Western Schism.",
+   "actions": [
+    "Returned the papacy to Rome (1377)",
+    "Condemned errors of John Wyclif (1377)",
+    "Waged the War of the Eight Saints with Florence"
+   ],
+   "context": "From 1309 the popes lived at Avignon in Provence, close to the French crown. The papal court grew into a large, efficient administration funded by new taxes on benefices, while Italy and the Papal States were left to rival factions. Critics, among them Petrarch, spoke of a 'Babylonian captivity', and the Hundred Years' War between France and England began in 1337.",
+   "bio_sources": [
+    "C201"
+   ],
+   "public_uncertainty": null,
+   "research_status": "partial",
+   "open_questions": [
+    "CE gives death 27 March 1378; Vatican roster 26 March 1378."
+   ]
+  },
+  {
+   "roster_n": [
+    202
+   ],
+   "id": "urban-vi",
+   "papal_name": "Urban VI",
+   "display_name": "Urban VI",
+   "alt_names": [
+    "Urbano VI",
+    "Bartolomeo Prignano"
+   ],
+   "secular_name": "Bartolomeo Prignano",
+   "birth_date": "c. 1318",
+   "birthplace": {
+    "label": "Naples",
+    "country": "Italy",
+    "historical_name": "Neapolis",
+    "precision": "exact",
+    "lat": 40.8518,
+    "lon": 14.2681,
+    "radius_km": null,
+    "roster_birth_field": "Naples",
+    "note": "Roster, Italian table and CE agree: Naples.",
+    "public_note": null,
+    "sources": [
+     "S1",
+     "S2",
+     "C202"
+    ]
+   },
+   "saint": {
+    "status": "none",
+    "recognition": null,
+    "date": null,
+    "feast": null,
+    "note": "Not marked S./B. in the Vatican Italian table; no saint or blessed recognition found in Vatican sources or the Catholic Encyclopedia.",
+    "public_note": null,
+    "sources": [
+     "S2",
+     "C202"
+    ]
+   },
+   "short_bio": "Archbishop of Bari and head of the papal chancery, Bartolomeo Prignano was elected in Rome in 1378 amid popular pressure for an Italian pope. Within months most cardinals rejected him, beginning the Western Schism.",
+   "long_bio": "Bartolomeo Prignano spent many years at Avignon, became archbishop of Acerenza in 1364 and of Bari in 1377, and ran the papal chancery. He was elected in April 1378, not being a cardinal, while Roman crowds demanded a Roman or at least Italian pope. His harsh attempts at reform alienated the cardinals, most of whom declared his election invalid and in September 1378 chose Robert of Geneva as Clement VII, who settled at Avignon. Urban had cardinals suspected of conspiracy imprisoned, and some were executed. He died in Rome on 15 October 1389.",
+   "actions": [
+    "Elected in April 1378 though not a cardinal",
+    "Tried to reform the curia",
+    "Opposed the Avignon line of Clement VII"
+   ],
+   "context": "After the disputed election of 1378 the Western Church split: one line of popes stayed in Rome, while a rival line backed by France resided at Avignon, and from 1409 a third line arose from the Council of Pisa. Kingdoms took sides by politics. The schism ended only at the Council of Constance (1414-1418).",
+   "bio_sources": [
+    "C202"
+   ],
+   "public_uncertainty": null,
+   "research_status": "partial",
+   "open_questions": []
+  },
+  {
+   "roster_n": [
+    203
+   ],
+   "id": "boniface-ix",
+   "papal_name": "Boniface IX",
+   "display_name": "Boniface IX",
+   "alt_names": [
+    "Bonifacio IX",
+    "Pietro Tomacelli"
+   ],
+   "secular_name": "Pietro Tomacelli",
+   "birth_date": null,
+   "birthplace": {
+    "label": "Naples",
+    "country": "Italy",
+    "historical_name": "Neapolis",
+    "precision": "exact",
+    "lat": 40.8518,
+    "lon": 14.2681,
+    "radius_km": null,
+    "roster_birth_field": "Naples",
+    "note": "Roster and Italian table: Naples. CE states only that he came from an old, impoverished baronial family of Naples and does not give a birthplace. Some local traditions name Casarano (Apulia); not verified here.",
+    "public_note": null,
+    "sources": [
+     "S1",
+     "S2",
+     "C203"
+    ]
+   },
+   "saint": {
+    "status": "none",
+    "recognition": null,
+    "date": null,
+    "feast": null,
+    "note": "Not marked S./B. in the Vatican Italian table; no saint or blessed recognition found in Vatican sources or the Catholic Encyclopedia.",
+    "public_note": null,
+    "sources": [
+     "S2",
+     "C203"
+    ]
+   },
+   "short_bio": "A Neapolitan of a noble but impoverished family, Pietro Tomacelli was elected by the Roman cardinals in 1389. He held Rome and the Papal States firmly, but the schism with Avignon continued throughout his reign.",
+   "long_bio": "Elected in Rome on 2 November 1389 after the death of Urban VI, Pietro Tomacelli refused to abdicate in favour of the Avignon claimants Clement VII and Benedict XIII. He presided over Jubilee celebrations, including the Holy Year of 1400, won back many cities and strongholds of the Papal States, and secured Rome by fortifying Castel Sant'Angelo. To raise money he made annates a permanent tax, and he was accused of greed and nepotism. He died in Rome on 1 October 1404 after a failed meeting with envoys of Benedict XIII.",
+   "actions": [
+    "Presided over the Holy Year of 1400",
+    "Restored papal control over much of the Papal States",
+    "Made annates a permanent revenue"
+   ],
+   "context": "After the disputed election of 1378 the Western Church split: one line of popes stayed in Rome, while a rival line backed by France resided at Avignon, and from 1409 a third line arose from the Council of Pisa. Kingdoms took sides by politics. The schism ended only at the Council of Constance (1414-1418).",
+   "bio_sources": [
+    "C203"
+   ],
+   "public_uncertainty": null,
+   "research_status": "partial",
+   "open_questions": [
+    "CE (fetched summary) mentions Jubilees in 1396 and 1400; the first Jubilee of his reign is usually dated 1390 (proclaimed by Urban VI). Verify.",
+    "Birth year (c. 1350) not verified."
+   ]
+  },
+  {
+   "roster_n": [
+    204
+   ],
+   "id": "innocent-vii",
+   "papal_name": "Innocent VII",
+   "display_name": "Innocent VII",
+   "alt_names": [
+    "Innocenzo VII",
+    "Cosma de' Migliorati"
+   ],
+   "secular_name": "Cosimo (Cosma) de' Migliorati",
+   "birth_date": "c. 1336",
+   "birthplace": {
+    "label": "Sulmona",
+    "country": "Italy",
+    "historical_name": "Sulmo",
+    "precision": "exact",
+    "lat": 42.048,
+    "lon": 13.9262,
+    "radius_km": null,
+    "roster_birth_field": "Sulmona",
+    "note": "Roster, Italian table and CE agree: Sulmona, Abruzzo.",
+    "public_note": null,
+    "sources": [
+     "S1",
+     "S2",
+     "C204"
+    ]
+   },
+   "saint": {
+    "status": "none",
+    "recognition": null,
+    "date": null,
+    "feast": null,
+    "note": "Not marked S./B. in the Vatican Italian table; no saint or blessed recognition found in Vatican sources or the Catholic Encyclopedia.",
+    "public_note": null,
+    "sources": [
+     "S2",
+     "C204"
+    ]
+   },
+   "short_bio": "A lawyer from Sulmona, Cosimo de' Migliorati was elected by the Roman cardinals in 1404. Revolts in Rome and the ambitions of Ladislaus of Naples dominated his two-year reign.",
+   "long_bio": "Cosimo de' Migliorati taught law at Perugia and Padua, served as papal collector in England, and became archbishop and cardinal. Elected in October 1404, he spoke of calling a council to end the schism but was soon overwhelmed by unrest in Rome. King Ladislaus of Naples helped him put down a Roman revolt, then extracted concessions and later supported rebels against him. He planned to restore the university of Rome shortly before his death on 6 November 1406.",
+   "actions": [
+    "Promised a council to end the schism",
+    "Planned the restoration of the university of Rome"
+   ],
+   "context": "After the disputed election of 1378 the Western Church split: one line of popes stayed in Rome, while a rival line backed by France resided at Avignon, and from 1409 a third line arose from the Council of Pisa. Kingdoms took sides by politics. The schism ended only at the Council of Constance (1414-1418).",
+   "bio_sources": [
+    "C204"
+   ],
+   "public_uncertainty": null,
+   "research_status": "partial",
+   "open_questions": []
+  },
+  {
+   "roster_n": [
+    205
+   ],
+   "id": "gregory-xii",
+   "papal_name": "Gregory XII",
+   "display_name": "Gregory XII",
+   "alt_names": [
+    "Gregorio XII",
+    "Angelo Correr"
+   ],
+   "secular_name": "Angelo Correr",
+   "birth_date": "c. 1327",
+   "birthplace": {
+    "label": "Venice",
+    "country": "Italy",
+    "historical_name": "Venetiae",
+    "precision": "exact",
+    "lat": 45.4408,
+    "lon": 12.3155,
+    "radius_km": null,
+    "roster_birth_field": "Venice",
+    "note": "Roster: Venice; Italian table: 'Veneziano' (Venetian); CE: born at Venice of a noble family.",
+    "public_note": null,
+    "sources": [
+     "S1",
+     "S2",
+     "C205"
+    ]
+   },
+   "saint": {
+    "status": "none",
+    "recognition": null,
+    "date": null,
+    "feast": null,
+    "note": "Not marked S./B. in the Vatican Italian table; no saint or blessed recognition found in Vatican sources or the Catholic Encyclopedia.",
+    "public_note": null,
+    "sources": [
+     "S2",
+     "C205"
+    ]
+   },
+   "short_bio": "A Venetian noble, Angelo Correr was elected by the Roman cardinals in 1406, already about eighty, on condition that he abdicate if his rival did. In 1415 he resigned at the Council of Constance, opening the way to end the Western Schism.",
+   "long_bio": "Angelo Correr was bishop of Castello, titular patriarch of Constantinople and a cardinal before his election on 30 November 1406. He pledged to resign if the Avignon claimant Benedict XIII did the same, but a planned meeting at Savona never took place. In 1409 the Council of Pisa declared both men deposed and elected a third claimant, which deepened the split. At the Council of Constance, his representative announced his resignation on 4 July 1415, and the council accepted it. He died at Recanati on 18 October 1417.",
+   "actions": [
+    "Resigned at the Council of Constance (4 July 1415) to help end the schism",
+    "Refused to recognise the Council of Pisa (1409)"
+   ],
+   "context": "After the disputed election of 1378 the Western Church split: one line of popes stayed in Rome, while a rival line backed by France resided at Avignon, and from 1409 a third line arose from the Council of Pisa. Kingdoms took sides by politics. The schism ended only at the Council of Constance (1414-1418).",
+   "bio_sources": [
+    "C205"
+   ],
+   "public_uncertainty": null,
+   "research_status": "partial",
+   "open_questions": []
+  },
+  {
+   "roster_n": [
+    206
+   ],
+   "id": "martin-v",
+   "papal_name": "Martin V",
+   "display_name": "Martin V",
+   "alt_names": [
+    "Martino V",
+    "Oddone Colonna"
+   ],
+   "secular_name": "Oddone Colonna",
+   "birth_date": "1368",
+   "birthplace": {
+    "label": "Genazzano",
+    "country": "Italy",
+    "historical_name": null,
+    "precision": "exact",
+    "lat": 41.8311,
+    "lon": 13.0597,
+    "radius_km": null,
+    "roster_birth_field": "Genazzano",
+    "note": "Roster, Italian table and CE agree: Genazzano, in the Roman Campagna (Lazio).",
+    "public_note": null,
+    "sources": [
+     "S1",
+     "S2",
+     "C206"
+    ]
+   },
+   "saint": {
+    "status": "none",
+    "recognition": null,
+    "date": null,
+    "feast": null,
+    "note": "Not marked S./B. in the Vatican Italian table; no saint or blessed recognition found in Vatican sources or the Catholic Encyclopedia.",
+    "public_note": null,
+    "sources": [
+     "S2",
+     "C206"
+    ]
+   },
+   "short_bio": "A member of the Roman Colonna family, Oddone Colonna was elected at the Council of Constance in 1417, ending the Western Schism. He returned to a ruined Rome in 1420 and began rebuilding the city and the Papal States.",
+   "long_bio": "Oddone Colonna was a cardinal when the Council of Constance, having set aside the three rival claimants, elected him unanimously on 11 November 1417. Reaching Rome in 1420, he found the city in ruins and set about restoring churches and order, laying foundations for the Roman Renaissance. He brought rebellious cities of the Papal States back under papal rule. As Constance had required, he summoned a council at Pavia in 1423, moved to Siena, and arranged the next at Basel. He also called for a crusade against the Hussites in Bohemia. He died in Rome on 20 February 1431.",
+   "actions": [
+    "Elected at Constance, ending the Western Schism (1417)",
+    "Restored Rome after decades of neglect",
+    "Recovered control of the Papal States",
+    "Convoked the councils of Pavia-Siena and Basel"
+   ],
+   "context": "The Council of Constance (1414-1418) ended the schism and condemned Jan Hus, who was burned in 1415. It also asserted that councils hold authority over popes, and required regular councils, setting up a long struggle between conciliarists and the papacy. In Bohemia the Hussite wars broke out after Hus's death.",
+   "bio_sources": [
+    "C206"
+   ],
+   "public_uncertainty": null,
+   "research_status": "verified",
+   "open_questions": []
+  },
+  {
+   "roster_n": [
+    207
+   ],
+   "id": "eugene-iv",
+   "papal_name": "Eugene IV",
+   "display_name": "Eugene IV",
+   "alt_names": [
+    "Eugenio IV",
+    "Gabriele Condulmer"
+   ],
+   "secular_name": "Gabriele Condulmer",
+   "birth_date": "1383",
+   "birthplace": {
+    "label": "Venice",
+    "country": "Italy",
+    "historical_name": "Venetiae",
+    "precision": "exact",
+    "lat": 45.4408,
+    "lon": 12.3155,
+    "radius_km": null,
+    "roster_birth_field": "Venice",
+    "note": "Roster: Venice; Italian table 'Veneziano'; CE: Venice.",
+    "public_note": null,
+    "sources": [
+     "S1",
+     "S2",
+     "C207"
+    ]
+   },
+   "saint": {
+    "status": "none",
+    "recognition": null,
+    "date": null,
+    "feast": null,
+    "note": "Not marked S./B. in the Vatican Italian table; no saint or blessed recognition found in Vatican sources or the Catholic Encyclopedia.",
+    "public_note": null,
+    "sources": [
+     "S2",
+     "C207"
+    ]
+   },
+   "short_bio": "A Venetian and nephew of Gregory XII, Gabriele Condulmer was elected in 1431. He struggled with the Council of Basel, which deposed him, but achieved a short-lived union with the Greek Church at Florence in 1439.",
+   "long_bio": "Gabriele Condulmer came from a wealthy Venetian family; his mother's brother was Gregory XII. Elected on 3 March 1431, he soon clashed with the Council of Basel, which defied his attempt to dissolve it and eventually declared him deposed in 1439. A revolt in Rome in 1434 forced him to flee down the Tiber, and he lived for years in Florence. He moved the council to Ferrara in 1437 and then to Florence, where union with the Greek Church was proclaimed on 5 July 1439. He returned to Rome in 1443 and died there on 23 February 1447.",
+   "actions": [
+    "Proclaimed union with the Greek Church at Florence (1439)",
+    "Resisted the Council of Basel's claims",
+    "Lived in exile in Florence after the Roman revolt of 1434"
+   ],
+   "context": "The conciliar movement reached its height at Basel, where a council claimed authority over the pope and elected an antipope, Felix V. The Byzantine Empire, threatened by the Ottomans, sought western help and agreed to church union at Florence, though it was widely rejected in the East.",
+   "bio_sources": [
+    "C207"
+   ],
+   "public_uncertainty": null,
+   "research_status": "partial",
+   "open_questions": [
+    "CE body gives 1383 for birth; its description says 1388."
+   ]
+  },
+  {
+   "roster_n": [
+    208
+   ],
+   "id": "nicholas-v",
+   "papal_name": "Nicholas V",
+   "display_name": "Nicholas V",
+   "alt_names": [
+    "Niccolò V",
+    "Tommaso Parentucelli"
+   ],
+   "secular_name": "Tommaso Parentucelli",
+   "birth_date": "15 November 1397",
+   "birthplace": {
+    "label": "Sarzana",
+    "country": "Italy",
+    "historical_name": null,
+    "precision": "exact",
+    "lat": 44.1112,
+    "lon": 9.9611,
+    "radius_km": null,
+    "roster_birth_field": "Sarzana",
+    "note": "Roster, Italian table and CE agree: Sarzana (Liguria). Some sources mention Pisa; CE does not.",
+    "public_note": null,
+    "sources": [
+     "S1",
+     "S2",
+     "C208"
+    ]
+   },
+   "saint": {
+    "status": "none",
+    "recognition": null,
+    "date": null,
+    "feast": null,
+    "note": "Not marked S./B. in the Vatican Italian table; no saint or blessed recognition found in Vatican sources or the Catholic Encyclopedia.",
+    "public_note": null,
+    "sources": [
+     "S2",
+     "C208"
+    ]
+   },
+   "short_bio": "A humanist scholar from Sarzana, Tommaso Parentucelli was elected in 1447. He founded the Vatican Library, celebrated the Jubilee of 1450 and crowned Frederick III, the last emperor crowned in Rome.",
+   "long_bio": "Tommaso Parentucelli worked as a tutor in Florentine families and for years served Cardinal Niccolò Albergati, collecting books and meeting humanist scholars. He became a cardinal in December 1446 and was elected pope on 6 March 1447. He gathered thousands of manuscripts, founding the Vatican Library, and planned the rebuilding of Rome. The Jubilee of 1450 celebrated the end of the schism with Basel. In 1452 he crowned Frederick III emperor in Rome. After Constantinople fell in 1453 he proclaimed a crusade. He died in Rome in March 1455.",
+   "actions": [
+    "Founded the Vatican Library",
+    "Celebrated the Jubilee of 1450",
+    "Crowned Emperor Frederick III in Rome (1452)",
+    "Proclaimed a crusade after the fall of Constantinople"
+   ],
+   "context": "Fifteenth-century Italy was a patchwork of rival states: Venice, Milan, Florence, Naples and the Papal States, balanced uneasily after the Peace of Lodi (1454). Humanist scholarship and Renaissance art flourished in Rome and Florence. In the east the Ottoman Turks took Constantinople in 1453 and pressed into the Balkans, and popes repeatedly called for crusades that Europe's rulers would not support.",
+   "bio_sources": [
+    "C208"
+   ],
+   "public_uncertainty": null,
+   "research_status": "verified",
+   "open_questions": [
+    "'Last emperor crowned in Rome' from general knowledge, not in fetched CE summary."
+   ]
+  },
+  {
+   "roster_n": [
+    209
+   ],
+   "id": "callixtus-iii",
+   "papal_name": "Callixtus III",
+   "display_name": "Callixtus III",
+   "alt_names": [
+    "Callisto III",
+    "Calixtus III",
+    "Alfonso de Borja"
+   ],
+   "secular_name": "Alfonso de Borja",
+   "birth_date": "31 December 1378",
+   "birthplace": {
+    "label": "Canals",
+    "country": "Spain",
+    "historical_name": "La Torreta, Canals",
+    "precision": "exact",
+    "lat": 38.9625,
+    "lon": -0.5847,
+    "radius_km": null,
+    "roster_birth_field": "Torre de Canals, Játiva (Valencia)",
+    "note": "Roster: Torre de Canals, Játiva; Italian table: Torre del Canals near Játiva; CE: near Valencia. La Torreta de Canals is in Canals, near Xàtiva (Valencia). Coordinates of Canals.",
+    "public_note": "Born at La Torreta in Canals, near Xàtiva.",
+    "sources": [
+     "S1",
+     "S2",
+     "C209"
+    ]
+   },
+   "saint": {
+    "status": "none",
+    "recognition": null,
+    "date": null,
+    "feast": null,
+    "note": "Not marked S./B. in the Vatican Italian table; no saint or blessed recognition found in Vatican sources or the Catholic Encyclopedia.",
+    "public_note": null,
+    "sources": [
+     "S2",
+     "C209"
+    ]
+   },
+   "short_bio": "A Valencian lawyer, Alfonso de Borja was elected in 1455 aged 76. He poured his energy into a crusade against the Turks and ordered the retrial that cleared Joan of Arc.",
+   "long_bio": "Alfonso de Borja once supported the Avignon claimant Benedict XIII but later helped bring about the submission of Clement VIII to Martin V. He became bishop of Valencia in 1429 and cardinal in 1444, and was elected pope on 8 April 1455. Determined to answer the fall of Constantinople, he sent preachers and envoys and ordered the noon bell for prayer; in 1456 crusaders defeated the Turks at Belgrade, though Europe's rulers gave little help. He ordered the retrial that declared Joan of Arc innocent. He raised his nephews, including Rodrigo, later Alexander VI, to high office. He died in Rome on 6 August 1458.",
+   "actions": [
+    "Promoted a crusade against the Ottomans",
+    "Ordered prayer at the noon bell",
+    "Ordered the retrial that cleared Joan of Arc",
+    "Made his nephew Rodrigo Borgia a cardinal"
+   ],
+   "context": "Fifteenth-century Italy was a patchwork of rival states: Venice, Milan, Florence, Naples and the Papal States, balanced uneasily after the Peace of Lodi (1454). Humanist scholarship and Renaissance art flourished in Rome and Florence. In the east the Ottoman Turks took Constantinople in 1453 and pressed into the Balkans, and popes repeatedly called for crusades that Europe's rulers would not support.",
+   "bio_sources": [
+    "C209"
+   ],
+   "public_uncertainty": null,
+   "research_status": "verified",
+   "open_questions": []
+  },
+  {
+   "roster_n": [
+    210
+   ],
+   "id": "pius-ii",
+   "papal_name": "Pius II",
+   "display_name": "Pius II",
+   "alt_names": [
+    "Pio II",
+    "Enea Silvio Piccolomini",
+    "Aeneas Sylvius"
+   ],
+   "secular_name": "Enea Silvio Piccolomini",
+   "birth_date": "18 October 1405",
+   "birthplace": {
+    "label": "Pienza",
+    "country": "Italy",
+    "historical_name": "Corsignano",
+    "precision": "exact",
+    "lat": 43.0766,
+    "lon": 11.6788,
+    "radius_km": null,
+    "roster_birth_field": "Corsignano (Siena)",
+    "note": "Roster, Italian table and CE: Corsignano near Siena, which Pius II rebuilt and renamed Pienza.",
+    "public_note": "He was born at Corsignano, the village he later rebuilt as Pienza.",
+    "sources": [
+     "S1",
+     "S2",
+     "C210"
+    ]
+   },
+   "saint": {
+    "status": "none",
+    "recognition": null,
+    "date": null,
+    "feast": null,
+    "note": "Not marked S./B. in the Vatican Italian table; no saint or blessed recognition found in Vatican sources or the Catholic Encyclopedia.",
+    "public_note": null,
+    "sources": [
+     "S2",
+     "C210"
+    ]
+   },
+   "short_bio": "A celebrated humanist writer from near Siena, Enea Silvio Piccolomini was elected in 1458. He tried in vain to launch a crusade against the Turks and died at Ancona waiting for the fleet.",
+   "long_bio": "Enea Silvio Piccolomini was a secretary at the Council of Basel and then poet and secretary to Emperor Frederick III, writing widely read works. Later ordained, he became bishop of Trieste and of Siena, and a cardinal in 1456. As pope he summoned the Congress of Mantua (1459) to organise a crusade, and in the bull Execrabilis (1460) condemned appeals from the pope to a future council. He canonized St Catherine of Siena and rebuilt his birthplace as the town of Pienza. He died at Ancona on 14 August 1464 while preparing to lead the crusade himself.",
+   "actions": [
+    "Called the Congress of Mantua against the Turks (1459)",
+    "Issued Execrabilis against appeals to a council (1460)",
+    "Canonized Catherine of Siena (1461)",
+    "Rebuilt his birthplace as Pienza"
+   ],
+   "context": "Fifteenth-century Italy was a patchwork of rival states: Venice, Milan, Florence, Naples and the Papal States, balanced uneasily after the Peace of Lodi (1454). Humanist scholarship and Renaissance art flourished in Rome and Florence. In the east the Ottoman Turks took Constantinople in 1453 and pressed into the Balkans, and popes repeatedly called for crusades that Europe's rulers would not support.",
+   "bio_sources": [
+    "C210"
+   ],
+   "public_uncertainty": null,
+   "research_status": "verified",
+   "open_questions": []
+  },
+  {
+   "roster_n": [
+    211
+   ],
+   "id": "paul-ii",
+   "papal_name": "Paul II",
+   "display_name": "Paul II",
+   "alt_names": [
+    "Paolo II",
+    "Pietro Barbo"
+   ],
+   "secular_name": "Pietro Barbo",
+   "birth_date": "1417",
+   "birthplace": {
+    "label": "Venice",
+    "country": "Italy",
+    "historical_name": "Venetiae",
+    "precision": "exact",
+    "lat": 45.4408,
+    "lon": 12.3155,
+    "radius_km": null,
+    "roster_birth_field": "Venice",
+    "note": "Roster: Venice; Italian table 'Veneziano'; CE: born at Venice, 1417.",
+    "public_note": null,
+    "sources": [
+     "S1",
+     "S2",
+     "C211"
+    ]
+   },
+   "saint": {
+    "status": "none",
+    "recognition": null,
+    "date": null,
+    "feast": null,
+    "note": "Not marked S./B. in the Vatican Italian table; no saint or blessed recognition found in Vatican sources or the Catholic Encyclopedia.",
+    "public_note": null,
+    "sources": [
+     "S2",
+     "C211"
+    ]
+   },
+   "short_bio": "A Venetian nobleman and nephew of Eugene IV, Pietro Barbo was elected in 1464. He built the Palazzo Venezia in Rome, clashed with humanists of the Roman Academy, and fixed the Jubilee at every 25 years.",
+   "long_bio": "Pietro Barbo, son of Niccolò Barbo and Polissena Condulmer, was the nephew of Eugene IV, who advanced his career in the Church. Elected on 30 August 1464, he suppressed the college of abbreviators in 1466 and the Roman Academy, whose members he accused of pagan ways. He built the Palace of San Marco, today's Palazzo Venezia, sponsored lavish carnival festivities and revised Rome's statutes. In 1470 he decreed that a Jubilee be held every twenty-five years. He also protected universities and favoured the new art of printing. He died in Rome on 26 July 1471.",
+   "actions": [
+    "Built the Palazzo Venezia",
+    "Decreed a Jubilee every 25 years (1470)",
+    "Suppressed the Roman Academy and the college of abbreviators"
+   ],
+   "context": "Fifteenth-century Italy was a patchwork of rival states: Venice, Milan, Florence, Naples and the Papal States, balanced uneasily after the Peace of Lodi (1454). Humanist scholarship and Renaissance art flourished in Rome and Florence. In the east the Ottoman Turks took Constantinople in 1453 and pressed into the Balkans, and popes repeatedly called for crusades that Europe's rulers would not support.",
+   "bio_sources": [
+    "C211"
+   ],
+   "public_uncertainty": null,
+   "research_status": "partial",
+   "open_questions": [
+    "CE summary did not give place of death; Rome is standard."
+   ]
+  },
+  {
+   "roster_n": [
+    212
+   ],
+   "id": "sixtus-iv",
+   "papal_name": "Sixtus IV",
+   "display_name": "Sixtus IV",
+   "alt_names": [
+    "Sisto IV",
+    "Francesco della Rovere"
+   ],
+   "secular_name": "Francesco della Rovere",
+   "birth_date": "21 July 1414",
+   "birthplace": {
+    "label": "Celle Ligure",
+    "country": "Italy",
+    "historical_name": null,
+    "precision": "exact",
+    "lat": 44.3433,
+    "lon": 8.5456,
+    "radius_km": null,
+    "roster_birth_field": "Celle (Savona)",
+    "note": "Vatican roster and Italian table: Celle (Savona), i.e. Celle Ligure. CE: 'born near Abisola' (Albisola), the neighbouring town on the same coast, so the two are compatible; Savona is also sometimes named. Chose Celle Ligure per the Vatican.",
+    "public_note": "Some sources say he was born near Albisola, the neighbouring town.",
+    "sources": [
+     "S1",
+     "S2",
+     "C212"
+    ]
+   },
+   "saint": {
+    "status": "none",
+    "recognition": null,
+    "date": null,
+    "feast": null,
+    "note": "Not marked S./B. in the Vatican Italian table; no saint or blessed recognition found in Vatican sources or the Catholic Encyclopedia.",
+    "public_note": null,
+    "sources": [
+     "S2",
+     "C212"
+    ]
+   },
+   "short_bio": "A Franciscan theologian from the Ligurian coast, Francesco della Rovere was elected in 1471. He built the Sistine Chapel and enlarged the Vatican Library, but his reign was marred by nepotism and the Pazzi conspiracy.",
+   "long_bio": "Francesco della Rovere was destined for the Franciscans as a child and became a respected teacher of philosophy and theology and minister general of his order. Elected in August 1471, he built the Sistine Chapel, which bears his name, and is considered the second founder of the Vatican Library. He favoured his relatives lavishly; his nephew Cardinal Raffaele Riario was implicated in the Pazzi conspiracy of 1478 against the Medici in Florence. He took measures against abuses of the Inquisition. He died in Rome on 12 August 1484.",
+   "actions": [
+    "Built the Sistine Chapel",
+    "Re-founded and enlarged the Vatican Library",
+    "Advanced his nephews, including the future Julius II"
+   ],
+   "context": "Fifteenth-century Italy was a patchwork of rival states: Venice, Milan, Florence, Naples and the Papal States, balanced uneasily after the Peace of Lodi (1454). Humanist scholarship and Renaissance art flourished in Rome and Florence. In the east the Ottoman Turks took Constantinople in 1453 and pressed into the Balkans, and popes repeatedly called for crusades that Europe's rulers would not support.",
+   "bio_sources": [
+    "C212"
+   ],
+   "public_uncertainty": null,
+   "research_status": "partial",
+   "open_questions": [
+    "'Minister general of his order' is from general knowledge; CE summary mentioned only his teaching. Confirm."
+   ]
+  },
+  {
+   "roster_n": [
+    213
+   ],
+   "id": "innocent-viii",
+   "papal_name": "Innocent VIII",
+   "display_name": "Innocent VIII",
+   "alt_names": [
+    "Innocenzo VIII",
+    "Giovanni Battista Cibo"
+   ],
+   "secular_name": "Giovanni Battista Cibo",
+   "birth_date": "1432",
+   "birthplace": {
+    "label": "Genoa",
+    "country": "Italy",
+    "historical_name": "Genua",
+    "precision": "exact",
+    "lat": 44.4056,
+    "lon": 8.9463,
+    "radius_km": null,
+    "roster_birth_field": "Genoa",
+    "note": "Roster: Genoa; Italian table 'Genovese'; CE: born 1432 at Genoa.",
+    "public_note": null,
+    "sources": [
+     "S1",
+     "S2",
+     "C213"
+    ]
+   },
+   "saint": {
+    "status": "none",
+    "recognition": null,
+    "date": null,
+    "feast": null,
+    "note": "Not marked S./B. in the Vatican Italian table; no saint or blessed recognition found in Vatican sources or the Catholic Encyclopedia.",
+    "public_note": null,
+    "sources": [
+     "S2",
+     "C213"
+    ]
+   },
+   "short_bio": "A Genoese, Giovanni Battista Cibo was elected in 1484. His reign saw a long conflict with Naples, the custody of the Ottoman prince Djem in Rome, and the fall of Granada in 1492.",
+   "long_bio": "Son of Aran Cibo, a Roman senator, Giovanni Battista had two illegitimate children before taking orders. He became bishop of Savona and then Molfetta, and a cardinal in 1473. Elected on 29 August 1484, he issued a bull on witchcraft in December of that year. A long quarrel with King Ferrante of Naples frustrated his plans for a crusade, though the Ottoman prince Djem, held in Rome, gave some leverage over the sultan. The fall of Granada in 1491-1492 completed the Spanish reconquest. He died in Rome on 25 July 1492.",
+   "actions": [
+    "Issued a bull on witchcraft (1484)",
+    "Kept the Ottoman prince Djem in Rome",
+    "Received the Holy Lance relic (1492)"
+   ],
+   "context": "Fifteenth-century Italy was a patchwork of rival states: Venice, Milan, Florence, Naples and the Papal States, balanced uneasily after the Peace of Lodi (1454). Humanist scholarship and Renaissance art flourished in Rome and Florence. In the east the Ottoman Turks took Constantinople in 1453 and pressed into the Balkans, and popes repeatedly called for crusades that Europe's rulers would not support.",
+   "bio_sources": [
+    "C213"
+   ],
+   "public_uncertainty": null,
+   "research_status": "partial",
+   "open_questions": []
+  },
+  {
+   "roster_n": [
+    214
+   ],
+   "id": "alexander-vi",
+   "papal_name": "Alexander VI",
+   "display_name": "Alexander VI",
+   "alt_names": [
+    "Alessandro VI",
+    "Rodrigo Borgia",
+    "Roderic de Borja"
+   ],
+   "secular_name": "Rodrigo de Borja",
+   "birth_date": "1 January 1431",
+   "birthplace": {
+    "label": "Xàtiva",
+    "country": "Spain",
+    "historical_name": "Játiva",
+    "precision": "exact",
+    "lat": 38.9904,
+    "lon": -0.5186,
+    "radius_km": null,
+    "roster_birth_field": "Játiva (Valencia)",
+    "note": "Roster, Italian table and CE agree: Xàtiva (Játiva), near Valencia.",
+    "public_note": null,
+    "sources": [
+     "S1",
+     "S2",
+     "C214"
+    ]
+   },
+   "saint": {
+    "status": "none",
+    "recognition": null,
+    "date": null,
+    "feast": null,
+    "note": "Not marked S./B. in the Vatican Italian table; no saint or blessed recognition found in Vatican sources or the Catholic Encyclopedia.",
+    "public_note": null,
+    "sources": [
+     "S2",
+     "C214"
+    ]
+   },
+   "short_bio": "Nephew of Callixtus III, Rodrigo Borgia served for decades as vice-chancellor before his election in 1492. His reign is remembered for nepotism and for the ambitions of his children, above all Cesare Borgia.",
+   "long_bio": "Born at Xàtiva near Valencia, Rodrigo was made a cardinal by his uncle Callixtus III in 1456 and vice-chancellor of the Roman Church, an office he held for decades. Elected on 11 August 1492, amid widespread rumours of simony, he openly advanced his children by Vannozza Cattanei: Juan, Cesare, Lucrezia and Jofre. In 1493 he drew a line of demarcation between Spanish and Portuguese claims in the newly discovered lands. He faced the French invasion of Italy by Charles VIII in 1494, celebrated the Jubilee of 1500, and backed Cesare's conquest of the Romagna. He died in Rome on 18 August 1503, probably of fever.",
+   "actions": [
+    "Drew the line of demarcation between Spain and Portugal (1493)",
+    "Sent the first missionaries to the Americas",
+    "Celebrated the Jubilee of 1500",
+    "Supported Cesare Borgia's conquests in the Papal States"
+   ],
+   "context": "The Italian Wars began when Charles VIII of France invaded Italy in 1494, opening decades of conflict between France and Spain on Italian soil. Columbus's voyage of 1492 opened the Americas to Spanish conquest. In Florence the friar Savonarola preached against corruption until his execution in 1498.",
+   "bio_sources": [
+    "C214"
+   ],
+   "public_uncertainty": null,
+   "research_status": "verified",
+   "open_questions": []
+  },
+  {
+   "roster_n": [
+    215
+   ],
+   "id": "pius-iii",
+   "papal_name": "Pius III",
+   "display_name": "Pius III",
+   "alt_names": [
+    "Pio III",
+    "Francesco Todeschini Piccolomini"
+   ],
+   "secular_name": "Francesco Todeschini Piccolomini",
+   "birth_date": "29 May 1439",
+   "birthplace": {
+    "label": "Siena",
+    "country": "Italy",
+    "historical_name": "Sena Iulia",
+    "precision": "exact",
+    "lat": 43.3188,
+    "lon": 11.3308,
+    "radius_km": null,
+    "roster_birth_field": "Siena",
+    "note": "Roster, Italian table and CE agree: Siena.",
+    "public_note": null,
+    "sources": [
+     "S1",
+     "S2",
+     "C215"
+    ]
+   },
+   "saint": {
+    "status": "none",
+    "recognition": null,
+    "date": null,
+    "feast": null,
+    "note": "Not marked S./B. in the Vatican Italian table; no saint or blessed recognition found in Vatican sources or the Catholic Encyclopedia.",
+    "public_note": null,
+    "sources": [
+     "S2",
+     "C215"
+    ]
+   },
+   "short_bio": "A nephew of Pius II, Francesco Todeschini Piccolomini was elected in September 1503, already in poor health. He died less than four weeks later, one of the shortest reigns in papal history.",
+   "long_bio": "Son of a sister of Pius II, Francesco was raised by his uncle and given the Piccolomini name. He studied law at Perugia, became archbishop of Siena and a cardinal-deacon in 1460, and served as papal legate. Respected for his upright life, he was elected on 22 September 1503 after the death of Alexander VI. Worn out by illness and the long ceremonies of his coronation, he died in Rome on 18 October 1503.",
+   "actions": [
+    "Elected as a compromise candidate after Alexander VI",
+    "Reigned less than four weeks"
+   ],
+   "context": "Rome in 1503 was in turmoil after the death of Alexander VI, with Cesare Borgia's power collapsing and French and Spanish armies fighting over Naples.",
+   "bio_sources": [
+    "C215"
+   ],
+   "public_uncertainty": null,
+   "research_status": "partial",
+   "open_questions": []
+  },
+  {
+   "roster_n": [
+    216
+   ],
+   "id": "julius-ii",
+   "papal_name": "Julius II",
+   "display_name": "Julius II",
+   "alt_names": [
+    "Giulio II",
+    "Giuliano della Rovere"
+   ],
+   "secular_name": "Giuliano della Rovere",
+   "birth_date": "5 December 1443",
+   "birthplace": {
+    "label": "Albisola Superiore",
+    "country": "Italy",
+    "historical_name": null,
+    "precision": "exact",
+    "lat": 44.3369,
+    "lon": 8.5108,
+    "radius_km": null,
+    "roster_birth_field": "Albisola (Savona)",
+    "note": "Roster/Italian table: Albisola; CE: Albissola, near Savona. Some sources name Savona itself.",
+    "public_note": null,
+    "sources": [
+     "S1",
+     "S2",
+     "C216"
+    ]
+   },
+   "saint": {
+    "status": "none",
+    "recognition": null,
+    "date": null,
+    "feast": null,
+    "note": "Not marked S./B. in the Vatican Italian table; no saint or blessed recognition found in Vatican sources or the Catholic Encyclopedia.",
+    "public_note": null,
+    "sources": [
+     "S2",
+     "C216"
+    ]
+   },
+   "short_bio": "A nephew of Sixtus IV, Giuliano della Rovere was elected in 1503. The 'warrior pope' fought to recover the Papal States and laid the foundation stone of the new St Peter's, commissioning Michelangelo and Raphael.",
+   "long_bio": "Giuliano della Rovere was made a cardinal by his uncle Sixtus IV and was a bitter rival of Alexander VI. Elected on 1 November 1503, he worked to restore the Papal States by diplomacy and war, joining the League of Cambrai against Venice in 1509 and forming the Holy League in 1511 to drive the French from Italy. He laid the foundation stone of the new St Peter's on 18 April 1506 and employed Bramante, Michelangelo, who painted the Sistine ceiling, and Raphael. He convoked the Fifth Lateran Council in 1512. He died in Rome on the night of 20-21 February 1513.",
+   "actions": [
+    "Laid the foundation stone of the new St Peter's (1506)",
+    "Commissioned Michelangelo's Sistine ceiling and Raphael's Stanze",
+    "Formed the Holy League against France (1511)",
+    "Convoked the Fifth Lateran Council (1512)"
+   ],
+   "context": "Fifteenth-century Italy was a patchwork of rival states: Venice, Milan, Florence, Naples and the Papal States, balanced uneasily after the Peace of Lodi (1454). Humanist scholarship and Renaissance art flourished in Rome and Florence. From 1494 France and Spain fought the Italian Wars for control of the peninsula.",
+   "bio_sources": [
+    "C216"
+   ],
+   "public_uncertainty": null,
+   "research_status": "verified",
+   "open_questions": []
+  },
+  {
+   "roster_n": [
+    217
+   ],
+   "id": "leo-x",
+   "papal_name": "Leo X",
+   "display_name": "Leo X",
+   "alt_names": [
+    "Leone X",
+    "Giovanni de' Medici"
+   ],
+   "secular_name": "Giovanni de' Medici",
+   "birth_date": "11 December 1475",
+   "birthplace": {
+    "label": "Florence",
+    "country": "Italy",
+    "historical_name": "Florentia",
+    "precision": "exact",
+    "lat": 43.7696,
+    "lon": 11.2558,
+    "radius_km": null,
+    "roster_birth_field": "Florence",
+    "note": "Roster: Florence; Italian table 'Fiorentino'; CE: Florence.",
+    "public_note": null,
+    "sources": [
+     "S1",
+     "S2",
+     "C217"
+    ]
+   },
+   "saint": {
+    "status": "none",
+    "recognition": null,
+    "date": null,
+    "feast": null,
+    "note": "Not marked S./B. in the Vatican Italian table; no saint or blessed recognition found in Vatican sources or the Catholic Encyclopedia.",
+    "public_note": null,
+    "sources": [
+     "S2",
+     "C217"
+    ]
+   },
+   "short_bio": "Son of Lorenzo the Magnificent, Giovanni de' Medici was made a cardinal at 13 and elected pope in 1513. A great patron of the arts, he reigned as Martin Luther's protest began.",
+   "long_bio": "The second son of Lorenzo de' Medici and Clarice Orsini, Giovanni was created a cardinal in 1489 aged thirteen. Elected in March 1513, he continued the Fifth Lateran Council, whose reform decrees were little enforced, and in 1516 agreed the Concordat of Bologna with Francis I of France. His court was famous for its patronage of artists and scholars, including Raphael. The preaching of indulgences to fund the new St Peter's provoked criticism, and in 1517 Martin Luther's protest launched the Reformation. Leo condemned Luther's teachings in 1520 and excommunicated him in 1521. He died in Rome on 1 December 1521.",
+   "actions": [
+    "Concluded the Fifth Lateran Council (1517)",
+    "Agreed the Concordat of Bologna with France (1516)",
+    "Condemned Luther's teachings (1520)",
+    "Patron of Raphael and Renaissance Rome"
+   ],
+   "context": "The Protestant Reformation, begun by Martin Luther in 1517, spread through Germany, Switzerland, Scandinavia and England. Italy was a battleground between France and the Habsburg Emperor Charles V, whose troops sacked Rome in 1527. The Ottoman Empire under Suleiman the Magnificent pressed on Hungary and the Mediterranean. Calls grew for a general council to reform the Church.",
+   "bio_sources": [
+    "C217"
+   ],
+   "public_uncertainty": null,
+   "research_status": "partial",
+   "open_questions": [
+    "Exsurge Domine (1520) and Luther's excommunication (1521) from general knowledge; not in fetched CE summary."
+   ]
+  },
+  {
+   "roster_n": [
+    218
+   ],
+   "id": "adrian-vi",
+   "papal_name": "Adrian VI",
+   "display_name": "Adrian VI",
+   "alt_names": [
+    "Adriano VI",
+    "Adriaan Florensz Boeyens",
+    "Hadrian VI"
+   ],
+   "secular_name": "Adriaan Florensz",
+   "birth_date": "2 March 1459",
+   "birthplace": {
+    "label": "Utrecht",
+    "country": "Netherlands",
+    "historical_name": "Traiectum",
+    "precision": "exact",
+    "lat": 52.0907,
+    "lon": 5.1214,
+    "radius_km": null,
+    "roster_birth_field": "Utrecht",
+    "note": "Roster, Italian table and CE agree: Utrecht.",
+    "public_note": null,
+    "sources": [
+     "S1",
+     "S2",
+     "C218"
+    ]
+   },
+   "saint": {
+    "status": "none",
+    "recognition": null,
+    "date": null,
+    "feast": null,
+    "note": "Not marked S./B. in the Vatican Italian table; no saint or blessed recognition found in Vatican sources or the Catholic Encyclopedia.",
+    "public_note": null,
+    "sources": [
+     "S2",
+     "C218"
+    ]
+   },
+   "short_bio": "A Dutch theologian and former tutor of Charles V, Adriaan Florensz was elected in 1522 while regent of Spain. He tried to reform the curia and openly admitted its faults, but died after twenty months.",
+   "long_bio": "Born in Utrecht, the son of Florens, Adriaan studied at Louvain, became a doctor of theology in 1491 and taught there. From 1506 he tutored the young Charles, later Emperor Charles V, and in Spain he became grand inquisitor, cardinal and regent. Elected in his absence on 9 January 1522, he worked to cut papal spending and reform the curia, publicly acknowledging that corruption had spread from the Roman court. He appealed in vain for help for Rhodes, which fell to the Turks in 1522. He died in Rome on 14 September 1523. He was the last non-Italian pope until John Paul II.",
+   "actions": [
+    "Admitted the faults of the Roman curia",
+    "Tried to cut papal spending and reform the curia",
+    "Appealed for the defence of Rhodes"
+   ],
+   "context": "The Protestant Reformation, begun by Martin Luther in 1517, spread through Germany, Switzerland, Scandinavia and England. Italy was a battleground between France and the Habsburg Emperor Charles V, whose troops sacked Rome in 1527. The Ottoman Empire under Suleiman the Magnificent pressed on Hungary and the Mediterranean. Calls grew for a general council to reform the Church.",
+   "bio_sources": [
+    "C218"
+   ],
+   "public_uncertainty": null,
+   "research_status": "verified",
+   "open_questions": [
+    "'Last non-Italian pope until 1978' is general knowledge, widely attested."
+   ]
+  },
+  {
+   "roster_n": [
+    219
+   ],
+   "id": "clement-vii",
+   "papal_name": "Clement VII",
+   "display_name": "Clement VII",
+   "alt_names": [
+    "Clemente VII",
+    "Giulio de' Medici"
+   ],
+   "secular_name": "Giulio de' Medici",
+   "birth_date": "1478",
+   "birthplace": {
+    "label": "Florence",
+    "country": "Italy",
+    "historical_name": "Florentia",
+    "precision": "exact",
+    "lat": 43.7696,
+    "lon": 11.2558,
+    "radius_km": null,
+    "roster_birth_field": "Florence",
+    "note": "Roster: Florence; Italian table 'Fiorentino'. CE gives no birthplace, only that he was the son of Giuliano de' Medici, slain at Florence (in the Pazzi conspiracy, 1478).",
+    "public_note": null,
+    "sources": [
+     "S1",
+     "S2",
+     "C219"
+    ]
+   },
+   "saint": {
+    "status": "none",
+    "recognition": null,
+    "date": null,
+    "feast": null,
+    "note": "Not marked S./B. in the Vatican Italian table; no saint or blessed recognition found in Vatican sources or the Catholic Encyclopedia.",
+    "public_note": null,
+    "sources": [
+     "S2",
+     "C219"
+    ]
+   },
+   "short_bio": "Cousin of Leo X, Giulio de' Medici was elected in 1523. His shifting alliances led to the Sack of Rome in 1527, and he refused Henry VIII's request to annul his marriage.",
+   "long_bio": "Giulio was the son of Giuliano de' Medici, killed in Florence in 1478, and was raised by his uncle Lorenzo the Magnificent. Elected on 19 November 1523, he joined France, Venice and Florence in the League of Cognac (1526) against Charles V. In May 1527 imperial troops sacked Rome, and the pope was besieged in Castel Sant'Angelo. He later made peace with Charles and crowned him emperor at Bologna in 1530. His refusal to annul Henry VIII's marriage to Catherine of Aragon led to England's break with Rome. He commissioned Michelangelo's Last Judgment. He died on 25 September 1534.",
+   "actions": [
+    "Joined the League of Cognac (1526)",
+    "Endured the Sack of Rome (1527)",
+    "Crowned Charles V at Bologna (1530)",
+    "Refused Henry VIII's annulment",
+    "Commissioned Michelangelo's Last Judgment"
+   ],
+   "context": "The Protestant Reformation, begun by Martin Luther in 1517, spread through Germany, Switzerland, Scandinavia and England. Italy was a battleground between France and the Habsburg Emperor Charles V, whose troops sacked Rome in 1527. The Ottoman Empire under Suleiman the Magnificent pressed on Hungary and the Mediterranean. Calls grew for a general council to reform the Church.",
+   "bio_sources": [
+    "C219"
+   ],
+   "public_uncertainty": null,
+   "research_status": "partial",
+   "open_questions": []
+  },
+  {
+   "roster_n": [
+    220
+   ],
+   "id": "paul-iii",
+   "papal_name": "Paul III",
+   "display_name": "Paul III",
+   "alt_names": [
+    "Paolo III",
+    "Alessandro Farnese"
+   ],
+   "secular_name": "Alessandro Farnese",
+   "birth_date": "29 February 1468",
+   "birthplace": {
+    "label": "Canino",
+    "country": "Italy",
+    "historical_name": null,
+    "precision": "exact",
+    "lat": 42.465,
+    "lon": 11.7514,
+    "radius_km": null,
+    "roster_birth_field": "Canino (Viterbo)",
+    "note": "Roster/Italian table: Canino (Viterbo). CE: born at Rome or Canino. Kept Vatican's Canino; disagreement noted.",
+    "public_note": "Some sources say he was born in Rome instead.",
+    "sources": [
+     "S1",
+     "S2",
+     "C220"
+    ]
+   },
+   "saint": {
+    "status": "none",
+    "recognition": null,
+    "date": null,
+    "feast": null,
+    "note": "Not marked S./B. in the Vatican Italian table; no saint or blessed recognition found in Vatican sources or the Catholic Encyclopedia.",
+    "public_note": null,
+    "sources": [
+     "S2",
+     "C220"
+    ]
+   },
+   "short_bio": "A Roman noble of the Farnese family, cardinal for over forty years, Alessandro Farnese was elected in 1534. He opened the Council of Trent in 1545 and launched the Catholic reform, while also advancing his own family.",
+   "long_bio": "Alessandro Farnese was made a cardinal-deacon in 1493 and was elected pope on 13 October 1534. He named reforming cardinals, approved the Society of Jesus in 1540 and set up the Roman Inquisition in 1542. After long efforts he opened the Council of Trent, which held its first session on 13 December 1545. A generous patron, he commissioned Michelangelo's work in the Sistine Chapel and on St Peter's. He also practised open nepotism, making two teenage grandsons cardinals and creating the duchy of Parma and Piacenza for his son Pier Luigi. He died at the Quirinal on 10 November 1549.",
+   "actions": [
+    "Opened the Council of Trent (1545)",
+    "Approved the Society of Jesus (1540)",
+    "Established the Roman Inquisition (1542)",
+    "Patron of Michelangelo",
+    "Created the duchy of Parma for his son"
+   ],
+   "context": "The Protestant Reformation, begun by Martin Luther in 1517, spread through Germany, Switzerland, Scandinavia and England. Italy was a battleground between France and the Habsburg Emperor Charles V, whose troops sacked Rome in 1527. The Ottoman Empire under Suleiman the Magnificent pressed on Hungary and the Mediterranean. Calls grew for a general council to reform the Church.",
+   "bio_sources": [
+    "C220"
+   ],
+   "public_uncertainty": null,
+   "research_status": "partial",
+   "open_questions": [
+    "Jesuit approval (1540) and Roman Inquisition (1542) are standard facts not in the fetched CE summary.",
+    "CE election date 12 October vs roster 13 October 1534; text follows roster."
+   ]
+  },
+  {
+   "roster_n": [
+    221
+   ],
+   "id": "julius-iii",
+   "papal_name": "Julius III",
+   "display_name": "Julius III",
+   "alt_names": [
+    "Giulio III",
+    "Giovanni Maria Ciocchi del Monte"
+   ],
+   "secular_name": "Giovanni Maria Ciocchi del Monte",
+   "birth_date": "10 September 1487",
+   "birthplace": {
+    "label": "Rome",
+    "country": "Italy",
+    "historical_name": "Roma",
+    "precision": "exact",
+    "lat": 41.9028,
+    "lon": 12.4964,
+    "radius_km": null,
+    "roster_birth_field": "Rome",
+    "note": "Roster: Rome; Italian table 'Romano'; CE: Rome. Family from Monte San Savino (Tuscany), not his birthplace.",
+    "public_note": null,
+    "sources": [
+     "S1",
+     "S2",
+     "C221"
+    ]
+   },
+   "saint": {
+    "status": "none",
+    "recognition": null,
+    "date": null,
+    "feast": null,
+    "note": "Not marked S./B. in the Vatican Italian table; no saint or blessed recognition found in Vatican sources or the Catholic Encyclopedia.",
+    "public_note": null,
+    "sources": [
+     "S2",
+     "C221"
+    ]
+   },
+   "short_bio": "A Roman lawyer who had presided over the opening of the Council of Trent, Giovanni Maria del Monte was elected in 1550. He reopened the council in 1551, but is also remembered for his villa and his nepotism.",
+   "long_bio": "Giovanni Maria Ciocchi del Monte was first president of the Council of Trent in 1545. Elected in February 1550, he ordered the council to resume at Trent in 1551 after its move to Bologna, before war forced its suspension again. In 1552 he issued the founding bull of the Collegium Germanicum for training German priests. He sent Cardinal Reginald Pole to support the Catholic restoration in England under Mary I. He built the Villa Giulia outside the Porta del Popolo, and his promotion of the young Innocenzo del Monte to cardinal caused scandal. He died in Rome on 23 March 1555.",
+   "actions": [
+    "Reopened the Council of Trent (1551)",
+    "Founded the Collegium Germanicum (1552)",
+    "Sent Cardinal Pole as legate to England",
+    "Built the Villa Giulia"
+   ],
+   "context": "The Council of Trent (1545-1563) answered the Protestant Reformation by defining Catholic doctrine and ordering reforms of bishops, clergy and seminaries. Popes of the following decades enforced its decrees, reorganised the Roman Curia and supported new orders such as the Jesuits. Europe was divided by wars of religion, especially in France and the Low Countries, while Spain under Philip II was the leading Catholic power and the Ottoman threat continued in the Mediterranean.",
+   "bio_sources": [
+    "C221"
+   ],
+   "public_uncertainty": null,
+   "research_status": "partial",
+   "open_questions": []
+  },
+  {
+   "roster_n": [
+    222
+   ],
+   "id": "marcellus-ii",
+   "papal_name": "Marcellus II",
+   "display_name": "Marcellus II",
+   "alt_names": [
+    "Marcello II",
+    "Marcello Cervini"
+   ],
+   "secular_name": "Marcello Cervini",
+   "birth_date": "6 May 1501",
+   "birthplace": {
+    "label": "Montefano",
+    "country": "Italy",
+    "historical_name": null,
+    "precision": "exact",
+    "lat": 43.4097,
+    "lon": 13.4367,
+    "radius_km": null,
+    "roster_birth_field": "Montefano",
+    "note": "Roster/Italian table: Montefano (Marche, province of Macerata). CE says Montepulciano (Tuscany), which was the family's place of origin; Wikipedia cites Cardella (1793) for Montefano. Kept Montefano.",
+    "public_note": "Some older sources give Montepulciano, his family's home town in Tuscany.",
+    "sources": [
+     "S1",
+     "S2",
+     "C222"
+    ]
+   },
+   "saint": {
+    "status": "none",
+    "recognition": null,
+    "date": null,
+    "feast": null,
+    "note": "Not marked S./B. in the Vatican Italian table; no saint or blessed recognition found in Vatican sources or the Catholic Encyclopedia.",
+    "public_note": null,
+    "sources": [
+     "S2",
+     "C222"
+    ]
+   },
+   "short_bio": "A scholar and reformer who had been a president of the Council of Trent, Marcello Cervini was elected in April 1555. He died after only 22 days. Palestrina's Missa Papae Marcelli bears his name.",
+   "long_bio": "Marcello Cervini served as papal secretary, became a cardinal in 1539 and was one of the presidents of the Council of Trent. He became Vatican librarian in 1548. Elected in April 1555, he kept his own baptismal name, and his short reign raised hopes of serious reform. He died in Rome on 1 May 1555, after a stroke. Palestrina's famous Missa Papae Marcelli honours him, though it was written after his death.",
+   "actions": [
+    "Kept his own baptismal name as pope",
+    "Reigned only 22 days"
+   ],
+   "context": "The Council of Trent (1545-1563) answered the Protestant Reformation by defining Catholic doctrine and ordering reforms of bishops, clergy and seminaries. Popes of the following decades enforced its decrees, reorganised the Roman Curia and supported new orders such as the Jesuits. Europe was divided by wars of religion, especially in France and the Low Countries, while Spain under Philip II was the leading Catholic power and the Ottoman threat continued in the Mediterranean.",
+   "bio_sources": [
+    "C222"
+   ],
+   "public_uncertainty": null,
+   "research_status": "partial",
+   "open_questions": [
+    "CE gives death 6 May 1555; Vatican roster and Wikipedia 1 May 1555. Bio follows roster."
+   ]
+  },
+  {
+   "roster_n": [
+    223
+   ],
+   "id": "paul-iv",
+   "papal_name": "Paul IV",
+   "display_name": "Paul IV",
+   "alt_names": [
+    "Paolo IV",
+    "Gian Pietro Carafa"
+   ],
+   "secular_name": "Gian Pietro Carafa",
+   "birth_date": "28 June 1476",
+   "birthplace": {
+    "label": "Capriglia Irpina",
+    "country": "Italy",
+    "historical_name": null,
+    "precision": "exact",
+    "lat": 40.9592,
+    "lon": 14.7769,
+    "radius_km": null,
+    "roster_birth_field": "Capriglia (Avellino)",
+    "note": "Roster/Italian table: Capriglia (Avellino), today Capriglia Irpina. CE: 'near Benevento' — compatible.",
+    "public_note": null,
+    "sources": [
+     "S1",
+     "S2",
+     "C223"
+    ]
+   },
+   "saint": {
+    "status": "none",
+    "recognition": null,
+    "date": null,
+    "feast": null,
+    "note": "Not marked S./B. in the Vatican Italian table; no saint or blessed recognition found in Vatican sources or the Catholic Encyclopedia.",
+    "public_note": null,
+    "sources": [
+     "S2",
+     "C223"
+    ]
+   },
+   "short_bio": "A Neapolitan noble and co-founder of the Theatines, Gian Pietro Carafa was elected in 1555 aged 79. A stern reformer, he strengthened the Inquisition, but his war with Spain and his nephews' misconduct clouded his reign.",
+   "long_bio": "Gian Pietro Carafa joined St Cajetan in founding the Theatines and was their first general. Made a cardinal in 1536 and later archbishop of Naples, he reorganised the Inquisition in Italy into a powerful instrument. Elected in May 1555, he went to war with Philip II of Spain, imprisoned Cardinal Morone on suspicion of heresy, and established the Index of Forbidden Books and the Roman ghetto. Discovering his nephew Cardinal Carlo Carafa's misconduct, he banished him. He died on 18 August 1559.",
+   "actions": [
+    "Co-founded the Theatines",
+    "Strengthened the Roman Inquisition",
+    "Issued the first Roman Index of Forbidden Books (1559)",
+    "Confined Rome's Jews to a ghetto (1555)",
+    "Banished his own nephews"
+   ],
+   "context": "The Council of Trent (1545-1563) answered the Protestant Reformation by defining Catholic doctrine and ordering reforms of bishops, clergy and seminaries. Popes of the following decades enforced its decrees, reorganised the Roman Curia and supported new orders such as the Jesuits. Europe was divided by wars of religion, especially in France and the Low Countries, while Spain under Philip II was the leading Catholic power and the Ottoman threat continued in the Mediterranean.",
+   "bio_sources": [
+    "C223"
+   ],
+   "public_uncertainty": null,
+   "research_status": "partial",
+   "open_questions": [
+    "Index (1559) and Roman ghetto (1555) are standard facts not in the fetched CE summary."
+   ]
+  },
+  {
+   "roster_n": [
+    224
+   ],
+   "id": "pius-iv",
+   "papal_name": "Pius IV",
+   "display_name": "Pius IV",
+   "alt_names": [
+    "Pio IV",
+    "Giovanni Angelo Medici"
+   ],
+   "secular_name": "Giovanni Angelo Medici",
+   "birth_date": "31 March 1499",
+   "birthplace": {
+    "label": "Milan",
+    "country": "Italy",
+    "historical_name": "Mediolanum",
+    "precision": "exact",
+    "lat": 45.4642,
+    "lon": 9.19,
+    "radius_km": null,
+    "roster_birth_field": "Milan",
+    "note": "Roster: Milan; Italian table 'Milanese'; CE: Milan.",
+    "public_note": null,
+    "sources": [
+     "S1",
+     "S2",
+     "C224"
+    ]
+   },
+   "saint": {
+    "status": "none",
+    "recognition": null,
+    "date": null,
+    "feast": null,
+    "note": "Not marked S./B. in the Vatican Italian table; no saint or blessed recognition found in Vatican sources or the Catholic Encyclopedia.",
+    "public_note": null,
+    "sources": [
+     "S2",
+     "C224"
+    ]
+   },
+   "short_bio": "A Milanese lawyer of modest family, Giovanni Angelo Medici was elected in 1559. He reconvened and brought the Council of Trent to its close, helped by his nephew St Charles Borromeo.",
+   "long_bio": "Giovanni Angelo Medici came from a Milanese family unrelated to the Florentine Medici. Elected on 26 December 1559, he made his nephew Charles Borromeo his cardinal-nephew and chief collaborator. He reconvened the Council of Trent in 1562 and saw it to its close in 1563, then confirmed its decrees and required a profession of faith from all holding church office. He founded the papal printing office. The Carafa nephews of Paul IV were tried and executed under him. He died in Rome on 9 December 1565.",
+   "actions": [
+    "Brought the Council of Trent to its close (1563)",
+    "Confirmed the council's decrees",
+    "Required the Tridentine profession of faith",
+    "Made Charles Borromeo his chief aide"
+   ],
+   "context": "The Council of Trent (1545-1563) answered the Protestant Reformation by defining Catholic doctrine and ordering reforms of bishops, clergy and seminaries. Popes of the following decades enforced its decrees, reorganised the Roman Curia and supported new orders such as the Jesuits. Europe was divided by wars of religion, especially in France and the Low Countries, while Spain under Philip II was the leading Catholic power and the Ottoman threat continued in the Mediterranean.",
+   "bio_sources": [
+    "C224"
+   ],
+   "public_uncertainty": null,
+   "research_status": "verified",
+   "open_questions": []
+  },
+  {
+   "roster_n": [
+    225
+   ],
+   "id": "pius-v",
+   "papal_name": "Pius V",
+   "display_name": "St Pius V",
+   "alt_names": [
+    "Pio V",
+    "Michele Ghislieri"
+   ],
+   "secular_name": "Antonio (Michele) Ghislieri",
+   "birth_date": "17 January 1504",
+   "birthplace": {
+    "label": "Bosco Marengo",
+    "country": "Italy",
+    "historical_name": "Bosco",
+    "precision": "exact",
+    "lat": 44.8253,
+    "lon": 8.6769,
+    "radius_km": null,
+    "roster_birth_field": "Bosco (Alessandria)",
+    "note": "Roster/Italian table: Bosco (Alessandria), today Bosco Marengo; CE: Bosco, near Alessandria.",
+    "public_note": null,
+    "sources": [
+     "S1",
+     "S2",
+     "C225"
+    ]
+   },
+   "saint": {
+    "status": "saint",
+    "recognition": "canonized",
+    "date": "22 May 1712",
+    "feast": "30 April",
+    "note": "Marked S. in the Vatican Italian table; Vatican News saint of the day 30 April. CE: beatified 1672 by Clement X, canonized 1712 by Clement XI. Beatified 1672 by Clement X (CE). Day 22 May 1712 is the commonly cited date (general knowledge, not in the fetched CE summary).",
+    "public_note": "Canonized by Clement XI in 1712.",
+    "sources": [
+     "S2",
+     "S6",
+     "C225"
+    ]
+   },
+   "short_bio": "A Dominican friar and inquisitor from Piedmont, Michele Ghislieri was elected in 1566. He enforced the reforms of the Council of Trent, issued the Roman Catechism, Breviary and Missal, and built the alliance that won at Lepanto.",
+   "long_bio": "Antonio Ghislieri took the name Michele as a Dominican, was ordained in 1528 and taught theology for many years. He served as inquisitor in Lombardy and became inquisitor general and cardinal in 1557. Elected on 7 January 1566, he lived austerely and enforced the discipline of Trent, publishing the Roman Catechism, the reformed Breviary (1568) and the Roman Missal (1570). He excommunicated Elizabeth I of England. He formed the Holy League whose fleet defeated the Ottomans at Lepanto on 7 October 1571, and instituted a feast of Our Lady of Victory, later the Rosary. He died in Rome on 1 May 1572.",
+   "actions": [
+    "Enforced the decrees of the Council of Trent",
+    "Issued the Roman Catechism, Breviary and Missal",
+    "Excommunicated Elizabeth I (1570)",
+    "Formed the Holy League that won at Lepanto (1571)"
+   ],
+   "context": "The Council of Trent (1545-1563) answered the Protestant Reformation by defining Catholic doctrine and ordering reforms of bishops, clergy and seminaries. Popes of the following decades enforced its decrees, reorganised the Roman Curia and supported new orders such as the Jesuits. Europe was divided by wars of religion, especially in France and the Low Countries, while Spain under Philip II was the leading Catholic power and the Ottoman threat continued in the Mediterranean.",
+   "bio_sources": [
+    "C225",
+    "S6"
+   ],
+   "public_uncertainty": null,
+   "research_status": "verified",
+   "open_questions": [
+    "Catechism, Breviary (1568), Missal (1570) and 1570 excommunication date are standard facts not in the fetched CE summary."
+   ]
+  },
+  {
+   "roster_n": [
+    226
+   ],
+   "id": "gregory-xiii",
+   "papal_name": "Gregory XIII",
+   "display_name": "Gregory XIII",
+   "alt_names": [
+    "Gregorio XIII",
+    "Ugo Boncompagni"
+   ],
+   "secular_name": "Ugo Boncompagni",
+   "birth_date": "7 January 1502",
+   "birthplace": {
+    "label": "Bologna",
+    "country": "Italy",
+    "historical_name": "Bononia",
+    "precision": "exact",
+    "lat": 44.4949,
+    "lon": 11.3426,
+    "radius_km": null,
+    "roster_birth_field": "Bologna",
+    "note": "Roster: Bologna; Italian table 'Bolognese'; CE: Bologna.",
+    "public_note": null,
+    "sources": [
+     "S1",
+     "S2",
+     "C226"
+    ]
+   },
+   "saint": {
+    "status": "none",
+    "recognition": null,
+    "date": null,
+    "feast": null,
+    "note": "Not marked S./B. in the Vatican Italian table; no saint or blessed recognition found in Vatican sources or the Catholic Encyclopedia.",
+    "public_note": null,
+    "sources": [
+     "S2",
+     "C226"
+    ]
+   },
+   "short_bio": "A Bolognese law professor who had served at the Council of Trent, Ugo Boncompagni was elected in 1572. He gave his name to the Gregorian calendar of 1582 and founded colleges across Europe.",
+   "long_bio": "Ugo Boncompagni taught law at Bologna and took part in the Council of Trent as a papal jurist. Elected on 13 May 1572, he founded and endowed many colleges and seminaries, many entrusted to the Jesuits, and in 1582 built the great building of the Roman College, today's Gregorian University. He issued an official edition of canon law and a revised Roman Martyrology. His reform of the Julian calendar took effect in October 1582. He ordered celebrations in Rome after the St Bartholomew's Day massacre of 1572, though he had no part in it. In 1585 he received an embassy of four young Japanese Christians. He died in Rome on 10 April 1585.",
+   "actions": [
+    "Introduced the Gregorian calendar (1582)",
+    "Founded many colleges and seminaries",
+    "Built the Roman College for the Jesuits",
+    "Revised the Roman Martyrology"
+   ],
+   "context": "The Council of Trent (1545-1563) answered the Protestant Reformation by defining Catholic doctrine and ordering reforms of bishops, clergy and seminaries. Popes of the following decades enforced its decrees, reorganised the Roman Curia and supported new orders such as the Jesuits. Europe was divided by wars of religion, especially in France and the Low Countries, while Spain under Philip II was the leading Catholic power and the Ottoman threat continued in the Mediterranean.",
+   "bio_sources": [
+    "C226"
+   ],
+   "public_uncertainty": null,
+   "research_status": "verified",
+   "open_questions": []
+  },
+  {
+   "roster_n": [
+    227
+   ],
+   "id": "sixtus-v",
+   "papal_name": "Sixtus V",
+   "display_name": "Sixtus V",
+   "alt_names": [
+    "Sisto V",
+    "Felice Peretti"
+   ],
+   "secular_name": "Felice Peretti",
+   "birth_date": "13 December 1521",
+   "birthplace": {
+    "label": "Grottammare",
+    "country": "Italy",
+    "historical_name": null,
+    "precision": "exact",
+    "lat": 42.9897,
+    "lon": 13.8661,
+    "radius_km": null,
+    "roster_birth_field": "Grottammare (Ascoli Piceno)",
+    "note": "Roster, Italian table and CE agree: Grottammare, near Montalto (Marche).",
+    "public_note": null,
+    "sources": [
+     "S1",
+     "S2",
+     "C227"
+    ]
+   },
+   "saint": {
+    "status": "none",
+    "recognition": null,
+    "date": null,
+    "feast": null,
+    "note": "Not marked S./B. in the Vatican Italian table; no saint or blessed recognition found in Vatican sources or the Catholic Encyclopedia.",
+    "public_note": null,
+    "sources": [
+     "S2",
+     "C227"
+    ]
+   },
+   "short_bio": "A Franciscan of humble origins from the Marche, Felice Peretti was elected in 1585. In five years he crushed banditry, restored papal finances, reorganised the Curia into fifteen congregations and transformed the city of Rome.",
+   "long_bio": "Felice Peretti entered the Franciscan friary at Montalto at twelve, was ordained in 1547 and became procurator general of his order. Elected on 24 April 1585, he suppressed the brigands of the Papal States and filled the empty treasury. In 1586 he fixed the College of Cardinals at seventy, and in 1588 created fifteen permanent congregations of cardinals to run the Church and the Papal States. He completed the dome of St Peter's, built the Vatican Library building, raised obelisks in key squares and brought water to Rome by the Acqua Felice. He died at the Quirinal on 27 August 1590.",
+   "actions": [
+    "Reorganised the Curia into 15 congregations (1588)",
+    "Fixed the College of Cardinals at 70 (1586)",
+    "Completed the dome of St Peter's",
+    "Raised the obelisks and built the Acqua Felice"
+   ],
+   "context": "The Council of Trent (1545-1563) answered the Protestant Reformation by defining Catholic doctrine and ordering reforms of bishops, clergy and seminaries. Popes of the following decades enforced its decrees, reorganised the Roman Curia and supported new orders such as the Jesuits. Europe was divided by wars of religion, especially in France and the Low Countries, while Spain under Philip II was the leading Catholic power and the Ottoman threat continued in the Mediterranean.",
+   "bio_sources": [
+    "C227"
+   ],
+   "public_uncertainty": null,
+   "research_status": "verified",
+   "open_questions": []
+  },
+  {
+   "roster_n": [
+    228
+   ],
+   "id": "urban-vii",
+   "papal_name": "Urban VII",
+   "display_name": "Urban VII",
+   "alt_names": [
+    "Urbano VII",
+    "Giambattista Castagna"
+   ],
+   "secular_name": "Giambattista Castagna",
+   "birth_date": "4 August 1521",
+   "birthplace": {
+    "label": "Rome",
+    "country": "Italy",
+    "historical_name": "Roma",
+    "precision": "exact",
+    "lat": 41.9028,
+    "lon": 12.4964,
+    "radius_km": null,
+    "roster_birth_field": "Rome",
+    "note": "Roster: Rome; Italian table 'Romano'; CE: Rome. Family of Genoese origin.",
+    "public_note": null,
+    "sources": [
+     "S1",
+     "S2",
+     "C228"
+    ]
+   },
+   "saint": {
+    "status": "none",
+    "recognition": null,
+    "date": null,
+    "feast": null,
+    "note": "Not marked S./B. in the Vatican Italian table; no saint or blessed recognition found in Vatican sources or the Catholic Encyclopedia.",
+    "public_note": null,
+    "sources": [
+     "S2",
+     "C228"
+    ]
+   },
+   "short_bio": "A Roman canonist and experienced diplomat, Giambattista Castagna was elected on 15 September 1590 and died twelve days later, before his coronation. His is the shortest papal reign on record.",
+   "long_bio": "Giambattista Castagna became archbishop of Rossano in 1553 and served about seven years as nuncio at the court of Philip II of Spain, later as nuncio in Venice, and as inquisitor general from 1586. Elected on 15 September 1590, he showed concern for Rome's poor, ordering a list of those in need and paying the debts of the papal pawn banks. He fell ill a few days after his election and died on 27 September 1590, before being crowned.",
+   "actions": [
+    "Ordered relief for Rome's poor",
+    "Died before his coronation"
+   ],
+   "context": "The Council of Trent (1545-1563) answered the Protestant Reformation by defining Catholic doctrine and ordering reforms of bishops, clergy and seminaries. Popes of the following decades enforced its decrees, reorganised the Roman Curia and supported new orders such as the Jesuits. Europe was divided by wars of religion, especially in France and the Low Countries, while Spain under Philip II was the leading Catholic power and the Ottoman threat continued in the Mediterranean.",
+   "bio_sources": [
+    "C228"
+   ],
+   "public_uncertainty": null,
+   "research_status": "partial",
+   "open_questions": []
+  },
+  {
+   "roster_n": [
+    229
+   ],
+   "id": "gregory-xiv",
+   "papal_name": "Gregory XIV",
+   "display_name": "Gregory XIV",
+   "alt_names": [
+    "Gregorio XIV",
+    "Niccolò Sfondrati"
+   ],
+   "secular_name": "Niccolò Sfondrati",
+   "birth_date": "11 February 1535",
+   "birthplace": {
+    "label": "Somma Lombardo",
+    "country": "Italy",
+    "historical_name": null,
+    "precision": "exact",
+    "lat": 45.6836,
+    "lon": 8.7067,
+    "radius_km": null,
+    "roster_birth_field": "Somma Lombarda",
+    "note": "Roster/Italian table: Somma Lombarda (modern spelling Somma Lombardo, province of Varese); CE: Somma, near Milan. Family of Cremonese origin.",
+    "public_note": null,
+    "sources": [
+     "S1",
+     "S2",
+     "C229"
+    ]
+   },
+   "saint": {
+    "status": "none",
+    "recognition": null,
+    "date": null,
+    "feast": null,
+    "note": "Not marked S./B. in the Vatican Italian table; no saint or blessed recognition found in Vatican sources or the Catholic Encyclopedia.",
+    "public_note": null,
+    "sources": [
+     "S2",
+     "C229"
+    ]
+   },
+   "short_bio": "Bishop of Cremona and friend of St Charles Borromeo and St Philip Neri, Niccolò Sfondrati was elected in December 1590. In a reign of ten months he backed the Catholic League in France against Henry of Navarre.",
+   "long_bio": "Niccolò Sfondrati was the son of a Milanese senator who later became a cardinal. Made bishop of Cremona in 1560, he was close to Charles Borromeo and Philip Neri. Elected on 5 December 1590, he supported the Catholic League in France, renewing the excommunication of Henry of Navarre in March 1591 and sending money and papal troops under his nephew Ercole. He raised the congregation of St Camillus de Lellis to a religious order, banned betting on papal elections, and ordered reparations to the peoples of the Philippines. He died in Rome on 16 October 1591.",
+   "actions": [
+    "Backed the Catholic League against Henry of Navarre",
+    "Raised the Camillians to a religious order (1591)",
+    "Banned wagers on papal elections",
+    "Ordered reparations to the Philippine peoples"
+   ],
+   "context": "France was torn by the Wars of Religion: the Protestant Henry of Navarre claimed the throne after 1589, opposed by the Catholic League with Spanish support. Rome had just seen a rapid succession of popes in 1590, and famine and disease afflicted central Italy.",
+   "bio_sources": [
+    "C229"
+   ],
+   "public_uncertainty": null,
+   "research_status": "partial",
+   "open_questions": [
+    "CE gives death 15 October 1591; roster 16 October 1591. Bio follows roster.",
+    "'Famine and disease' in context from general knowledge."
+   ]
+  }
+ ],
+ "sources": [
+  {
+   "id": "S1",
+   "title": "The Holy Father: list of Supreme Pontiffs",
+   "url": "https://www.vatican.va/content/vatican/en/holy-father.html",
+   "publisher": "Holy See (vatican.va)",
+   "tier": "vatican",
+   "locator": "roster entries 191-229",
+   "accessed": "2026-10-10"
+  },
+  {
+   "id": "S2",
+   "title": "Elenco dei Sommi Pontefici",
+   "url": "https://www.vatican.va/holy_father/archivio_papi/documents/elencopapi_it.html",
+   "publisher": "Holy See (vatican.va)",
+   "tier": "vatican",
+   "locator": "entries Niccolò IV to Gregorio XIV: birthplace column and S./B. labels",
+   "accessed": "2026-10-10"
+  },
+  {
+   "id": "S3",
+   "title": "St. Peter Celestine V, Pope (Pietro del Morrone)",
+   "url": "https://www.vaticannews.va/en/saints/05/19/st--peter-celestine-v--pope--pietro-del-morrone-.html",
+   "publisher": "Vatican News",
+   "tier": "vatican",
+   "locator": "Saint of the day, 19 May",
+   "accessed": "2026-10-10"
+  },
+  {
+   "id": "S4",
+   "title": "B. Benedict XI, Pope",
+   "url": "https://www.vaticannews.va/en/saints/07/06/b--benedict-xi--pope.html",
+   "publisher": "Vatican News",
+   "tier": "vatican",
+   "locator": "Saint of the day, 6 July",
+   "accessed": "2026-10-10"
+  },
+  {
+   "id": "S5",
+   "title": "B. Urban V, Pope",
+   "url": "https://www.vaticannews.va/en/saints/12/19/b--urban-v--pope-.html",
+   "publisher": "Vatican News",
+   "tier": "vatican",
+   "locator": "Saint of the day, 19 December",
+   "accessed": "2026-10-10"
+  },
+  {
+   "id": "S6",
+   "title": "St. Pius V, Pope",
+   "url": "https://www.vaticannews.va/en/saints/04/30/st--pius-v--pope.html",
+   "publisher": "Vatican News",
+   "tier": "vatican",
+   "locator": "Saint of the day, 30 April",
+   "accessed": "2026-10-10"
+  },
+  {
+   "id": "S7",
+   "title": "Saint Celestine V",
+   "url": "https://www.britannica.com/print/article/101351",
+   "publisher": "Encyclopaedia Britannica",
+   "tier": "scholarly",
+   "locator": "article header: birth, canonization, feast",
+   "accessed": "2026-10-10"
+  },
+  {
+   "id": "S8",
+   "title": "Pope Celestine V",
+   "url": "https://en.wikipedia.org/wiki/Pope_Celestine_V",
+   "publisher": "Wikipedia",
+   "tier": "supplementary",
+   "locator": "lead and infobox: birthplace, canonization 5 May 1313",
+   "accessed": "2026-10-10"
+  },
+  {
+   "id": "S9",
+   "title": "Pope Benedict XI",
+   "url": "https://en.wikipedia.org/wiki/Pope_Benedict_XI",
+   "publisher": "Wikipedia",
+   "tier": "supplementary",
+   "locator": "section on veneration: cultus approved 24 April 1736",
+   "accessed": "2026-10-10"
+  },
+  {
+   "id": "C191",
+   "title": "Pope Nicholas IV",
+   "url": "https://www.newadvent.org/cathen/11057a.htm",
+   "publisher": "Catholic Encyclopedia (1907-1913), New Advent",
+   "tier": "local_ecclesiastical_approval",
+   "locator": "article 'Pope Nicholas IV'",
+   "accessed": "2026-10-10"
+  },
+  {
+   "id": "C192",
+   "title": "Pope St. Celestine V",
+   "url": "https://www.newadvent.org/cathen/03479b.htm",
+   "publisher": "Catholic Encyclopedia (1907-1913), New Advent",
+   "tier": "local_ecclesiastical_approval",
+   "locator": "article 'Pope St. Celestine V'",
+   "accessed": "2026-10-10"
+  },
+  {
+   "id": "C193",
+   "title": "Pope Boniface VIII",
+   "url": "https://www.newadvent.org/cathen/02662a.htm",
+   "publisher": "Catholic Encyclopedia (1907-1913), New Advent",
+   "tier": "local_ecclesiastical_approval",
+   "locator": "article 'Pope Boniface VIII'",
+   "accessed": "2026-10-10"
+  },
+  {
+   "id": "C194",
+   "title": "Pope Bl. Benedict XI",
+   "url": "https://www.newadvent.org/cathen/02429c.htm",
+   "publisher": "Catholic Encyclopedia (1907-1913), New Advent",
+   "tier": "local_ecclesiastical_approval",
+   "locator": "article 'Pope Bl. Benedict XI'",
+   "accessed": "2026-10-10"
+  },
+  {
+   "id": "C195",
+   "title": "Pope Clement V",
+   "url": "https://www.newadvent.org/cathen/04020a.htm",
+   "publisher": "Catholic Encyclopedia (1907-1913), New Advent",
+   "tier": "local_ecclesiastical_approval",
+   "locator": "article 'Pope Clement V'",
+   "accessed": "2026-10-10"
+  },
+  {
+   "id": "C196",
+   "title": "Pope John XXII",
+   "url": "https://www.newadvent.org/cathen/08431a.htm",
+   "publisher": "Catholic Encyclopedia (1907-1913), New Advent",
+   "tier": "local_ecclesiastical_approval",
+   "locator": "article 'Pope John XXII'",
+   "accessed": "2026-10-10"
+  },
+  {
+   "id": "C197",
+   "title": "Pope Benedict XII",
+   "url": "https://www.newadvent.org/cathen/02430a.htm",
+   "publisher": "Catholic Encyclopedia (1907-1913), New Advent",
+   "tier": "local_ecclesiastical_approval",
+   "locator": "article 'Pope Benedict XII'",
+   "accessed": "2026-10-10"
+  },
+  {
+   "id": "C198",
+   "title": "Pope Clement VI",
+   "url": "https://www.newadvent.org/cathen/04023a.htm",
+   "publisher": "Catholic Encyclopedia (1907-1913), New Advent",
+   "tier": "local_ecclesiastical_approval",
+   "locator": "article 'Pope Clement VI'",
+   "accessed": "2026-10-10"
+  },
+  {
+   "id": "C199",
+   "title": "Pope Innocent VI",
+   "url": "https://www.newadvent.org/cathen/08018b.htm",
+   "publisher": "Catholic Encyclopedia (1907-1913), New Advent",
+   "tier": "local_ecclesiastical_approval",
+   "locator": "article 'Pope Innocent VI'",
+   "accessed": "2026-10-10"
+  },
+  {
+   "id": "C200",
+   "title": "Pope Bl. Urban V",
+   "url": "https://www.newadvent.org/cathen/15214a.htm",
+   "publisher": "Catholic Encyclopedia (1907-1913), New Advent",
+   "tier": "local_ecclesiastical_approval",
+   "locator": "article 'Pope Bl. Urban V'",
+   "accessed": "2026-10-10"
+  },
+  {
+   "id": "C201",
+   "title": "Pope Gregory XI",
+   "url": "https://www.newadvent.org/cathen/06799a.htm",
+   "publisher": "Catholic Encyclopedia (1907-1913), New Advent",
+   "tier": "local_ecclesiastical_approval",
+   "locator": "article 'Pope Gregory XI'",
+   "accessed": "2026-10-10"
+  },
+  {
+   "id": "C202",
+   "title": "Pope Urban VI",
+   "url": "https://www.newadvent.org/cathen/15216a.htm",
+   "publisher": "Catholic Encyclopedia (1907-1913), New Advent",
+   "tier": "local_ecclesiastical_approval",
+   "locator": "article 'Pope Urban VI'",
+   "accessed": "2026-10-10"
+  },
+  {
+   "id": "C203",
+   "title": "Pope Boniface IX",
+   "url": "https://www.newadvent.org/cathen/02670a.htm",
+   "publisher": "Catholic Encyclopedia (1907-1913), New Advent",
+   "tier": "local_ecclesiastical_approval",
+   "locator": "article 'Pope Boniface IX'",
+   "accessed": "2026-10-10"
+  },
+  {
+   "id": "C204",
+   "title": "Pope Innocent VII",
+   "url": "https://www.newadvent.org/cathen/08019a.htm",
+   "publisher": "Catholic Encyclopedia (1907-1913), New Advent",
+   "tier": "local_ecclesiastical_approval",
+   "locator": "article 'Pope Innocent VII'",
+   "accessed": "2026-10-10"
+  },
+  {
+   "id": "C205",
+   "title": "Pope Gregory XII",
+   "url": "https://www.newadvent.org/cathen/07001a.htm",
+   "publisher": "Catholic Encyclopedia (1907-1913), New Advent",
+   "tier": "local_ecclesiastical_approval",
+   "locator": "article 'Pope Gregory XII'",
+   "accessed": "2026-10-10"
+  },
+  {
+   "id": "C206",
+   "title": "Pope Martin V",
+   "url": "https://www.newadvent.org/cathen/09725a.htm",
+   "publisher": "Catholic Encyclopedia (1907-1913), New Advent",
+   "tier": "local_ecclesiastical_approval",
+   "locator": "article 'Pope Martin V'",
+   "accessed": "2026-10-10"
+  },
+  {
+   "id": "C207",
+   "title": "Pope Eugene IV",
+   "url": "https://www.newadvent.org/cathen/05601a.htm",
+   "publisher": "Catholic Encyclopedia (1907-1913), New Advent",
+   "tier": "local_ecclesiastical_approval",
+   "locator": "article 'Pope Eugene IV'",
+   "accessed": "2026-10-10"
+  },
+  {
+   "id": "C208",
+   "title": "Pope Nicholas V",
+   "url": "https://www.newadvent.org/cathen/11058a.htm",
+   "publisher": "Catholic Encyclopedia (1907-1913), New Advent",
+   "tier": "local_ecclesiastical_approval",
+   "locator": "article 'Pope Nicholas V'",
+   "accessed": "2026-10-10"
+  },
+  {
+   "id": "C209",
+   "title": "Pope Callistus III",
+   "url": "https://www.newadvent.org/cathen/03187a.htm",
+   "publisher": "Catholic Encyclopedia (1907-1913), New Advent",
+   "tier": "local_ecclesiastical_approval",
+   "locator": "article 'Pope Callistus III'",
+   "accessed": "2026-10-10"
+  },
+  {
+   "id": "C210",
+   "title": "Pope Pius II",
+   "url": "https://www.newadvent.org/cathen/12126c.htm",
+   "publisher": "Catholic Encyclopedia (1907-1913), New Advent",
+   "tier": "local_ecclesiastical_approval",
+   "locator": "article 'Pope Pius II'",
+   "accessed": "2026-10-10"
+  },
+  {
+   "id": "C211",
+   "title": "Pope Paul II",
+   "url": "https://www.newadvent.org/cathen/11578a.htm",
+   "publisher": "Catholic Encyclopedia (1907-1913), New Advent",
+   "tier": "local_ecclesiastical_approval",
+   "locator": "article 'Pope Paul II'",
+   "accessed": "2026-10-10"
+  },
+  {
+   "id": "C212",
+   "title": "Pope Sixtus IV",
+   "url": "https://www.newadvent.org/cathen/14032b.htm",
+   "publisher": "Catholic Encyclopedia (1907-1913), New Advent",
+   "tier": "local_ecclesiastical_approval",
+   "locator": "article 'Pope Sixtus IV'",
+   "accessed": "2026-10-10"
+  },
+  {
+   "id": "C213",
+   "title": "Pope Innocent VIII",
+   "url": "https://www.newadvent.org/cathen/08019b.htm",
+   "publisher": "Catholic Encyclopedia (1907-1913), New Advent",
+   "tier": "local_ecclesiastical_approval",
+   "locator": "article 'Pope Innocent VIII'",
+   "accessed": "2026-10-10"
+  },
+  {
+   "id": "C214",
+   "title": "Pope Alexander VI",
+   "url": "https://www.newadvent.org/cathen/01289a.htm",
+   "publisher": "Catholic Encyclopedia (1907-1913), New Advent",
+   "tier": "local_ecclesiastical_approval",
+   "locator": "article 'Pope Alexander VI'",
+   "accessed": "2026-10-10"
+  },
+  {
+   "id": "C215",
+   "title": "Pope Pius III",
+   "url": "https://www.newadvent.org/cathen/12128a.htm",
+   "publisher": "Catholic Encyclopedia (1907-1913), New Advent",
+   "tier": "local_ecclesiastical_approval",
+   "locator": "article 'Pope Pius III'",
+   "accessed": "2026-10-10"
+  },
+  {
+   "id": "C216",
+   "title": "Pope Julius II",
+   "url": "https://www.newadvent.org/cathen/08562a.htm",
+   "publisher": "Catholic Encyclopedia (1907-1913), New Advent",
+   "tier": "local_ecclesiastical_approval",
+   "locator": "article 'Pope Julius II'",
+   "accessed": "2026-10-10"
+  },
+  {
+   "id": "C217",
+   "title": "Pope Leo X",
+   "url": "https://www.newadvent.org/cathen/09162a.htm",
+   "publisher": "Catholic Encyclopedia (1907-1913), New Advent",
+   "tier": "local_ecclesiastical_approval",
+   "locator": "article 'Pope Leo X'",
+   "accessed": "2026-10-10"
+  },
+  {
+   "id": "C218",
+   "title": "Pope Adrian VI",
+   "url": "https://www.newadvent.org/cathen/01159b.htm",
+   "publisher": "Catholic Encyclopedia (1907-1913), New Advent",
+   "tier": "local_ecclesiastical_approval",
+   "locator": "article 'Pope Adrian VI'",
+   "accessed": "2026-10-10"
+  },
+  {
+   "id": "C219",
+   "title": "Pope Clement VII",
+   "url": "https://www.newadvent.org/cathen/04024a.htm",
+   "publisher": "Catholic Encyclopedia (1907-1913), New Advent",
+   "tier": "local_ecclesiastical_approval",
+   "locator": "article 'Pope Clement VII'",
+   "accessed": "2026-10-10"
+  },
+  {
+   "id": "C220",
+   "title": "Pope Paul III",
+   "url": "https://www.newadvent.org/cathen/11579a.htm",
+   "publisher": "Catholic Encyclopedia (1907-1913), New Advent",
+   "tier": "local_ecclesiastical_approval",
+   "locator": "article 'Pope Paul III'",
+   "accessed": "2026-10-10"
+  },
+  {
+   "id": "C221",
+   "title": "Pope Julius III",
+   "url": "https://www.newadvent.org/cathen/08564a.htm",
+   "publisher": "Catholic Encyclopedia (1907-1913), New Advent",
+   "tier": "local_ecclesiastical_approval",
+   "locator": "article 'Pope Julius III'",
+   "accessed": "2026-10-10"
+  },
+  {
+   "id": "C222",
+   "title": "Pope Marcellus II",
+   "url": "https://www.newadvent.org/cathen/09641a.htm",
+   "publisher": "Catholic Encyclopedia (1907-1913), New Advent",
+   "tier": "local_ecclesiastical_approval",
+   "locator": "article 'Pope Marcellus II'",
+   "accessed": "2026-10-10"
+  },
+  {
+   "id": "C223",
+   "title": "Pope Paul IV",
+   "url": "https://www.newadvent.org/cathen/11581a.htm",
+   "publisher": "Catholic Encyclopedia (1907-1913), New Advent",
+   "tier": "local_ecclesiastical_approval",
+   "locator": "article 'Pope Paul IV'",
+   "accessed": "2026-10-10"
+  },
+  {
+   "id": "C224",
+   "title": "Pope Pius IV",
+   "url": "https://www.newadvent.org/cathen/12129a.htm",
+   "publisher": "Catholic Encyclopedia (1907-1913), New Advent",
+   "tier": "local_ecclesiastical_approval",
+   "locator": "article 'Pope Pius IV'",
+   "accessed": "2026-10-10"
+  },
+  {
+   "id": "C225",
+   "title": "Pope St. Pius V",
+   "url": "https://www.newadvent.org/cathen/12130a.htm",
+   "publisher": "Catholic Encyclopedia (1907-1913), New Advent",
+   "tier": "local_ecclesiastical_approval",
+   "locator": "article 'Pope St. Pius V'",
+   "accessed": "2026-10-10"
+  },
+  {
+   "id": "C226",
+   "title": "Pope Gregory XIII",
+   "url": "https://www.newadvent.org/cathen/07001b.htm",
+   "publisher": "Catholic Encyclopedia (1907-1913), New Advent",
+   "tier": "local_ecclesiastical_approval",
+   "locator": "article 'Pope Gregory XIII'",
+   "accessed": "2026-10-10"
+  },
+  {
+   "id": "C227",
+   "title": "Pope Sixtus V",
+   "url": "https://www.newadvent.org/cathen/14033a.htm",
+   "publisher": "Catholic Encyclopedia (1907-1913), New Advent",
+   "tier": "local_ecclesiastical_approval",
+   "locator": "article 'Pope Sixtus V'",
+   "accessed": "2026-10-10"
+  },
+  {
+   "id": "C228",
+   "title": "Pope Urban VII",
+   "url": "https://www.newadvent.org/cathen/15218a.htm",
+   "publisher": "Catholic Encyclopedia (1907-1913), New Advent",
+   "tier": "local_ecclesiastical_approval",
+   "locator": "article 'Pope Urban VII'",
+   "accessed": "2026-10-10"
+  },
+  {
+   "id": "C229",
+   "title": "Pope Gregory XIV",
+   "url": "https://www.newadvent.org/cathen/07004a.htm",
+   "publisher": "Catholic Encyclopedia (1907-1913), New Advent",
+   "tier": "local_ecclesiastical_approval",
+   "locator": "article 'Pope Gregory XIV'",
+   "accessed": "2026-10-10"
+  }
+ ],
+ "notes": "Rows 191-229 (39 people, one row each). Bios sourced mainly from Catholic Encyclopedia articles (one per pope, ids C191-C229) checked against the Vatican roster and the Vatican Italian table; some widely known facts not in the fetched CE summaries are flagged in open_questions. Saints/blessed: Celestine V (saint, canonized 5 May 1313 by Clement V, feast 19 May), Pius V (saint, canonized 1712 by Clement XI, feast 30 April), Benedict XI (blessed; the Italian table lacks the B. label, which is out of date; feast 6 July per Vatican News; date conflict 1736 vs CE 1773), Urban V (blessed 1870, feast 19 December). Feasts come only from Vatican News saint-of-the-day pages. Birthplace disagreements: Celestine V (region Molise; Isernia vs Sant'Angelo Limosano), Sixtus IV (Celle vs near Albisola in CE), Paul III (Canino vs Rome in CE), Marcellus II (Montefano vs Montepulciano in CE), Boniface IX (CE gives no birthplace). Death-date differences between CE and the roster are noted for Benedict XII, Gregory XI, Marcellus II and Gregory XIV. Coordinates for small localities (Lisciano, Les Monts/Beyssac, Grizac) are approximate."
+}
