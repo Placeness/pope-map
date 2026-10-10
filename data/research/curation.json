@@ -76,6 +76,15 @@
   "vitalian": {
    "saint.feast": null,
    "_why": "Feast day not checked against a source (research worker note, rows 39-76)."
+  },
+  "peter": {
+   "birthplace.country": "Sea of Galilee",
+   "_why": "Neutral geographic label; both candidate Bethsaida sites lie on the north shore of the Sea of Galilee.",
+   "birthplace.label": "Bethsaida"
+  },
+  "theodore-i": {
+   "birthplace.country": null,
+   "_why": "Jerusalem shown without a modern country label, as a neutral convention."
   }
  }
 }

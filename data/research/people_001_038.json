@@ -1,0 +1,2849 @@
+{
+ "range": [
+  1,
+  38
+ ],
+ "people": [
+  {
+   "roster_n": [
+    1
+   ],
+   "id": "peter",
+   "papal_name": "Peter",
+   "display_name": "St Peter",
+   "alt_names": [
+    "Simon",
+    "Simon Peter",
+    "Cephas"
+   ],
+   "secular_name": "Simon",
+   "birth_date": null,
+   "birthplace": {
+    "label": "Bethsaida, Sea of Galilee",
+    "country": "Golan Heights",
+    "historical_name": "Bethsaida",
+    "precision": "exact",
+    "lat": 32.91,
+    "lon": 35.631,
+    "radius_km": null,
+    "roster_birth_field": "Bethsaida of Galilee",
+    "note": "John 1:44 (cited by CE) names Bethsaida as the town of Andrew and Peter; CE: Bethsaida on Lake Genesareth, later residence Capernaum. The Liber Pontificalis calls him 'Antiochenus' (linked to his traditional see at Antioch), not a birthplace. Archaeological site of Bethsaida disputed (et-Tell vs el-Araj, ~2 km apart near the Jordan inflow); coordinates are et-Tell. Both sites lie in the Golan Heights (Israeli-administered); integrator may wish to adjust country label to project policy.",
+    "public_note": "The exact site of ancient Bethsaida is debated by archaeologists, and Peter later lived at Capernaum.",
+    "sources": [
+     "S1",
+     "S2",
+     "C1"
+    ]
+   },
+   "saint": {
+    "status": "saint",
+    "recognition": "pre_congregation",
+    "date": null,
+    "feast": "29 June",
+    "note": "Apostle; universal ancient cult. Solemnity of Sts Peter and Paul 29 June; also Chair of St Peter 22 February.",
+    "public_note": null,
+    "sources": [
+     "S2",
+     "C1"
+    ]
+   },
+   "short_bio": "A fisherman from Galilee named Simon, called by Jesus and renamed Peter, he became leader of the twelve apostles. Catholic tradition regards him as the first bishop of Rome. He was martyred in Rome under Nero and buried on the Vatican Hill.",
+   "long_bio": "Simon, son of Jona, fished on the Sea of Galilee with his brother Andrew and lived at Capernaum. The Gospels show him as the foremost of the apostles, and Jesus gave him the name Cephas, or Peter, 'rock'. After the Resurrection he led the community in Jerusalem and travelled as a missionary, and early tradition links him with Antioch.\n\nAncient writers agree that he came to Rome and died there as a martyr in Nero's persecution, probably in the mid-60s; Tertullian says he was crucified. He was buried on the Vatican Hill, where St Peter's Basilica now stands over his tomb.",
+   "actions": [
+    "Led the apostles after the Resurrection",
+    "Preached in Jerusalem and beyond",
+    "Remembered by tradition as founder, with Paul, of the Church of Rome",
+    "Martyred in Rome under Nero"
+   ],
+   "context": "The Christian movement began as a small Jewish group in Roman-ruled Judaea and spread quickly through the cities of the eastern Mediterranean and to Rome itself. In 64 a great fire in Rome led Nero to blame and persecute the Christians there, the setting in which tradition places Peter's death.",
+   "bio_sources": [
+    "S1",
+    "C1"
+   ],
+   "public_uncertainty": "The year of his death (64 or 67) is uncertain, and his years in Rome are known from early tradition rather than detailed records.",
+   "research_status": "verified",
+   "open_questions": [
+    "Country label for Bethsaida site (Golan Heights) per project policy"
+   ]
+  },
+  {
+   "roster_n": [
+    2
+   ],
+   "id": "linus",
+   "papal_name": "Linus",
+   "display_name": "St Linus",
+   "alt_names": [],
+   "secular_name": null,
+   "birth_date": null,
+   "birthplace": {
+    "label": "Tuscia (Etruria)",
+    "country": "Italy",
+    "historical_name": "Tuscia",
+    "precision": "region",
+    "lat": 42.9,
+    "lon": 11.6,
+    "radius_km": 130,
+    "roster_birth_field": "Tuscia",
+    "note": "LP: 'natione Italus, regionis Tusciae, patre Herculano'; CE: source of this claim unknown. Volterra is a late identification (Raffaele Maffei, 15th c.), not supported by early evidence (W2). Centre/radius cover ancient Etruria (Tuscany, northern Lazio, western Umbria).",
+    "public_note": "Later tradition names Volterra, but early sources say only Tuscia, the old land of the Etruscans.",
+    "sources": [
+     "S1",
+     "S2",
+     "S3",
+     "C2",
+     "W2"
+    ]
+   },
+   "saint": {
+    "status": "saint",
+    "recognition": "pre_congregation",
+    "date": null,
+    "feast": "23 September",
+    "note": "Roman Martyrology (2004 ed., quoted in W2): commemoration 23 September. CE: martyrdom claimed by LP is improbable.",
+    "public_note": null,
+    "sources": [
+     "S2",
+     "C2",
+     "W2"
+    ]
+   },
+   "short_bio": "Linus was the first bishop of Rome after Peter in the earliest list of Roman bishops, given by Irenaeus around 180. Irenaeus identifies him with the Linus greeted in Paul's Second Letter to Timothy. Almost nothing else is known for certain.",
+   "long_bio": "According to Irenaeus, the apostles Peter and Paul entrusted the care of the Roman Church to Linus. Whether he is really the Linus of 2 Timothy 4:21 cannot be proved. The later Liber Pontificalis says he came from Tuscia and that his father was called Herculanus, and calls him a martyr; historians regard the martyrdom as improbable, since no persecution is recorded in his time.",
+   "actions": [
+    "Led the Roman Christian community after Peter"
+   ],
+   "context": "In the decades after Nero, the Church of Rome was a small, largely Greek-speaking network of house communities in the imperial capital. The Flavian emperors ruled a stable empire; Jerusalem's temple was destroyed in 70.",
+   "bio_sources": [
+    "S1",
+    "C2"
+   ],
+   "public_uncertainty": "Most of what is said about him comes from the Liber Pontificalis, a papal chronicle compiled centuries later, so his origin and deeds rest largely on tradition.",
+   "research_status": "partial",
+   "open_questions": []
+  },
+  {
+   "roster_n": [
+    3
+   ],
+   "id": "anacletus",
+   "papal_name": "Anacletus or Cletus",
+   "display_name": "St Anacletus (Cletus)",
+   "alt_names": [
+    "Cletus",
+    "Anencletus"
+   ],
+   "secular_name": null,
+   "birth_date": null,
+   "birthplace": {
+    "label": "Rome",
+    "country": "Italy",
+    "historical_name": "Roma",
+    "precision": "exact",
+    "lat": 41.9028,
+    "lon": 12.4964,
+    "radius_km": null,
+    "roster_birth_field": "Rome",
+    "note": "LP treats Cletus and Anacletus as two popes: 'Cletus, natione Romanus, de regione Vico Patricii, patre Aemiliano' and 'Aneclitus, natione Grecus, de Athenis'. CE: most scholars hold they are one person (Irenaeus, Eusebius); Catalogus Felicianus calls Anacletus Greek and Cletus Roman. Vatican roster/table: Roman. Chose Rome; Athens recorded as alternative.",
+    "public_note": "Ancient lists disagree: one tradition makes him a Roman, another a Greek from Athens.",
+    "sources": [
+     "S1",
+     "S2",
+     "S3",
+     "C3"
+    ]
+   },
+   "saint": {
+    "status": "saint",
+    "recognition": "pre_congregation",
+    "date": null,
+    "feast": "26 April",
+    "note": "Roman Martyrology (quoted in W2/W3): 26 April, 'san Cleto, papa', second after Peter.",
+    "public_note": null,
+    "sources": [
+     "S2",
+     "W3"
+    ]
+   },
+   "short_bio": "Anacletus, also called Cletus, was the third bishop of Rome, after Peter and Linus. Ancient writers used both names for him, and later lists wrongly split him into two popes. Very little is known about his life.",
+   "long_bio": "Irenaeus names Anencletus as Linus's successor, and the forms Cletus and Anacletus refer to the same man in most ancient writers. The later Liber Pontificalis, treating them as two people, makes Cletus a Roman and Anacletus a Greek from Athens. Tradition says he ordained priests for Rome and died a martyr, but neither can be verified.",
+   "actions": [
+    "Led the Church of Rome as third in succession",
+    "Said by tradition to have ordained priests for Rome"
+   ],
+   "context": "Under the emperors Vespasian, Titus and Domitian, Christians in Rome lived as a small, often suspect minority. Domitian's later years saw pressure on those who refused the imperial cult.",
+   "bio_sources": [
+    "S1",
+    "C3"
+   ],
+   "public_uncertainty": "Most of what is said about him comes from the Liber Pontificalis, a papal chronicle compiled centuries later, so his origin and deeds rest largely on tradition.",
+   "research_status": "partial",
+   "open_questions": []
+  },
+  {
+   "roster_n": [
+    4
+   ],
+   "id": "clement-i",
+   "papal_name": "Clement",
+   "display_name": "St Clement I",
+   "alt_names": [
+    "Clement of Rome"
+   ],
+   "secular_name": null,
+   "birth_date": null,
+   "birthplace": {
+    "label": "Rome",
+    "country": "Italy",
+    "historical_name": "Roma",
+    "precision": "exact",
+    "lat": 41.9028,
+    "lon": 12.4964,
+    "radius_km": null,
+    "roster_birth_field": "Rome",
+    "note": "LP: 'Clemens, natione Romanus, de regione Celiomonte, ex patre Faustino'. CE does not affirm the place; suggests he was probably a freedman or son of a freedman of the imperial household. Identification with consul T. Flavius Clemens rejected by CE. Benedict XVI audience does not discuss origin.",
+    "public_note": null,
+    "sources": [
+     "S1",
+     "S2",
+     "S3",
+     "C4"
+    ]
+   },
+   "saint": {
+    "status": "saint",
+    "recognition": "pre_congregation",
+    "date": null,
+    "feast": "23 November",
+    "note": "Ancient cult; Benedict XVI notes 4th-6th c. testimonies give him the title of martyr. Feast 23 November (CE; General Roman Calendar). Martyrdom by drowning in the Crimea is a legend (CE).",
+    "public_note": null,
+    "sources": [
+     "S2",
+     "S4",
+     "C4"
+    ]
+   },
+   "short_bio": "Clement was the fourth bishop of Rome, after Peter, Linus and Anacletus, at the end of the first century. Irenaeus says he had known the apostles. He is remembered for his Letter to the Corinthians, one of the oldest Christian writings outside the New Testament.",
+   "long_bio": "When the church in Corinth deposed its elders, the Church of Rome wrote to restore peace, and tradition credits the letter to Clement. Written in Greek, probably shortly after 96, it urges humility and charity and grounds the order of the Church's ministers in God's will, as Benedict XVI noted in a 2007 audience.\n\nNothing certain is known about his death. A later legend of exile to the Crimea and martyrdom by drowning dates from the fourth century; relics believed to be his were brought to Rome in the ninth century and placed in the Basilica of San Clemente.",
+   "actions": [
+    "Sent the Letter to the Corinthians, c. 96",
+    "Strengthened ties between Rome and other churches"
+   ],
+   "context": "Clement's time was the end of Domitian's reign (81-96), remembered by Christians as a time of persecution, and the transition to the calmer rule of Nerva and Trajan. Christian communities were spreading across the Greek East and Rome.",
+   "bio_sources": [
+    "S4",
+    "C4"
+   ],
+   "public_uncertainty": "His dates and the story of his death rest on tradition; only his letter gives firm evidence of his time.",
+   "research_status": "verified",
+   "open_questions": []
+  },
+  {
+   "roster_n": [
+    5
+   ],
+   "id": "evaristus",
+   "papal_name": "Evaristus",
+   "display_name": "St Evaristus",
+   "alt_names": [
+    "Aristus"
+   ],
+   "secular_name": null,
+   "birth_date": null,
+   "birthplace": {
+    "label": "Greece",
+    "country": "Greece",
+    "historical_name": "Graecia",
+    "precision": "region",
+    "lat": 39.0,
+    "lon": 22.0,
+    "radius_km": 350,
+    "roster_birth_field": "Greece",
+    "note": "LP (Latin Library text): 'natione Grecus, ex patre Iudaeo nomine Iuda, de ciuitate Bethleem'; Loomis translation renders it 'a Greek of Antioch' (manuscript variant). 'Natione Grecus' means Greek by nationality/language, not necessarily born in Greece; Bethlehem is given as the father's city. Region Greece follows roster; low confidence.",
+    "public_note": "Tradition calls him a Greek whose father was a Jew from Bethlehem; his actual birthplace is unknown.",
+    "sources": [
+     "S1",
+     "S2",
+     "S3",
+     "S6",
+     "C5"
+    ]
+   },
+   "saint": {
+    "status": "saint",
+    "recognition": "pre_congregation",
+    "date": null,
+    "feast": "27 October",
+    "note": "Roman Martyrology (W5): 27 October. CE gives old date 26 October. Martyrdom traditional, not proven (CE).",
+    "public_note": null,
+    "sources": [
+     "S2",
+     "C5",
+     "W5"
+    ]
+   },
+   "short_bio": "Evaristus succeeded Clement as bishop of Rome around the year 100 and led the Church for about eight years under Trajan. The early lists agree on his place in the succession, but almost nothing else about him is reliable.",
+   "long_bio": "The Liber Pontificalis says he came from a Greek family and that his father was a Jew from Bethlehem. It also credits him with assigning Roman churches to priests, which may reflect later practice. He was probably buried near St Peter on the Vatican Hill. His martyrdom is traditional but unproven.",
+   "actions": [
+    "Led the Roman Church c. 99-107"
+   ],
+   "context": "Trajan's reign (98-117) brought the Roman Empire to its greatest extent. His reply to Pliny shows that Christians could be executed if accused and they refused to recant, though they were not to be hunted down.",
+   "bio_sources": [
+    "S1",
+    "C5"
+   ],
+   "public_uncertainty": "Most of what is said about him comes from the Liber Pontificalis, a papal chronicle compiled centuries later, so his origin and deeds rest largely on tradition.",
+   "research_status": "partial",
+   "open_questions": []
+  },
+  {
+   "roster_n": [
+    6
+   ],
+   "id": "alexander-i",
+   "papal_name": "Alexander I",
+   "display_name": "St Alexander I",
+   "alt_names": [],
+   "secular_name": null,
+   "birth_date": null,
+   "birthplace": {
+    "label": "Rome",
+    "country": "Italy",
+    "historical_name": "Roma",
+    "precision": "exact",
+    "lat": 41.9028,
+    "lon": 12.4964,
+    "radius_km": null,
+    "roster_birth_field": "Rome",
+    "note": "LP: 'Alexander, natione Romanus, ex patre Alexandro, de regione Caput tauri'. CE: tradition of the late 5th century.",
+    "public_note": null,
+    "sources": [
+     "S1",
+     "S2",
+     "S3",
+     "C6"
+    ]
+   },
+   "saint": {
+    "status": "saint",
+    "recognition": "pre_congregation",
+    "date": null,
+    "feast": "3 May",
+    "note": "Labelled S. in Vatican table; ancient/local cult (3 May in older martyrologies). W6 states his memory no longer appears in the new Roman Martyrology, probably because the martyr Alexander of the Via Nomentana is now considered a different person (CE: Duchesne). Status kept 'saint' on ancient cult; flag for integrator.",
+    "public_note": "He is traditionally venerated as a saint, though the current Roman Martyrology no longer lists him.",
+    "sources": [
+     "S2",
+     "C6",
+     "W6"
+    ]
+   },
+   "short_bio": "Alexander was the fifth successor of Peter, leading the Church of Rome in the early second century. Tradition says he was a Roman, but very little is known of him.",
+   "long_bio": "Irenaeus places Alexander fifth after the apostles, and Eusebius gives him about ten years. Later tradition credits him with introducing blessed water mixed with salt and with words in the Eucharistic prayer, attributions historians doubt. A martyr Alexander buried on the Via Nomentana was long identified with him, but most scholars think this was a different man.",
+   "actions": [
+    "Led the Roman Church c. 108-116"
+   ],
+   "context": "Under Trajan the empire was at its height. Christianity was illegal in principle but rarely pursued systematically; Ignatius of Antioch was taken to Rome and martyred in these years.",
+   "bio_sources": [
+    "S1",
+    "C6"
+   ],
+   "public_uncertainty": "Most of what is said about him comes from the Liber Pontificalis, a papal chronicle compiled centuries later, so his origin and deeds rest largely on tradition.",
+   "research_status": "partial",
+   "open_questions": [
+    "Confirm from the printed Martyrologium Romanum (2004) that Alexander I is absent"
+   ]
+  },
+  {
+   "roster_n": [
+    7
+   ],
+   "id": "sixtus-i",
+   "papal_name": "Sixtus I",
+   "display_name": "St Sixtus I",
+   "alt_names": [
+    "Xystus I"
+   ],
+   "secular_name": null,
+   "birth_date": null,
+   "birthplace": {
+    "label": "Rome",
+    "country": "Italy",
+    "historical_name": "Roma",
+    "precision": "exact",
+    "lat": 41.9028,
+    "lon": 12.4964,
+    "radius_km": null,
+    "roster_birth_field": "Rome",
+    "note": "LP: 'Xystus, natione Romanus, ex patre Pastore, de regione Via Lata'. CE: born in Rome, father Pastor.",
+    "public_note": null,
+    "sources": [
+     "S1",
+     "S2",
+     "S3",
+     "C7"
+    ]
+   },
+   "saint": {
+    "status": "saint",
+    "recognition": "pre_congregation",
+    "date": null,
+    "feast": "3 April",
+    "note": "Roman Martyrology (W7): 3 April. CE gives older feast 6 April. Called martyr in Felician Catalogue.",
+    "public_note": null,
+    "sources": [
+     "S2",
+     "C7",
+     "W7"
+    ]
+   },
+   "short_bio": "Sixtus, or Xystus, led the Church of Rome for about ten years under the emperor Hadrian. Tradition makes him a Roman, son of a man named Pastor.",
+   "long_bio": "The early lists agree he reigned about a decade, though the dates differ. The Liber Pontificalis credits him with rules on the sacred vessels and the singing of the Sanctus, which reflect later practice. He was buried near St Peter on the Vatican Hill; relics said to be his were later venerated at Alatri.",
+   "actions": [
+    "Led the Roman Church c. 117-126"
+   ],
+   "context": "Hadrian (117-138) consolidated the empire's frontiers and travelled widely. Christians lived under the same uneasy legal position set out by Trajan.",
+   "bio_sources": [
+    "S1",
+    "C7"
+   ],
+   "public_uncertainty": "Most of what is said about him comes from the Liber Pontificalis, a papal chronicle compiled centuries later, so his origin and deeds rest largely on tradition.",
+   "research_status": "partial",
+   "open_questions": []
+  },
+  {
+   "roster_n": [
+    8
+   ],
+   "id": "telesphorus",
+   "papal_name": "Telesphorus",
+   "display_name": "St Telesphorus",
+   "alt_names": [],
+   "secular_name": null,
+   "birth_date": null,
+   "birthplace": {
+    "label": "Greece",
+    "country": "Greece",
+    "historical_name": "Graecia",
+    "precision": "region",
+    "lat": 39.0,
+    "lon": 22.0,
+    "radius_km": 350,
+    "roster_birth_field": "Greece",
+    "note": "LP: 'Thelesphorus, natione Grecus, ex anachorita' (Greek by nationality, formerly a hermit). No town given. 'Natione Grecus' may mean Greek-speaking rather than born in Greece.",
+    "public_note": null,
+    "sources": [
+     "S1",
+     "S2",
+     "S3"
+    ]
+   },
+   "saint": {
+    "status": "saint",
+    "recognition": "pre_congregation",
+    "date": null,
+    "feast": "2 January",
+    "note": "Roman Martyrology 2004/2005 (W8): deposition 2 January, citing Irenaeus on his 'glorious martyrdom'. Older RM: 5 January (CE); Greek Church 22 February.",
+    "public_note": null,
+    "sources": [
+     "S2",
+     "C8",
+     "W8"
+    ]
+   },
+   "short_bio": "Telesphorus was the seventh bishop of Rome after the apostles. He is the first pope whose martyrdom is attested by an early writer, Irenaeus, who speaks of his glorious martyrdom.",
+   "long_bio": "Irenaeus also names him among the Roman bishops who kept Easter on a Sunday while remaining in communion with churches that followed another date. The Liber Pontificalis says he was a Greek and had been a hermit, and credits him with liturgical rules that historians regard as later inventions.",
+   "actions": [
+    "Led the Roman Church c. 126-137",
+    "Kept the Sunday Easter while staying in communion with other customs",
+    "Died a martyr, as Irenaeus records"
+   ],
+   "context": "Late in Hadrian's reign, the Jewish revolt of Bar Kokhba (132-135) was crushed. Christian teachers, including some later judged heretical, were arriving in Rome.",
+   "bio_sources": [
+    "C8"
+   ],
+   "public_uncertainty": "Most of what is said about him comes from the Liber Pontificalis, a papal chronicle compiled centuries later, so his origin and deeds rest largely on tradition.",
+   "research_status": "partial",
+   "open_questions": []
+  },
+  {
+   "roster_n": [
+    9
+   ],
+   "id": "hyginus",
+   "papal_name": "Hyginus",
+   "display_name": "St Hyginus",
+   "alt_names": [],
+   "secular_name": null,
+   "birth_date": null,
+   "birthplace": {
+    "label": "Greece",
+    "country": "Greece",
+    "historical_name": "Graecia",
+    "precision": "region",
+    "lat": 39.0,
+    "lon": 22.0,
+    "radius_km": 350,
+    "roster_birth_field": "Greece",
+    "note": "LP: 'Yginus, natione Grecus, ex philosopho, de Athenis' (a Greek, formerly a philosopher, of Athens). CE: philosopher claim probably founded on similarity of his name to Latin authors. Athens (37.98, 23.73) is the LP's specific claim; kept region per roster.",
+    "public_note": "A late tradition makes him a philosopher from Athens.",
+    "sources": [
+     "S1",
+     "S2",
+     "S3",
+     "C9"
+    ]
+   },
+   "saint": {
+    "status": "saint",
+    "recognition": "pre_congregation",
+    "date": null,
+    "feast": "11 January",
+    "note": "Roman Martyrology (W9): 11 January, eighth to hold Peter's chair. CE: ancient authorities do not call him a martyr.",
+    "public_note": null,
+    "sources": [
+     "S2",
+     "C9",
+     "W9"
+    ]
+   },
+   "short_bio": "Hyginus led the Church of Rome for about four years around 138-142. During his time the Gnostic teachers Valentinus and Cerdo were active in Rome.",
+   "long_bio": "Irenaeus places the arrival of Valentinus in Rome under Hyginus. The Liber Pontificalis says he was a Greek philosopher and organised the clergy, but historians give these claims little weight. He was buried near St Peter on the Vatican Hill.",
+   "actions": [
+    "Led the Roman Church c. 138-142"
+   ],
+   "context": "Antoninus Pius began a long, peaceful reign in 138. Rome attracted Christian teachers of every kind, and the community had to decide which teachings matched the apostolic faith.",
+   "bio_sources": [
+    "C9"
+   ],
+   "public_uncertainty": "Most of what is said about him comes from the Liber Pontificalis, a papal chronicle compiled centuries later, so his origin and deeds rest largely on tradition.",
+   "research_status": "partial",
+   "open_questions": []
+  },
+  {
+   "roster_n": [
+    10
+   ],
+   "id": "pius-i",
+   "papal_name": "Pius I",
+   "display_name": "St Pius I",
+   "alt_names": [],
+   "secular_name": null,
+   "birth_date": null,
+   "birthplace": {
+    "label": "Aquileia",
+    "country": "Italy",
+    "historical_name": "Aquileia",
+    "precision": "exact",
+    "lat": 45.7695,
+    "lon": 13.37,
+    "radius_km": null,
+    "roster_birth_field": "Aquileia",
+    "note": "LP: 'Pius, natione Italus, ex patre Rufino, frater Pastoris, de ciuitate Aquilegia'. CE: probably the LP author's guess, perhaps prompted by Rufinus of Aquileia (late 4th c.). Kept as exact (roster + LP) with caution.",
+    "public_note": "This rests on a late tradition that some historians think was a guess.",
+    "sources": [
+     "S1",
+     "S2",
+     "S3",
+     "C10"
+    ]
+   },
+   "saint": {
+    "status": "saint",
+    "recognition": "pre_congregation",
+    "date": null,
+    "feast": "11 July",
+    "note": "Roman Martyrology 2005 (W10): commemoration 11 July. CE: no martyrdom claim discussed.",
+    "public_note": null,
+    "sources": [
+     "S2",
+     "C10",
+     "W10"
+    ]
+   },
+   "short_bio": "Pius led the Church of Rome around 140-154. An ancient source names his brother Hermas as the author of The Shepherd, an influential early Christian book.",
+   "long_bio": "The Muratorian Fragment says The Shepherd was written in Rome by Hermas while his brother Pius was bishop. In Pius's time Marcion, who rejected the Old Testament, was excluded from the Roman community and founded his own church. Valentinus and Cerdo also taught in Rome.",
+   "actions": [
+    "Saw Marcion excluded from the Church, c. 144",
+    "Brother of Hermas, author of The Shepherd, according to ancient sources"
+   ],
+   "context": "Under Antoninus Pius the empire enjoyed peace. In Rome, competing Christian teachers made the mid-second century a decisive period for defining orthodox belief and the scriptures.",
+   "bio_sources": [
+    "C10"
+   ],
+   "public_uncertainty": "Most of what is said about him comes from the Liber Pontificalis, a papal chronicle compiled centuries later, so his origin and deeds rest largely on tradition.",
+   "research_status": "partial",
+   "open_questions": []
+  },
+  {
+   "roster_n": [
+    11
+   ],
+   "id": "anicetus",
+   "papal_name": "Anicetus",
+   "display_name": "St Anicetus",
+   "alt_names": [],
+   "secular_name": null,
+   "birth_date": null,
+   "birthplace": {
+    "label": "Homs",
+    "country": "Syria",
+    "historical_name": "Emesa",
+    "precision": "exact",
+    "lat": 34.7308,
+    "lon": 36.7094,
+    "radius_km": null,
+    "roster_birth_field": "Emesa (Syria)",
+    "note": "LP: 'Anicitus, natione Syrus, ex patre Iohanne, de uico Humisa'. 'Humisa' is generally read as Emesa (modern Homs); the identification is conventional, not certain. CE silent on origin.",
+    "public_note": "The ancient source names a place called Humisa, usually identified with Emesa, today's Homs.",
+    "sources": [
+     "S1",
+     "S2",
+     "S3",
+     "W11"
+    ]
+   },
+   "saint": {
+    "status": "saint",
+    "recognition": "pre_congregation",
+    "date": null,
+    "feast": "20 April",
+    "note": "Roman Martyrology 2004 (W11): 20 April, mentions Polycarp's visit. CE says he suffered martyrdom; unverified.",
+    "public_note": null,
+    "sources": [
+     "S2",
+     "C11",
+     "W11"
+    ]
+   },
+   "short_bio": "Anicetus, said to be a Syrian, led the Church of Rome in the 150s and 160s. He is remembered for welcoming the aged Polycarp of Smyrna, who came to discuss the date of Easter.",
+   "long_bio": "Eastern churches kept Easter on the 14th of the Jewish month of Nisan, Rome on a Sunday. Anicetus and Polycarp could not agree, but parted in peace, and Anicetus let Polycarp celebrate the Eucharist in Rome. The historian Hegesippus also visited Rome in his time.",
+   "actions": [
+    "Received Polycarp of Smyrna in Rome, c. 155",
+    "Kept peace despite differing Easter dates"
+   ],
+   "context": "Under Antoninus Pius and Marcus Aurelius, Rome drew Christian leaders and teachers from across the empire, among them the philosopher Justin, martyred in Rome around 165.",
+   "bio_sources": [
+    "C11"
+   ],
+   "public_uncertainty": "Most of what is said about him comes from the Liber Pontificalis, a papal chronicle compiled centuries later, so his origin and deeds rest largely on tradition.",
+   "research_status": "partial",
+   "open_questions": []
+  },
+  {
+   "roster_n": [
+    12
+   ],
+   "id": "soter",
+   "papal_name": "Soterus",
+   "display_name": "St Soter",
+   "alt_names": [
+    "Soter"
+   ],
+   "secular_name": null,
+   "birth_date": null,
+   "birthplace": {
+    "label": "Fondi",
+    "country": "Italy",
+    "historical_name": "Fundi",
+    "precision": "exact",
+    "lat": 41.3567,
+    "lon": 13.425,
+    "radius_km": null,
+    "roster_birth_field": "Fondi",
+    "note": "LP: 'Soter, natione Campanus, ex patre Concordio, de ciuitate Fundis'. Fondi was then in Latium/Campania; now in the province of Latina, Lazio. W12: local cult in Fondi is very late.",
+    "public_note": null,
+    "sources": [
+     "S1",
+     "S2",
+     "S3",
+     "W12"
+    ]
+   },
+   "saint": {
+    "status": "saint",
+    "recognition": "pre_congregation",
+    "date": null,
+    "feast": "22 April",
+    "note": "Roman Martyrology 2004 (W12): 22 April, praising his charity (Dionysius of Corinth). CE: 22 April with Caius.",
+    "public_note": null,
+    "sources": [
+     "S2",
+     "C12",
+     "W12"
+    ]
+   },
+   "short_bio": "Soter led the Church of Rome for about eight years around 166-175. He is remembered for the Roman Church's generosity to poorer churches and to Christians condemned to the mines.",
+   "long_bio": "Bishop Dionysius of Corinth wrote to thank Soter for Rome's gifts, noting that his letter was read aloud in church. According to the Liber Pontificalis he came from Fondi in Campania. Little else is known.",
+   "actions": [
+    "Continued Rome's tradition of aid to other churches",
+    "Corresponded with Dionysius of Corinth"
+   ],
+   "context": "Marcus Aurelius's reign brought plague and war on the Danube. Local outbreaks of hostility against Christians, as at Lyon in 177, show the risks they faced.",
+   "bio_sources": [
+    "C12"
+   ],
+   "public_uncertainty": "Most of what is said about him comes from the Liber Pontificalis, a papal chronicle compiled centuries later, so his origin and deeds rest largely on tradition.",
+   "research_status": "partial",
+   "open_questions": []
+  },
+  {
+   "roster_n": [
+    13
+   ],
+   "id": "eleutherius",
+   "papal_name": "Eleutherius",
+   "display_name": "St Eleutherius",
+   "alt_names": [
+    "Eleutheros"
+   ],
+   "secular_name": null,
+   "birth_date": null,
+   "birthplace": {
+    "label": "Nicopolis (near Preveza)",
+    "country": "Greece",
+    "historical_name": "Nicopolis",
+    "precision": "exact",
+    "lat": 39.01,
+    "lon": 20.733,
+    "radius_km": null,
+    "roster_birth_field": "Nicopolis (Epirus)",
+    "note": "LP: 'Eleuther, natione Grecus, ex patre Habundio, de oppido Nicopoli'. CE: native of Nicopolis in Greece. Which Nicopolis is not stated in the LP; the Vatican table specifies Epirus (Actian Nicopolis near Preveza). W13 notes some confusion with Nicopolis in Moesia. Coordinates are the Epirus site.",
+    "public_note": "Tradition names a town called Nicopolis, usually taken to be the one in Epirus, western Greece.",
+    "sources": [
+     "S1",
+     "S2",
+     "S3",
+     "C13",
+     "W13"
+    ]
+   },
+   "saint": {
+    "status": "saint",
+    "recognition": "pre_congregation",
+    "date": null,
+    "feast": "26 May",
+    "note": "Roman Martyrology 2004 (W13): 26 May, mentions the letter of the martyrs of Lyon. CE does not call him a martyr.",
+    "public_note": null,
+    "sources": [
+     "S2",
+     "C13",
+     "W13"
+    ]
+   },
+   "short_bio": "Eleutherius, a Greek, served as a deacon in Rome before leading the Church there from about 174 to 189. In his time the Montanist movement, with its new prophets, reached Rome and Gaul.",
+   "long_bio": "The historian Hegesippus found him as a deacon under Anicetus. As bishop he received a letter from the martyrs of Lyon, carried by Irenaeus, urging peace in the dispute over Montanism. The later story that a British king, Lucius, asked him for missionaries is not considered historical. He was buried near St Peter on the Vatican Hill.",
+   "actions": [
+    "Received the letter of the martyrs of Lyon, c. 177",
+    "Dealt with the rise of Montanism"
+   ],
+   "context": "Marcus Aurelius and then Commodus ruled. Christians in Rome enjoyed relative peace under Commodus, but in Gaul the persecution at Lyon and Vienne in 177 left many martyrs.",
+   "bio_sources": [
+    "C13"
+   ],
+   "public_uncertainty": "Most of what is said about him comes from the Liber Pontificalis, a papal chronicle compiled centuries later, so his origin and deeds rest largely on tradition.",
+   "research_status": "partial",
+   "open_questions": []
+  },
+  {
+   "roster_n": [
+    14
+   ],
+   "id": "victor-i",
+   "papal_name": "Victor I",
+   "display_name": "St Victor I",
+   "alt_names": [],
+   "secular_name": null,
+   "birth_date": null,
+   "birthplace": {
+    "label": "Roman Africa",
+    "country": "Tunisia",
+    "historical_name": "Africa (Proconsularis)",
+    "precision": "region",
+    "lat": 36.0,
+    "lon": 9.6,
+    "radius_km": 350,
+    "roster_birth_field": "Africa",
+    "note": "LP: 'Victor, natione Afer, ex patre Felice'. No town recorded; 'Afer' points to the Roman province of Africa (centred on Carthage, modern Tunisia). Area indicator only. Popular claims of specific towns (e.g. Leptis Magna) are unsupported.",
+    "public_note": "He is remembered as an African, but no town of birth is recorded.",
+    "sources": [
+     "S1",
+     "S2",
+     "S3",
+     "C14",
+     "W14"
+    ]
+   },
+   "saint": {
+    "status": "saint",
+    "recognition": "pre_congregation",
+    "date": null,
+    "feast": "28 July",
+    "note": "Roman Martyrology (W14): 28 July, 'san Vittore I, papa, africano', on the Sunday Easter. CE silent on martyrdom.",
+    "public_note": null,
+    "sources": [
+     "S2",
+     "C14",
+     "W14"
+    ]
+   },
+   "short_bio": "Victor, from Roman Africa, led the Church of Rome around 189-199. He is best known for pressing all churches to celebrate Easter on Sunday, and Jerome calls him the first Latin Christian writer.",
+   "long_bio": "When the churches of Asia Minor, led by Polycrates of Ephesus, kept Easter on the 14th of Nisan, Victor gathered synods and threatened to break communion with them. Irenaeus of Lyon urged him to show the patience of earlier popes. Victor also excluded Theodotus, who taught that Christ was a mere man.",
+   "actions": [
+    "Pressed for a common Sunday Easter",
+    "Called synods on the Easter question",
+    "Excluded Theodotus the Leather-seller"
+   ],
+   "context": "Under Commodus and the civil wars that brought Septimius Severus (himself from Africa) to power, the Roman Church was becoming more Latin-speaking and more assertive in its dealings with other churches.",
+   "bio_sources": [
+    "C14"
+   ],
+   "public_uncertainty": "Most of what is said about him comes from the Liber Pontificalis, a papal chronicle compiled centuries later, so his origin and deeds rest largely on tradition.",
+   "research_status": "partial",
+   "open_questions": []
+  },
+  {
+   "roster_n": [
+    15
+   ],
+   "id": "zephyrinus",
+   "papal_name": "Zephyrinus",
+   "display_name": "St Zephyrinus",
+   "alt_names": [],
+   "secular_name": null,
+   "birth_date": null,
+   "birthplace": {
+    "label": "Rome",
+    "country": "Italy",
+    "historical_name": "Roma",
+    "precision": "exact",
+    "lat": 41.9028,
+    "lon": 12.4964,
+    "radius_km": null,
+    "roster_birth_field": "Rome",
+    "note": "LP: 'Zepherinus, natione Romanus, ex patre Habundio'. CE gives no parentage.",
+    "public_note": null,
+    "sources": [
+     "S1",
+     "S2",
+     "S3"
+    ]
+   },
+   "saint": {
+    "status": "saint",
+    "recognition": "pre_congregation",
+    "date": null,
+    "feast": "20 December",
+    "note": "Roman Martyrology 2004 (W15): 20 December. CE: nothing known of martyrdom.",
+    "public_note": null,
+    "sources": [
+     "S2",
+     "C15",
+     "W15"
+    ]
+   },
+   "short_bio": "Zephyrinus led the Church of Rome for nearly twenty years, from 198 to 217. He put the deacon Callistus in charge of the Christian cemetery on the Via Appia, which still bears Callistus's name.",
+   "long_bio": "His critic Hippolytus called him a simple, uneducated man, but he was a practical administrator. His reign was troubled by disputes over how to speak of the Father and the Son, in which Hippolytus accused him of being too lenient. He was buried near the cemetery of Callistus.",
+   "actions": [
+    "Entrusted the cemetery on the Via Appia to Callistus",
+    "Guided the Church through debates on the Trinity"
+   ],
+   "context": "Septimius Severus ruled from 193 to 211; an edict of around 202 is said to have forbidden conversion to Christianity. Roman theologians were sharply divided over Monarchianism.",
+   "bio_sources": [
+    "C15",
+    "S5"
+   ],
+   "public_uncertainty": "Most of what is said about him comes from the Liber Pontificalis, a papal chronicle compiled centuries later, so his origin and deeds rest largely on tradition.",
+   "research_status": "partial",
+   "open_questions": []
+  },
+  {
+   "roster_n": [
+    16
+   ],
+   "id": "callistus-i",
+   "papal_name": "Callistus I",
+   "display_name": "St Callistus I",
+   "alt_names": [
+    "Callixtus I",
+    "Calixtus I"
+   ],
+   "secular_name": null,
+   "birth_date": null,
+   "birthplace": {
+    "label": "Rome",
+    "country": "Italy",
+    "historical_name": "Roma",
+    "precision": "exact",
+    "lat": 41.9028,
+    "lon": 12.4964,
+    "radius_km": null,
+    "roster_birth_field": "",
+    "note": "English roster birth field is blank. Older Vatican table: 'Romano'. LP: 'Calistus, natione Romanus, ex patre Domitio, de regione Urbe Rauennantium' (the Ravennate quarter, in Trastevere). Hippolytus says he had been a slave of Carpophorus. Mapped to Rome.",
+    "public_note": null,
+    "sources": [
+     "S2",
+     "S3",
+     "C16"
+    ]
+   },
+   "saint": {
+    "status": "saint",
+    "recognition": "pre_congregation",
+    "date": null,
+    "feast": "14 October",
+    "note": "Listed as martyr in the 4th-c. Depositio martyrum (CE). Roman Martyrology 2004 (W16): 14 October, pope and martyr, burial in the cemetery of Calepodius.",
+    "public_note": null,
+    "sources": [
+     "S2",
+     "C16",
+     "W16"
+    ]
+   },
+   "short_bio": "Callistus rose from slavery to lead the Church of Rome from about 218 to 222. Before that he ran the Christian cemetery on the Via Appia that still carries his name. He is honoured as a martyr.",
+   "long_bio": "According to his opponent Hippolytus, Callistus was once a slave, was condemned to the mines of Sardinia and was later freed. As pope he allowed sinners guilty of grave sins to be reconciled after penance, which brought fierce attacks from Hippolytus and Tertullian, and Hippolytus set himself up as a rival bishop. Tradition says Callistus died in Trastevere; he was buried in the cemetery of Calepodius on the Via Aurelia.",
+   "actions": [
+    "Administered the cemetery on the Via Appia",
+    "Allowed penitents to be reconciled to the Church",
+    "Faced the schism of Hippolytus"
+   ],
+   "context": "The Severan dynasty ruled; under Alexander Severus (from 222) Christians enjoyed relative tolerance. Within the Roman Church, the question of forgiving serious sins divided rigorists from those favouring mercy.",
+   "bio_sources": [
+    "C16",
+    "S5"
+   ],
+   "public_uncertainty": "Much of what we know comes from his bitter opponent Hippolytus, and the story of his death is traditional.",
+   "research_status": "partial",
+   "open_questions": []
+  },
+  {
+   "roster_n": [
+    17
+   ],
+   "id": "urban-i",
+   "papal_name": "Urban I",
+   "display_name": "St Urban I",
+   "alt_names": [],
+   "secular_name": null,
+   "birth_date": null,
+   "birthplace": {
+    "label": "Rome",
+    "country": "Italy",
+    "historical_name": "Roma",
+    "precision": "exact",
+    "lat": 41.9028,
+    "lon": 12.4964,
+    "radius_km": null,
+    "roster_birth_field": "Rome",
+    "note": "LP: 'Vrbanus, natione Romanus, ex patre Pontiano'. CE: Roman.",
+    "public_note": null,
+    "sources": [
+     "S1",
+     "S2",
+     "S3",
+     "C17"
+    ]
+   },
+   "saint": {
+    "status": "saint",
+    "recognition": "pre_congregation",
+    "date": null,
+    "feast": "19 May",
+    "note": "Roman Martyrology (W17): 19 May. CE: death likely natural; martyr acts unreliable; burial in catacomb of Praetextatus. Old feast 25 May.",
+    "public_note": null,
+    "sources": [
+     "S2",
+     "C17",
+     "W17"
+    ]
+   },
+   "short_bio": "Urban led the Church of Rome for about eight years, from 222 to 230, during a time of peace. Little is known of him; the stories linking him to St Cecilia are legend.",
+   "long_bio": "The Liber Pontificalis makes Urban a Roman, son of a man called Pontianus. The Acts of St Cecilia, which have him baptise her husband and brother-in-law, are considered legendary, and his death was probably natural. He was buried in the catacomb of Praetextatus on the Via Appia.",
+   "actions": [
+    "Led the Roman Church in a time of peace, c. 222-230"
+   ],
+   "context": "Emperor Alexander Severus was tolerant towards Christians, who could own property and build places of worship. The schism of Hippolytus continued in Rome.",
+   "bio_sources": [
+    "C17"
+   ],
+   "public_uncertainty": "Most of what is said about him comes from the Liber Pontificalis, a papal chronicle compiled centuries later, so his origin and deeds rest largely on tradition.",
+   "research_status": "partial",
+   "open_questions": []
+  },
+  {
+   "roster_n": [
+    18
+   ],
+   "id": "pontian",
+   "papal_name": "Pontianus",
+   "display_name": "St Pontian",
+   "alt_names": [
+    "Pontianus"
+   ],
+   "secular_name": null,
+   "birth_date": null,
+   "birthplace": {
+    "label": "Rome",
+    "country": "Italy",
+    "historical_name": "Roma",
+    "precision": "exact",
+    "lat": 41.9028,
+    "lon": 12.4964,
+    "radius_km": null,
+    "roster_birth_field": "Rome",
+    "note": "LP: 'Pontianus, natione Romanus, ex patre Calpurnio'. CE: born in Rome.",
+    "public_note": null,
+    "sources": [
+     "S1",
+     "S2",
+     "S3",
+     "C18"
+    ]
+   },
+   "saint": {
+    "status": "saint",
+    "recognition": "pre_congregation",
+    "date": null,
+    "feast": "13 August",
+    "note": "Roman Martyrology 2004 (W18): 13 August with Hippolytus, martyrs. Epitaph 'PONTIANOS EPISK. MARTUR' found 1909 (CE). Old RM date 19 November.",
+    "public_note": null,
+    "sources": [
+     "S2",
+     "C18",
+     "W18"
+    ]
+   },
+   "short_bio": "Pontian led the Church of Rome from 230 to 235. Exiled to the mines of Sardinia under Maximinus Thrax, he resigned so that a successor could be chosen, and died there. He is often described as the first pope known to have resigned.",
+   "long_bio": "A Roman synod in his time accepted Alexandria's condemnation of Origen. In 235 the emperor Maximinus sent Pontian and his rival Hippolytus to the Sardinian mines, where both died, reconciled according to tradition. Pope Fabian later brought Pontian's body to the papal crypt in the catacomb of Callistus, where his epitaph was found.",
+   "actions": [
+    "Resigned in exile, 28 September 235",
+    "Shared exile with Hippolytus, ending the schism"
+   ],
+   "context": "Maximinus Thrax seized power in 235 and turned against the clergy who had been favoured under Alexander Severus, targeting Church leaders in particular.",
+   "bio_sources": [
+    "C18",
+    "S5"
+   ],
+   "public_uncertainty": "His dates are among the first in the papal list that come from a reliable early catalogue.",
+   "research_status": "verified",
+   "open_questions": []
+  },
+  {
+   "roster_n": [
+    19
+   ],
+   "id": "anterus",
+   "papal_name": "Anterus",
+   "display_name": "St Anterus",
+   "alt_names": [
+    "Anteros"
+   ],
+   "secular_name": null,
+   "birth_date": null,
+   "birthplace": {
+    "label": "Greece",
+    "country": "Greece",
+    "historical_name": "Graecia",
+    "precision": "region",
+    "lat": 39.0,
+    "lon": 22.0,
+    "radius_km": 350,
+    "roster_birth_field": "Greece",
+    "note": "LP: 'Anteros, natione Grecus, ex patre Romulo'. CE: Greek epitaph suggests origin (Greek also common in the Roman Church). W19 reports a later claim of birth at Petelia (Strongoli, Calabria, in Magna Graecia); no early support. 'Natione Grecus' need not mean born in Greece.",
+    "public_note": "He is remembered as a Greek; a later claim places his birth in Calabria, in the old Greek south of Italy.",
+    "sources": [
+     "S1",
+     "S2",
+     "S3",
+     "C19",
+     "W19"
+    ]
+   },
+   "saint": {
+    "status": "saint",
+    "recognition": "pre_congregation",
+    "date": null,
+    "feast": "3 January",
+    "note": "Roman Martyrology (W19): 3 January, deposition in the cemetery of Callistus. LP martyrdom claim considered insufficiently supported (CE).",
+    "public_note": null,
+    "sources": [
+     "S2",
+     "C19",
+     "W19"
+    ]
+   },
+   "short_bio": "Anterus led the Church of Rome for only about forty days, from November 235 to January 236. He was buried in the papal crypt of the catacomb of Callistus, where fragments of his Greek epitaph were found.",
+   "long_bio": "Almost nothing is known of his brief pontificate. The Liber Pontificalis says he was martyred for having the acts of the martyrs collected, but historians think this tradition is not well founded.",
+   "actions": [
+    "Led the Roman Church for about six weeks"
+   ],
+   "context": "He was elected after Pontian's resignation, during the persecution of Maximinus Thrax against Church leaders.",
+   "bio_sources": [
+    "C19",
+    "S5"
+   ],
+   "public_uncertainty": "Most of what is said about him comes from the Liber Pontificalis, a papal chronicle compiled centuries later, so his origin and deeds rest largely on tradition.",
+   "research_status": "partial",
+   "open_questions": []
+  },
+  {
+   "roster_n": [
+    20
+   ],
+   "id": "fabian",
+   "papal_name": "Fabian",
+   "display_name": "St Fabian",
+   "alt_names": [
+    "Fabianus"
+   ],
+   "secular_name": null,
+   "birth_date": null,
+   "birthplace": {
+    "label": "Rome",
+    "country": "Italy",
+    "historical_name": "Roma",
+    "precision": "exact",
+    "lat": 41.9028,
+    "lon": 12.4964,
+    "radius_km": null,
+    "roster_birth_field": "Rome",
+    "note": "LP: 'Fabianus, natione Romanus, ex patre Fabio'. Eusebius (via CE): he came into the city from the country when elected.",
+    "public_note": null,
+    "sources": [
+     "S1",
+     "S2",
+     "S3"
+    ]
+   },
+   "saint": {
+    "status": "saint",
+    "recognition": "pre_congregation",
+    "date": null,
+    "feast": "20 January",
+    "note": "Roman Martyrology 2001 (W20): 20 January, pope and martyr under Decius. Greek epitaph 'Fabian, bishop, martyr' found by De Rossi (CE). General Roman Calendar optional memorial with St Sebastian.",
+    "public_note": null,
+    "sources": [
+     "S2",
+     "C20",
+     "W20"
+    ]
+   },
+   "short_bio": "Fabian, a layman, was chosen bishop of Rome in 236 when, according to Eusebius, a dove settled on his head. He led the Church for fourteen peaceful years and was martyred at the start of Decius's persecution in January 250.",
+   "long_bio": "Tradition credits Fabian with organising Rome into seven districts under deacons and with bringing Pontian's body home from Sardinia. He was buried in the papal crypt of the catacomb of Callistus, where his epitaph naming him bishop and martyr was found. Cyprian of Carthage praised his witness.",
+   "actions": [
+    "Organised Rome's charitable districts under deacons",
+    "Brought Pontian's remains back from Sardinia",
+    "Died a martyr under Decius, 20 January 250"
+   ],
+   "context": "The empire's crisis of the third century deepened. In 249-250 Decius ordered all inhabitants to sacrifice to the gods, the first empire-wide persecution; many Christians lapsed, raising hard questions about forgiveness.",
+   "bio_sources": [
+    "C20",
+    "S5"
+   ],
+   "public_uncertainty": null,
+   "research_status": "verified",
+   "open_questions": []
+  },
+  {
+   "roster_n": [
+    21
+   ],
+   "id": "cornelius",
+   "papal_name": "Cornelius",
+   "display_name": "St Cornelius",
+   "alt_names": [],
+   "secular_name": null,
+   "birth_date": null,
+   "birthplace": {
+    "label": "Rome",
+    "country": "Italy",
+    "historical_name": "Roma",
+    "precision": "exact",
+    "lat": 41.9028,
+    "lon": 12.4964,
+    "radius_km": null,
+    "roster_birth_field": "Rome",
+    "note": "LP: 'Cornelius, natione Romanus, ex patre Castino'. CE: buried in a catacomb perhaps of a branch of the Cornelii.",
+    "public_note": null,
+    "sources": [
+     "S1",
+     "S2",
+     "S3"
+    ]
+   },
+   "saint": {
+    "status": "saint",
+    "recognition": "pre_congregation",
+    "date": null,
+    "feast": "16 September",
+    "note": "Roman Martyrology (W21): 16 September, memorial of Sts Cornelius, pope, and Cyprian, martyrs (General Roman Calendar). Died in exile at Centumcellae; later accounts say beheaded (CE).",
+    "public_note": null,
+    "sources": [
+     "S2",
+     "C21",
+     "W21"
+    ]
+   },
+   "short_bio": "Cornelius was elected in 251 after a long vacancy caused by Decius's persecution. He upheld forgiveness for Christians who had lapsed, against the rigorist antipope Novatian, and died in exile in 253.",
+   "long_bio": "With the support of Cyprian of Carthage and Dionysius of Alexandria, Cornelius was accepted across the Church, and a synod of sixty bishops in Rome condemned Novatian. A surviving letter of his records the Roman clergy of the time and more than 1,500 widows and needy people supported by the Church. Exiled to Centumcellae (Civitavecchia) under Gallus, he died there.",
+   "actions": [
+    "Opposed the Novatian schism",
+    "Held a synod of sixty bishops in Rome",
+    "Approved readmitting the lapsed after penance"
+   ],
+   "context": "After Decius's death in 251, his successor Gallus renewed persecution. The Church argued over whether those who had sacrificed under pressure could return.",
+   "bio_sources": [
+    "C21"
+   ],
+   "public_uncertainty": null,
+   "research_status": "verified",
+   "open_questions": []
+  },
+  {
+   "roster_n": [
+    22
+   ],
+   "id": "lucius-i",
+   "papal_name": "Lucius I",
+   "display_name": "St Lucius I",
+   "alt_names": [],
+   "secular_name": null,
+   "birth_date": null,
+   "birthplace": {
+    "label": "Rome",
+    "country": "Italy",
+    "historical_name": "Roma",
+    "precision": "exact",
+    "lat": 41.9028,
+    "lon": 12.4964,
+    "radius_km": null,
+    "roster_birth_field": "Rome",
+    "note": "LP: 'Lucius, natione Romanus, ex patre Purfurio'. CE: source of LP claim unknown.",
+    "public_note": null,
+    "sources": [
+     "S1",
+     "S2",
+     "S3",
+     "C22"
+    ]
+   },
+   "saint": {
+    "status": "saint",
+    "recognition": "pre_congregation",
+    "date": null,
+    "feast": "5 March",
+    "note": "Roman Martyrology (W22): 5 March, burial in cemetery of Callistus, exiled for the faith. CE: older 4 March; beheading story rejected; Cyprian called him a martyr honorifically.",
+    "public_note": null,
+    "sources": [
+     "S2",
+     "C22",
+     "W22"
+    ]
+   },
+   "short_bio": "Lucius led the Church of Rome for only about eight months in 253-254. Exiled soon after his election, he was allowed to return, and he continued Cornelius's merciful policy toward the lapsed.",
+   "long_bio": "Cyprian of Carthage wrote to congratulate him on his election and on his return from exile. He died in Rome on 5 March 254 and was buried in the papal crypt of the catacomb of Callistus, where a fragment of his epitaph was found. The later story of his beheading is not considered reliable.",
+   "actions": [
+    "Returned from exile to Rome",
+    "Kept the door open for repentant lapsed Christians"
+   ],
+   "context": "The empire was beset by invasions and short-lived emperors; Gallus was replaced by Valerian in 253. Persecution came and went with each change of ruler.",
+   "bio_sources": [
+    "C22",
+    "S5"
+   ],
+   "public_uncertainty": null,
+   "research_status": "partial",
+   "open_questions": []
+  },
+  {
+   "roster_n": [
+    23
+   ],
+   "id": "stephen-i",
+   "papal_name": "Stephen I",
+   "display_name": "St Stephen I",
+   "alt_names": [],
+   "secular_name": null,
+   "birth_date": null,
+   "birthplace": {
+    "label": "Rome",
+    "country": "Italy",
+    "historical_name": "Roma",
+    "precision": "exact",
+    "lat": 41.9028,
+    "lon": 12.4964,
+    "radius_km": null,
+    "roster_birth_field": "Rome",
+    "note": "LP: 'Stephanus, natione Romanus, ex patre Iobio'. CE: Roman by birth, son of Jovius.",
+    "public_note": null,
+    "sources": [
+     "S1",
+     "S2",
+     "S3",
+     "C23"
+    ]
+   },
+   "saint": {
+    "status": "saint",
+    "recognition": "pre_congregation",
+    "date": null,
+    "feast": "2 August",
+    "note": "Roman Martyrology (W23): 2 August, saint and pope, not called a martyr. CE: LP martyrdom claim doubtful.",
+    "public_note": null,
+    "sources": [
+     "S2",
+     "C23",
+     "W23"
+    ]
+   },
+   "short_bio": "Stephen led the Church of Rome from 254 to 257. He is remembered for insisting that baptism given by heretics was valid and must not be repeated, which brought him into sharp conflict with Cyprian of Carthage.",
+   "long_bio": "Cyprian and the bishops of Africa and Asia Minor held that converts baptised by heretics must be baptised again; Stephen upheld the Roman custom of receiving them by laying on of hands. He also dealt with appeals from bishops in Gaul and Spain. A later story that he was killed in his chair is not reliable. He was buried in the catacomb of Callistus.",
+   "actions": [
+    "Upheld the validity of baptism given by heretics",
+    "Dealt with appeals from Gaul and Spain"
+   ],
+   "context": "Under Valerian the empire faced invasions on several frontiers. The Church was still recovering from the Decian persecution and debating how to treat lapsed and heretical Christians.",
+   "bio_sources": [
+    "C23",
+    "S5"
+   ],
+   "public_uncertainty": "Most of what is said about him comes from the Liber Pontificalis, a papal chronicle compiled centuries later, so his origin and deeds rest largely on tradition.",
+   "research_status": "partial",
+   "open_questions": []
+  },
+  {
+   "roster_n": [
+    24
+   ],
+   "id": "sixtus-ii",
+   "papal_name": "Sixtus II",
+   "display_name": "St Sixtus II",
+   "alt_names": [
+    "Xystus II"
+   ],
+   "secular_name": null,
+   "birth_date": null,
+   "birthplace": {
+    "label": "Greece",
+    "country": "Greece",
+    "historical_name": "Graecia",
+    "precision": "region",
+    "lat": 39.0,
+    "lon": 22.0,
+    "radius_km": 350,
+    "roster_birth_field": "Greece",
+    "note": "LP: 'Xystus, natione Grecus, ex philosopho'. CE: origin unknown; Greek origin probably a mistake, from confusion with the philosopher Sextus (Sentences of Sextus). Kept roster region with public caution; integrator may prefer 'unknown'.",
+    "public_note": "The tradition that he was Greek may come from confusing him with a Greek philosopher of the same name.",
+    "sources": [
+     "S1",
+     "S2",
+     "S3",
+     "C24",
+     "W24"
+    ]
+   },
+   "saint": {
+    "status": "saint",
+    "recognition": "pre_congregation",
+    "date": null,
+    "feast": "7 August",
+    "note": "Roman Martyrology 2001 (W24): passion 6 August, memorial 7 August with companions (General Roman Calendar). Named in the Roman Canon (CE). Martyrdom 6 Aug 258 historically secure.",
+    "public_note": null,
+    "sources": [
+     "S2",
+     "C24",
+     "W24"
+    ]
+   },
+   "short_bio": "Sixtus II led the Church of Rome for less than a year. He restored peace with the churches of Africa and Asia after the baptism dispute, and was beheaded on 6 August 258 while preaching in a catacomb during Valerian's persecution.",
+   "long_bio": "Valerian's edicts forbade Christian gatherings in cemeteries and then ordered the execution of bishops, priests and deacons. Soldiers seized Sixtus as he sat teaching in the cemetery of Praetextatus on the Via Appia and put him to death with four deacons; the deacon Lawrence died days later. He was buried in the papal crypt of the catacomb of Callistus, and Pope Damasus later honoured his tomb with a verse inscription.",
+   "actions": [
+    "Restored communion with Cyprian and the African churches",
+    "Martyred with his deacons, 6 August 258"
+   ],
+   "context": "In 257-258 Valerian launched a persecution aimed at clergy and Christian property, hoping to break the Church's organisation while the empire fought Persians and Germanic invaders.",
+   "bio_sources": [
+    "C24",
+    "S5"
+   ],
+   "public_uncertainty": null,
+   "research_status": "verified",
+   "open_questions": []
+  },
+  {
+   "roster_n": [
+    25
+   ],
+   "id": "dionysius",
+   "papal_name": "Dionysius",
+   "display_name": "St Dionysius",
+   "alt_names": [],
+   "secular_name": null,
+   "birth_date": null,
+   "birthplace": {
+    "label": "Unknown",
+    "country": null,
+    "historical_name": null,
+    "precision": "unknown",
+    "lat": null,
+    "lon": null,
+    "radius_km": null,
+    "roster_birth_field": "Unknown",
+    "note": "Vatican table: 'Patria ignota'. LP: 'Dionisius, ex monacho, cuius generationem non potuimus repperire' (origin could not be found; 'monk' is anachronistic). CE: birth unknown; was a Roman presbyter under Stephen I.",
+    "public_note": "His birthplace is unknown.",
+    "sources": [
+     "S1",
+     "S2",
+     "S3",
+     "C25"
+    ]
+   },
+   "saint": {
+    "status": "saint",
+    "recognition": "pre_congregation",
+    "date": null,
+    "feast": "26 December",
+    "note": "Roman Martyrology (W25): 26 December, burial in cemetery of Callistus; not called a martyr (CE silent).",
+    "public_note": null,
+    "sources": [
+     "S2",
+     "C25",
+     "W25"
+    ]
+   },
+   "short_bio": "Dionysius, a Roman priest, was elected in 259 after the see had been empty for almost a year following Sixtus II's martyrdom. He rebuilt the Roman Church after Valerian's persecution and led it until 268.",
+   "long_bio": "Soon after his election, the emperor Gallienus ended the persecution and returned Church property. Dionysius held a synod that clarified teaching on the Trinity, prompting a reply from his namesake, the bishop of Alexandria. He sent money to ransom Christians captured in Gothic raids on Cappadocia. He was buried in the papal crypt of the catacomb of Callistus.",
+   "actions": [
+    "Reorganised the Roman Church after persecution",
+    "Held a synod on the doctrine of the Trinity",
+    "Ransomed Christian captives in Cappadocia"
+   ],
+   "context": "Valerian's capture by the Persians in 260 left Gallienus to rule a fractured empire. His edict of toleration began some forty years of peace for the Church.",
+   "bio_sources": [
+    "C25",
+    "S5"
+   ],
+   "public_uncertainty": null,
+   "research_status": "partial",
+   "open_questions": []
+  },
+  {
+   "roster_n": [
+    26
+   ],
+   "id": "felix-i",
+   "papal_name": "Felix I",
+   "display_name": "St Felix I",
+   "alt_names": [],
+   "secular_name": null,
+   "birth_date": null,
+   "birthplace": {
+    "label": "Rome",
+    "country": "Italy",
+    "historical_name": "Roma",
+    "precision": "exact",
+    "lat": 41.9028,
+    "lon": 12.4964,
+    "radius_km": null,
+    "roster_birth_field": "Rome",
+    "note": "LP: 'Felix, natione Romanus, ex patre Constantio'. CE silent on origin.",
+    "public_note": null,
+    "sources": [
+     "S1",
+     "S2",
+     "S3"
+    ]
+   },
+   "saint": {
+    "status": "saint",
+    "recognition": "pre_congregation",
+    "date": null,
+    "feast": "30 December",
+    "note": "Roman Martyrology (W26): 30 December, deposition in cemetery of Callistus. CE: martyr title probably from confusion with another Felix.",
+    "public_note": null,
+    "sources": [
+     "S2",
+     "C26",
+     "W26"
+    ]
+   },
+   "short_bio": "Felix led the Church of Rome from 269 to 274. In his time a synod at Antioch deposed its bishop, Paul of Samosata, for his teaching on Christ, and reported to Rome.",
+   "long_bio": "Felix probably wrote to the East setting out the faith in the Trinity and the person of Christ. Later sources call him a martyr, but this seems to come from confusion with another Felix. A fourth-century calendar places his burial in the catacomb of Callistus on 30 December.",
+   "actions": [
+    "Received the synod of Antioch's report on Paul of Samosata"
+   ],
+   "context": "Aurelian (270-275) reunited the empire after years of breakaway states, and was asked to settle the Antioch dispute over church property in favour of the bishop in communion with Rome.",
+   "bio_sources": [
+    "C26"
+   ],
+   "public_uncertainty": "Most of what is said about him comes from the Liber Pontificalis, a papal chronicle compiled centuries later, so his origin and deeds rest largely on tradition.",
+   "research_status": "partial",
+   "open_questions": []
+  },
+  {
+   "roster_n": [
+    27
+   ],
+   "id": "eutychian",
+   "papal_name": "Eutichianus",
+   "display_name": "St Eutychian",
+   "alt_names": [
+    "Eutychianus"
+   ],
+   "secular_name": null,
+   "birth_date": null,
+   "birthplace": {
+    "label": "Luni",
+    "country": "Italy",
+    "historical_name": "Luna",
+    "precision": "exact",
+    "lat": 44.066,
+    "lon": 10.016,
+    "radius_km": null,
+    "roster_birth_field": "Luni",
+    "note": "LP (Duchesne text, quoted in W27): 'natione Tuscus ex patre Marino de civitate Lunae'; the Latin Library text omits 'de civitate Lunae'. Luni was a Roman colony on the Liguria-Tuscany border (archaeological site in Luni municipality, province of La Spezia). CE silent on origin.",
+    "public_note": "Luni comes from a late tradition; some versions of the source say only that he was Tuscan.",
+    "sources": [
+     "S1",
+     "S2",
+     "S3",
+     "W27"
+    ]
+   },
+   "saint": {
+    "status": "saint",
+    "recognition": "pre_congregation",
+    "date": null,
+    "feast": "8 December",
+    "note": "Roman Martyrology 2004 (W27): 8 December, deposition in the cemetery of Callistus. CE: highly probable he was not a martyr. Greek epitaph found (CE).",
+    "public_note": null,
+    "sources": [
+     "S2",
+     "C27",
+     "W27"
+    ]
+   },
+   "short_bio": "Eutychian led the Church of Rome from 275 to 283, in a long period of peace. Fragments of his Greek epitaph were found in the papal crypt of the catacomb of Callistus.",
+   "long_bio": "Almost nothing is known of his pontificate. The Liber Pontificalis credits him with a blessing for crops and with burying many martyrs, but these details do not fit his peaceful time, and he probably did not die a martyr.",
+   "actions": [
+    "Led the Roman Church in the peace after Gallienus's edict"
+   ],
+   "context": "Emperors rose and fell quickly after Aurelian's murder in 275, but Christians were largely left alone and their communities grew.",
+   "bio_sources": [
+    "C27",
+    "S5"
+   ],
+   "public_uncertainty": "Most of what is said about him comes from the Liber Pontificalis, a papal chronicle compiled centuries later, so his origin and deeds rest largely on tradition.",
+   "research_status": "partial",
+   "open_questions": []
+  },
+  {
+   "roster_n": [
+    28
+   ],
+   "id": "caius",
+   "papal_name": "Caius",
+   "display_name": "St Caius",
+   "alt_names": [
+    "Gaius"
+   ],
+   "secular_name": null,
+   "birth_date": null,
+   "birthplace": {
+    "label": "Dalmatia",
+    "country": "Croatia",
+    "historical_name": "Dalmatia",
+    "precision": "region",
+    "lat": 43.54,
+    "lon": 16.48,
+    "radius_km": 150,
+    "roster_birth_field": "Dalmatia",
+    "note": "LP: 'Gaius, natione Dalmata, ex genere Diocletiani imperatoris, ex patre Gaio'. W28 adds Salona (Solin, near Split) as birthplace; not in the LP text consulted, so kept as region centred on Salona. Kinship with Diocletian is unsupported (CE: nothing known of his life).",
+    "public_note": "Later tradition names Salona, near today's Split, and claims kinship with Emperor Diocletian; neither is confirmed.",
+    "sources": [
+     "S1",
+     "S2",
+     "S3",
+     "W28"
+    ]
+   },
+   "saint": {
+    "status": "saint",
+    "recognition": "pre_congregation",
+    "date": null,
+    "feast": "22 April",
+    "note": "Roman Martyrology 2001 (W28): 22 April, 'died a confessor of the faith'. CE: Depositio episcoporum lists him without the title martyr.",
+    "public_note": null,
+    "sources": [
+     "S2",
+     "C12",
+     "W28"
+    ]
+   },
+   "short_bio": "Caius led the Church of Rome for over twelve years, from 283 to 296. Tradition says he came from Dalmatia and was related to the emperor Diocletian, but nothing about his life is securely known.",
+   "long_bio": "He was buried in the papal crypt of the catacomb of Callistus. Ancient sources do not call him a martyr, and the Roman Martyrology remembers him as a confessor of the faith.",
+   "actions": [
+    "Led the Roman Church c. 283-296"
+   ],
+   "context": "Diocletian, himself from Dalmatia, took power in 284 and reorganised the empire under four rulers. For most of Caius's time the Church still enjoyed peace.",
+   "bio_sources": [
+    "C12",
+    "S5"
+   ],
+   "public_uncertainty": "Most of what is said about him comes from the Liber Pontificalis, a papal chronicle compiled centuries later, so his origin and deeds rest largely on tradition.",
+   "research_status": "minimal",
+   "open_questions": []
+  },
+  {
+   "roster_n": [
+    29
+   ],
+   "id": "marcellinus",
+   "papal_name": "Marcellinus",
+   "display_name": "St Marcellinus",
+   "alt_names": [],
+   "secular_name": null,
+   "birth_date": null,
+   "birthplace": {
+    "label": "Rome",
+    "country": "Italy",
+    "historical_name": "Roma",
+    "precision": "exact",
+    "lat": 41.9028,
+    "lon": 12.4964,
+    "radius_km": null,
+    "roster_birth_field": "Rome",
+    "note": "LP: 'Marcellinus, natione Romanus, ex patre Proiecto'. CE: born in Rome per LP.",
+    "public_note": null,
+    "sources": [
+     "S1",
+     "S2",
+     "S3",
+     "C29"
+    ]
+   },
+   "saint": {
+    "status": "saint",
+    "recognition": "pre_congregation",
+    "date": null,
+    "feast": null,
+    "note": "Labelled S. in Vatican table; honoured early as a martyr and his tomb venerated (CE), though CE holds he likely died naturally. Old feast 26 April. W29/W30: the 2004/2005 Roman Martyrology entry of 16 January follows Mommsen's view and conflates him with Marcellus I; a separate current feast for Marcellinus is not confirmed.",
+    "public_note": "He has been venerated as a saint since early times, though his story is clouded by later accusations that he gave way under persecution.",
+    "sources": [
+     "S2",
+     "C29",
+     "W29"
+    ]
+   },
+   "short_bio": "Marcellinus led the Church of Rome from 296 to 304, when Diocletian unleashed the last and harshest persecution. He died early in it, probably of natural causes, and was buried in the catacomb of Priscilla.",
+   "long_bio": "After his death, his opponents, notably Donatist writers, claimed he had handed over sacred books or offered incense to the gods. No proof was offered, and the story of a synod at Sinuessa that judged him is a later forgery. Whether he faltered remains debated.",
+   "actions": [
+    "Led the Church as the Great Persecution began, 303"
+   ],
+   "context": "In 303 Diocletian ordered churches destroyed, scriptures surrendered and clergy arrested; later edicts demanded sacrifice from all. The persecution left the Roman Church without a bishop for several years after 304.",
+   "bio_sources": [
+    "C29",
+    "S5"
+   ],
+   "public_uncertainty": "Accounts of his conduct under persecution conflict, and later sources were written by his opponents or by admirers.",
+   "research_status": "partial",
+   "open_questions": [
+    "Confirm whether the 2004 Roman Martyrology still has a distinct entry for Pope Marcellinus"
+   ]
+  },
+  {
+   "roster_n": [
+    30
+   ],
+   "id": "marcellus-i",
+   "papal_name": "Marcellus I",
+   "display_name": "St Marcellus I",
+   "alt_names": [],
+   "secular_name": null,
+   "birth_date": null,
+   "birthplace": {
+    "label": "Rome",
+    "country": "Italy",
+    "historical_name": "Roma",
+    "precision": "exact",
+    "lat": 41.9028,
+    "lon": 12.4964,
+    "radius_km": null,
+    "roster_birth_field": "Rome",
+    "note": "LP: 'Marcellus, natione Romanus, ex patre Benedicto, de regione Via Lata'. CE silent on origin.",
+    "public_note": null,
+    "sources": [
+     "S1",
+     "S2",
+     "S3"
+    ]
+   },
+   "saint": {
+    "status": "saint",
+    "recognition": "pre_congregation",
+    "date": null,
+    "feast": "16 January",
+    "note": "Feast 16 January (CE; Roman Martyrology). W30: 2005 RM entry for 16 January follows Mommsen's identification with Marcellinus. Damasus's epitaph honours him (CE).",
+    "public_note": null,
+    "sources": [
+     "S2",
+     "C30",
+     "W30"
+    ]
+   },
+   "short_bio": "Marcellus was elected after a vacancy of several years caused by Diocletian's persecution. He reorganised the Roman Church but was exiled by Maxentius after unrest over the readmission of lapsed Christians, and died soon after.",
+   "long_bio": "He divided the Church's work in Rome among twenty-five districts, or tituli, each under a priest. His demand that the lapsed do penance provoked violent clashes, and Maxentius banished him. Pope Damasus later praised him in an epitaph. A legend says he was forced to work in a stable. He was buried in the catacomb of Priscilla.",
+   "actions": [
+    "Reorganised the Roman Church into 25 tituli",
+    "Required penance from the lapsed",
+    "Exiled by Maxentius"
+   ],
+   "context": "After Diocletian's retirement in 305, rival emperors fought for power. Maxentius ruled Rome from 306 and ended active persecution, but would not tolerate disorder in the city.",
+   "bio_sources": [
+    "C30",
+    "S5"
+   ],
+   "public_uncertainty": "His dates are uncertain, and some scholars once argued he was the same person as Marcellinus.",
+   "research_status": "partial",
+   "open_questions": []
+  },
+  {
+   "roster_n": [
+    31
+   ],
+   "id": "eusebius",
+   "papal_name": "Eusebius",
+   "display_name": "St Eusebius",
+   "alt_names": [],
+   "secular_name": null,
+   "birth_date": null,
+   "birthplace": {
+    "label": "Greece",
+    "country": "Greece",
+    "historical_name": "Graecia",
+    "precision": "region",
+    "lat": 39.0,
+    "lon": 22.0,
+    "radius_km": 350,
+    "roster_birth_field": "Greece",
+    "note": "LP: 'Eusebius, natione Grecus, ex medico' (Greek, son of a physician). W31 reports a 17th-c. claim (Giovanni Fiore da Cropani) of birth at Casignano in Calabria; unsupported. CE silent on origin.",
+    "public_note": "He is remembered as a Greek, the son of a doctor; a later claim of birth in Calabria is unsupported.",
+    "sources": [
+     "S1",
+     "S2",
+     "S3",
+     "W31"
+    ]
+   },
+   "saint": {
+    "status": "saint",
+    "recognition": "pre_congregation",
+    "date": null,
+    "feast": "17 August",
+    "note": "Roman Martyrology 2004 (W31): 17 August, death in Sicily. Damasus's epitaph honours him; venerated as martyr (CE).",
+    "public_note": null,
+    "sources": [
+     "S2",
+     "C31",
+     "W31"
+    ]
+   },
+   "short_bio": "Eusebius led the Church of Rome for only four months in 309 or 310. Like Marcellus before him, he insisted that the lapsed do penance, and he was exiled to Sicily by Maxentius, where he died.",
+   "long_bio": "A faction led by Heraclius demanded that lapsed Christians be readmitted at once, and the dispute turned violent. Maxentius exiled both leaders. Eusebius's body was later brought back to Rome and laid in the catacomb of Callistus, where Pope Damasus placed a verse inscription.",
+   "actions": [
+    "Upheld penance for the lapsed",
+    "Died in exile in Sicily"
+   ],
+   "context": "Maxentius held Rome as rival emperors fought over the empire; the Roman Church remained deeply divided over those who had lapsed during the persecution.",
+   "bio_sources": [
+    "C31",
+    "S5"
+   ],
+   "public_uncertainty": null,
+   "research_status": "partial",
+   "open_questions": []
+  },
+  {
+   "roster_n": [
+    32
+   ],
+   "id": "miltiades",
+   "papal_name": "Miltiades or Melchiades",
+   "display_name": "St Miltiades",
+   "alt_names": [
+    "Melchiades"
+   ],
+   "secular_name": null,
+   "birth_date": null,
+   "birthplace": {
+    "label": "Roman Africa",
+    "country": "Tunisia",
+    "historical_name": "Africa (Proconsularis)",
+    "precision": "region",
+    "lat": 36.0,
+    "lon": 9.6,
+    "radius_km": 350,
+    "roster_birth_field": "Africa",
+    "note": "LP: 'Miltiades, natione Afer'. CE: native of Africa. No town recorded; area indicator for the Roman province of Africa.",
+    "public_note": "He came from Roman Africa, but no town is recorded.",
+    "sources": [
+     "S1",
+     "S2",
+     "S3",
+     "C32"
+    ]
+   },
+   "saint": {
+    "status": "saint",
+    "recognition": "pre_congregation",
+    "date": null,
+    "feast": "10 January",
+    "note": "Roman Martyrology (W32): 10 January, 'originario dell'Africa'. CE: venerated as saint; not called a martyr.",
+    "public_note": null,
+    "sources": [
+     "S2",
+     "C32",
+     "W32"
+    ]
+   },
+   "short_bio": "Miltiades, an African, led the Church of Rome from 311 to 314, as persecution ended and Constantine won control of Rome. He presided over the first synod held in the Lateran, which ruled on the Donatist dispute.",
+   "long_bio": "Under the new toleration, he recovered church property confiscated during the persecution. In October 313 he presided over a synod of bishops from Italy and Gaul, at the Lateran palace given by Constantine, which upheld Caecilian as bishop of Carthage against the Donatists. He was buried in the catacomb of Callistus.",
+   "actions": [
+    "Recovered confiscated church property",
+    "Presided at the Lateran synod on Donatism, 313"
+   ],
+   "context": "Constantine defeated Maxentius at the Milvian Bridge in 312, and toleration of Christianity was confirmed in 313. The Donatist schism in Africa was the first church dispute brought before a Christian-friendly emperor.",
+   "bio_sources": [
+    "C32"
+   ],
+   "public_uncertainty": null,
+   "research_status": "verified",
+   "open_questions": []
+  },
+  {
+   "roster_n": [
+    33
+   ],
+   "id": "sylvester-i",
+   "papal_name": "Sylvester I",
+   "display_name": "St Sylvester I",
+   "alt_names": [
+    "Silvester I"
+   ],
+   "secular_name": null,
+   "birth_date": null,
+   "birthplace": {
+    "label": "Rome",
+    "country": "Italy",
+    "historical_name": "Roma",
+    "precision": "exact",
+    "lat": 41.9028,
+    "lon": 12.4964,
+    "radius_km": null,
+    "roster_birth_field": "Rome",
+    "note": "LP: 'Siluester, natione Romanus, ex patre Rufino'. CE: born in Rome per LP.",
+    "public_note": null,
+    "sources": [
+     "S1",
+     "S2",
+     "S3",
+     "C33"
+    ]
+   },
+   "saint": {
+    "status": "saint",
+    "recognition": "pre_congregation",
+    "date": null,
+    "feast": "31 December",
+    "note": "Feast 31 December, probably his burial day (CE); Roman Martyrology and General Roman Calendar (optional memorial).",
+    "public_note": null,
+    "sources": [
+     "S2",
+     "C33"
+    ]
+   },
+   "short_bio": "Sylvester led the Church of Rome for twenty-one years, from 314 to 335, in the reign of Constantine. In his time the great Constantinian basilicas, including the Lateran and the first St Peter's, were built.",
+   "long_bio": "He sent legates to the Council of Nicaea in 325, which condemned Arianism. Later legends, that he cured Constantine of leprosy, baptised him, and received the 'Donation of Constantine', are not historical; the Donation is a medieval forgery. He built a church over the catacomb of Priscilla and was buried there.",
+   "actions": [
+    "Sent legates to the Council of Nicaea, 325",
+    "Oversaw the Church as the Lateran and St Peter's basilicas rose"
+   ],
+   "context": "Constantine became sole emperor in 324 and founded Constantinople. Christianity gained imperial favour, while the Arian controversy over the divinity of Christ divided the East.",
+   "bio_sources": [
+    "C33",
+    "S5"
+   ],
+   "public_uncertainty": "Much of his popular story comes from later legends rather than contemporary records.",
+   "research_status": "verified",
+   "open_questions": []
+  },
+  {
+   "roster_n": [
+    34
+   ],
+   "id": "mark",
+   "papal_name": "Mark",
+   "display_name": "St Mark",
+   "alt_names": [
+    "Marcus"
+   ],
+   "secular_name": null,
+   "birth_date": null,
+   "birthplace": {
+    "label": "Rome",
+    "country": "Italy",
+    "historical_name": "Roma",
+    "precision": "exact",
+    "lat": 41.9028,
+    "lon": 12.4964,
+    "radius_km": null,
+    "roster_birth_field": "Rome",
+    "note": "LP: 'Marcus, natione Romanus, ex patre Prisco'. CE: Roman.",
+    "public_note": null,
+    "sources": [
+     "S1",
+     "S2",
+     "S3",
+     "C34"
+    ]
+   },
+   "saint": {
+    "status": "saint",
+    "recognition": "pre_congregation",
+    "date": null,
+    "feast": "7 October",
+    "note": "Feast 7 October (CE; Roman Martyrology), his death date as recorded in the Depositio episcoporum.",
+    "public_note": null,
+    "sources": [
+     "S2",
+     "C34"
+    ]
+   },
+   "short_bio": "Mark led the Church of Rome for less than nine months in 336. He founded the church now called San Marco in central Rome.",
+   "long_bio": "He also built a cemetery basilica over the catacomb of Balbina on the Via Ardeatina, where he was buried. The Liber Pontificalis says he gave the pallium to the bishop of Ostia, who consecrates the pope, but this cannot be confirmed.",
+   "actions": [
+    "Founded the church of San Marco in Rome",
+    "Built a cemetery basilica on the Via Ardeatina"
+   ],
+   "context": "Constantine's last year saw the Arian dispute continue; Arius died in Constantinople in 336.",
+   "bio_sources": [
+    "C34"
+   ],
+   "public_uncertainty": null,
+   "research_status": "partial",
+   "open_questions": []
+  },
+  {
+   "roster_n": [
+    35
+   ],
+   "id": "julius-i",
+   "papal_name": "Julius I",
+   "display_name": "St Julius I",
+   "alt_names": [],
+   "secular_name": null,
+   "birth_date": null,
+   "birthplace": {
+    "label": "Rome",
+    "country": "Italy",
+    "historical_name": "Roma",
+    "precision": "exact",
+    "lat": 41.9028,
+    "lon": 12.4964,
+    "radius_km": null,
+    "roster_birth_field": "Rome",
+    "note": "LP: 'Iulius, natione Romanus, ex patre Rustico'. CE: Roman.",
+    "public_note": null,
+    "sources": [
+     "S1",
+     "S2",
+     "S3",
+     "C35"
+    ]
+   },
+   "saint": {
+    "status": "saint",
+    "recognition": "pre_congregation",
+    "date": null,
+    "feast": "12 April",
+    "note": "Feast 12 April (CE; Roman Martyrology).",
+    "public_note": null,
+    "sources": [
+     "S2",
+     "C35"
+    ]
+   },
+   "short_bio": "Julius led the Church of Rome from 337 to 352. He defended Athanasius of Alexandria against the Arian party, and the Council of Sardica confirmed the right of bishops to appeal to Rome.",
+   "long_bio": "A Roman synod under Julius cleared Athanasius, and Julius wrote a firm letter to the Eastern bishops who refused to attend. He built the churches now known as Santa Maria in Trastevere and the Holy Apostles. He was buried in the catacomb of Calepodius on the Via Aurelia.",
+   "actions": [
+    "Defended Athanasius at a Roman synod, c. 340",
+    "Supported the Council of Sardica, c. 343",
+    "Built Santa Maria in Trastevere and the Holy Apostles"
+   ],
+   "context": "After Constantine's death in 337 his sons divided the empire. Constans in the West backed the Nicene faith, while Constantius II in the East favoured the Arian party.",
+   "bio_sources": [
+    "C35"
+   ],
+   "public_uncertainty": null,
+   "research_status": "verified",
+   "open_questions": []
+  },
+  {
+   "roster_n": [
+    36
+   ],
+   "id": "liberius",
+   "papal_name": "Liberius",
+   "display_name": "Liberius",
+   "alt_names": [],
+   "secular_name": null,
+   "birth_date": null,
+   "birthplace": {
+    "label": "Rome",
+    "country": "Italy",
+    "historical_name": "Roma",
+    "precision": "exact",
+    "lat": 41.9028,
+    "lon": 12.4964,
+    "radius_km": null,
+    "roster_birth_field": "Romano",
+    "note": "English roster birth field reads 'Romano' (Italian 'Roman'), carried over from the Italian table; mapped to Rome. LP: 'Liberius, natione Romanus, ex patre Augusto'. CE: a Roman deacon.",
+    "public_note": null,
+    "sources": [
+     "S1",
+     "S2",
+     "S3",
+     "C36"
+    ]
+   },
+   "saint": {
+    "status": "none",
+    "recognition": null,
+    "date": null,
+    "feast": null,
+    "note": "Not labelled S. in the Vatican table; CE: 'not in the Roman Martyrology' (Hieronymian Martyrology lists his deposition; some medieval commemoration). W36: venerated as a saint in the Orthodox Church (27 August). Status 'none' refers to Catholic recognition.",
+    "public_note": "Unlike almost all popes before him, he is not listed as a saint in the Catholic Roman Martyrology, though Eastern Orthodox Christians honour him.",
+    "sources": [
+     "S2",
+     "C36",
+     "W36"
+    ]
+   },
+   "short_bio": "Liberius led the Church of Rome from 352 to 366, during the emperor Constantius II's drive to impose a compromise with Arianism. He refused to condemn Athanasius and was exiled to Thrace, while an antipope, Felix, was installed in Rome.",
+   "long_bio": "Pressure from the emperor had already broken Liberius's legates at the councils of Arles and Milan. In exile at Beroea he refused imperial money. Whether he finally signed an ambiguous creed to secure his return in 357 or 358 is still debated. Back in Rome he was welcomed by the people. He was buried in the catacomb of Priscilla.",
+   "actions": [
+    "Refused to condemn Athanasius",
+    "Exiled to Beroea in Thrace, 355",
+    "Returned to Rome, c. 357/358"
+   ],
+   "context": "Constantius II, sole emperor from 353, sought religious unity on Arian-leaning terms, summoning councils and exiling resisting bishops. The struggle over the Nicene creed dominated the century.",
+   "bio_sources": [
+    "C36",
+    "S5"
+   ],
+   "public_uncertainty": "Ancient writers disagree about whether he gave way to imperial pressure in exile.",
+   "research_status": "verified",
+   "open_questions": []
+  },
+  {
+   "roster_n": [
+    37
+   ],
+   "id": "damasus-i",
+   "papal_name": "Damasus I",
+   "display_name": "St Damasus I",
+   "alt_names": [],
+   "secular_name": null,
+   "birth_date": "c. 305",
+   "birthplace": {
+    "label": "Rome",
+    "country": "Italy",
+    "historical_name": "Roma",
+    "precision": "exact",
+    "lat": 41.9028,
+    "lon": 12.4964,
+    "radius_km": null,
+    "roster_birth_field": "Rome",
+    "note": "Conflict: LP says 'Damasus, natione Spanus, ex patre Antonio'. CE: born probably in Rome c. 304, father probably Spanish (Antonius), mother Laurentia. W37 cites Treccani (C. Carletti): inscriptions point to Rome; older view placed his birth in present-day Portugal (Guimaraes). Chose Rome with roster/Vatican table.",
+    "public_note": "An old tradition calls him Spanish, perhaps because of his father's family; most historians now think he was born in Rome.",
+    "sources": [
+     "S1",
+     "S2",
+     "S3",
+     "C37",
+     "W37"
+    ]
+   },
+   "saint": {
+    "status": "saint",
+    "recognition": "pre_congregation",
+    "date": null,
+    "feast": "11 December",
+    "note": "Roman Martyrology (W37): 11 December; General Roman Calendar optional memorial.",
+    "public_note": null,
+    "sources": [
+     "S2",
+     "W37"
+    ]
+   },
+   "short_bio": "Damasus led the Church of Rome from 366 to 384 after a violent contested election. He asked Jerome to revise the Latin Bible, the start of the Vulgate, and honoured the martyrs' tombs with verse inscriptions.",
+   "long_bio": "His election was opposed by supporters of the deacon Ursinus, and street fighting followed before the emperor recognised Damasus. He held synods against Apollinarianism and other errors, and worked with Theodosius I, whose edict of 380 made the faith taught by the bishop of Rome the religion of the state. His epigrams, carved by Furius Dionysius Filocalus, still mark the catacombs. He was buried on the Via Ardeatina.",
+   "actions": [
+    "Commissioned Jerome's revision of the Latin Bible",
+    "Restored the catacombs with verse epitaphs",
+    "Held Roman synods defending the Nicene faith"
+   ],
+   "context": "The Nicene faith triumphed under Theodosius I, confirmed at the Council of Constantinople in 381. Rome's bishops grew in prestige as the Latin West's leading church.",
+   "bio_sources": [
+    "C37",
+    "S5"
+   ],
+   "public_uncertainty": null,
+   "research_status": "verified",
+   "open_questions": []
+  },
+  {
+   "roster_n": [
+    38
+   ],
+   "id": "siricius",
+   "papal_name": "Siricius",
+   "display_name": "St Siricius",
+   "alt_names": [],
+   "secular_name": null,
+   "birth_date": "c. 334",
+   "birthplace": {
+    "label": "Rome",
+    "country": "Italy",
+    "historical_name": "Roma",
+    "precision": "exact",
+    "lat": 41.9028,
+    "lon": 12.4964,
+    "radius_km": null,
+    "roster_birth_field": "Rome",
+    "note": "LP: 'Siricius, natione Romanus, ex patre Tiburtio'. CE: a native of Rome, born c. 334.",
+    "public_note": null,
+    "sources": [
+     "S1",
+     "S2",
+     "S3",
+     "C38"
+    ]
+   },
+   "saint": {
+    "status": "saint",
+    "recognition": "pre_congregation",
+    "date": null,
+    "feast": "26 November",
+    "note": "Roman Martyrology (W38): 26 November. CE: Benedict XIV inserted his name into the Roman Martyrology (18th c.); integrator may consider 'cult_confirmed' instead of 'pre_congregation'.",
+    "public_note": null,
+    "sources": [
+     "S2",
+     "C38",
+     "W38"
+    ]
+   },
+   "short_bio": "Siricius, a Roman deacon, led the Church of Rome from 384 to 399. His letter of 385 to Bishop Himerius of Tarragona is the oldest fully preserved papal decretal.",
+   "long_bio": "In that letter he ruled on baptism, penance and the celibacy of clergy, and Roman synods under him reaffirmed church discipline. He condemned the monk Jovinian and protested against the execution of Priscillian. He was buried in the catacomb of Priscilla on the Via Salaria.",
+   "actions": [
+    "Issued the first fully preserved papal decretal, 385",
+    "Condemned Jovinian, c. 390",
+    "Protested against the execution of Priscillian"
+   ],
+   "context": "Theodosius I made Nicene Christianity the state religion and banned pagan sacrifice in 391. Ambrose of Milan was the West's most influential bishop.",
+   "bio_sources": [
+    "C38",
+    "S5"
+   ],
+   "public_uncertainty": null,
+   "research_status": "verified",
+   "open_questions": []
+  }
+ ],
+ "sources": [
+  {
+   "id": "S1",
+   "title": "The Holy Father: Supreme Pontiffs (list of popes)",
+   "url": "https://www.vatican.va/content/vatican/en/holy-father.html",
+   "publisher": "Holy See (vatican.va)",
+   "tier": "vatican",
+   "locator": "roster entry for the pope concerned",
+   "accessed": "2026-10-10"
+  },
+  {
+   "id": "S2",
+   "title": "Elenco dei Sommi Pontefici",
+   "url": "https://www.vatican.va/holy_father/archivio_papi/documents/elencopapi_it.html",
+   "publisher": "Holy See (vatican.va)",
+   "tier": "vatican",
+   "locator": "entry for the pope concerned (origin and S./B. label)",
+   "accessed": "2026-10-10"
+  },
+  {
+   "id": "S3",
+   "title": "Liber Pontificalis (Latin text, entries I-XL)",
+   "url": "https://www.thelatinlibrary.com/liberpontificalis1.html",
+   "publisher": "The Latin Library",
+   "tier": "scholarly",
+   "locator": "opening line of the entry for the pope concerned (natione ..., ex patre ...)",
+   "accessed": "2026-10-10"
+  },
+  {
+   "id": "S4",
+   "title": "Benedict XVI, General Audience, 7 March 2007: Saint Clement, Bishop of Rome",
+   "url": "https://www.vatican.va/content/benedict-xvi/en/audiences/2007/documents/hf_ben-xvi_aud_20070307.html",
+   "publisher": "Holy See (vatican.va)",
+   "tier": "vatican",
+   "locator": "whole audience",
+   "accessed": "2026-10-10"
+  },
+  {
+   "id": "S5",
+   "title": "Information for the visit to the Catacombs (Pontifical Commission for Sacred Archaeology)",
+   "url": "https://www.vatican.va/roman_curia/pontifical_commissions/archeo/inglese/documents/rc_com_archeo_doc_20011010_catacroma_en.html",
+   "publisher": "Holy See (vatican.va)",
+   "tier": "vatican",
+   "locator": "sections on the Catacombs of St Callixtus and of Priscilla",
+   "accessed": "2026-10-10"
+  },
+  {
+   "id": "S6",
+   "title": "The Book of the Popes (Liber Pontificalis), trans. L. R. Loomis (1916)",
+   "url": "https://archive.org/details/bookofpopesliber00loom",
+   "publisher": "Columbia University Press / Internet Archive",
+   "tier": "scholarly",
+   "locator": "entries I-X",
+   "accessed": "2026-10-10"
+  },
+  {
+   "id": "C1",
+   "title": "Catholic Encyclopedia: St. Peter, Prince of the Apostles",
+   "url": "https://www.newadvent.org/cathen/11744a.htm",
+   "publisher": "Robert Appleton Company / New Advent",
+   "tier": "local_ecclesiastical_approval",
+   "locator": "whole article",
+   "accessed": "2026-10-10"
+  },
+  {
+   "id": "C2",
+   "title": "Catholic Encyclopedia: Pope St. Linus",
+   "url": "https://www.newadvent.org/cathen/09272b.htm",
+   "publisher": "Robert Appleton Company / New Advent",
+   "tier": "local_ecclesiastical_approval",
+   "locator": "whole article (1910)",
+   "accessed": "2026-10-10"
+  },
+  {
+   "id": "W2",
+   "title": "Wikipedia (Italian): Papa Lino",
+   "url": "https://it.wikipedia.org/wiki/Papa_Lino",
+   "publisher": "Wikipedia",
+   "tier": "supplementary",
+   "locator": "lead and 'Culto' section (quotes the Martirologio Romano, 2004/2005 ed.)",
+   "accessed": "2026-10-10"
+  },
+  {
+   "id": "C3",
+   "title": "Catholic Encyclopedia: Pope St. Anacletus",
+   "url": "https://www.newadvent.org/cathen/01446a.htm",
+   "publisher": "Robert Appleton Company / New Advent",
+   "tier": "local_ecclesiastical_approval",
+   "locator": "whole article",
+   "accessed": "2026-10-10"
+  },
+  {
+   "id": "W3",
+   "title": "Wikipedia (Italian): Papa Anacleto",
+   "url": "https://it.wikipedia.org/wiki/Papa_Anacleto",
+   "publisher": "Wikipedia",
+   "tier": "supplementary",
+   "locator": "lead and 'Culto' section (quotes the Martirologio Romano, 2004/2005 ed.)",
+   "accessed": "2026-10-10"
+  },
+  {
+   "id": "C4",
+   "title": "Catholic Encyclopedia: Pope St. Clement I",
+   "url": "https://www.newadvent.org/cathen/04012c.htm",
+   "publisher": "Robert Appleton Company / New Advent",
+   "tier": "local_ecclesiastical_approval",
+   "locator": "whole article (1908)",
+   "accessed": "2026-10-10"
+  },
+  {
+   "id": "C5",
+   "title": "Catholic Encyclopedia: Pope St. Evaristus",
+   "url": "https://www.newadvent.org/cathen/05646a.htm",
+   "publisher": "Robert Appleton Company / New Advent",
+   "tier": "local_ecclesiastical_approval",
+   "locator": "whole article (1909)",
+   "accessed": "2026-10-10"
+  },
+  {
+   "id": "W5",
+   "title": "Wikipedia (Italian): Papa Evaristo",
+   "url": "https://it.wikipedia.org/wiki/Papa_Evaristo",
+   "publisher": "Wikipedia",
+   "tier": "supplementary",
+   "locator": "lead and 'Culto' section (quotes the Martirologio Romano, 2004/2005 ed.)",
+   "accessed": "2026-10-10"
+  },
+  {
+   "id": "C6",
+   "title": "Catholic Encyclopedia: Pope St. Alexander I",
+   "url": "https://www.newadvent.org/cathen/01285c.htm",
+   "publisher": "Robert Appleton Company / New Advent",
+   "tier": "local_ecclesiastical_approval",
+   "locator": "whole article (1907)",
+   "accessed": "2026-10-10"
+  },
+  {
+   "id": "W6",
+   "title": "Wikipedia (Italian): Papa Alessandro I",
+   "url": "https://it.wikipedia.org/wiki/Papa_Alessandro_I",
+   "publisher": "Wikipedia",
+   "tier": "supplementary",
+   "locator": "lead and 'Culto' section (quotes the Martirologio Romano, 2004/2005 ed.)",
+   "accessed": "2026-10-10"
+  },
+  {
+   "id": "C7",
+   "title": "Catholic Encyclopedia: Pope St. Sixtus I",
+   "url": "https://www.newadvent.org/cathen/14031b.htm",
+   "publisher": "Robert Appleton Company / New Advent",
+   "tier": "local_ecclesiastical_approval",
+   "locator": "whole article (1912)",
+   "accessed": "2026-10-10"
+  },
+  {
+   "id": "W7",
+   "title": "Wikipedia (Italian): Papa Sisto I",
+   "url": "https://it.wikipedia.org/wiki/Papa_Sisto_I",
+   "publisher": "Wikipedia",
+   "tier": "supplementary",
+   "locator": "lead and 'Culto' section (quotes the Martirologio Romano, 2004/2005 ed.)",
+   "accessed": "2026-10-10"
+  },
+  {
+   "id": "C8",
+   "title": "Catholic Encyclopedia: Pope St. Telesphorus",
+   "url": "https://www.newadvent.org/cathen/14477b.htm",
+   "publisher": "Robert Appleton Company / New Advent",
+   "tier": "local_ecclesiastical_approval",
+   "locator": "whole article (1912)",
+   "accessed": "2026-10-10"
+  },
+  {
+   "id": "W8",
+   "title": "Wikipedia (Italian): Papa Telesforo",
+   "url": "https://it.wikipedia.org/wiki/Papa_Telesforo",
+   "publisher": "Wikipedia",
+   "tier": "supplementary",
+   "locator": "lead and 'Culto' section (quotes the Martirologio Romano, 2004/2005 ed.)",
+   "accessed": "2026-10-10"
+  },
+  {
+   "id": "C9",
+   "title": "Catholic Encyclopedia: Pope St. Hyginus",
+   "url": "https://www.newadvent.org/cathen/07593a.htm",
+   "publisher": "Robert Appleton Company / New Advent",
+   "tier": "local_ecclesiastical_approval",
+   "locator": "whole article (1910)",
+   "accessed": "2026-10-10"
+  },
+  {
+   "id": "W9",
+   "title": "Wikipedia (Italian): Papa Igino",
+   "url": "https://it.wikipedia.org/wiki/Papa_Igino",
+   "publisher": "Wikipedia",
+   "tier": "supplementary",
+   "locator": "lead and 'Culto' section (quotes the Martirologio Romano, 2004/2005 ed.)",
+   "accessed": "2026-10-10"
+  },
+  {
+   "id": "C10",
+   "title": "Catholic Encyclopedia: Pope St. Pius I",
+   "url": "https://www.newadvent.org/cathen/12126b.htm",
+   "publisher": "Robert Appleton Company / New Advent",
+   "tier": "local_ecclesiastical_approval",
+   "locator": "whole article (1911)",
+   "accessed": "2026-10-10"
+  },
+  {
+   "id": "W10",
+   "title": "Wikipedia (Italian): Papa Pio I",
+   "url": "https://it.wikipedia.org/wiki/Papa_Pio_I",
+   "publisher": "Wikipedia",
+   "tier": "supplementary",
+   "locator": "lead and 'Culto' section (quotes the Martirologio Romano, 2004/2005 ed.)",
+   "accessed": "2026-10-10"
+  },
+  {
+   "id": "C11",
+   "title": "Catholic Encyclopedia: Pope St. Anicetus",
+   "url": "https://www.newadvent.org/cathen/01514a.htm",
+   "publisher": "Robert Appleton Company / New Advent",
+   "tier": "local_ecclesiastical_approval",
+   "locator": "whole article (1907)",
+   "accessed": "2026-10-10"
+  },
+  {
+   "id": "W11",
+   "title": "Wikipedia (Italian): Papa Aniceto",
+   "url": "https://it.wikipedia.org/wiki/Papa_Aniceto",
+   "publisher": "Wikipedia",
+   "tier": "supplementary",
+   "locator": "lead and 'Culto' section (quotes the Martirologio Romano, 2004/2005 ed.)",
+   "accessed": "2026-10-10"
+  },
+  {
+   "id": "C12",
+   "title": "Catholic Encyclopedia: Popes Sts. Soter and Caius",
+   "url": "https://www.newadvent.org/cathen/03144c.htm",
+   "publisher": "Robert Appleton Company / New Advent",
+   "tier": "local_ecclesiastical_approval",
+   "locator": "whole article",
+   "accessed": "2026-10-10"
+  },
+  {
+   "id": "W12",
+   "title": "Wikipedia (Italian): Papa Sotero",
+   "url": "https://it.wikipedia.org/wiki/Papa_Sotero",
+   "publisher": "Wikipedia",
+   "tier": "supplementary",
+   "locator": "lead and 'Culto' section (quotes the Martirologio Romano, 2004/2005 ed.)",
+   "accessed": "2026-10-10"
+  },
+  {
+   "id": "C13",
+   "title": "Catholic Encyclopedia: Pope St. Eleutherius (Eleutheros)",
+   "url": "https://www.newadvent.org/cathen/05378a.htm",
+   "publisher": "Robert Appleton Company / New Advent",
+   "tier": "local_ecclesiastical_approval",
+   "locator": "whole article (1909)",
+   "accessed": "2026-10-10"
+  },
+  {
+   "id": "W13",
+   "title": "Wikipedia (Italian): Papa Eleuterio",
+   "url": "https://it.wikipedia.org/wiki/Papa_Eleuterio",
+   "publisher": "Wikipedia",
+   "tier": "supplementary",
+   "locator": "lead and 'Culto' section (quotes the Martirologio Romano, 2004/2005 ed.)",
+   "accessed": "2026-10-10"
+  },
+  {
+   "id": "C14",
+   "title": "Catholic Encyclopedia: Pope St. Victor I",
+   "url": "https://www.newadvent.org/cathen/15408a.htm",
+   "publisher": "Robert Appleton Company / New Advent",
+   "tier": "local_ecclesiastical_approval",
+   "locator": "whole article (1912)",
+   "accessed": "2026-10-10"
+  },
+  {
+   "id": "W14",
+   "title": "Wikipedia (Italian): Papa Vittore I",
+   "url": "https://it.wikipedia.org/wiki/Papa_Vittore_I",
+   "publisher": "Wikipedia",
+   "tier": "supplementary",
+   "locator": "lead and 'Culto' section (quotes the Martirologio Romano, 2004/2005 ed.)",
+   "accessed": "2026-10-10"
+  },
+  {
+   "id": "C15",
+   "title": "Catholic Encyclopedia: Pope St. Zephyrinus",
+   "url": "https://www.newadvent.org/cathen/15756c.htm",
+   "publisher": "Robert Appleton Company / New Advent",
+   "tier": "local_ecclesiastical_approval",
+   "locator": "whole article (1912)",
+   "accessed": "2026-10-10"
+  },
+  {
+   "id": "W15",
+   "title": "Wikipedia (Italian): Papa Zefirino",
+   "url": "https://it.wikipedia.org/wiki/Papa_Zefirino",
+   "publisher": "Wikipedia",
+   "tier": "supplementary",
+   "locator": "lead and 'Culto' section (quotes the Martirologio Romano, 2004/2005 ed.)",
+   "accessed": "2026-10-10"
+  },
+  {
+   "id": "C16",
+   "title": "Catholic Encyclopedia: Pope Callistus I",
+   "url": "https://www.newadvent.org/cathen/03183d.htm",
+   "publisher": "Robert Appleton Company / New Advent",
+   "tier": "local_ecclesiastical_approval",
+   "locator": "whole article (1908)",
+   "accessed": "2026-10-10"
+  },
+  {
+   "id": "W16",
+   "title": "Wikipedia (Italian): Papa Callisto I",
+   "url": "https://it.wikipedia.org/wiki/Papa_Callisto_I",
+   "publisher": "Wikipedia",
+   "tier": "supplementary",
+   "locator": "lead and 'Culto' section (quotes the Martirologio Romano, 2004/2005 ed.)",
+   "accessed": "2026-10-10"
+  },
+  {
+   "id": "C17",
+   "title": "Catholic Encyclopedia: Pope Urban I",
+   "url": "https://www.newadvent.org/cathen/15209a.htm",
+   "publisher": "Robert Appleton Company / New Advent",
+   "tier": "local_ecclesiastical_approval",
+   "locator": "whole article (1912)",
+   "accessed": "2026-10-10"
+  },
+  {
+   "id": "W17",
+   "title": "Wikipedia (Italian): Papa Urbano I",
+   "url": "https://it.wikipedia.org/wiki/Papa_Urbano_I",
+   "publisher": "Wikipedia",
+   "tier": "supplementary",
+   "locator": "lead and 'Culto' section (quotes the Martirologio Romano, 2004/2005 ed.)",
+   "accessed": "2026-10-10"
+  },
+  {
+   "id": "C18",
+   "title": "Catholic Encyclopedia: Pope St. Pontian",
+   "url": "https://www.newadvent.org/cathen/12229b.htm",
+   "publisher": "Robert Appleton Company / New Advent",
+   "tier": "local_ecclesiastical_approval",
+   "locator": "whole article (1911)",
+   "accessed": "2026-10-10"
+  },
+  {
+   "id": "W18",
+   "title": "Wikipedia (Italian): Papa Ponziano",
+   "url": "https://it.wikipedia.org/wiki/Papa_Ponziano",
+   "publisher": "Wikipedia",
+   "tier": "supplementary",
+   "locator": "lead and 'Culto' section (quotes the Martirologio Romano, 2004/2005 ed.)",
+   "accessed": "2026-10-10"
+  },
+  {
+   "id": "C19",
+   "title": "Catholic Encyclopedia: Pope St. Anterus",
+   "url": "https://www.newadvent.org/cathen/01553a.htm",
+   "publisher": "Robert Appleton Company / New Advent",
+   "tier": "local_ecclesiastical_approval",
+   "locator": "whole article",
+   "accessed": "2026-10-10"
+  },
+  {
+   "id": "W19",
+   "title": "Wikipedia (Italian): Papa Antero",
+   "url": "https://it.wikipedia.org/wiki/Papa_Antero",
+   "publisher": "Wikipedia",
+   "tier": "supplementary",
+   "locator": "lead and 'Culto' section (quotes the Martirologio Romano, 2004/2005 ed.)",
+   "accessed": "2026-10-10"
+  },
+  {
+   "id": "C20",
+   "title": "Catholic Encyclopedia: Pope St. Fabian",
+   "url": "https://www.newadvent.org/cathen/05742d.htm",
+   "publisher": "Robert Appleton Company / New Advent",
+   "tier": "local_ecclesiastical_approval",
+   "locator": "whole article",
+   "accessed": "2026-10-10"
+  },
+  {
+   "id": "W20",
+   "title": "Wikipedia (Italian): Papa Fabiano",
+   "url": "https://it.wikipedia.org/wiki/Papa_Fabiano",
+   "publisher": "Wikipedia",
+   "tier": "supplementary",
+   "locator": "lead and 'Culto' section (quotes the Martirologio Romano, 2004/2005 ed.)",
+   "accessed": "2026-10-10"
+  },
+  {
+   "id": "C21",
+   "title": "Catholic Encyclopedia: Pope Cornelius",
+   "url": "https://www.newadvent.org/cathen/04375c.htm",
+   "publisher": "Robert Appleton Company / New Advent",
+   "tier": "local_ecclesiastical_approval",
+   "locator": "whole article (1908)",
+   "accessed": "2026-10-10"
+  },
+  {
+   "id": "W21",
+   "title": "Wikipedia (Italian): Papa Cornelio",
+   "url": "https://it.wikipedia.org/wiki/Papa_Cornelio",
+   "publisher": "Wikipedia",
+   "tier": "supplementary",
+   "locator": "lead and 'Culto' section (quotes the Martirologio Romano, 2004/2005 ed.)",
+   "accessed": "2026-10-10"
+  },
+  {
+   "id": "C22",
+   "title": "Catholic Encyclopedia: Pope St. Lucius I",
+   "url": "https://www.newadvent.org/cathen/09411a.htm",
+   "publisher": "Robert Appleton Company / New Advent",
+   "tier": "local_ecclesiastical_approval",
+   "locator": "whole article (1910)",
+   "accessed": "2026-10-10"
+  },
+  {
+   "id": "W22",
+   "title": "Wikipedia (Italian): Papa Lucio I",
+   "url": "https://it.wikipedia.org/wiki/Papa_Lucio_I",
+   "publisher": "Wikipedia",
+   "tier": "supplementary",
+   "locator": "lead and 'Culto' section (quotes the Martirologio Romano, 2004/2005 ed.)",
+   "accessed": "2026-10-10"
+  },
+  {
+   "id": "C23",
+   "title": "Catholic Encyclopedia: Pope St. Stephen I",
+   "url": "https://www.newadvent.org/cathen/14288a.htm",
+   "publisher": "Robert Appleton Company / New Advent",
+   "tier": "local_ecclesiastical_approval",
+   "locator": "whole article",
+   "accessed": "2026-10-10"
+  },
+  {
+   "id": "W23",
+   "title": "Wikipedia (Italian): Papa Stefano I",
+   "url": "https://it.wikipedia.org/wiki/Papa_Stefano_I",
+   "publisher": "Wikipedia",
+   "tier": "supplementary",
+   "locator": "lead and 'Culto' section (quotes the Martirologio Romano, 2004/2005 ed.)",
+   "accessed": "2026-10-10"
+  },
+  {
+   "id": "C24",
+   "title": "Catholic Encyclopedia: Pope St. Sixtus II",
+   "url": "https://www.newadvent.org/cathen/14031c.htm",
+   "publisher": "Robert Appleton Company / New Advent",
+   "tier": "local_ecclesiastical_approval",
+   "locator": "whole article",
+   "accessed": "2026-10-10"
+  },
+  {
+   "id": "W24",
+   "title": "Wikipedia (Italian): Papa Sisto II",
+   "url": "https://it.wikipedia.org/wiki/Papa_Sisto_II",
+   "publisher": "Wikipedia",
+   "tier": "supplementary",
+   "locator": "lead and 'Culto' section (quotes the Martirologio Romano, 2004/2005 ed.)",
+   "accessed": "2026-10-10"
+  },
+  {
+   "id": "C25",
+   "title": "Catholic Encyclopedia: Pope St. Dionysius",
+   "url": "https://www.newadvent.org/cathen/05009b.htm",
+   "publisher": "Robert Appleton Company / New Advent",
+   "tier": "local_ecclesiastical_approval",
+   "locator": "whole article (1909)",
+   "accessed": "2026-10-10"
+  },
+  {
+   "id": "W25",
+   "title": "Wikipedia (Italian): Papa Dionisio",
+   "url": "https://it.wikipedia.org/wiki/Papa_Dionisio",
+   "publisher": "Wikipedia",
+   "tier": "supplementary",
+   "locator": "lead and 'Culto' section (quotes the Martirologio Romano, 2004/2005 ed.)",
+   "accessed": "2026-10-10"
+  },
+  {
+   "id": "C26",
+   "title": "Catholic Encyclopedia: Pope St. Felix I",
+   "url": "https://www.newadvent.org/cathen/06029b.htm",
+   "publisher": "Robert Appleton Company / New Advent",
+   "tier": "local_ecclesiastical_approval",
+   "locator": "whole article (1909)",
+   "accessed": "2026-10-10"
+  },
+  {
+   "id": "W26",
+   "title": "Wikipedia (Italian): Papa Felice I",
+   "url": "https://it.wikipedia.org/wiki/Papa_Felice_I",
+   "publisher": "Wikipedia",
+   "tier": "supplementary",
+   "locator": "lead and 'Culto' section (quotes the Martirologio Romano, 2004/2005 ed.)",
+   "accessed": "2026-10-10"
+  },
+  {
+   "id": "C27",
+   "title": "Catholic Encyclopedia: Pope St. Eutychianus",
+   "url": "https://www.newadvent.org/cathen/05638a.htm",
+   "publisher": "Robert Appleton Company / New Advent",
+   "tier": "local_ecclesiastical_approval",
+   "locator": "whole article",
+   "accessed": "2026-10-10"
+  },
+  {
+   "id": "W27",
+   "title": "Wikipedia (Italian): Papa Eutichiano",
+   "url": "https://it.wikipedia.org/wiki/Papa_Eutichiano",
+   "publisher": "Wikipedia",
+   "tier": "supplementary",
+   "locator": "lead and 'Culto' section (quotes the Martirologio Romano, 2004/2005 ed.)",
+   "accessed": "2026-10-10"
+  },
+  {
+   "id": "W28",
+   "title": "Wikipedia (Italian): Papa Caio",
+   "url": "https://it.wikipedia.org/wiki/Papa_Caio",
+   "publisher": "Wikipedia",
+   "tier": "supplementary",
+   "locator": "lead and 'Culto' section (quotes the Martirologio Romano, 2004/2005 ed.)",
+   "accessed": "2026-10-10"
+  },
+  {
+   "id": "C29",
+   "title": "Catholic Encyclopedia: Pope St. Marcellinus",
+   "url": "https://www.newadvent.org/cathen/09637d.htm",
+   "publisher": "Robert Appleton Company / New Advent",
+   "tier": "local_ecclesiastical_approval",
+   "locator": "whole article (1910)",
+   "accessed": "2026-10-10"
+  },
+  {
+   "id": "W29",
+   "title": "Wikipedia (Italian): Papa Marcellino",
+   "url": "https://it.wikipedia.org/wiki/Papa_Marcellino",
+   "publisher": "Wikipedia",
+   "tier": "supplementary",
+   "locator": "lead and 'Culto' section (quotes the Martirologio Romano, 2004/2005 ed.)",
+   "accessed": "2026-10-10"
+  },
+  {
+   "id": "C30",
+   "title": "Catholic Encyclopedia: Pope St. Marcellus I",
+   "url": "https://www.newadvent.org/cathen/09640b.htm",
+   "publisher": "Robert Appleton Company / New Advent",
+   "tier": "local_ecclesiastical_approval",
+   "locator": "whole article",
+   "accessed": "2026-10-10"
+  },
+  {
+   "id": "W30",
+   "title": "Wikipedia (Italian): Papa Marcello I",
+   "url": "https://it.wikipedia.org/wiki/Papa_Marcello_I",
+   "publisher": "Wikipedia",
+   "tier": "supplementary",
+   "locator": "lead and 'Culto' section (quotes the Martirologio Romano, 2004/2005 ed.)",
+   "accessed": "2026-10-10"
+  },
+  {
+   "id": "C31",
+   "title": "Catholic Encyclopedia: Pope St. Eusebius",
+   "url": "https://www.newadvent.org/cathen/05615b.htm",
+   "publisher": "Robert Appleton Company / New Advent",
+   "tier": "local_ecclesiastical_approval",
+   "locator": "whole article (1909)",
+   "accessed": "2026-10-10"
+  },
+  {
+   "id": "W31",
+   "title": "Wikipedia (Italian): Papa Eusebio",
+   "url": "https://it.wikipedia.org/wiki/Papa_Eusebio",
+   "publisher": "Wikipedia",
+   "tier": "supplementary",
+   "locator": "lead and 'Culto' section (quotes the Martirologio Romano, 2004/2005 ed.)",
+   "accessed": "2026-10-10"
+  },
+  {
+   "id": "C32",
+   "title": "Catholic Encyclopedia: Pope St. Miltiades",
+   "url": "https://www.newadvent.org/cathen/10318a.htm",
+   "publisher": "Robert Appleton Company / New Advent",
+   "tier": "local_ecclesiastical_approval",
+   "locator": "whole article",
+   "accessed": "2026-10-10"
+  },
+  {
+   "id": "W32",
+   "title": "Wikipedia (Italian): Papa Milziade",
+   "url": "https://it.wikipedia.org/wiki/Papa_Milziade",
+   "publisher": "Wikipedia",
+   "tier": "supplementary",
+   "locator": "lead and 'Culto' section (quotes the Martirologio Romano, 2004/2005 ed.)",
+   "accessed": "2026-10-10"
+  },
+  {
+   "id": "C33",
+   "title": "Catholic Encyclopedia: Pope St. Sylvester I",
+   "url": "https://www.newadvent.org/cathen/14370a.htm",
+   "publisher": "Robert Appleton Company / New Advent",
+   "tier": "local_ecclesiastical_approval",
+   "locator": "whole article",
+   "accessed": "2026-10-10"
+  },
+  {
+   "id": "C34",
+   "title": "Catholic Encyclopedia: Pope St. Mark",
+   "url": "https://www.newadvent.org/cathen/09674a.htm",
+   "publisher": "Robert Appleton Company / New Advent",
+   "tier": "local_ecclesiastical_approval",
+   "locator": "whole article",
+   "accessed": "2026-10-10"
+  },
+  {
+   "id": "C35",
+   "title": "Catholic Encyclopedia: Pope St. Julius I",
+   "url": "https://www.newadvent.org/cathen/08561a.htm",
+   "publisher": "Robert Appleton Company / New Advent",
+   "tier": "local_ecclesiastical_approval",
+   "locator": "whole article",
+   "accessed": "2026-10-10"
+  },
+  {
+   "id": "C36",
+   "title": "Catholic Encyclopedia: Pope Liberius",
+   "url": "https://www.newadvent.org/cathen/09217a.htm",
+   "publisher": "Robert Appleton Company / New Advent",
+   "tier": "local_ecclesiastical_approval",
+   "locator": "whole article (1910)",
+   "accessed": "2026-10-10"
+  },
+  {
+   "id": "W36",
+   "title": "Wikipedia (Italian): Papa Liberio",
+   "url": "https://it.wikipedia.org/wiki/Papa_Liberio",
+   "publisher": "Wikipedia",
+   "tier": "supplementary",
+   "locator": "lead and 'Culto' section (quotes the Martirologio Romano, 2004/2005 ed.)",
+   "accessed": "2026-10-10"
+  },
+  {
+   "id": "C37",
+   "title": "Catholic Encyclopedia: Pope St. Damasus I",
+   "url": "https://www.newadvent.org/cathen/04613a.htm",
+   "publisher": "Robert Appleton Company / New Advent",
+   "tier": "local_ecclesiastical_approval",
+   "locator": "whole article",
+   "accessed": "2026-10-10"
+  },
+  {
+   "id": "W37",
+   "title": "Wikipedia (Italian): Papa Damaso I",
+   "url": "https://it.wikipedia.org/wiki/Papa_Damaso_I",
+   "publisher": "Wikipedia",
+   "tier": "supplementary",
+   "locator": "lead and 'Culto' section (quotes the Martirologio Romano, 2004/2005 ed.)",
+   "accessed": "2026-10-10"
+  },
+  {
+   "id": "C38",
+   "title": "Catholic Encyclopedia: Pope St. Siricius",
+   "url": "https://www.newadvent.org/cathen/14026a.htm",
+   "publisher": "Robert Appleton Company / New Advent",
+   "tier": "local_ecclesiastical_approval",
+   "locator": "whole article",
+   "accessed": "2026-10-10"
+  },
+  {
+   "id": "W38",
+   "title": "Wikipedia (Italian): Papa Siricio",
+   "url": "https://it.wikipedia.org/wiki/Papa_Siricio",
+   "publisher": "Wikipedia",
+   "tier": "supplementary",
+   "locator": "lead and 'Culto' section (quotes the Martirologio Romano, 2004/2005 ed.)",
+   "accessed": "2026-10-10"
+  }
+ ],
+ "notes": "Rows 1-38 (38 people). Origins: the Vatican roster's 'birth' field for these popes reflects the Liber Pontificalis 'natione ...' formula (nationality/ethnic origin, compiled 6th c.), not documented birth records; text fields treat them as tradition. Rome coordinates match the 039-076 file (41.9028, 12.4964). Region indicators: Greece (39.0, 22.0, r 350 km), Roman Africa (36.0, 9.6, r 350 km), Tuscia (42.9, 11.6, r 130 km), Dalmatia centred on Salona (43.54, 16.48, r 150 km). Roster birth-field anomalies: row 16 Callistus I blank (Italian table 'Romano'; mapped to Rome); row 36 Liberius 'Romano' (Italian for Roman; mapped to Rome). Conflicts with roster: Damasus I (LP 'natione Spanus'; Rome kept per CE/Treccani via it.wikipedia); Sixtus II (LP 'Greek' judged probably mistaken by CE; roster region kept with public note); Anacletus (LP splits Cletus, Roman, and Anacletus, Greek of Athens); Evaristus (LP father a Jew of Bethlehem); Hyginus (LP 'of Athens'). Saint status: Liberius = none (CE: not in Roman Martyrology; Vatican table no S.); Alexander I kept 'saint' (ancient cult, Vatican S.) but it.wikipedia says the new Roman Martyrology no longer lists him; Marcellinus kept 'saint' but the 2004/2005 RM appears to conflate him with Marcellus I on 16 January (feast left null). Roman Martyrology dates were taken from it.wikipedia quotations of the 2001/2004/2005 editions (supplementary tier) because no official online text was reachable; verify against the printed Martyrologium Romanum if possible. The Latin Library LP text and the Duchesne text differ for Eutychian (Luni only in the latter). Peter's country label set to 'Golan Heights' (both candidate Bethsaida sites); adjust to project policy."
+}

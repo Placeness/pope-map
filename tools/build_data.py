@@ -34,6 +34,26 @@ ERA_DEFAULTS = [
 ]
 ERA_ALIASES = {'renaissance_reformation': 'renaissance', 'early_modern': 'early-modern'}
 
+# Canonical places, so variants written by different research passes group as one birthplace.
+# key: lower-case label as written -> fields to impose
+PLACE_CANON = {
+    'rome': {'label': 'Rome', 'country': 'Italy', 'lat': 41.9028, 'lon': 12.4964},
+    'greece': {'label': 'Greece', 'country': 'Greece', 'lat': 39.0, 'lon': 22.0, 'radius_km': 300},
+    'greece / greek-speaking east': {'label': 'Greece', 'country': 'Greece', 'lat': 39.0, 'lon': 22.0, 'radius_km': 300},
+    'syria': {'label': 'Syria', 'country': 'Syria', 'lat': 35.0, 'lon': 37.5, 'radius_km': 250},
+    'syria (historical region)': {'label': 'Syria', 'country': 'Syria', 'lat': 35.0, 'lon': 37.5, 'radius_km': 250},
+    'tuscia': {'label': 'Tuscia', 'country': 'Italy', 'lat': 42.9, 'lon': 11.6, 'radius_km': 110, 'historical_name': 'Etruria'},
+    'tuscia (etruria)': {'label': 'Tuscia', 'country': 'Italy', 'lat': 42.9, 'lon': 11.6, 'radius_km': 110, 'historical_name': 'Etruria'},
+    'dalmatia': {'label': 'Dalmatia', 'country': 'Croatia', 'lat': 43.5, 'lon': 16.4, 'radius_km': 150},
+    'sicily': {'label': 'Sicily', 'country': 'Italy', 'lat': 37.6, 'lon': 14.0, 'radius_km': 130},
+    'campania': {'label': 'Campania', 'country': 'Italy', 'lat': 40.9, 'lon': 14.6, 'radius_km': 90},
+    'sardinia': {'label': 'Sardinia', 'country': 'Italy', 'lat': 40.1, 'lon': 9.0, 'radius_km': 130},
+    'roman africa': {'label': 'Roman Africa', 'country': 'Tunisia', 'lat': 36.0, 'lon': 9.6, 'radius_km': 250,
+                     'historical_name': 'Africa Proconsularis'},
+    'nicopolis (near preveza)': {'label': 'Nicopolis, near Preveza', 'country': 'Greece', 'historical_name': 'Nicopolis in Epirus'},
+    'antioch region (antakya)': {'label': 'Antioch region', 'country': 'Turkey', 'historical_name': 'Antioch'},
+}
+
 MAP_LABELS = [
     {'label': 'Mediterranean Sea', 'lat': 35.6, 'lon': 18.5},
     {'label': 'Atlantic Ocean', 'lat': 38.0, 'lon': -32.0},
@@ -225,6 +245,9 @@ def main():
     # place ids so shared birthplaces group exactly
     for p in people.values():
         bp = p['birthplace']
+        canon = PLACE_CANON.get((bp.get('label') or '').strip().lower())
+        if canon and bp.get('precision') in ('exact', 'region'):
+            bp.update(canon)
         if bp.get('precision') in ('exact', 'region') and bp.get('lat') is not None:
             bp['place_id'] = slug((bp.get('label') or '') + '-' + (bp.get('country') or ''))
         else:
