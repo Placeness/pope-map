@@ -9,13 +9,18 @@
 .pope-map-markers,.pope-map-labels{position:absolute;inset:0;pointer-events:none}
 .pope-map-geographic-label{position:absolute;color:#7e888c;font-size:10px;line-height:1;white-space:nowrap;transform:translate(-50%,-50%);user-select:none}
 .pope-map-sea-label{color:#6e98ae;font-style:italic}
-.pope-map-marker{position:absolute;display:flex;align-items:center;justify-content:center;box-sizing:border-box;width:44px;min-width:44px;height:44px;padding:0;margin:0;border:0;background:none;box-shadow:none;cursor:pointer;pointer-events:auto;transform:translate(-50%,-50%);color:#22305f;font-family:inherit;outline-offset:3px;border-radius:50%;z-index:2}
+.pope-map-marker{position:absolute;display:flex;align-items:center;justify-content:center;box-sizing:border-box;width:44px;min-width:44px;height:44px;padding:0;margin:0;border:0;background:none;box-shadow:none;cursor:pointer;pointer-events:auto;transform:translate(-50%,-50%);color:#22305f;font-family:inherit;outline-offset:2px;border-radius:8px;z-index:2}
 .pope-map-marker:hover,.pope-map-marker:focus-visible{z-index:4}.pope-map-marker:focus-visible{outline:3px solid #c98e2a}.pope-map-marker.is-selected{z-index:5}
-.pope-map-bubble{display:flex;position:relative;align-items:center;justify-content:center;box-sizing:border-box;width:38px;height:38px;border:1.5px solid var(--marker-color,#22305f);border-radius:50%;background:#fffaf2;box-shadow:1px 2px 0 #c9c3b5;color:#22305f;font-size:13px;font-weight:650;line-height:1;user-select:none;pointer-events:none}
-.pope-map-marker.is-selected .pope-map-bubble{width:44px;height:44px;border-width:2.5px;box-shadow:2px 2px 0 var(--marker-color,#22305f)}
-.pope-map-marker.is-regional .pope-map-bubble{border-style:dashed}
-.pope-map-bubble.has-dot::after{content:'';width:9px;height:9px;border-radius:50%;background:var(--marker-color,#22305f)}
-.pope-map-era-art{display:block;width:28px;height:35px;object-fit:contain;pointer-events:none;user-select:none}
+.pope-map-illustration{position:relative;display:block;width:38px;height:38px;pointer-events:none;user-select:none}
+.pope-map-era-art{position:absolute;left:7px;top:1px;display:block;width:23px;height:30px;object-fit:contain;pointer-events:none;user-select:none;transform-origin:50% 85%;transform:translateX(calc((var(--pin-index) - (var(--pin-total) - 1)/2)*6px)) rotate(calc((var(--pin-index) - (var(--pin-total) - 1)/2)*12deg))}
+.pope-map-count{position:absolute;right:0;bottom:0;min-width:15px;box-sizing:border-box;padding:1px 3px;border:1px solid #b4b6a8;border-radius:2px;background:#fffaf2;color:#22305f;font-size:9px;line-height:11px;font-weight:600;text-align:center}
+.pope-map-marker.is-selected .pope-map-illustration{filter:drop-shadow(0 0 2px #fffaf2) drop-shadow(0 0 2px var(--marker-color,#22305f))}
+.pope-map-marker.is-regional .pope-map-era-art{clip-path:inset(0 0 8px 0)}
+.pope-map-marker.is-regional .pope-map-illustration::before{content:'';position:absolute;left:12px;bottom:9px;width:11px;border-bottom:1px dashed #7c8a91}
+.pope-map-illustration.has-dot::after{content:'';position:absolute;left:16px;top:12px;width:10px;height:10px;border:2px solid #fffaf2;border-radius:3px;background:var(--marker-color,#22305f)}
+.pope-map-place-caption{position:absolute;display:block;width:max-content;max-width:145px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;padding:2px 4px;border-radius:3px;background:#f3efdfed;color:#35415f;font-size:10px;line-height:13px;font-weight:500;pointer-events:none}
+.pope-map-place-caption[hidden]{display:none}
+.pope-map-marker-leaders{pointer-events:none}.pope-map-marker-leaders line{stroke:#85969f;stroke-width:.65;opacity:.45}.pope-map-marker-leaders circle{fill:#758795;opacity:.6}
 .pope-map-tooltip{position:absolute;z-index:6;box-sizing:border-box;width:max-content;max-width:230px;padding:8px 12px;background:#fffaf2;border:1px solid var(--marker-color,#22305f);border-radius:10px;box-shadow:2px 2px 0 #d9c6a5;text-align:left;font-size:12px;line-height:1.4;pointer-events:none;cursor:default}
 .pope-map-tooltip strong{display:block;font-weight:650}.pope-map-tooltip>span{display:block;color:#6a737b;font-size:11px;margin-top:2px}
 .pope-map-status{position:absolute;width:1px;height:1px;padding:0;margin:-1px;overflow:hidden;clip-path:inset(50%);white-space:nowrap}

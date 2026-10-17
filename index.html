@@ -42,7 +42,16 @@
     </div>
     <aside id="content-panel" class="content-panel" hidden aria-label="Pope information"></aside>
     <div id="selection-card" class="selection-card" hidden></div>
-    <section class="era-legend" aria-label="Papacy era legend"><span class="legend-title">Five chapters of history</span><div id="legend-items" class="legend-items"></div></section>
+    <div class="map-key">
+      <section class="americas-card" aria-label="Two American popes" hidden>
+        <span class="americas-heading">Across the Atlantic <span>· Two American popes</span></span>
+        <div class="americas-links">
+          <button type="button" data-action="american-pope" data-person="pope-francis" aria-label="Francis, Buenos Aires"><span><strong>Francis</strong><small>Buenos Aires</small></span><svg class="americas-arrow" viewBox="0 0 20 20" width="18" height="18" fill="none" stroke="currentColor" stroke-width="1.4" aria-hidden="true"><path d="M5 15 15 5M5 5h10v10"></path></svg></button>
+          <button type="button" data-action="american-pope" data-person="pope-leo-xiv" aria-label="Leo XIV, Chicago"><span><strong>Leo XIV</strong><small>Chicago</small></span><svg class="americas-arrow" viewBox="0 0 20 20" width="18" height="18" fill="none" stroke="currentColor" stroke-width="1.4" aria-hidden="true"><path d="M5 15 15 5M5 5h10v10"></path></svg></button>
+        </div>
+      </section>
+      <section class="era-legend" aria-label="Papacy era legend"><span class="legend-title">Five chapters of history</span><div id="legend-items" class="legend-items"></div></section>
+    </div>
     <p class="map-hint">Drag to explore <span>·</span> Scroll to zoom</p>
     <section id="tour-rail" class="tour-rail" hidden aria-label="Pope tour"></section>
     <div id="app-status" class="app-status" role="status" aria-live="polite">Preparing the map…</div>

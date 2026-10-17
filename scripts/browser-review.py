@@ -1,8 +1,6 @@
 #!/usr/bin/env python3
 """Optional browser regression check (requires Python Playwright and Chromium)."""
 import argparse
-import json
-import re
 from pathlib import Path
 from playwright.sync_api import sync_playwright
 
@@ -14,8 +12,45 @@ parser.add_argument("--screenshots", default=str(ROOT / "docs/qa"))
 args = parser.parse_args()
 output = Path(args.screenshots)
 output.mkdir(parents=True, exist_ok=True)
-records=json.loads((ROOT/'data/popes.json').read_text())['people']
-mappable=sum(bool(person['birthplace'].get('coordinates') or person['birthplace'].get('bounds')) for person in records)
+
+
+def review_landing(page, width):
+    markers = page.locator('.pope-map-marker:visible')
+    assert markers.count() >= 4, 'The opening map must expose several distinct local groups'
+    details = markers.evaluate_all('''buttons => buttons.map(button => {
+        const box = button.getBoundingClientRect(), group = button.mapGroup;
+        return {label: button.getAttribute('aria-label'), kind: group.kind,
+            longitudes: group.members.map(place => place.point[0]),
+            topmost: button.contains(document.elementFromPoint(box.x + box.width / 2, box.y + box.height / 2)),
+            width: box.width, height: box.height, x: box.x, y: box.y,
+            sharedRome: group.kind === 'shared' && group.label === 'Rome',
+            captionVisible: !button.querySelector('.pope-map-place-caption').hidden};
+    })''')
+    assert all(item['topmost'] for item in details), 'Every exposed marker must be selectable at its center'
+    assert all(item['width'] >= 44 and item['height'] >= 44 for item in details)
+    assert any(item['sharedRome'] and item['captionVisible'] for item in details), 'Rome needs a visible, named birthplace marker in the opening view'
+    for index, first in enumerate(details):
+        for second in details[index + 1:]:
+            overlap_x = min(first['x'] + first['width'], second['x'] + second['width']) - max(first['x'], second['x'])
+            overlap_y = min(first['y'] + first['height'], second['y'] + second['height']) - max(first['y'], second['y'])
+            assert overlap_x < .1 or overlap_y < .1, f"Overlapping touch targets: {first['label']} / {second['label']}"
+    assert all(max(item['longitudes']) - min(item['longitudes']) <= 4.001 for item in details), 'A local group must not swallow a whole country'
+    assert page.locator('.pope-map-era-art:visible').count() >= 4, 'Birthplaces must use the illustrated pins'
+    if width <= 760:
+        assert page.locator('#welcome-card').bounding_box()['height'] <= 112
+        north = page.locator('.pope-map-geography').evaluate('''svg => {
+            const y = Number(svg.getAttribute('viewBox').split(/\\s+/)[1]);
+            return (2 * Math.atan(Math.exp(-y * Math.PI / 180)) - Math.PI / 2) * 180 / Math.PI;
+        }''')
+        assert north <= 58.1, f'The portrait opening view extends too far north: {north}'
+    for person, name in [('pope-francis', 'Francis'), ('pope-leo-xiv', 'Leo XIV')]:
+        action = page.locator(f'.americas-card [data-person="{person}"]')
+        assert action.is_visible(), f'{name} needs direct access from the opening map'
+        assert action.bounding_box()['height'] >= 44
+        action.click()
+        assert page.locator('.profile-heading h2').inner_text() == name
+        page.locator('[data-action="close-panel"]').click()
+        page.locator('[data-action="reset-map"]').click()
 
 with sync_playwright() as p:
     browser = p.chromium.launch(executable_path=args.browser, headless=True, args=["--no-sandbox"])
@@ -28,12 +63,7 @@ with sync_playwright() as p:
         page.goto(args.url, wait_until="networkidle")
         page.locator(".pope-map-marker").first.wait_for(state="attached")
         page.screenshot(path=str(output / f"preview-{name}.png"))
-        assert page.locator('.pope-map-marker:visible').count()>0, 'The landing must expose mapped birthplaces'
-        visible_people=0
-        for label in page.locator('.pope-map-marker:visible').evaluate_all('(buttons)=>buttons.map(button=>button.getAttribute("aria-label"))'):
-            count=re.search(r', (\d+) popes',label)
-            visible_people+=int(count.group(1)) if count else 1
-        assert visible_people>=mappable/2, f'The landing exposes only {visible_people}/{mappable} mapped people'
+        review_landing(page, width)
         page.locator('[data-action="world-map"]').click()
         page.locator('.pope-map-inset').wait_for(state="visible")
         page.screenshot(path=str(output / f"preview-world-{name}.png"))
@@ -48,6 +78,12 @@ with sync_playwright() as p:
         page.locator('.primary-nav [data-action="list"]').click()
         assert page.locator(".pope-row").count() == 267
         assert not any('approximate' in label or 'broad origin' in label for label in page.locator('.pope-row-place').all_inner_texts())
+        # A closer Mediterranean opening must retain access to northern birthplaces.
+        page.locator('[data-action="select-period"][data-index="168"]').click()
+        assert page.locator('.profile-heading h2').inner_text() == 'Adrian IV'
+        page.locator('[data-action="close-panel"]').click()
+        assert page.locator('.pope-map-marker.is-selected:visible').count() == 1
+        page.locator('.primary-nav [data-action="list"]').click()
         page.locator('[data-action="select-period"][data-index="144"]').click()
         assert page.locator(".profile-heading h2").inner_text() == "Benedict IX"
         assert page.locator(".period-button").count() == 3
@@ -79,7 +115,7 @@ with sync_playwright() as p:
         assert not page.locator("#resources-dialog").is_visible()
         assert not errors, errors
         assert not remote_requests, remote_requests
-        print(f"{name}: full roster, repeated periods, tour/jumps/resume, resources; no JavaScript errors or remote requests")
+        print(f"{name}: local illustrated groups, Mediterranean framing, both Americas, northern birthplace, roster/tour/resources; no JavaScript errors or remote requests")
         page.close()
     if any(url.endswith("/src/map.js") for url in requests):
         page = browser.new_page()

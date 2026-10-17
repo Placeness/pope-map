@@ -44,7 +44,7 @@ The extractor uses the checked-in source snapshots and preserves every source da
 
 `data/research/birthplaces.json` records the subsequent review of 45 people, with person-specific source passages, geographic authorities and retained disagreements. These refinements apply after the original roster and narrative examples. Public labels use place names; precision and conflicting accounts remain in the internal records. See [birthplace review](docs/internal/birthplace-review.md).
 
-Dense town and regional origins share one screen-space grouping system, with unique-person counts and a single selected/hover label. The portrait overview frames Europe and the Mediterranean inside the usable map area; “Show the world” adds an interactive Americas inset instead of fitting an empty north–south continental strip.
+Birthplaces use the supplied illustrated pins with quiet count tabs and place captions. Nearby groups stay local, with at most four locations and a three-degree geographic span; substantial shared birthplaces such as Rome keep their own identity. The opening view focuses on Italy, central Europe and the Mediterranean. Direct links introduce Francis in Buenos Aires and Leo XIV in Chicago; “Show the world” also provides an interactive Americas inset. Other birthplaces remain reachable by panning or selecting their profiles.
 
 ## Design and release status
 

@@ -4,6 +4,7 @@ const state = {data:null,people:new Map(),eras:new Map(),map:null,panel:null,sel
 const panel = $('#content-panel'), stage = $('#main-content'), status = $('#app-status');
 stage.addEventListener('pope-map-viewchange',event => {
   stage.classList.toggle('is-world-overview',event.detail?.mode === 'world');
+  synchronizeAmericasCard();
 });
 const mobileQuery = matchMedia('(max-width:760px)');
 const mobile = () => mobileQuery.matches;
@@ -35,6 +36,7 @@ function renderShell() {
   const isOpen = Boolean(state.panel);
   stage.classList.toggle('has-panel',isOpen);stage.classList.toggle('is-touring',state.tourActive);
   panel.hidden = !isOpen;$('#welcome-card').hidden = isOpen || state.selectedIndex !== null;
+  synchronizeAmericasCard();
   synchronizeMapAccessibility();
   document.querySelectorAll('.primary-nav .nav-button').forEach(button => {
     const active = button.dataset.action === (state.panel === 'list' ? 'list' : state.panel === 'overview' ? 'overview' : 'map');
@@ -42,6 +44,9 @@ function renderShell() {
   });
   $('.header-tour').innerHTML = `<span aria-hidden="true">→</span> ${state.tourVisited ? 'Continue tour' : 'Take the pope tour'}`;
   state.map?.setPanelOpen(isOpen);renderSelectionCard();renderTour();
+}
+function synchronizeAmericasCard() {
+  $('.americas-card').hidden = !state.data || Boolean(state.panel) || state.tourActive || state.selectedIndex !== null || stage.classList.contains('is-world-overview');
 }
 function synchronizeMapAccessibility() {
   const covered = Boolean(state.panel) && mobile();
@@ -177,6 +182,7 @@ document.addEventListener('click',event=>{
     case'select-period':selectPeriod(button.dataset.index,{fromList:state.panel==='list'||state.fromList,group:state.panel==='profile'?state.group:null});break;
     case'open-selected':selectPeriod(state.selectedIndex,{group:state.group});break;
     case'group-select':selectPerson(button.dataset.person,{group:state.group});break;
+    case'american-pope':selectPerson(button.dataset.person);break;
     case'group-previous':moveWithinGroup(-1);break;
     case'group-next':moveWithinGroup(1);break;
     case'tour':case'continue-tour':startTour();break;
@@ -185,7 +191,7 @@ document.addEventListener('click',event=>{
     case'tour-next':selectPeriod(state.tourIndex+1,{focus:false});break;
     case'timeline-select':selectPeriod(button.dataset.index,{focus:false});break;
     case'exit-tour':state.tourActive=false;showMap();break;
-    case'reset-map':state.map?.reset();break;
+    case'reset-map':{const clearSelection=!state.panel&&!state.tourActive;if(clearSelection){state.selectedIndex=null;state.group=null;renderShell();}state.map?.reset('default',{clearSelection});break;}
     case'world-map':state.map?.reset('world');break;
     case'zoom-in':state.map?.zoomBy(1.35);break;
     case'zoom-out':state.map?.zoomBy(1/1.35);break;
