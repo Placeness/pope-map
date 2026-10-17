@@ -13,6 +13,10 @@ roster = read('vatican-roster.json')
 locations = read('locations.json', {})
 examples = read('examples.json', {})
 birthplace_research = read('birthplaces.json', {})
+geography_followup = read('geography-followup.json', {})
+narrative_paths = sorted((ROOT / 'data' / 'research' / 'narratives').glob('*.json'))
+narrative_research = [(path, json.loads(path.read_text())) for path in narrative_paths]
+claimant_research = read('claimants.json', {})
 sources = [
     {'id': 1, 'title': 'Pontiffs — official Vatican roster', 'url': roster['sources']['english']['url'], 'kind': 'official-vatican', 'passage': 'Numbered table rows 1–267. Each record retains its row and source-exact strings.', 'retrievedAt': roster['retrievedAt']},
     {'id': 2, 'title': 'I Sommi Pontefici Romani — older Vatican table', 'url': roster['sources']['italian']['url'], 'kind': 'official-vatican', 'passage': 'Individual positive S./B. designations and endnotes explaining alternative dates and election, consecration and coronation. Modern changes verified separately.', 'retrievedAt': roster['retrievedAt']},
@@ -27,8 +31,16 @@ def add_source(key, item):
     existing = next((s for s in sources if s.get('url') == url and url), None)
     if existing:
         source_keys[key] = existing['id']
+        for field in ('author', 'publication', 'license', 'approval'):
+            if item.get(field) and not existing.get(field):
+                existing[field] = item[field]
         if item.get('passage'):
             existing.setdefault('additionalPassages', []).append(item['passage'])
+        if item.get('access'):
+            existing.setdefault('researchReadings', []).append({
+                'researchKey': key, 'retrievedAt': item.get('retrievedAt'),
+                'passage': item.get('passage', ''), 'access': item['access'],
+            })
         return
     entry = dict(item)
     entry['localResearchKey'] = key
@@ -55,6 +67,18 @@ for key, item in era_sources:
 # Append the later geographic review after existing sources to keep their IDs stable.
 for item in birthplace_research.get('sources', []):
     add_source(item['id'], item)
+for item in geography_followup.get('sources', []):
+    add_source(item['id'], item)
+
+# Subsequent research appends references without renumbering the existing134.
+for path, research in narrative_research:
+    for item in research.get('sources', []):
+        key = item['key']
+        if key in source_keys:
+            raise ValueError(f'Duplicate narrative source key: {key} ({path.name})')
+        add_source(key, item)
+for item in claimant_research.get('sources', []):
+    add_source(item['key'], item)
 
 eras = [
     {'id': 'early', 'label': 'Early papacy', 'color': '#E8B04B', 'marker': 'assets/artwork/pin-early.webp', 'startOrder': 1, 'endOrder': 63, 'rationale': 'Ends before Gregory I; Gregory bridges late antiquity and medieval European missions. This is a project grouping, not an official classification.', 'sourceRefs': [1, source_keys['E2'], source_keys['E3']]},
@@ -176,7 +200,7 @@ for profile in examples.get('profiles', []):
     person['research'].update(biographyCoverage='sourced-initial-profile',birthDate=birth['precision'],saintStatus='positive-verified' if status!='unverified' else 'no-positive-claim',antipopeCoverage='selected-example-only')
     person['research']['notes'] += [{**n,'sourceRefs':references(n)} for n in profile.get('researchNotes',[])]
 
-for review in birthplace_research.get('people', []):
+for review in birthplace_research.get('people', []) + geography_followup.get('people', []):
     person = roster_person(review['papalName'])
     if not person:
         raise ValueError(f'Birthplace review has no roster person: {review["papalName"]}')
@@ -212,6 +236,15 @@ for review in birthplace_research.get('people', []):
         person['summary'] = review['summary']
         person['claims']['summary'] = list(dict.fromkeys(person['claims']['summary'] + location['sourceRefs']))
 
+for pending in geography_followup.get('remaining', []):
+    person = roster_person(pending['papalName'])
+    if not person:
+        raise ValueError(f'Unresolved geography has no roster person: {pending["papalName"]}')
+    person['research']['geographyFollowup'] = resolve_research(pending)
+    refs = references(pending)
+    person['birthplace']['sourceRefs'] = list(dict.fromkeys(person['birthplace']['sourceRefs'] + refs))
+    person['claims']['birthplace'] = person['birthplace']['sourceRefs']
+
 # Labels are place names. Precision, disputed accounts and navigation envelopes
 # remain in the research records instead of repeated parenthetical UI disclaimers.
 def place_label(value):
@@ -221,6 +254,52 @@ def place_label(value):
 
 for person in people:
     person['birthplace']['label'] = place_label(person['birthplace']['label'])
+
+# Full educational narratives take precedence over the prototype introductions.
+# The earlier birthplace review remains authoritative for geometry and place labels.
+reviewed_people = set()
+for path, research in narrative_research:
+    scope = research.get('scope', {})
+    for profile in research.get('profiles', []):
+        person = roster_person(profile['papalName'])
+        if not person or profile['personId'] != person['id']:
+            raise ValueError(f'Narrative identity does not match roster: {profile.get("papalName")}')
+        if person['id'] in reviewed_people:
+            raise ValueError(f'Duplicate narrative profile: {person["name"]}')
+        if not scope.get('firstOrder', 1) <= person['firstOrder'] <= scope.get('lastOrder', 267):
+            raise ValueError(f'Narrative outside its assigned range: {person["name"]}')
+        reviewed_people.add(person['id'])
+        narrative = resolve_research(profile)
+        narrative['review']['sourcesRead'] = references({'sourceRefs':profile['review']['sourcesRead']})
+        def paragraph_refs(section):
+            return list(dict.fromkeys(number for paragraph in section.get('paragraphs', []) for number in paragraph.get('sourceRefs', [])))
+        person['alternateNames'] = list(dict.fromkeys(person['alternateNames'] + profile.get('alternateNames', [])))
+        person['birthDate'] = narrative['birthDate']
+        person['summary'] = narrative['summary']['text']
+        person['biography'] = '\n\n'.join(paragraph['text'] for paragraph in narrative['biography']['paragraphs'])
+        person['actions'] = narrative['actions']
+        person['context'] = '\n\n'.join(paragraph['text'] for paragraph in narrative['context']['paragraphs'])
+        person['saintStatus'] = narrative['saintStatus']
+        person['claims'].update(
+            summary=narrative['summary']['sourceRefs'],
+            biography=paragraph_refs(narrative['biography']),
+            context=paragraph_refs(narrative['context']),
+            actions=list(dict.fromkeys(number for action in narrative['actions'] for number in action['sourceRefs'])),
+            birthDate=narrative['birthDate']['sourceRefs'],
+            saintStatus=narrative['saintStatus']['sourceRefs'],
+        )
+        person['narrative'] = narrative
+        review = narrative['review']
+        person['research'].update(
+            biographyCoverage='reviewed-scarce-evidence' if review['coverage']=='scarce-evidence' else 'sourced-expanded-profile',
+            birthDate='researched-unknown' if narrative['birthDate']['precision']=='unknown' else narrative['birthDate']['precision'],
+            saintStatus='reviewed-' + narrative['saintStatus']['status'],
+            antipopeCoverage=narrative['antipopeReview']['status'],
+            narrativeReview={'reviewedAt':research['reviewedAt'], 'inputFile':str(path.relative_to(ROOT)), **review},
+        )
+        person['research']['notes'] = [note for note in person['research']['notes'] if note != 'Empty biographical fields are gaps, not negative historical findings.']
+        person['research']['notes'].extend(narrative.get('researchNotes', []))
+        person['sourceRefs'] = list(dict.fromkeys(number for numbers in person['claims'].values() for number in numbers))
 
 antipopes = []
 for claimant in examples.get('antipopes', []):
@@ -238,6 +317,28 @@ for claimant in examples.get('antipopes', []):
                 relationships.append({'pontificateId':entry['id'], 'note':claimant['intro']['text'], 'sourceRefs':references(claimant['intro'])})
     antipopes.append({'id':claimant['id'],'name':claimant['name'],'claimDates':claimant['dates']['text'], 'summary':claimant['intro']['text'],'biography':claimant['explanation']['text'],'classification':claimant['classification']['text'],'relationships':relationships,'sourceRefs':references(claimant),'claims':{'dates':references(claimant['dates']),'summary':references(claimant['intro']),'biography':references(claimant['explanation']),'classification':references(claimant['classification'])},'research':resolve_research(claimant)})
 
+for original in claimant_research.get('claimants', []):
+    claimant = resolve_research(original)
+    claimant['claims'] = {field:references({'sourceRefs':keys}) for field, keys in original['claims'].items()}
+    existing = next((item for item in antipopes if item['id'] == claimant['id']), None)
+    if existing:
+        for entry in pontificates:
+            entry['antipopeIds'] = [key for key in entry['antipopeIds'] if key != existing['id']]
+    relationships = []
+    for name in claimant['relatedPapalNames']:
+        person = roster_person(name)
+        if not person:
+            raise ValueError(f'Researched claimant has no roster relationship: {name}')
+        for entry in pontificates:
+            if entry['personId'] == person['id']:
+                entry['antipopeIds'].append(claimant['id'])
+                relationships.append({'pontificateId':entry['id'], 'note':claimant['summary'], 'sourceRefs':claimant['claims']['summary']})
+    result = {**claimant, 'relationships':relationships, 'research':{'reviewedAt':claimant_research.get('reviewedAt'), 'notes':claimant.get('researchNotes', [])}}
+    if existing:
+        antipopes[antipopes.index(existing)] = result
+    else:
+        antipopes.append(result)
+
 overview = {'introduction': 'The Pope is the Bishop of Rome and, in Catholic teaching, the successor of Saint Peter. He serves the unity of the Church together with the bishops.', 'succession': 'Today, a conclave of cardinals elects a new Pope. Papal election practices have changed over the centuries; earlier elections did not all follow the present rules.', 'saints': 'A saint is recognized by the Church as a witness to holiness. Many early saints were recognized through longstanding veneration. Modern canonization follows a formal investigation; beatification and canonization are distinct stages.', 'sourceRefs': []}
 if examples.get('overview'):
     original = examples['overview']
@@ -254,6 +355,8 @@ resources = [
     {'label':'Find a Mass', 'url':'https://masstimes.org/', 'description':'Find churches and Mass times near you.'}
 ]
 
-data = {'schemaVersion': 1, 'metadata': {'title':'pope.placeness.xyz', 'rosterRetrievedAt':roster['retrievedAt'], 'rosterAuthority':1, 'researchStatus':'Initial prototype: complete roster; biographical research and antipope coverage remain partial.', 'eraSourceKeyMap':{key:number for key,number in source_keys.items() if str(key).startswith('E')}}, 'people':people, 'pontificates':pontificates, 'antipopes':antipopes, 'eras':eras, 'sources':sources, 'overview':overview, 'resources':resources}
+coverage = {'reviewedPeople':len(reviewed_people), 'totalPeople':len(people), 'substantive':sum(person['research']['biographyCoverage']=='sourced-expanded-profile' for person in people), 'scarceEvidence':sum(person['research']['biographyCoverage']=='reviewed-scarce-evidence' for person in people), 'remainingPeople':[person['id'] for person in people if person['id'] not in reviewed_people]}
+research_status = f'Full-sequence narrative research: {len(reviewed_people)} of {len(people)} people reviewed. Historical uncertainties and editorial questions remain explicit in individual records.'
+data = {'schemaVersion': 1, 'metadata': {'title':'pope.placeness.xyz', 'rosterRetrievedAt':roster['retrievedAt'], 'rosterAuthority':1, 'researchStatus':research_status, 'narrativeCoverage':coverage, 'claimantReview':claimant_research.get('coverageNotes', []), 'eraSourceKeyMap':{key:number for key,number in source_keys.items() if str(key).startswith('E')}}, 'people':people, 'pontificates':pontificates, 'antipopes':antipopes, 'eras':eras, 'sources':sources, 'overview':overview, 'resources':resources}
 (ROOT / 'data' / 'popes.json').write_text(json.dumps(data, ensure_ascii=False, indent=2) + '\n')
 print(f'Compiled {len(pontificates)} pontificates linked to {len(people)} people, {len(sources)} numbered sources.')

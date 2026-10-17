@@ -1,0 +1,2975 @@
+{
+  "reviewedAt": "2026-10-17",
+  "scope": {
+    "firstOrder": 250,
+    "lastOrder": 267
+  },
+  "sources": [
+    {
+      "key": "n250-roster",
+      "title": "Pontiffs — current official sequence",
+      "url": "https://www.vatican.va/content/vatican/en/holy-father.html",
+      "kind": "official-vatican",
+      "retrievedAt": "2026-10-17",
+      "passage": "Rows 250–267 preserve recognized pontiffs and election/coronation distinctions; Francis ends 21 April 2025 and Leo XIV has no end date. The roster controls inclusion when older antipope lists disagree.",
+      "access": {
+        "method": "web-open",
+        "verified": true
+      }
+    },
+    {
+      "key": "n250-pius-vi-ce",
+      "title": "Pope Pius VI",
+      "url": "https://www.newadvent.org/cathen/12131a.htm",
+      "kind": "supplementary-catholic",
+      "retrievedAt": "2026-10-17",
+      "passage": "Opening biography; Joseph II and Vienna 1782; Synod of Pistoia; French Civil Constitution 1791; Tolentino 1797 and forcedjourney 1798–1799.",
+      "access": {
+        "method": "web-open",
+        "verified": true
+      },
+      "author": "Michael Ott",
+      "publication": "The Catholic Encyclopedia 12(1911)",
+      "notes": "Historical local nihil obstat/imprimatur, not Vatican endorsement. The biographical date is preferred over the age error in the 1999 commemorative letter."
+    },
+    {
+      "key": "n250-pius-vi-valence",
+      "title": "John Paul II: Letter to the Bishop of Valence,25 August 1999",
+      "url": "https://www.vatican.va/content/john-paul-ii/en/letters/1999/documents/hf_jp-ii_let_19990825_bishop-of-valence.html",
+      "kind": "official-vatican",
+      "retrievedAt": "2026-10-17",
+      "passage": "Opening paragraphs describe Pius VI dying at Valence 29 August 1799, removal from Rome, passage via Florence and the Alps, popular compassion, prayer and forgiveness; later paragraphs interpret the struggle over ecclesial liberty.",
+      "access": {
+        "method": "web-open",
+        "verified": true
+      },
+      "author": "John Paul II",
+      "notes": "The phrase over 84 yearsold conflicts with the accepted 1717 birth and 1799 death; do not repeat that age."
+    },
+    {
+      "key": "n250-pius-vi-auctorem",
+      "title": "Auctorem fidei,28 August 1794",
+      "url": "https://www.vatican.va/content/pius-vi/it/documents/bolla-auctorem-fidei-28-agosto-1794.html",
+      "kind": "primary-text",
+      "retrievedAt": "2026-10-17",
+      "passage": "Introductory§§3–6 identify Scipione de’ Ricci and Pistoia, describe episcopal/theological/cardinal review, and explain the separate censures attached to propositions; the numbered condemned propositions address ecclesial authority and worship.",
+      "access": {
+        "method": "web-open",
+        "verified": true
+      },
+      "author": "Pius VI"
+    },
+    {
+      "key": "n250-pius-vii-ce",
+      "title": "Pope Pius VII",
+      "url": "https://www.newadvent.org/cathen/12132a.htm",
+      "kind": "supplementary-catholic",
+      "retrievedAt": "2026-10-17",
+      "passage": "Opening birth/monastic formation; Venetianconclave and Consalvi; Concordat 1801; diocesanreorganization after 1803; restoration and Jesuits; refuge for Bonaparte family; finalillness.",
+      "access": {
+        "method": "web-open",
+        "verified": true
+      },
+      "author": "Nicholas Weber",
+      "publication": "The Catholic Encyclopedia 12(1911)",
+      "notes": "Historical local imprimatur; source predates the modern cause."
+    },
+    {
+      "key": "n250-pius-vii-ardura",
+      "title": "Pio VII, Vicario del Dio della pace",
+      "url": "https://www.vaticannews.va/it/vaticano/news/2023-08/papa-pio-vii-chiaramonti-200-anni-morte-osservatore-romano.html",
+      "kind": "official-vatican-publication",
+      "retrievedAt": "2026-10-17",
+      "passage": "Bernard Ardura narrative: Consalvi and Concordat; Napoleon 1804–1809; captivity Savona/Fontainebleau; return 1814; restoration of Jesuits 7 August 1814; concluding 2007 nihil obstat forbeatification cause.",
+      "access": {
+        "method": "web-open",
+        "verified": true
+      },
+      "author": "Bernard Ardura",
+      "publication": "L’Osservatore Romano/Vatican News,19 August 2023",
+      "notes": "Some incidental election chronology conflicts with the official roster; retain roster dates."
+    },
+    {
+      "key": "n250-chiaramonti-museum",
+      "title": "Museo Chiaramonti",
+      "url": "https://www.museivaticani.va/content/museivaticani/it/collezioni/musei/museo-chiaramonti/Museo-Chiaramonti.html",
+      "kind": "official-vatican",
+      "retrievedAt": "2026-10-17",
+      "passage": "Museumhistoryparagraphs: Napoleonic seizures under Tolentino 1797, acquisitions from 1806, Canova’s arrangement, and recovery ofsculpture after Vienna 1815.",
+      "access": {
+        "method": "web-open",
+        "verified": true
+      }
+    },
+    {
+      "key": "n250-leo-xii-ce",
+      "title": "Pope Leo XII",
+      "url": "https://www.newadvent.org/cathen/09167a.htm",
+      "kind": "supplementary-catholic",
+      "retrievedAt": "2026-10-17",
+      "passage": "Biographical narrative and pontificate paragraphs: diplomacy,1823 election, Jewishghetto restrictions,1825 jubilee, repression andeducation; final assessment distinguishes spiritualenergy fromunpopular temporalgovernment.",
+      "access": {
+        "method": "web-open",
+        "verified": true
+      },
+      "author": "Leslie Toke",
+      "publication": "The Catholic Encyclopedia 9(1910)",
+      "notes": "Opening birth 22 August 1760 conflicts with modern Treccani and Vatican News 2 August 1760; prefer the latter convergence."
+    },
+    {
+      "key": "n250-leo-xii-vn",
+      "title": "Le Vatican salue la mémoire de Léon XII, Pape de la Restauration",
+      "url": "https://www.vaticannews.va/fr/vatican/news/2023-09/pape-leon-xii-vatican-eglise-bicentenaire-rome-parolin-histoire.html",
+      "kind": "official-vatican-publication",
+      "retrievedAt": "2026-10-17",
+      "passage": "Opening 2 August 1760 birth and diplomaticcareer; headings Lejubiléde 1825 and closingparagraphs cover religiousrevival,Quograviora,administration and rebuilding Saint Paul’s.",
+      "access": {
+        "method": "web-open",
+        "verified": true
+      },
+      "author": "Delphine Allaire",
+      "publication": "Vatican News,2023"
+    },
+    {
+      "key": "n250-leo-xii-db",
+      "title": "Leone XII, papa",
+      "url": "https://www.treccani.it/enciclopedia/papa-leone-xii_(Dizionario-Biografico)/",
+      "kind": "scholarly-reference",
+      "retrievedAt": "2026-10-17",
+      "passage": "Opening gives 2 August 1760;1823 conclave; paragraphs onzelanti/Consalvi,Quoddivinasapientia,parishes and 1825 jubilee; Rivarola repression andexecutions reveal costs ofrestorationgovernment.",
+      "access": {
+        "method": "web-open",
+        "verified": true
+      },
+      "author": "Giuseppe Monsagrati",
+      "publication": "Dizionario Biografico degli Italiani 64(2005)"
+    },
+    {
+      "key": "n250-leo-xii-ubi",
+      "title": "Ubi primum,5 May 1824",
+      "url": "https://www.vatican.va/content/leo-xii/it/documents/enciclica-ubi-primum-5-maggio-1824.html",
+      "kind": "primary-text",
+      "retrievedAt": "2026-10-17",
+      "passage": "Programmatic encyclical: episcopaloversight, religiousindifferentism and Bible societies; concludingappeal forcivilrulers tosupportecclesialauthority.",
+      "access": {
+        "method": "web-open",
+        "verified": true
+      },
+      "author": "Leo XII"
+    },
+    {
+      "key": "n250-pius-viii-ce",
+      "title": "Pope Pius VIII",
+      "url": "https://www.newadvent.org/cathen/12134a.htm",
+      "kind": "supplementary-catholic",
+      "retrievedAt": "2026-10-17",
+      "passage": "Biographical paragraphs: Castiglione’s legal formation, imprisonment, election, Catholic Emancipation, mixed marriages and recognition of the July Monarchy.",
+      "access": {
+        "method": "web-open",
+        "verified": true
+      },
+      "author": "Klemens Löffler",
+      "publication": "Catholic Encyclopedia 12 (1911)",
+      "notes": "Historical local imprimatur; opening death date differs from current Vatican roster, which controls."
+    },
+    {
+      "key": "n250-pius-viii-traditi",
+      "title": "Traditi humilitati, 24 May 1829",
+      "url": "https://www.vatican.va/content/pius-viii/it/documents/enciclica-traditi-humilitati-24-maggio-1829.html",
+      "kind": "primary-text",
+      "retrievedAt": "2026-10-17",
+      "passage": "Opening pastoral commission; paragraphs on religious indifferentism, Bible translations, secret societies, seminaries and sacramental marriage.",
+      "access": {
+        "method": "web-open",
+        "verified": true
+      }
+    },
+    {
+      "key": "n250-gregory-xvi-ce",
+      "title": "Pope Gregory XVI",
+      "url": "https://www.newadvent.org/cathen/07006a.htm",
+      "kind": "supplementary-catholic",
+      "retrievedAt": "2026-10-17",
+      "passage": "Camaldolese formation and Propaganda leadership; 1831 rebellion, Austrian intervention and administrative reforms; Lamennais dispute; Prussian mixed marriages; museum patronage.",
+      "access": {
+        "method": "web-open",
+        "verified": true
+      },
+      "notes": "Historical Catholic Encyclopedia article; polemical assessments are distinguished from events. Opening and closing death date conflict with current Vatican roster.",
+      "author": "Leslie Toke",
+      "publication": "Catholic Encyclopedia 7 (1910)"
+    },
+    {
+      "key": "n250-gregory-xvi-mirari",
+      "title": "Mirari vos, 15 August 1832",
+      "url": "https://www.vatican.va/content/gregorius-xvi/it/documents/encyclica-mirari-vos-15-augusti-1832.html",
+      "kind": "primary-text",
+      "retrievedAt": "2026-10-17",
+      "passage": "Paragraphs on revolutionary disorder, episcopal authority, clerical celibacy, marriage, indifferentism, liberty of conscience and unrestricted printing.",
+      "access": {
+        "method": "web-open",
+        "verified": true
+      }
+    },
+    {
+      "key": "n250-gregory-xvi-slave-trade",
+      "title": "In Supremo Apostolatus, 3 December 1839",
+      "url": "https://www.newadvent.org/library/docs_gr16is.htm",
+      "kind": "primary-text",
+      "retrievedAt": "2026-10-17",
+      "passage": "Opening purpose and final prohibitions against enslavement, assistance to the trade and public or private defence of the traffic; acknowledges continued Christian participation.",
+      "access": {
+        "method": "web-open",
+        "verified": true
+      }
+    },
+    {
+      "key": "n250-pius-ix-cause",
+      "title": "Pio IX: biography and beatification",
+      "url": "https://www.causesanti.va/it/santi-e-beati/pio-ix.html",
+      "kind": "official-vatican",
+      "retrievedAt": "2026-10-17",
+      "passage": "Birth, Chilean mission, Spoleto and Imola, election and reform chronology; Immaculate Conception, Vatican I and 1870; beatification 3 September 2000; homily distinguishes virtue from approval of every historical choice.",
+      "access": {
+        "method": "web-open",
+        "verified": true
+      }
+    },
+    {
+      "key": "n250-pius-ix-db",
+      "title": "Pio IX, papa, beato",
+      "url": "https://www.treccani.it/enciclopedia/pio-ix-papa-beato_(Dizionario-Biografico)/",
+      "kind": "scholarly-reference",
+      "retrievedAt": "2026-10-17",
+      "passage": "Sections on 1848 revolution and restoration; the 1858 removal of the baptized Jewish child Mortara from his family; Antonelli, national seminaries, Syllabus debate, Italian unification and Vatican I.",
+      "access": {
+        "method": "web-open",
+        "verified": true
+      },
+      "author": "Giacomo Martina",
+      "publication": "Dizionario Biografico degli Italiani"
+    },
+    {
+      "key": "n250-pius-ix-pastor",
+      "title": "Pastor aeternus, 18 July 1870",
+      "url": "https://www.vatican.va/content/pius-ix/it/documents/constitutio-dogmatica-pastor-aeternus-18-iulii-1870.html",
+      "kind": "primary-text",
+      "retrievedAt": "2026-10-17",
+      "passage": "Chapter IV: revelation is guarded rather than newly revealed; final definition specifies ex cathedra teaching on faith or morals to be held by the whole Church.",
+      "access": {
+        "method": "web-open",
+        "verified": true
+      }
+    },
+    {
+      "key": "n250-leo-xiii-ce",
+      "title": "Pope Leo XIII",
+      "url": "https://www.newadvent.org/cathen/09169a.htm",
+      "kind": "supplementary-catholic",
+      "retrievedAt": "2026-10-17",
+      "passage": "Opening birth date and early training; administrative work in Benevento and Perugia, diplomatic appointment in Belgium and episcopal experience.",
+      "access": {
+        "method": "web-open",
+        "verified": true
+      },
+      "author": "Umberto Benigni",
+      "publication": "Catholic Encyclopedia 9 (1910)",
+      "notes": "Historical Catholic reference with local imprimatur."
+    },
+    {
+      "key": "n250-leo-xiii-treccani",
+      "title": "Leone XIII papa",
+      "url": "https://www.treccani.it/enciclopedia/leone-xiii-papa/",
+      "kind": "scholarly-reference",
+      "retrievedAt": "2026-10-17",
+      "passage": "Vita e attività and Opere e pensiero: Belgium, Perugia, Roman Question, Bismarck, French republican policy, archive opening and philosophical renewal.",
+      "access": {
+        "method": "web-open",
+        "verified": true
+      }
+    },
+    {
+      "key": "n250-leo-xiii-rerum",
+      "title": "Rerum novarum, 15 May 1891",
+      "url": "https://www.vatican.va/content/leo-xiii/en/encyclicals/documents/hf_l-xiii_enc_15051891_rerum-novarum.html",
+      "kind": "primary-text",
+      "retrievedAt": "2026-10-17",
+      "passage": "Sections 1–8 on industrial concentration, poverty and property; 46–52 on wages, broader ownership and the natural right of association.",
+      "access": {
+        "method": "web-open",
+        "verified": true
+      }
+    },
+    {
+      "key": "n250-leo-xiii-aeterni",
+      "title": "Aeterni Patris, 4 August 1879",
+      "url": "https://www.vatican.va/content/leo-xiii/en/encyclicals/documents/hf_l-xiii_enc_04081879_aeterni-patris.html",
+      "kind": "primary-text",
+      "retrievedAt": "2026-10-17",
+      "passage": "Sections 1–6: philosophy, natural reason and faith; reason’s contribution to theology and Christian intellectual formation.",
+      "access": {
+        "method": "web-open",
+        "verified": true
+      }
+    },
+    {
+      "key": "n250-pius-x-cause",
+      "title": "Pio X: biography and canonization",
+      "url": "https://www.causesanti.va/it/santi-e-beati/pio-x.html",
+      "kind": "official-vatican",
+      "retrievedAt": "2026-10-17",
+      "passage": "Birth and pastoral appointments; catechism, lay veto, liturgy and doctrinal policies; beatification 3 June 1951 and canonization 29 May 1954; canonization discourse.",
+      "access": {
+        "method": "web-open",
+        "verified": true
+      }
+    },
+    {
+      "key": "n250-pius-x-audience",
+      "title": "Benedict XVI, Saint Pius X, 18 August 2010",
+      "url": "https://www.vatican.va/content/benedict-xvi/it/audiences/2010/documents/hf_ben-xvi_aud_20100818.html",
+      "kind": "official-vatican",
+      "retrievedAt": "2026-10-17",
+      "passage": "Pastoral career; Roman Curia and canon-law reform; catechism, frequent Communion, children’s Communion, Biblical Institute and 1914 peace appeal.",
+      "access": {
+        "method": "web-open",
+        "verified": true
+      }
+    },
+    {
+      "key": "n250-pius-x-pascendi",
+      "title": "Pascendi dominici gregis, 8 September 1907",
+      "url": "https://www.vatican.va/content/pius-x/en/encyclicals/documents/hf_p-x_enc_19070908_pascendi-dominici-gregis.html",
+      "kind": "primary-text",
+      "retrievedAt": "2026-10-17",
+      "passage": "Sections 38–39 describe the doctrinal system condemned; Remedies 44–52 prescribe scholastic studies, removal of teachers judged modernist and censorship of publications.",
+      "access": {
+        "method": "web-open",
+        "verified": true
+      }
+    },
+    {
+      "key": "n250-benedict-xv-bio",
+      "title": "Benedict XV: biography",
+      "url": "https://www.vatican.va/content/benedict-xv/it/biography/documents/hf_ben-xv_bio_20060214_biography.html",
+      "kind": "official-vatican",
+      "retrievedAt": "2026-10-17",
+      "passage": "Birth and diplomatic career; Bologna; wartime relief, 1917 Code and Eastern institutions; postwar aid and Catholic political participation.",
+      "access": {
+        "method": "web-open",
+        "verified": true
+      }
+    },
+    {
+      "key": "n250-benedict-xv-peace",
+      "title": "Note to the Heads of the Belligerent Peoples, 1 August 1917",
+      "url": "https://www.pas.va/en/magisterium/benedict-xv/1917-1-august.html",
+      "kind": "primary-text",
+      "retrievedAt": "2026-10-17",
+      "passage": "Opening principles of impartiality and relief; practical programme of reciprocal disarmament, arbitration, free seas and return of occupied territory; Academy introduction notes failure to gain agreement.",
+      "access": {
+        "method": "web-open",
+        "verified": true
+      }
+    },
+    {
+      "key": "n250-benedict-xv-missions",
+      "title": "Maximum illud: the Church is foreign to no people",
+      "url": "https://www.vaticannews.va/it/papa/news/2019-11/lettera-apostolica-maximum-illud-benedetto-xv-100-anni.html",
+      "kind": "official-vatican-publication",
+      "retrievedAt": "2026-10-17",
+      "passage": "Sections Missione oltre i confini and Casa di tutti i popoli: nationalism, colonial interests, local clergy and the universal purpose of missionary work.",
+      "access": {
+        "method": "web-open",
+        "verified": true
+      },
+      "author": "Alessandro De Carolis",
+      "publication": "Vatican News, 30 November 2019"
+    },
+    {
+      "key": "n250-pius-xi-pas",
+      "title": "Pius XI: biography",
+      "url": "https://www.pas.va/en/magisterium/pius-xi.html",
+      "kind": "official-vatican",
+      "retrievedAt": "2026-10-17",
+      "passage": "Biography: birth and library scholarship; Polish mission, Lateran settlement, missionary bishops, Vatican Radio and refoundation of the Academy of Sciences.",
+      "access": {
+        "method": "web-open",
+        "verified": true
+      },
+      "author": "Pontifical Academy of Sciences",
+      "notes": "Academy page carries CC BY-SA 4.0; historical interpretation read alongside primary encyclicals."
+    },
+    {
+      "key": "n250-pius-xi-quadragesimo",
+      "title": "Quadragesimo anno, 15 May 1931",
+      "url": "https://www.vatican.va/content/pius-xi/en/encyclicals/documents/hf_p-xi_enc_19310515_quadragesimo-anno.html",
+      "kind": "primary-text",
+      "retrievedAt": "2026-10-17",
+      "passage": "Sections 54–62: distribution of production, rejection of monopolizing benefits by either class, social justice and security for workers’ families.",
+      "access": {
+        "method": "web-open",
+        "verified": true
+      }
+    },
+    {
+      "key": "n250-pius-xi-mit",
+      "title": "Mit brennender Sorge, 14 March 1937",
+      "url": "https://www.vatican.va/content/pius-xi/en/encyclicals/documents/hf_p-xi_enc_14031937_mit-brennender-sorge.html",
+      "kind": "primary-text",
+      "retrievedAt": "2026-10-17",
+      "passage": "Sections 3–8: purpose and violations of the German concordat; rejection of making race, state or rulers into idols.",
+      "access": {
+        "method": "web-open",
+        "verified": true
+      }
+    },
+    {
+      "key": "n250-pius-xi-non",
+      "title": "Non abbiamo bisogno, 29 June 1931",
+      "url": "https://www.vatican.va/content/pius-xi/en/encyclicals/documents/hf_p-xi_enc_29061931_non-abbiamo-bisogno.html",
+      "kind": "primary-text",
+      "retrievedAt": "2026-10-17",
+      "passage": "Sections 33–54: attacks on Catholic youth organizations, rights of families and Church, and condemnation of the Fascist monopoly over education as worship of the state.",
+      "access": {
+        "method": "web-open",
+        "verified": true
+      }
+    },
+    {
+      "key": "n250-pius-xii-pas",
+      "title": "Pius XII: biography",
+      "url": "https://www.pas.va/en/magisterium/servant-of-god-pius-xii.html",
+      "kind": "official-vatican",
+      "retrievedAt": "2026-10-17",
+      "passage": "Biography: birth, legal and diplomatic career, secretary of state, peace appeals, wartime relief and later liturgical reforms; science section on scientific autonomy and nuclear weapons.",
+      "access": {
+        "method": "web-open",
+        "verified": true
+      },
+      "author": "Pontifical Academy of Sciences",
+      "notes": "Page title retains older Servant of God wording; 2009 decree is used for current recognition."
+    },
+    {
+      "key": "n250-pius-xii-rome",
+      "title": "Rome during the Holocaust",
+      "url": "https://encyclopedia.ushmm.org/content/en/article/rome",
+      "kind": "scholarly-reference",
+      "retrievedAt": "2026-10-17",
+      "passage": "Rome after German occupation and Hiding: October 1943 deportations, Catholic shelter and the absence of a public papal condemnation of German actions against Jews.",
+      "access": {
+        "method": "web-open",
+        "verified": true
+      },
+      "author": "United States Holocaust Memorial Museum"
+    },
+    {
+      "key": "n250-pius-xii-divino",
+      "title": "Divino afflante Spiritu, 30 September 1943",
+      "url": "https://www.vatican.va/content/pius-xii/en/encyclicals/documents/hf_p-xii_enc_30091943_divino-afflante-spiritu.html",
+      "kind": "primary-text",
+      "retrievedAt": "2026-10-17",
+      "passage": "Sections 34–41: authorial intention, ancient literary forms, historical and archaeological study as aids to interpretation within belief in scriptural inspiration.",
+      "access": {
+        "method": "web-open",
+        "verified": true
+      }
+    },
+    {
+      "key": "n250-pius-xii-assumption",
+      "title": "Munificentissimus Deus, 1 November 1950",
+      "url": "https://www.vatican.va/content/pius-xii/en/apost_constitutions/documents/hf_p-xii_apc_19501101_munificentissimus-deus.html",
+      "kind": "primary-text",
+      "retrievedAt": "2026-10-17",
+      "passage": "Sections 43–48, especially the formal definition in 44 of Mary’s bodily Assumption after the course of her earthly life.",
+      "access": {
+        "method": "web-open",
+        "verified": true
+      }
+    },
+    {
+      "key": "n250-pius-xii-virtues",
+      "title": "Promulgation of decrees, 19 December 2009",
+      "url": "https://press.vatican.va/content/salastampa/it/bollettino/pubblico/2009/12/19/0804.pdf",
+      "kind": "official-vatican",
+      "retrievedAt": "2026-10-17",
+      "passage": "Bulletin page 2: Benedict XVI authorizes decree of heroic virtues of Pius XII, Eugenio Pacelli, born Rome 2 March 1876, died Castel Gandolfo 9 October 1958.",
+      "access": {
+        "method": "web-open",
+        "verified": true
+      }
+    },
+    {
+      "key": "n250-john-xxiii-cause",
+      "title": "John XXIII: biography and recognition",
+      "url": "https://www.causesanti.va/it/santi-e-beati/giovanni-xxiii.html",
+      "kind": "official-vatican",
+      "retrievedAt": "2026-10-17",
+      "passage": "Birth; Bergamo, military chaplaincy, Bulgaria, Turkey and Greece, help for Jews, Paris and Venice; council, social encyclicals; beatification 2000 and canonization 2014.",
+      "access": {
+        "method": "web-open",
+        "verified": true
+      }
+    },
+    {
+      "key": "n250-john-xxiii-opening",
+      "title": "Opening of Vatican II, 11 October 1962",
+      "url": "https://www.vatican.va/content/john-xxiii/it/speeches/1962/documents/hf_j-xxiii_spe_19621011_opening-council.html",
+      "kind": "primary-text",
+      "retrievedAt": "2026-10-17",
+      "passage": "Sections 3–8: announcement and preparation; rejection of unrelieved pessimism; distinction between deposit of faith and its presentation; pastoral mercy and Christian unity.",
+      "access": {
+        "method": "web-open",
+        "verified": true
+      }
+    },
+    {
+      "key": "n250-john-xxiii-pacem",
+      "title": "Pacem in terris, 11 April 1963",
+      "url": "https://www.vatican.va/content/john-xxiii/en/encyclicals/documents/hf_j-xxiii_enc_11041963_pacem.html",
+      "kind": "primary-text",
+      "retrievedAt": "2026-10-17",
+      "passage": "Sections 52–65 on government, rights and common good; 103–129 on refugees, arms race, disarmament, negotiation and trust.",
+      "access": {
+        "method": "web-open",
+        "verified": true
+      }
+    },
+    {
+      "key": "n250-paul-vi-cause",
+      "title": "Paul VI: life and recognition",
+      "url": "https://www.causesanti.va/it/santi-e-beati/paolo-vi.html",
+      "kind": "official-vatican",
+      "retrievedAt": "2026-10-17",
+      "passage": "Vita e opere: birth, Secretariat of State, university apostolate, wartime information and aid, Milan; pontificate; beatification 2014 and canonization 2018.",
+      "access": {
+        "method": "web-open",
+        "verified": true
+      }
+    },
+    {
+      "key": "n250-paul-vi-pas",
+      "title": "Paul VI: biography",
+      "url": "https://www.pas.va/en/magisterium/paul-vi.html",
+      "kind": "official-vatican",
+      "retrievedAt": "2026-10-17",
+      "passage": "Council sessions, pilgrimage and meeting with Athenagoras, episcopal synod, implementation of liturgical reform and internationalization of the College of Cardinals.",
+      "access": {
+        "method": "web-open",
+        "verified": true
+      },
+      "author": "Pontifical Academy of Sciences",
+      "notes": "A historical summary includes incidental errors; precise dates not independently established are not repeated."
+    },
+    {
+      "key": "n250-paul-vi-populorum",
+      "title": "Populorum progressio, 26 March 1967",
+      "url": "https://www.vatican.va/content/paul-vi/en/encyclicals/documents/hf_p-vi_enc_26031967_populorum.html",
+      "kind": "primary-text",
+      "retrievedAt": "2026-10-17",
+      "passage": "Sections 3–12: worldwide social question, Justice and Peace commission, newly independent countries, colonial economic legacies, inequality and cultural disruption.",
+      "access": {
+        "method": "web-open",
+        "verified": true
+      }
+    },
+    {
+      "key": "n250-paul-vi-humanae",
+      "title": "Humanae vitae, 25 July 1968",
+      "url": "https://www.vatican.va/content/paul-vi/en/encyclicals/documents/hf_p-vi_enc_25071968_humanae-vitae.html",
+      "kind": "primary-text",
+      "retrievedAt": "2026-10-17",
+      "passage": "Sections 2–6 describe changed conditions and commission; 10–16 distinguish responsible parenthood, unitive and procreative meanings, contraception and recourse to infertile periods.",
+      "access": {
+        "method": "web-open",
+        "verified": true
+      }
+    },
+    {
+      "key": "n250-john-paul-i-cause",
+      "title": "John Paul I: life and beatification",
+      "url": "https://www.causesanti.va/it/santi-e-beati/giovanni-paolo-i-albino-luciani.html",
+      "kind": "official-vatican",
+      "retrievedAt": "2026-10-17",
+      "passage": "Biography: birth, seminary teaching, Vittorio Veneto, Vatican II, Venice, election, four audiences and sudden death; beatification 4 September 2022.",
+      "access": {
+        "method": "web-open",
+        "verified": true
+      }
+    },
+    {
+      "key": "n250-john-paul-i-inaugural",
+      "title": "Inauguration of Petrine ministry, 3 September 1978",
+      "url": "https://www.vatican.va/content/john-paul-i/en/homilies/documents/hf_jp-i_hom_03091978.html",
+      "kind": "primary-text",
+      "retrievedAt": "2026-10-17",
+      "passage": "Greeting to workers, migrants, families and sufferers; the Church’s foundation in Christ; presiding in charity as service; greeting other Christians and representatives of nations.",
+      "access": {
+        "method": "web-open",
+        "verified": true
+      }
+    },
+    {
+      "key": "n250-john-paul-i-charity",
+      "title": "General audience, 27 September 1978",
+      "url": "https://www.vatican.va/content/john-paul-i/en/audiences/documents/hf_jp-i_aud_27091978.html",
+      "kind": "primary-text",
+      "retrievedAt": "2026-10-17",
+      "passage": "Love of God and neighbour as inseparable; practical works of mercy, hungry peoples, justice, property obligations, arms expenditure and forgiveness.",
+      "access": {
+        "method": "web-open",
+        "verified": true
+      }
+    },
+    {
+      "key": "n250-john-paul-ii-cause",
+      "title": "John Paul II: life and recognition",
+      "url": "https://www.causesanti.va/it/santi-e-beati/giovanni-paolo-ii.html",
+      "kind": "official-vatican",
+      "retrievedAt": "2026-10-17",
+      "passage": "Birth, work under Nazi occupation, clandestine seminary, academic and episcopal life, Vatican II, travel, codes and Catechism, World Youth Day; beatification 2011 and canonization 2014.",
+      "access": {
+        "method": "web-open",
+        "verified": true
+      }
+    },
+    {
+      "key": "n250-john-paul-ii-centesimus",
+      "title": "Centesimus annus, 1 May 1991",
+      "url": "https://www.vatican.va/content/john-paul-ii/en/encyclicals/documents/hf_jp-ii_enc_01051991_centesimus-annus.html",
+      "kind": "primary-text",
+      "retrievedAt": "2026-10-17",
+      "passage": "Sections 10–11 on solidarity and dignity; 18–25 on postwar blocs, consumerism, rights, 1989, Polish worker protest and nonviolent political change.",
+      "access": {
+        "method": "web-open",
+        "verified": true
+      }
+    },
+    {
+      "key": "n250-john-paul-ii-ushmm",
+      "title": "Pope John Paul II, 1920–2005",
+      "url": "https://www.ushmm.org/information/press/in-memoriam/pope-john-paul-ii-1920-2005",
+      "kind": "scholarly-reference",
+      "retrievedAt": "2026-10-17",
+      "passage": "Memorial paragraphs: personal experience of persecution, Auschwitz and Rome synagogue visits, relations with Israel, Shoah remembrance and 2000 Jerusalem visit.",
+      "access": {
+        "method": "web-open",
+        "verified": true
+      },
+      "author": "United States Holocaust Memorial Museum",
+      "notes": "Commemorative text; incidental claim that he was the youngest council bishop is not used."
+    },
+    {
+      "key": "n250-mccarrick-vn",
+      "title": "McCarrick Report: a sorrowful page the Church is learning from",
+      "url": "https://www.vaticannews.va/en/vatican-city/news/2020-11/mccarrick-report-secretary-state-sexual-abuse-minors-church-pope.html",
+      "kind": "official-vatican-publication",
+      "retrievedAt": "2026-10-17",
+      "passage": "Sections Pope John Paul II’s first decision and McCarrick’s letter: initial removal from consideration, incomplete information and papal decision to restore candidacy; later sections distinguish recommendations from sanctions under Benedict XVI.",
+      "access": {
+        "method": "web-open",
+        "verified": true
+      },
+      "author": "Andrea Tornielli",
+      "publication": "Vatican News, 10 November 2020"
+    },
+    {
+      "key": "n250-benedict-xvi-bio",
+      "title": "Benedict XVI: official biography",
+      "url": "https://www.vatican.va/content/benedict-xvi/en/biography/documents/hf_ben-xvi_bio_20050419_short-biography-old.html",
+      "kind": "official-vatican",
+      "retrievedAt": "2026-10-17",
+      "passage": "Birth, wartime experience, priesthood, theological teaching, Vatican II adviser, Munich, doctrinal congregation and Catechism commission.",
+      "access": {
+        "method": "web-open",
+        "verified": true
+      },
+      "author": "Holy See",
+      "notes": "Archived short biography; incidental academic dates conflict internally and are not repeated."
+    },
+    {
+      "key": "n250-benedict-xvi-love",
+      "title": "Deus caritas est, 25 December 2005",
+      "url": "https://www.vatican.va/content/benedict-xvi/en/encyclicals/documents/hf_ben-xvi_enc_20051225_deus-caritas-est.html",
+      "kind": "primary-text",
+      "retrievedAt": "2026-10-17",
+      "passage": "Introduction 1 and sections 2–3: faith as encounter with Christ, unity of love of God and neighbour, human love and the Church’s organized charitable activity.",
+      "access": {
+        "method": "web-open",
+        "verified": true
+      }
+    },
+    {
+      "key": "n250-benedict-xvi-ireland",
+      "title": "Letter to the Catholics of Ireland, 19 March 2010",
+      "url": "https://www.vatican.va/content/benedict-xvi/en/letters/2010/documents/hf_ben-xvi_let_20100319_church-ireland.html",
+      "kind": "primary-text",
+      "retrievedAt": "2026-10-17",
+      "passage": "Sections 6–11: shame and remorse toward victims, abusers’ responsibility before tribunals, failures of bishops and cooperation with civil authorities.",
+      "access": {
+        "method": "web-open",
+        "verified": true
+      }
+    },
+    {
+      "key": "n250-benedict-xvi-resignation",
+      "title": "Declaration of resignation, announced 11 February 2013",
+      "url": "https://www.vatican.va/content/benedict-xvi/en/speeches/2013/february/documents/hf_ben-xvi_spe_20130211_declaratio.html",
+      "kind": "primary-text",
+      "retrievedAt": "2026-10-17",
+      "passage": "Entire declaration: reduced strength, free renunciation of the ministry of bishop of Rome, vacancy from 28 February 2013 at 20:00, future service in prayer.",
+      "access": {
+        "method": "web-open",
+        "verified": true
+      }
+    },
+    {
+      "key": "n250-benedict-xvi-death",
+      "title": "Death of Pope Emeritus Benedict: official biography",
+      "url": "https://www.vaticannews.va/en/vatican-city/news/2022-12/pope-emeritus-benedict-xvi-official-biography.html",
+      "kind": "official-vatican-publication",
+      "retrievedAt": "2026-10-17",
+      "passage": "Opening death announcement dated 31 December 2022; conclusion distinguishes 2013 end of pontificate from subsequent life in Mater Ecclesiae monastery.",
+      "access": {
+        "method": "web-open",
+        "verified": true
+      }
+    },
+    {
+      "key": "n250-francis-bio",
+      "title": "Francis: official biography",
+      "url": "https://www.vatican.va/content/francesco/en/biography/documents/papa-francesco-biografia-bergoglio.html",
+      "kind": "official-vatican",
+      "retrievedAt": "2026-10-17",
+      "passage": "Updated 2013–2025 biography: birth, Jesuit and Argentine episcopal career, election, mercy, dialogue, synods and Curia reform; final illness and death 21 April 2025.",
+      "access": {
+        "method": "web-open",
+        "verified": true
+      },
+      "author": "Holy See",
+      "notes": "Funeral year is mistyped as 2205; that typo is not reproduced. Narrative praise of holiness is not a canonization decree."
+    },
+    {
+      "key": "n250-francis-evangelii",
+      "title": "Evangelii gaudium, 24 November 2013",
+      "url": "https://www.vatican.va/content/francesco/en/apost_exhortations/documents/papa-francesco_esortazione-ap_20131124_evangelii-gaudium.html",
+      "kind": "primary-text",
+      "retrievedAt": "2026-10-17",
+      "passage": "Sections 20–27: outward mission, communities accompanying ordinary lives, mercy and structural renewal directed toward evangelization rather than self-preservation.",
+      "access": {
+        "method": "web-open",
+        "verified": true
+      }
+    },
+    {
+      "key": "n250-francis-laudato",
+      "title": "Laudato si’, 24 May 2015",
+      "url": "https://www.vatican.va/content/francesco/en/encyclicals/documents/papa-francesco_20150524_enciclica-laudato-si.html",
+      "kind": "primary-text",
+      "retrievedAt": "2026-10-17",
+      "passage": "Sections 137–143: integral ecology joins social and environmental questions; 180–189: long-term policy, transparent environmental assessment, local participation and limits of profit calculations.",
+      "access": {
+        "method": "web-open",
+        "verified": true
+      }
+    },
+    {
+      "key": "n250-francis-vos",
+      "title": "Vos estis lux mundi, updated 25 March 2023",
+      "url": "https://www.vatican.va/content/francesco/en/motu_proprio/documents/20230325-motu-proprio-vos-estis-lux-mundi-aggiornato.html",
+      "kind": "primary-text",
+      "retrievedAt": "2026-10-17",
+      "passage": "Preamble and articles 1–5: scope includes abuse and obstruction, reporting structures and protections; article 20 preserves civil legal reporting obligations; final clause replaces 2019 experimental text.",
+      "access": {
+        "method": "web-open",
+        "verified": true
+      }
+    },
+    {
+      "key": "n250-leo-xiv-bio",
+      "title": "Leo XIV: official biography",
+      "url": "https://www.vatican.va/content/leo-xiv/en/biography/documents/biografia_leone-xiv.html",
+      "kind": "official-vatican",
+      "retrievedAt": "2026-10-17",
+      "passage": "Birth and education; Augustinian formation, mission and teaching in Peru, prior general, Chiclayo, citizenship, Dicastery for Bishops, election 8 May 2025 and inauguration 18 May.",
+      "access": {
+        "method": "web-open",
+        "verified": true
+      },
+      "author": "Holy See"
+    },
+    {
+      "key": "n250-leo-xiv-cardinals",
+      "title": "Address to the College of Cardinals, 10 May 2025",
+      "url": "https://www.vatican.va/content/leo-xiv/en/speeches/2025/may/documents/20250510-collegio-cardinalizio.html",
+      "kind": "primary-text",
+      "retrievedAt": "2026-10-17",
+      "passage": "Final programme: Vatican II, missionary conversion, collegiality and synodality, care for the excluded, dialogue; choice of Leo recalls Rerum novarum and AI’s challenges to dignity, justice and labour.",
+      "access": {
+        "method": "web-open",
+        "verified": true
+      }
+    },
+    {
+      "key": "n250-leo-xiv-magnifica",
+      "title": "Magnifica humanitas, 15 May 2026",
+      "url": "https://www.vatican.va/content/leo-xiv/en/encyclicals/documents/20260515-magnifica-humanitas.html",
+      "kind": "primary-text",
+      "retrievedAt": "2026-10-17",
+      "passage": "Introduction 1–3 locates the encyclical in social doctrine; 101–111 examine environmental costs, bias, accountability, governance, concentrated power, participation and disarming AI.",
+      "access": {
+        "method": "web-open",
+        "verified": true
+      },
+      "author": "Leo XIV"
+    },
+    {
+      "key": "n250-leo-xiv-current",
+      "title": "Leo XIV’s recovery and continuing activity, 16 October 2026",
+      "url": "https://www.vaticannews.va/it/papa/news/2026-10/papa-leone-xiv-gemelli-aggiornamento-16-ottobre-2026.html",
+      "kind": "official-vatican-publication",
+      "retrievedAt": "2026-10-17",
+      "passage": "Report updated 17 October at 08:20: Holy See Press Office communicates postoperative improvement, work and Mass; confirms current activity rather than a concluded pontificate.",
+      "access": {
+        "method": "web-open",
+        "verified": true
+      },
+      "author": "Salvatore Cernuzio",
+      "publication": "Vatican News, 16 October 2026",
+      "notes": "Date-sensitive endpoint verification; future appointments are not represented as completed events."
+    },
+    {
+      "key": "n250-pius-vii-cause-opening",
+      "title": "Pius VII: first session of the cause of beatification",
+      "url": "https://chiesasavona.it/iniziata-la-fase-istruttoria-della-causa-di-beatificazione-di-pio-vii/",
+      "kind": "supplementary-catholic",
+      "retrievedAt": "2026-10-17",
+      "passage": "Report dated 31 October 2021: first formal investigative session held in Savona cathedral before Bishop Calogero Marino; identifies Barnaba Gregorio Chiaramonti as Servo di Dio.",
+      "access": {
+        "method": "web-open",
+        "verified": true
+      },
+      "author": "Diocese of Savona-Noli",
+      "publication": "Official diocesan website, 31 October 2021",
+      "notes": "Official local church report of an actual session, distinguished from the earlier permission to introduce a cause."
+    },
+    {
+      "key": "n250-pius-vii-2024",
+      "title": "Francis recalls Pius VII as a man of communion and charity",
+      "url": "https://www.vaticannews.va/it/papa/news/2024-04/francesco-pellegrini-cesena-sarsina-tivoli-savona-noli-pio-vii.html",
+      "kind": "official-vatican-publication",
+      "retrievedAt": "2026-10-17",
+      "passage": "Opening and narrative explicitly call Pius VII Servo di Dio; report of Francis’s address to pilgrims recalls communion, reforms, forgiveness and protection of Napoleon’s family.",
+      "access": {
+        "method": "web-open",
+        "verified": true
+      },
+      "author": "Amedeo Lomonaco",
+      "publication": "Vatican News, April 2024"
+    }
+  ],
+  "profiles": [
+    {
+      "personId": "pope-pius-vi",
+      "papalName": "Pius VI",
+      "alternateNames": [
+        "Giannangelo Braschi",
+        "Giovanni Angelico Braschi"
+      ],
+      "birthDate": {
+        "label": "27 December 1717",
+        "precision": "date",
+        "sourceRefs": [
+          "n250-pius-vi-ce"
+        ],
+        "note": ""
+      },
+      "summary": {
+        "text": "Pius VI governed through the collision between the old European monarchies and the French Revolution. He defended the Church’s freedom against rulers who reorganized dioceses and religious life, challenged the revolutionary settlement imposed on French clergy, and eventually lost control of Rome. Removed from his city by French forces, he died a prisoner at Valence in 1799.",
+        "sourceRefs": [
+          "n250-pius-vi-ce",
+          "n250-pius-vi-valence"
+        ]
+      },
+      "biography": {
+        "paragraphs": [
+          {
+            "text": "Giannangelo Braschi trained in law and entered papal administration before his election in 1775. His difficulties began well before the Revolution: Emperor Joseph II suppressed monasteries and sought to bring church government under state direction. Pius travelled to Vienna in 1782, an unusual personal intervention that won respectful ceremonies but few lasting concessions. His opposition to similar reforms in Tuscany culminated in a detailed judgment on the Synod of Pistoia.",
+            "sourceRefs": [
+              "n250-pius-vi-ce",
+              "n250-pius-vi-auctorem"
+            ]
+          },
+          {
+            "text": "The French Revolution transformed these disputes into a crisis of episcopal authority and political survival. Pius rejected the Civil Constitution of the Clergy, while war brought French military pressure to Italy. After Rome became a republic in 1798 he was taken away, eventually crossing the Alps despite serious illness. John Paul II’s commemoration emphasizes his prayer, forgiveness and the solidarity shown by ordinary people during his final journey.",
+            "sourceRefs": [
+              "n250-pius-vi-ce",
+              "n250-pius-vi-valence"
+            ]
+          }
+        ]
+      },
+      "actions": [
+        {
+          "text": "Issued Auctorem fidei in 1794 after reviewing Pistoia’s synodal acts; its separate censures clarified his objections to proposals affecting church authority, discipline and worship.",
+          "sourceRefs": [
+            "n250-pius-vi-auctorem"
+          ]
+        },
+        {
+          "text": "Opposed the Civil Constitution of the Clergy in 1791, refusing to treat a revolutionary national reorganization as sufficient authority for governing the French Church.",
+          "sourceRefs": [
+            "n250-pius-vi-ce"
+          ]
+        },
+        {
+          "text": "Continued Rome’s artistic patronage, even as the 1797 Treaty of Tolentino forced the surrender of major Vatican works to France. The seizures help explain the museum reconstruction undertaken by his successor.",
+          "sourceRefs": [
+            "n250-chiaramonti-museum"
+          ]
+        }
+      ],
+      "context": {
+        "paragraphs": [
+          {
+            "text": "Joseph II’s reforms and the projects of Bishop Scipione de’ Ricci were different from revolutionary persecution, but all raised a question central to this pontificate: could civil authority determine the Church’s government and worship independently of Rome? Pistoia proposed reform from within Catholic institutions; the French Civil Constitution went further by creating a new national legal framework for the clergy.",
+            "sourceRefs": [
+              "n250-pius-vi-ce",
+              "n250-pius-vi-auctorem"
+            ]
+          },
+          {
+            "text": "Napoleon’s Italian victories exposed the weakness of the Papal States as a territorial power. The fall of Rome and the pope’s death abroad encouraged predictions that the papacy itself would disappear. The subsequent election of Pius VII showed that the office could survive the loss of its familiar political setting.",
+            "sourceRefs": [
+              "n250-pius-vi-valence",
+              "n250-roster"
+            ]
+          }
+        ]
+      },
+      "saintStatus": {
+        "status": "no-positive-claim",
+        "label": "",
+        "recognition": "No canonization or beatification is established by the sources reviewed; no public saint title is asserted.",
+        "recognitionDate": null,
+        "beatificationDate": null,
+        "sourceRefs": [
+          "n250-pius-vi-valence"
+        ]
+      },
+      "antipopeReview": {
+        "status": "reviewed-none",
+        "claimantNames": [],
+        "note": "No rival in the historical antipope catalogue is identified for this pontificate by the reviewed biography and current Vatican sequence; this is not a survey of every modern self-proclaimed papal title.",
+        "sourceRefs": [
+          "n250-roster",
+          "n250-pius-vi-ce"
+        ]
+      },
+      "researchNotes": [
+        {
+          "text": "The 1999 letter calls him over 84; the accepted birth and death dates make him 81. The public narrative avoids repeating that error.",
+          "sourceRefs": [
+            "n250-pius-vi-ce",
+            "n250-pius-vi-valence"
+          ]
+        }
+      ],
+      "review": {
+        "coverage": "substantive",
+        "sourcesRead": [
+          "n250-pius-vi-ce",
+          "n250-pius-vi-valence",
+          "n250-pius-vi-auctorem",
+          "n250-chiaramonti-museum",
+          "n250-roster"
+        ],
+        "openIssues": [],
+        "fieldsChecked": [
+          "biography",
+          "actions",
+          "context",
+          "birthDate",
+          "recognition",
+          "claimants"
+        ]
+      }
+    },
+    {
+      "personId": "pope-pius-vii",
+      "papalName": "Pius VII",
+      "alternateNames": [
+        "Barnaba Chiaramonti",
+        "Gregorio Chiaramonti"
+      ],
+      "birthDate": {
+        "label": "14 August 1742",
+        "precision": "date",
+        "sourceRefs": [
+          "n250-pius-vii-ce"
+        ],
+        "note": ""
+      },
+      "summary": {
+        "text": "A Benedictine monk and bishop, Pius VII negotiated with Napoleon and later endured imprisonment rather than accept the emperor’s control of the Church. His 1801 concordat helped rebuild Catholic life in France after revolution. Returning to Rome in 1814, he restored the Society of Jesus, worked with Cardinal Consalvi to reorganize the Papal States, and supported the recovery of Vatican art taken to France.",
+        "sourceRefs": [
+          "n250-pius-vii-ce",
+          "n250-pius-vii-ardura",
+          "n250-chiaramonti-museum"
+        ]
+      },
+      "biography": {
+        "paragraphs": [
+          {
+            "text": "Born Barnaba Chiaramonti at Cesena, he became a Benedictine under the religious name Gregorio, taught theology and served as bishop of Tivoli and Imola. The cardinals elected him at Venice because Rome’s political situation prevented a normal conclave there. He entrusted diplomacy to Ercole Consalvi, whose practical willingness to negotiate helped make the French Concordat of 1801 possible.",
+            "sourceRefs": [
+              "n250-pius-vii-ce"
+            ]
+          },
+          {
+            "text": "Accommodation had limits. Napoleon’s annexation of papal territory and interference in episcopal government led to open rupture and the pope’s removal in 1809. Pius was held at Savona and then Fontainebleau, isolated and pressured into concessions. His return in 1814 marked the beginning of another difficult task: rebuilding religious institutions and government without simply recovering the world that had existed before 1789.",
+            "sourceRefs": [
+              "n250-pius-vii-ardura"
+            ]
+          },
+          {
+            "text": "The Chiaramonti Museum illustrates this reconstruction in a concrete way. Established through acquisitions from 1806 and shaped by Antonio Canova, it placed ancient sculpture in a comparative setting. Canova’s diplomacy and the 1815 settlement helped return much of the art previously removed from Rome.",
+            "sourceRefs": [
+              "n250-chiaramonti-museum"
+            ]
+          }
+        ]
+      },
+      "actions": [
+        {
+          "text": "Concluded the 1801 French Concordat, restoring a workable relationship between Rome and a Church deeply divided by revolution.",
+          "sourceRefs": [
+            "n250-pius-vii-ce"
+          ]
+        },
+        {
+          "text": "Restored the Society of Jesus universally on 7 August 1814, extending earlier permissions and recovering a major resource for education and missions.",
+          "sourceRefs": [
+            "n250-pius-vii-ardura"
+          ]
+        },
+        {
+          "text": "Reorganized dioceses and supported Consalvi’s postwar settlements, including new arrangements for German states and the growing American Church.",
+          "sourceRefs": [
+            "n250-pius-vii-ce"
+          ]
+        }
+      ],
+      "context": {
+        "paragraphs": [
+          {
+            "text": "Napoleon treated religion as an element of imperial order; Pius sought a religious settlement while preserving episcopal and papal authority. Their 1804 coronation encounter did not resolve that difference. Annexation and captivity made clear how dependent a small Italian state was on European military power.",
+            "sourceRefs": [
+              "n250-pius-vii-ardura"
+            ]
+          },
+          {
+            "text": "After 1815 the Congress of Vienna restored much of the Papal States, but secularized church lands and new national administrations could not simply be undone. Consalvi pursued concordats and administrative reform, while opponents within Rome resisted changes. The pope’s protection of members of the Bonaparte family after Napoleon’s fall also showed that personal reconciliation could outlast political conflict.",
+            "sourceRefs": [
+              "n250-pius-vii-ce"
+            ]
+          }
+        ]
+      },
+      "saintStatus": {
+        "status": "servant-of-god",
+        "label": "Servant of God",
+        "recognition": "The Diocese of Savona-Noli records the first formal investigative session of his beatification cause on 31 October 2021 and names him Servant of God. Vatican News uses the same title in 2024. He has not been presented here as beatified or canonized.",
+        "recognitionDate": null,
+        "beatificationDate": null,
+        "sourceRefs": [
+          "n250-pius-vii-cause-opening",
+          "n250-pius-vii-2024"
+        ],
+        "investigativeSessionDate": "2021-10-31"
+      },
+      "antipopeReview": {
+        "status": "reviewed-none",
+        "claimantNames": [],
+        "note": "No rival in the historical antipope catalogue is identified for this pontificate by the reviewed biography and current Vatican sequence; this is not a survey of every modern self-proclaimed papal title.",
+        "sourceRefs": [
+          "n250-roster",
+          "n250-pius-vii-ce"
+        ]
+      },
+      "researchNotes": [
+        {
+          "text": "The 2007 nihil obstat permitted introduction of a cause; the distinct 2021 diocesan report documents its formal investigative opening. The 2021 date is retained as the investigative-session date for that verified procedural event, without claiming it was the first historical use of the title Servant of God.",
+          "sourceRefs": [
+            "n250-pius-vii-cause-opening",
+            "n250-pius-vii-2024",
+            "n250-pius-vii-ardura"
+          ]
+        }
+      ],
+      "review": {
+        "coverage": "substantive",
+        "sourcesRead": [
+          "n250-pius-vii-ce",
+          "n250-pius-vii-ardura",
+          "n250-chiaramonti-museum",
+          "n250-pius-vii-cause-opening",
+          "n250-pius-vii-2024"
+        ],
+        "openIssues": [],
+        "fieldsChecked": [
+          "biography",
+          "actions",
+          "context",
+          "birthDate",
+          "recognition",
+          "claimants"
+        ]
+      }
+    },
+    {
+      "personId": "pope-leo-xii",
+      "papalName": "Leo XII",
+      "alternateNames": [
+        "Annibale della Genga"
+      ],
+      "birthDate": {
+        "label": "2 August 1760",
+        "precision": "date",
+        "sourceRefs": [
+          "n250-leo-xii-db",
+          "n250-leo-xii-vn"
+        ],
+        "note": "Older Catholic Encyclopedia gives 22 August; modern Treccani and Vatican News agree on 2 August."
+      },
+      "summary": {
+        "text": "Leo XII sought a religious revival after the upheavals of revolution and Napoleonic rule. The 1825 Jubilee made Rome a centre of pilgrimage again, while he reorganized education and parishes and began rebuilding Saint Paul’s basilica. His austere program also had a coercive side: restrictions on Jews and harsh repression of political opposition made his temporal government unpopular.",
+        "sourceRefs": [
+          "n250-leo-xii-vn",
+          "n250-leo-xii-ce"
+        ]
+      },
+      "biography": {
+        "paragraphs": [
+          {
+            "text": "Annibale della Genga came from a noble family and spent years in diplomacy before becoming cardinal and vicar for Rome. The 1823 conclave was divided between reform-minded moderates and the zelanti, who wanted a firmer religious restoration. His election after an Austrian veto against another candidate brought an experienced but often unwell administrator to the papacy.",
+            "sourceRefs": [
+              "n250-leo-xii-db",
+              "n250-leo-xii-ce"
+            ]
+          },
+          {
+            "text": "The 1825 Holy Year was his most conspicuous pastoral undertaking. Despite fears about expense and disorder, pilgrims filled Roman religious spaces for worship, preaching and missions. He reorganized Roman parishes and brought education under closer ecclesiastical supervision, including the return of the Roman College to the Jesuits. These projects linked spiritual renewal to a stronger institutional presence in everyday life.",
+            "sourceRefs": [
+              "n250-leo-xii-vn",
+              "n250-leo-xii-db"
+            ]
+          },
+          {
+            "text": "The same desire for order shaped measures that burdened civil society. Jewish residents again faced ghetto restrictions, and Cardinal Rivarola’s campaign against secret political societies relied on sweeping judicial repression. Leo’s record therefore needs both its pastoral and political dimensions: religious energy did not remove the weaknesses or injustices of the Papal States.",
+            "sourceRefs": [
+              "n250-leo-xii-ce",
+              "n250-leo-xii-db"
+            ]
+          }
+        ]
+      },
+      "actions": [
+        {
+          "text": "Celebrated the 1825 Jubilee, encouraging pilgrimage and a public religious recovery after the revolutionary interruption of Roman life.",
+          "sourceRefs": [
+            "n250-leo-xii-vn"
+          ]
+        },
+        {
+          "text": "Published Ubi primum in 1824, urging episcopal vigilance and rejecting religious indifferentism; it presents the doctrinal concerns behind his restoration program.",
+          "sourceRefs": [
+            "n250-leo-xii-ubi"
+          ]
+        },
+        {
+          "text": "Reorganized education and Roman parishes and supported rebuilding Saint Paul Outside-the-Walls after the 1823 fire.",
+          "sourceRefs": [
+            "n250-leo-xii-db",
+            "n250-leo-xii-vn"
+          ]
+        }
+      ],
+      "context": {
+        "paragraphs": [
+          {
+            "text": "The Restoration was an attempt by European governments to stabilize society after Napoleon. In Rome, the question was whether the papacy could renew religious life while governing a territorial state whose population expected administrative, economic and political change. Leo inherited Consalvi’s reforming institutions but distrusted many of the cultural assumptions associated with liberalism.",
+            "sourceRefs": [
+              "n250-leo-xii-db"
+            ]
+          },
+          {
+            "text": "His opposition to indifferentism concerned the truth claims of religion, but civil enforcement brought additional consequences. The Church’s pastoral mission and the coercive powers of its state were closely entwined. That connection explains why pilgrimage, school reform, censorship, restrictions on Jews and repression of the Carbonari appear in the same short pontificate.",
+            "sourceRefs": [
+              "n250-leo-xii-ubi",
+              "n250-leo-xii-ce"
+            ]
+          }
+        ]
+      },
+      "saintStatus": {
+        "status": "no-positive-claim",
+        "label": "",
+        "recognition": "No canonization or beatification is established by the sources reviewed; no public saint title is asserted.",
+        "recognitionDate": null,
+        "beatificationDate": null,
+        "sourceRefs": [
+          "n250-leo-xii-vn"
+        ]
+      },
+      "antipopeReview": {
+        "status": "reviewed-none",
+        "claimantNames": [],
+        "note": "No rival in the historical antipope catalogue is identified for this pontificate by the reviewed biography and current Vatican sequence; this is not a survey of every modern self-proclaimed papal title.",
+        "sourceRefs": [
+          "n250-roster",
+          "n250-leo-xii-vn"
+        ]
+      },
+      "researchNotes": [
+        {
+          "text": "Birthdate conflict is retained internally: modern Treccani and Vatican News 2 August 1760 versus 1910 Catholic Encyclopedia 22 August 1760. No birthplace geometry is changed in this narrative file.",
+          "sourceRefs": [
+            "n250-leo-xii-db",
+            "n250-leo-xii-vn",
+            "n250-leo-xii-ce"
+          ]
+        }
+      ],
+      "review": {
+        "coverage": "substantive",
+        "sourcesRead": [
+          "n250-leo-xii-vn",
+          "n250-leo-xii-ce",
+          "n250-leo-xii-db",
+          "n250-leo-xii-ubi"
+        ],
+        "openIssues": [],
+        "fieldsChecked": [
+          "biography",
+          "actions",
+          "context",
+          "birthDate",
+          "recognition",
+          "claimants"
+        ]
+      }
+    },
+    {
+      "personId": "pope-pius-viii",
+      "papalName": "Pius VIII",
+      "alternateNames": [
+        "Francesco Saverio Castiglione"
+      ],
+      "birthDate": {
+        "label": "20 November 1761",
+        "precision": "date",
+        "sourceRefs": [
+          "n250-pius-viii-ce"
+        ],
+        "note": ""
+      },
+      "summary": {
+        "text": "Pius VIII was a canon lawyer whose brief pontificate joined firm doctrinal boundaries to a comparatively conciliatory personal style. His twenty months in office coincided with Catholic Emancipation in Britain and the July Revolution in France. He defended Catholic marriage discipline and episcopal oversight of teaching while accepting that the Church had to deal with a newly established French monarchy.",
+        "sourceRefs": [
+          "n250-pius-viii-ce",
+          "n250-pius-viii-traditi"
+        ]
+      },
+      "biography": {
+        "paragraphs": [
+          {
+            "text": "Francesco Saverio Castiglione studied canon law and assisted Giovanni Devoti with his legal textbook before serving as a diocesan administrator. As bishop of Montalto he refused the allegiance demanded under Napoleonic rule and endured imprisonment and displacement. Later bishop of Cesena, cardinal and grand penitentiary, he brought practical experience of church government to the conclave of 1829. His reputation for moderation helped his election after several weeks of deliberation.",
+            "sourceRefs": [
+              "n250-pius-viii-ce"
+            ]
+          },
+          {
+            "text": "His first encyclical, Traditi humilitati, addressed bishops as fellow guardians of Christian communities. It combined warnings against religious indifferentism, uncontrolled biblical translations and secret societies with demands for educated clergy, careful selection of parish priests and supervision of seminaries. These pastoral concerns explain why his government cannot be understood solely through diplomatic events. He also insisted that Christian marriage belonged to divine and ecclesiastical law rather than merely civil regulation.",
+            "sourceRefs": [
+              "n250-pius-viii-traditi"
+            ]
+          }
+        ]
+      },
+      "actions": [
+        {
+          "text": "His 1830 instruction on mixed marriages required assurances about the Catholic upbringing of children before a priest could bless the union. This discipline later became a major conflict with the Prussian government under Gregory XVI.",
+          "sourceRefs": [
+            "n250-pius-viii-ce"
+          ]
+        },
+        {
+          "text": "He reluctantly recognized Louis-Philippe after the July Revolution. Maintaining relations with the new government kept the Church’s diplomatic position from depending exclusively on the overthrown Bourbon dynasty.",
+          "sourceRefs": [
+            "n250-pius-viii-ce"
+          ]
+        },
+        {
+          "text": "Traditi humilitati urged bishops to choose capable pastors and protect seminaries. Its programme treated clergy formation as a direct responsibility toward the people entrusted to them.",
+          "sourceRefs": [
+            "n250-pius-viii-traditi"
+          ]
+        }
+      ],
+      "context": {
+        "paragraphs": [
+          {
+            "text": "Catholic Emancipation became law in Britain soon after his election, widening Catholic access to Parliament and public office. Meanwhile the revolutions of 1830 unsettled France, Belgium and Poland and encouraged agitation in Italy. Pius faced these changes without either a long reign or strong health. The mixed-marriage dispute shows a different pressure: governments of confessionally divided states claimed authority over families while Rome asserted sacramental and educational obligations. His successor inherited both revolutionary politics and this unresolved contest over jurisdiction.",
+            "sourceRefs": [
+              "n250-pius-viii-ce"
+            ]
+          }
+        ]
+      },
+      "saintStatus": {
+        "status": "no-positive-claim",
+        "label": "",
+        "recognition": "No canonization or beatification is established by the sources reviewed; no public saint title is asserted.",
+        "recognitionDate": null,
+        "beatificationDate": null,
+        "sourceRefs": [
+          "n250-pius-viii-ce"
+        ]
+      },
+      "antipopeReview": {
+        "status": "reviewed-none",
+        "claimantNames": [],
+        "note": "No rival in the historical antipope catalogue is identified for this pontificate by the reviewed biography and current Vatican sequence; this is not a survey of every modern self-proclaimed papal title.",
+        "sourceRefs": [
+          "n250-roster",
+          "n250-pius-viii-ce"
+        ]
+      },
+      "researchNotes": [
+        {
+          "text": "The historical encyclopedia gives 1 December 1830 as his death date; the current Vatican sequence gives 30 November. The roster date is preserved.",
+          "sourceRefs": [
+            "n250-pius-viii-ce",
+            "n250-roster"
+          ]
+        }
+      ],
+      "review": {
+        "coverage": "substantive",
+        "sourcesRead": [
+          "n250-pius-viii-ce",
+          "n250-pius-viii-traditi"
+        ],
+        "openIssues": [],
+        "fieldsChecked": [
+          "biography",
+          "actions",
+          "context",
+          "birthDate",
+          "recognition",
+          "claimants"
+        ]
+      }
+    },
+    {
+      "personId": "pope-gregory-xvi",
+      "papalName": "Gregory XVI",
+      "alternateNames": [
+        "Bartolomeo Alberto Cappellari",
+        "Mauro Cappellari"
+      ],
+      "birthDate": {
+        "label": "8 September 1765",
+        "precision": "date",
+        "sourceRefs": [
+          "n250-gregory-xvi-ce"
+        ],
+        "note": ""
+      },
+      "summary": {
+        "text": "Gregory XVI, a Camaldolese monk and former head of the missionary congregation, governed during growing conflict between papal sovereignty and European liberal movements. He sought Austrian military help against rebellion, rejected major liberal claims in Mirari vos and defended ecclesiastical authority against state control. His pontificate also condemned the slave trade and supported learning and museum collections.",
+        "sourceRefs": [
+          "n250-gregory-xvi-ce",
+          "n250-gregory-xvi-mirari",
+          "n250-gregory-xvi-slave-trade"
+        ]
+      },
+      "biography": {
+        "paragraphs": [
+          {
+            "text": "Bartolomeo Alberto Cappellari entered the Camaldolese monastery at Murano as Mauro, taught philosophy and theology and later became abbot of San Gregorio in Rome. Napoleonic suppression disrupted his monastic communities. His writing defended papal authority and temporal independence. As a cardinal he led Propaganda Fide, gaining experience of churches beyond Italy before his election in 1831. He was therefore both a monastic theologian and an experienced administrator of international Catholic affairs.",
+            "sourceRefs": [
+              "n250-gregory-xvi-ce"
+            ]
+          },
+          {
+            "text": "Revolt spread through the Papal States immediately after his election. His government used Austrian intervention to recover control and introduced judicial and administrative changes, but refused representative institutions that would limit papal sovereignty. International affairs brought further disputes over religious orders, episcopal appointments and mixed marriages. Mirari vos made his opposition to religious indifferentism and unrestricted liberties explicit, placing doctrinal guardianship and public order within a single defensive programme.",
+            "sourceRefs": [
+              "n250-gregory-xvi-ce",
+              "n250-gregory-xvi-mirari"
+            ]
+          }
+        ]
+      },
+      "actions": [
+        {
+          "text": "Mirari vos condemned indifferentism, freedom of conscience understood as unrestricted religious licence, and unrestricted printing. Its language reveals the depth of the conflict with liberal Catholic projects associated with Lamennais.",
+          "sourceRefs": [
+            "n250-gregory-xvi-mirari"
+          ]
+        },
+        {
+          "text": "In Supremo Apostolatus condemned the slave traffic, prohibited Catholic participation or assistance and rejected arguments defending it. The letter acknowledged that Christians still profited from the trade; it should not be presented as proof that Catholic complicity ended.",
+          "sourceRefs": [
+            "n250-gregory-xvi-slave-trade"
+          ]
+        },
+        {
+          "text": "He defended the archbishop of Cologne when Prussian authorities imprisoned him over mixed-marriage discipline. This made the freedom of bishops from government coercion a visible international question.",
+          "sourceRefs": [
+            "n250-gregory-xvi-ce"
+          ]
+        }
+      ],
+      "context": {
+        "paragraphs": [
+          {
+            "text": "The revolutions of 1830 and the Italian risings of 1831 made the survival of the Papal States an immediate concern. Austrian troops restored papal power while French occupation of Ancona reflected rivalry among the great powers. In France, Lamennais and his collaborators proposed combining Catholic vitality with political and religious liberties; Gregory judged their programme dangerous to faith and authority. His policies thus responded to several distinct pressures: Italian nationalism, constitutional demands, competing European governments and the search for a Catholic place in a society no longer organized around a shared confession.",
+            "sourceRefs": [
+              "n250-gregory-xvi-ce",
+              "n250-gregory-xvi-mirari"
+            ]
+          }
+        ]
+      },
+      "saintStatus": {
+        "status": "no-positive-claim",
+        "label": "",
+        "recognition": "No canonization or beatification is established by the sources reviewed; no public saint title is asserted.",
+        "recognitionDate": null,
+        "beatificationDate": null,
+        "sourceRefs": [
+          "n250-gregory-xvi-ce"
+        ]
+      },
+      "antipopeReview": {
+        "status": "reviewed-none",
+        "claimantNames": [],
+        "note": "No rival in the historical antipope catalogue is identified for this pontificate by the reviewed biography and current Vatican sequence; this is not a survey of every modern self-proclaimed papal title.",
+        "sourceRefs": [
+          "n250-roster",
+          "n250-gregory-xvi-ce"
+        ]
+      },
+      "researchNotes": [
+        {
+          "text": "The encyclopedia gives 9 June 1846 as death; the current Vatican sequence gives 1 June, which is retained. The anti-slave-trade letter is described by its actual prohibitions rather than as a complete settlement of every nineteenth-century slavery question.",
+          "sourceRefs": [
+            "n250-gregory-xvi-ce",
+            "n250-gregory-xvi-slave-trade",
+            "n250-roster"
+          ]
+        }
+      ],
+      "review": {
+        "coverage": "substantive",
+        "sourcesRead": [
+          "n250-gregory-xvi-ce",
+          "n250-gregory-xvi-mirari",
+          "n250-gregory-xvi-slave-trade"
+        ],
+        "openIssues": [],
+        "fieldsChecked": [
+          "biography",
+          "actions",
+          "context",
+          "birthDate",
+          "recognition",
+          "claimants"
+        ]
+      }
+    },
+    {
+      "personId": "pope-pius-ix",
+      "papalName": "Pius IX",
+      "alternateNames": [
+        "Giovanni Maria Mastai Ferretti"
+      ],
+      "birthDate": {
+        "label": "13 May 1792",
+        "precision": "date",
+        "sourceRefs": [
+          "n250-pius-ix-cause"
+        ],
+        "note": ""
+      },
+      "summary": {
+        "text": "Pius IX’s long pontificate encompassed Italian unification, the disappearance of the Papal States and a major strengthening of papal teaching authority. Initially welcomed as a reformer, he became a determined opponent of liberal political programmes. He defined the Immaculate Conception and convened Vatican I, whose teaching on primacy and infallibility shaped subsequent Catholic life. John Paul II beatified him in 2000.",
+        "sourceRefs": [
+          "n250-pius-ix-cause",
+          "n250-pius-ix-db",
+          "n250-pius-ix-pastor"
+        ]
+      },
+      "biography": {
+        "paragraphs": [
+          {
+            "text": "Giovanni Maria Mastai Ferretti worked among disadvantaged young people in Rome, accompanied a papal mission to Chile and served as bishop of Spoleto and Imola. Elected in 1846, he granted an amnesty and introduced reforms that encouraged hopes of national leadership. His refusal to make war on Austria, the assassination of his minister Pellegrino Rossi and the Roman revolution shattered those expectations. He left Rome for Gaeta and returned in 1850 after the republic had fallen.",
+            "sourceRefs": [
+              "n250-pius-ix-cause"
+            ]
+          },
+          {
+            "text": "His later government strengthened religious institutions while resisting the new Italian state. National colleges in Rome trained clergy around a common Roman identity. The confessional state also imposed religious obligations coercively: in 1858 the Jewish child Edgardo Mortara, secretly baptized by a Christian servant, was removed from his family for a Catholic upbringing. Quanta cura and the Syllabus of Errors confronted liberal assumptions. Vatican I opened in 1869 and defined papal authority after serious episcopal debate. Italian troops occupied Rome in September 1870; Pius thereafter remained within the Vatican.",
+            "sourceRefs": [
+              "n250-pius-ix-cause",
+              "n250-pius-ix-db"
+            ]
+          }
+        ]
+      },
+      "actions": [
+        {
+          "text": "He defined the Immaculate Conception in 1854, teaching that Mary was preserved from original sin. This was a defining expression of his Marian devotion and doctrinal programme.",
+          "sourceRefs": [
+            "n250-pius-ix-cause"
+          ]
+        },
+        {
+          "text": "He convened Vatican I. Pastor aeternus defined papal infallibility for ex cathedra definitions of faith or morals binding the whole Church; it did not make every papal statement or political judgment infallible.",
+          "sourceRefs": [
+            "n250-pius-ix-pastor"
+          ]
+        },
+        {
+          "text": "He expanded clerical formation through national seminaries in Rome and supported the reform of religious institutes, strengthening international links to the Holy See.",
+          "sourceRefs": [
+            "n250-pius-ix-db"
+          ]
+        }
+      ],
+      "context": {
+        "paragraphs": [
+          {
+            "text": "The Risorgimento turned the pope’s role as an Italian sovereign into an obstacle to a unified Italian capital. French military protection delayed the loss of Rome until the Franco-Prussian War removed it. At the same time, Catholic debates concerned whether religious liberty and a non-confessional state threatened or protected the Church. The Syllabus became a focus of that argument. Vatican I strengthened the spiritual centre while territorial sovereignty collapsed, a conjunction crucial to understanding the modern papacy. Beatification honours Pius’s virtues; its own homily explicitly cautions against treating it as an endorsement of all his historical policies.",
+            "sourceRefs": [
+              "n250-pius-ix-cause",
+              "n250-pius-ix-db"
+            ]
+          }
+        ]
+      },
+      "saintStatus": {
+        "status": "blessed",
+        "label": "Blessed",
+        "recognition": "Beatified by John Paul II on 3 September 2000. The beatification homily distinguishes recognition of personal holiness from approval of every historical political choice.",
+        "recognitionDate": null,
+        "beatificationDate": "2000-09-03",
+        "sourceRefs": [
+          "n250-pius-ix-cause"
+        ]
+      },
+      "antipopeReview": {
+        "status": "reviewed-none",
+        "claimantNames": [],
+        "note": "No rival in the historical antipope catalogue is identified for this pontificate by the reviewed biography and current Vatican sequence; this is not a survey of every modern self-proclaimed papal title.",
+        "sourceRefs": [
+          "n250-roster",
+          "n250-pius-ix-cause"
+        ]
+      },
+      "researchNotes": [],
+      "review": {
+        "coverage": "substantive",
+        "sourcesRead": [
+          "n250-pius-ix-cause",
+          "n250-pius-ix-db",
+          "n250-pius-ix-pastor"
+        ],
+        "openIssues": [],
+        "fieldsChecked": [
+          "biography",
+          "actions",
+          "context",
+          "birthDate",
+          "recognition",
+          "claimants"
+        ]
+      }
+    },
+    {
+      "personId": "pope-leo-xiii",
+      "papalName": "Leo XIII",
+      "alternateNames": [
+        "Gioacchino Pecci",
+        "Vincenzo Gioacchino Pecci"
+      ],
+      "birthDate": {
+        "label": "2 March 1810",
+        "precision": "date",
+        "sourceRefs": [
+          "n250-leo-xiii-ce"
+        ],
+        "note": ""
+      },
+      "summary": {
+        "text": "Leo XIII helped give the papacy a durable public voice after the loss of its Italian territories. Rerum novarum addressed industrial poverty, defended workers’ associations and private property, and insisted on obligations binding employers and governments. A diplomat and long-serving bishop before his election, he combined this social teaching with philosophical renewal and efforts to improve the Church’s relations with modern states.",
+        "sourceRefs": [
+          "n250-leo-xiii-ce",
+          "n250-leo-xiii-treccani",
+          "n250-leo-xiii-rerum",
+          "n250-leo-xiii-aeterni"
+        ]
+      },
+      "biography": {
+        "paragraphs": [
+          {
+            "text": "Gioacchino Pecci received a classical and legal education and entered papal administration. In Benevento and Perugia he dealt with taxation, roads, public order and local economic welfare. His nunciature in Belgium exposed him to a society where industrial development and political divisions affected Catholic life. He subsequently governed Perugia for many years, experiencing the annexation of Umbria and the application of Italian church legislation before his election in 1878.",
+            "sourceRefs": [
+              "n250-leo-xiii-ce",
+              "n250-leo-xiii-treccani"
+            ]
+          },
+          {
+            "text": "As pope he retained the claim to temporal independence but pursued practical diplomatic openings. Relations with Bismarck’s Germany improved as the Kulturkampf receded; his efforts to persuade French Catholics to accept the republic met considerable resistance. He opened the Vatican archives to researchers in 1881. His teaching sought intellectual resources for Catholic engagement: Aeterni Patris defended a reasoned philosophy serving theology, while Rerum novarum applied moral principles to the pressures of industrial society.",
+            "sourceRefs": [
+              "n250-leo-xiii-treccani",
+              "n250-leo-xiii-rerum",
+              "n250-leo-xiii-aeterni"
+            ]
+          }
+        ]
+      },
+      "actions": [
+        {
+          "text": "Rerum novarum defended the right of workers to associate and described the misery produced by concentrated wealth and unrestrained competition. Its rejection of socialist abolition of property accompanied demands for justice toward labour.",
+          "sourceRefs": [
+            "n250-leo-xiii-rerum"
+          ]
+        },
+        {
+          "text": "Aeterni Patris promoted the renewal of Christian philosophy and the cooperation of reason and faith. It shaped the philosophical training of generations of Catholic clergy and scholars.",
+          "sourceRefs": [
+            "n250-leo-xiii-aeterni"
+          ]
+        },
+        {
+          "text": "Opening the Vatican archives to scholars made historical investigation an enduring institutional undertaking, extending the papacy’s influence through research as well as diplomacy.",
+          "sourceRefs": [
+            "n250-leo-xiii-treccani"
+          ]
+        }
+      ],
+      "context": {
+        "paragraphs": [
+          {
+            "text": "Leo inherited the unresolved Roman Question, but industrial conflict demanded answers beyond the restoration of territory. Socialists, liberal governments, employers and Catholic associations competed to define the rights of labour. His social programme treated workers as persons with family duties and associational rights, rather than simply units of production. It combined protection of ownership with criticism of exploitative economic power. In politics he faced both anticlerical legislation and Catholic reluctance to accept non-monarchical governments. These tensions explain the combination of doctrinal continuity and tactical flexibility that characterized his reign.",
+            "sourceRefs": [
+              "n250-leo-xiii-treccani",
+              "n250-leo-xiii-rerum"
+            ]
+          }
+        ]
+      },
+      "saintStatus": {
+        "status": "no-positive-claim",
+        "label": "",
+        "recognition": "No canonization or beatification is established by the sources reviewed; no public saint title is asserted.",
+        "recognitionDate": null,
+        "beatificationDate": null,
+        "sourceRefs": [
+          "n250-leo-xiii-ce"
+        ]
+      },
+      "antipopeReview": {
+        "status": "reviewed-none",
+        "claimantNames": [],
+        "note": "No rival in the historical antipope catalogue is identified for this pontificate by the reviewed biography and current Vatican sequence; this is not a survey of every modern self-proclaimed papal title.",
+        "sourceRefs": [
+          "n250-roster",
+          "n250-leo-xiii-ce"
+        ]
+      },
+      "researchNotes": [],
+      "review": {
+        "coverage": "substantive",
+        "sourcesRead": [
+          "n250-leo-xiii-ce",
+          "n250-leo-xiii-treccani",
+          "n250-leo-xiii-rerum",
+          "n250-leo-xiii-aeterni"
+        ],
+        "openIssues": [],
+        "fieldsChecked": [
+          "biography",
+          "actions",
+          "context",
+          "birthDate",
+          "recognition",
+          "claimants"
+        ]
+      }
+    },
+    {
+      "personId": "pope-pius-x",
+      "papalName": "Pius X",
+      "alternateNames": [
+        "Giuseppe Sarto"
+      ],
+      "birthDate": {
+        "label": "2 June 1835",
+        "precision": "date",
+        "sourceRefs": [
+          "n250-pius-x-cause"
+        ],
+        "note": ""
+      },
+      "summary": {
+        "text": "Pius X brought the experience of parish ministry to a papacy devoted to religious formation, sacramental participation and institutional reform. He encouraged frequent Communion and children’s admission at the age of reason, reorganized church administration and initiated the codification of canon law. His vigorous campaign against modernism also imposed close doctrinal surveillance on Catholic teaching and publications. He was canonized in 1954.",
+        "sourceRefs": [
+          "n250-pius-x-cause",
+          "n250-pius-x-audience",
+          "n250-pius-x-pascendi"
+        ]
+      },
+      "biography": {
+        "paragraphs": [
+          {
+            "text": "Giuseppe Sarto grew up in a modest family at Riese and served successively as a curate, parish priest, diocesan official, bishop of Mantua and patriarch of Venice. Unlike many recent predecessors, he reached the papacy without a diplomatic or Roman curial career. His work in catechesis shaped his concern that ordinary Catholics should understand their faith clearly. As pope he abolished the claimed right of secular monarchs to veto a candidate in papal elections.",
+            "sourceRefs": [
+              "n250-pius-x-cause",
+              "n250-pius-x-audience"
+            ]
+          },
+          {
+            "text": "His programme of renewing all things in Christ involved practical changes to clergy training, the Curia, liturgical music and religious instruction. He commissioned the work that became the 1917 Code of Canon Law under Benedict XV. His encouragement of frequent Communion and earlier First Communion sought fuller participation in Christian worship. At the same time, Pascendi treated modernism as an interconnected assault on revealed faith and prescribed exclusion of suspect teachers, supervision of books and stronger ecclesiastical censorship.",
+            "sourceRefs": [
+              "n250-pius-x-audience",
+              "n250-pius-x-pascendi"
+            ]
+          }
+        ]
+      },
+      "actions": [
+        {
+          "text": "He encouraged well-prepared daily Communion and supported First Communion around the age of seven, when a child begins to reason. The policy made Eucharistic participation central to Catholic upbringing.",
+          "sourceRefs": [
+            "n250-pius-x-audience"
+          ]
+        },
+        {
+          "text": "He initiated the codification of canon law and reorganized the Roman Curia. These reforms aimed to give a large international Church a more coherent administrative and legal structure.",
+          "sourceRefs": [
+            "n250-pius-x-audience"
+          ]
+        },
+        {
+          "text": "Pascendi condemned modernist accounts of revelation and dogma and required bishops to oversee seminaries and publications closely. Its disciplinary prescriptions had consequences for the freedom of Catholic theological inquiry.",
+          "sourceRefs": [
+            "n250-pius-x-pascendi"
+          ]
+        }
+      ],
+      "context": {
+        "paragraphs": [
+          {
+            "text": "Catholic thinkers were confronting historical criticism, new philosophies and changing accounts of religious experience. Pius feared that doctrines could become expressions of subjective feeling rather than truths received through revelation. His encyclical therefore linked theological argument to controls over appointments, education and publication. This defensive approach coexisted with pastoral innovations intended to bring ordinary people closer to worship and doctrine. The outbreak of the First World War darkened his last weeks; he appealed for peace shortly before his death in August 1914. Later recognition of his holiness does not erase the need to study the concrete effects of his policies.",
+            "sourceRefs": [
+              "n250-pius-x-audience",
+              "n250-pius-x-pascendi"
+            ]
+          }
+        ]
+      },
+      "saintStatus": {
+        "status": "saint",
+        "label": "Saint",
+        "recognition": "Beatified by Pius XII on 3 June 1951 and canonized by him on 29 May 1954.",
+        "recognitionDate": "1954-05-29",
+        "beatificationDate": "1951-06-03",
+        "sourceRefs": [
+          "n250-pius-x-cause"
+        ]
+      },
+      "antipopeReview": {
+        "status": "reviewed-none",
+        "claimantNames": [],
+        "note": "No rival in the historical antipope catalogue is identified for this pontificate by the reviewed biography and current Vatican sequence; this is not a survey of every modern self-proclaimed papal title.",
+        "sourceRefs": [
+          "n250-roster",
+          "n250-pius-x-cause"
+        ]
+      },
+      "researchNotes": [],
+      "review": {
+        "coverage": "substantive",
+        "sourcesRead": [
+          "n250-pius-x-cause",
+          "n250-pius-x-audience",
+          "n250-pius-x-pascendi"
+        ],
+        "openIssues": [],
+        "fieldsChecked": [
+          "biography",
+          "actions",
+          "context",
+          "birthDate",
+          "recognition",
+          "claimants"
+        ]
+      }
+    },
+    {
+      "personId": "pope-benedict-xv",
+      "papalName": "Benedict XV",
+      "alternateNames": [
+        "Giacomo Della Chiesa"
+      ],
+      "birthDate": {
+        "label": "21 November 1854",
+        "precision": "date",
+        "sourceRefs": [
+          "n250-benedict-xv-bio"
+        ],
+        "note": ""
+      },
+      "summary": {
+        "text": "Benedict XV was elected as Europe entered the First World War and made peace and humanitarian relief the defining concerns of his pontificate. His 1917 proposals called for law, arbitration and reciprocal disarmament in place of continuing slaughter. He also promulgated the first Code of Canon Law and encouraged a missionary Church less dependent on European national interests.",
+        "sourceRefs": [
+          "n250-benedict-xv-bio",
+          "n250-benedict-xv-peace",
+          "n250-benedict-xv-missions"
+        ]
+      },
+      "biography": {
+        "paragraphs": [
+          {
+            "text": "Giacomo Della Chiesa studied law before becoming a priest and entering papal diplomatic service. Work with Mariano Rampolla in Madrid and Rome gave him experience of international government; as archbishop of Bologna he added direct pastoral responsibility. He had been a cardinal only a few months when elected in September 1914. He organized assistance for prisoners, wounded people and hungry children while repeatedly appealing to governments to stop the war.",
+            "sourceRefs": [
+              "n250-benedict-xv-bio"
+            ]
+          },
+          {
+            "text": "The peace note of August 1917 went beyond a general appeal to kindness. It proposed replacing armed force with international law, reducing armaments reciprocally, establishing arbitration and returning occupied territories. Belligerent governments did not accept the plan. After the conflict, his missionary programme challenged the confusion of evangelization with national expansion. Maximum illud stressed the spiritual good of local peoples and the formation of local clergy rather than the prestige of a missionary’s country.",
+            "sourceRefs": [
+              "n250-benedict-xv-peace",
+              "n250-benedict-xv-missions"
+            ]
+          }
+        ]
+      },
+      "actions": [
+        {
+          "text": "His 1917 peace note offered concrete bases for negotiation, including arbitration and reciprocal disarmament. Its failure shows the limits of papal mediation amid competing national war aims.",
+          "sourceRefs": [
+            "n250-benedict-xv-peace"
+          ]
+        },
+        {
+          "text": "He promulgated the Code of Canon Law in 1917 and established institutions for Eastern Catholic affairs and Oriental studies, giving durable structures to legal government and knowledge of Eastern traditions.",
+          "sourceRefs": [
+            "n250-benedict-xv-bio"
+          ]
+        },
+        {
+          "text": "Maximum illud urged missionaries to separate their religious work from national ambition and foster local leadership. It helped prepare a less exclusively European missionary outlook.",
+          "sourceRefs": [
+            "n250-benedict-xv-missions"
+          ]
+        }
+      ],
+      "context": {
+        "paragraphs": [
+          {
+            "text": "The pope’s claim to be a common father conflicted with wartime demands for national loyalty. Calls for impartial relief and negotiation could be accused of favouring the enemy by opposing sides alike. The 1917 note sought a settlement grounded in reciprocal obligations, rather than victory through exhaustion. The same nationalism that obstructed peace endangered missionaries, who could be regarded as agents of hostile or colonial powers. Benedict’s universal approach connected these problems: assistance should cross national and religious boundaries, and the Church’s mission should not belong to one nation. Postwar hunger and upheaval kept these concerns urgent after the armistice.",
+            "sourceRefs": [
+              "n250-benedict-xv-peace",
+              "n250-benedict-xv-missions"
+            ]
+          }
+        ]
+      },
+      "saintStatus": {
+        "status": "no-positive-claim",
+        "label": "",
+        "recognition": "No canonization or beatification is established by the sources reviewed; no public saint title is asserted.",
+        "recognitionDate": null,
+        "beatificationDate": null,
+        "sourceRefs": [
+          "n250-benedict-xv-bio"
+        ]
+      },
+      "antipopeReview": {
+        "status": "reviewed-none",
+        "claimantNames": [],
+        "note": "No rival in the historical antipope catalogue is identified for this pontificate by the reviewed biography and current Vatican sequence; this is not a survey of every modern self-proclaimed papal title.",
+        "sourceRefs": [
+          "n250-roster",
+          "n250-benedict-xv-bio"
+        ]
+      },
+      "researchNotes": [],
+      "review": {
+        "coverage": "substantive",
+        "sourcesRead": [
+          "n250-benedict-xv-bio",
+          "n250-benedict-xv-peace",
+          "n250-benedict-xv-missions"
+        ],
+        "openIssues": [],
+        "fieldsChecked": [
+          "biography",
+          "actions",
+          "context",
+          "birthDate",
+          "recognition",
+          "claimants"
+        ]
+      }
+    },
+    {
+      "personId": "pope-pius-xi",
+      "papalName": "Pius XI",
+      "alternateNames": [
+        "Achille Ratti"
+      ],
+      "birthDate": {
+        "label": "31 May 1857",
+        "precision": "date",
+        "sourceRefs": [
+          "n250-pius-xi-pas"
+        ],
+        "note": ""
+      },
+      "summary": {
+        "text": "Pius XI led the Church between the world wars, seeking an active Catholic presence in society while confronting regimes that demanded comprehensive political loyalty. The Lateran settlement created Vatican City, ending the Roman Question. His social teaching addressed economic injustice, while encyclicals challenged Fascist control of youth and the Nazi exaltation of race and state. A former librarian, he also strengthened scientific and scholarly institutions.",
+        "sourceRefs": [
+          "n250-pius-xi-pas",
+          "n250-pius-xi-quadragesimo",
+          "n250-pius-xi-mit",
+          "n250-pius-xi-non"
+        ]
+      },
+      "biography": {
+        "paragraphs": [
+          {
+            "text": "Achille Ratti was a scholar of manuscripts and an experienced librarian at the Ambrosiana in Milan and the Vatican. Sent to Poland during the upheavals following the First World War, he remained in Warsaw during the crisis of 1920. After a short period as archbishop of Milan he was elected in 1922. His interest in scholarship continued through reforms to research institutions, the development of Vatican Radio and the refoundation of the Pontifical Academy of Sciences.",
+            "sourceRefs": [
+              "n250-pius-xi-pas"
+            ]
+          },
+          {
+            "text": "His diplomatic agreements sought legal protection for Catholic life. The 1929 Lateran agreements with Mussolini recognized the Italian kingdom with Rome as capital and established the independent Vatican City State. They did not end conflicts with Fascism: Non abbiamo bisogno defended Catholic youth organizations against a state monopoly of education. The German concordat of 1933 likewise failed to secure the promised freedom. Mit brennender Sorge described its violations and rejected the elevation of race or political power to divine status.",
+            "sourceRefs": [
+              "n250-pius-xi-pas",
+              "n250-pius-xi-mit",
+              "n250-pius-xi-non"
+            ]
+          }
+        ]
+      },
+      "actions": [
+        {
+          "text": "The Lateran settlement secured a small independent territory for the Holy See and resolved the sovereignty dispute left by the occupation of Rome in 1870.",
+          "sourceRefs": [
+            "n250-pius-xi-pas"
+          ]
+        },
+        {
+          "text": "Quadragesimo anno insisted that economic production serve the common good and that workers share justly in its benefits. It rejected the claim of either capital or labour to take everything for itself.",
+          "sourceRefs": [
+            "n250-pius-xi-quadragesimo"
+          ]
+        },
+        {
+          "text": "Non abbiamo bisogno defended families and Catholic organizations against Fascist control of the young; Mit brennender Sorge opposed racial and national idolatry in Germany.",
+          "sourceRefs": [
+            "n250-pius-xi-mit",
+            "n250-pius-xi-non"
+          ]
+        }
+      ],
+      "context": {
+        "paragraphs": [
+          {
+            "text": "The interwar crisis placed Catholic institutions between negotiated legal guarantees and expanding party-state power. In Italy the regime sought to direct young people’s whole formation; Pius argued that schooling and party chaplains could not replace independent religious association. In Germany the gap between treaty promises and actual repression drove a sharper public protest. His rejection of racial idolatry belonged to a Christian account of God’s authority over every nation and ruler. Meanwhile the economic depression made the distribution of wealth an urgent moral issue. These struggles show why diplomatic accommodation, social reform and resistance to specific regime policies all appear in the same pontificate.",
+            "sourceRefs": [
+              "n250-pius-xi-quadragesimo",
+              "n250-pius-xi-mit",
+              "n250-pius-xi-non"
+            ]
+          }
+        ]
+      },
+      "saintStatus": {
+        "status": "no-positive-claim",
+        "label": "",
+        "recognition": "No canonization or beatification is established by the sources reviewed; no public saint title is asserted.",
+        "recognitionDate": null,
+        "beatificationDate": null,
+        "sourceRefs": [
+          "n250-pius-xi-pas"
+        ]
+      },
+      "antipopeReview": {
+        "status": "reviewed-none",
+        "claimantNames": [],
+        "note": "No rival in the historical antipope catalogue is identified for this pontificate by the reviewed biography and current Vatican sequence; this is not a survey of every modern self-proclaimed papal title.",
+        "sourceRefs": [
+          "n250-roster",
+          "n250-pius-xi-pas"
+        ]
+      },
+      "researchNotes": [],
+      "review": {
+        "coverage": "substantive",
+        "sourcesRead": [
+          "n250-pius-xi-pas",
+          "n250-pius-xi-quadragesimo",
+          "n250-pius-xi-mit",
+          "n250-pius-xi-non"
+        ],
+        "openIssues": [],
+        "fieldsChecked": [
+          "biography",
+          "actions",
+          "context",
+          "birthDate",
+          "recognition",
+          "claimants"
+        ]
+      }
+    },
+    {
+      "personId": "pope-pius-xii",
+      "papalName": "Pius XII",
+      "alternateNames": [
+        "Eugenio Pacelli"
+      ],
+      "birthDate": {
+        "label": "2 March 1876",
+        "precision": "date",
+        "sourceRefs": [
+          "n250-pius-xii-pas",
+          "n250-pius-xii-virtues"
+        ],
+        "note": ""
+      },
+      "summary": {
+        "text": "Pius XII’s pontificate spanned the Second World War, the Holocaust and the early Cold War. His government organized extensive relief, while the adequacy of his public response to Nazi persecution remains a major historical controversy. He also encouraged careful biblical scholarship, reformed worship and defined the Assumption of Mary. His heroic virtues were recognized in 2009; this was not beatification or canonization.",
+        "sourceRefs": [
+          "n250-pius-xii-pas",
+          "n250-pius-xii-rome",
+          "n250-pius-xii-divino",
+          "n250-pius-xii-assumption",
+          "n250-pius-xii-virtues"
+        ]
+      },
+      "biography": {
+        "paragraphs": [
+          {
+            "text": "Eugenio Pacelli grew up in Rome, studied law and theology and entered papal service. He worked on canon-law codification, served as nuncio in Germany and became Pius XI’s secretary of state. His election in March 1939 brought a deeply experienced diplomat to office as war approached. His appeals failed to avert the conflict. The Vatican nevertheless coordinated relief for prisoners and civilians and provided refuge during the German occupation of Rome.",
+            "sourceRefs": [
+              "n250-pius-xii-pas"
+            ]
+          },
+          {
+            "text": "The Holocaust cannot be reduced to a story of diplomatic neutrality or rescue alone. The United States Holocaust Memorial Museum records both shelter offered by Catholic institutions and Pius’s failure publicly to condemn German policies against Jews. His teaching had a wider range: Divino afflante Spiritu encouraged attention to ancient languages, historical context and literary forms, while Munificentissimus Deus solemnly defined Mary’s Assumption. His later reforms of Holy Week and Eucharistic discipline helped prepare important liturgical developments.",
+            "sourceRefs": [
+              "n250-pius-xii-pas",
+              "n250-pius-xii-rome",
+              "n250-pius-xii-divino",
+              "n250-pius-xii-assumption"
+            ]
+          }
+        ]
+      },
+      "actions": [
+        {
+          "text": "Divino afflante Spiritu urged interpreters to establish what biblical authors intended, using history, archaeology and knowledge of ancient literary conventions. It supported scholarly method within the Church’s teaching on inspiration.",
+          "sourceRefs": [
+            "n250-pius-xii-divino"
+          ]
+        },
+        {
+          "text": "He defined the Assumption in 1950: Mary, after completing her earthly life, was taken body and soul into heavenly glory. The definition does not settle every question about the circumstances of her death.",
+          "sourceRefs": [
+            "n250-pius-xii-assumption"
+          ]
+        },
+        {
+          "text": "His administration supported wartime relief and refuge. Those measures should be assessed alongside the absence of a direct public condemnation of the deportation and murder of Jews.",
+          "sourceRefs": [
+            "n250-pius-xii-pas",
+            "n250-pius-xii-rome"
+          ]
+        }
+      ],
+      "context": {
+        "paragraphs": [
+          {
+            "text": "German occupation brought mass arrest and deportation into Rome itself in 1943. Vatican neutrality afforded a protected space, but it also sharpened questions about the moral and practical consequences of public silence. Different acts of rescue, church-wide decisions and the pope’s own words require separate historical examination. Beyond the war, Pius faced the power of scientific discovery to serve life or destroy it, including nuclear weapons. Biblical studies likewise raised questions about how historical knowledge related to faith. His response combined methodological encouragement in some fields with continued insistence on doctrinal authority.",
+            "sourceRefs": [
+              "n250-pius-xii-pas",
+              "n250-pius-xii-rome",
+              "n250-pius-xii-divino"
+            ]
+          }
+        ]
+      },
+      "saintStatus": {
+        "status": "venerable",
+        "label": "Venerable",
+        "recognition": "Benedict XVI authorized recognition of heroic virtues on 19 December 2009. No beatification or canonization is established by the sources reviewed.",
+        "recognitionDate": "2009-12-19",
+        "beatificationDate": null,
+        "sourceRefs": [
+          "n250-pius-xii-virtues"
+        ]
+      },
+      "antipopeReview": {
+        "status": "reviewed-none",
+        "claimantNames": [],
+        "note": "No rival in the historical antipope catalogue is identified for this pontificate by the reviewed biography and current Vatican sequence; this is not a survey of every modern self-proclaimed papal title.",
+        "sourceRefs": [
+          "n250-roster",
+          "n250-pius-xii-pas"
+        ]
+      },
+      "researchNotes": [
+        {
+          "text": "The Academy biography’s older title is superseded for recognition by the official 2009 decree. Wartime relief and criticism of public silence are retained with distinct institutional sources rather than treated as mutually exclusive claims.",
+          "sourceRefs": [
+            "n250-pius-xii-pas",
+            "n250-pius-xii-rome",
+            "n250-pius-xii-virtues"
+          ]
+        }
+      ],
+      "review": {
+        "coverage": "substantive",
+        "sourcesRead": [
+          "n250-pius-xii-pas",
+          "n250-pius-xii-rome",
+          "n250-pius-xii-divino",
+          "n250-pius-xii-assumption",
+          "n250-pius-xii-virtues"
+        ],
+        "openIssues": [],
+        "fieldsChecked": [
+          "biography",
+          "actions",
+          "context",
+          "birthDate",
+          "recognition",
+          "claimants"
+        ]
+      }
+    },
+    {
+      "personId": "pope-john-xxiii",
+      "papalName": "John XXIII",
+      "alternateNames": [
+        "Angelo Giuseppe Roncalli"
+      ],
+      "birthDate": {
+        "label": "25 November 1881",
+        "precision": "date",
+        "sourceRefs": [
+          "n250-john-xxiii-cause"
+        ],
+        "note": ""
+      },
+      "summary": {
+        "text": "John XXIII opened the Second Vatican Council to renew the Church’s presentation of its faith and its engagement with the world. His long pastoral and diplomatic career had brought him into contact with Orthodox Christians, Muslims and people endangered by war. Pacem in terris grounded peace in human dignity, rights and reciprocal duties. His brief pontificate changed the direction of modern Catholic life.",
+        "sourceRefs": [
+          "n250-john-xxiii-cause",
+          "n250-john-xxiii-opening",
+          "n250-john-xxiii-pacem"
+        ]
+      },
+      "biography": {
+        "paragraphs": [
+          {
+            "text": "Angelo Giuseppe Roncalli came from a large family near Bergamo. As a priest he taught and assisted his bishop, then served wounded soldiers during the First World War. His later assignments in Bulgaria, Turkey and Greece developed habits of patient contact across religious divisions. During the Second World War he helped Jews obtain transit documents. After service as nuncio in Paris and patriarch of Venice, he was elected pope in 1958.",
+            "sourceRefs": [
+              "n250-john-xxiii-cause"
+            ]
+          },
+          {
+            "text": "He announced an ecumenical council in 1959 and opened it on 11 October 1962. His opening address rejected a purely pessimistic reading of modern history and sought to transmit the Catholic inheritance faithfully in language suited to contemporary hearers. The substance of faith and the manner of presenting it were distinguished without separating them. His final major encyclical, Pacem in terris, connected the rights of persons with the responsibilities of governments and the need for peace between nations. He died before the council’s later sessions.",
+            "sourceRefs": [
+              "n250-john-xxiii-cause",
+              "n250-john-xxiii-opening",
+              "n250-john-xxiii-pacem"
+            ]
+          }
+        ]
+      },
+      "actions": [
+        {
+          "text": "He convened Vatican II with a predominantly pastoral purpose: to deepen and communicate inherited doctrine effectively, and to pursue Christian unity with patience and mercy.",
+          "sourceRefs": [
+            "n250-john-xxiii-opening"
+          ]
+        },
+        {
+          "text": "Pacem in terris defended human rights and government’s duty to promote the common good. It treated refugees as persons whose rights survive the loss of citizenship.",
+          "sourceRefs": [
+            "n250-john-xxiii-pacem"
+          ]
+        },
+        {
+          "text": "The same encyclical called for an end to the arms race, a ban on nuclear weapons and disarmament under mutual controls, placing trust and negotiation at the centre of international relations.",
+          "sourceRefs": [
+            "n250-john-xxiii-pacem"
+          ]
+        }
+      ],
+      "context": {
+        "paragraphs": [
+          {
+            "text": "John’s council addressed a Church whose worldwide membership lived amid rapid social change and religious division. He did not propose that modernity had solved humanity’s problems; rather, he argued that fear and repeated condemnation were inadequate pastoral responses. His peace teaching confronted the danger of nuclear war and the inadequacy of security resting solely on matched weapons. Rights required corresponding duties, and the common good extended beyond a single state. These concerns linked his outwardly approachable style to a demanding vision of responsibility among believers, governments and peoples.",
+            "sourceRefs": [
+              "n250-john-xxiii-opening",
+              "n250-john-xxiii-pacem"
+            ]
+          }
+        ]
+      },
+      "saintStatus": {
+        "status": "saint",
+        "label": "Saint",
+        "recognition": "Beatified by John Paul II on 3 September 2000; canonized by Francis on 27 April 2014.",
+        "recognitionDate": "2014-04-27",
+        "beatificationDate": "2000-09-03",
+        "sourceRefs": [
+          "n250-john-xxiii-cause"
+        ]
+      },
+      "antipopeReview": {
+        "status": "reviewed-none",
+        "claimantNames": [],
+        "note": "No rival in the historical antipope catalogue is identified for this pontificate by the reviewed biography and current Vatican sequence; this is not a survey of every modern self-proclaimed papal title.",
+        "sourceRefs": [
+          "n250-roster",
+          "n250-john-xxiii-cause"
+        ]
+      },
+      "researchNotes": [],
+      "review": {
+        "coverage": "substantive",
+        "sourcesRead": [
+          "n250-john-xxiii-cause",
+          "n250-john-xxiii-opening",
+          "n250-john-xxiii-pacem"
+        ],
+        "openIssues": [],
+        "fieldsChecked": [
+          "biography",
+          "actions",
+          "context",
+          "birthDate",
+          "recognition",
+          "claimants"
+        ]
+      }
+    },
+    {
+      "personId": "pope-paul-vi",
+      "papalName": "Paul VI",
+      "alternateNames": [
+        "Giovanni Battista Montini"
+      ],
+      "birthDate": {
+        "label": "26 September 1897",
+        "precision": "date",
+        "sourceRefs": [
+          "n250-paul-vi-cause"
+        ],
+        "note": ""
+      },
+      "summary": {
+        "text": "Paul VI brought Vatican II to completion and guided the demanding work of putting its decisions into practice. His pontificate enlarged the papacy’s international presence through travel, dialogue and social teaching. He reformed worship and church administration while maintaining inherited teaching on priestly celibacy and contraception. His concern for evangelization and the development of poorer peoples accompanied years of deep internal Catholic disagreement.",
+        "sourceRefs": [
+          "n250-paul-vi-cause",
+          "n250-paul-vi-pas",
+          "n250-paul-vi-populorum",
+          "n250-paul-vi-humanae"
+        ]
+      },
+      "biography": {
+        "paragraphs": [
+          {
+            "text": "Giovanni Battista Montini entered the Secretariat of State while also serving Catholic university students. During the Second World War he helped direct the Vatican information service for prisoners and missing people and organized aid for those persecuted by Nazism and Fascism. As archbishop of Milan he confronted the pastoral needs of industrial workers and new urban neighbourhoods. These experiences combined administrative skill with attention to people beyond habitual church attendance.",
+            "sourceRefs": [
+              "n250-paul-vi-cause"
+            ]
+          },
+          {
+            "text": "Elected after John XXIII’s death, he continued the council and oversaw its final three sessions. He subsequently introduced major liturgical and curial reforms and developed the Synod of Bishops. His meeting with Patriarch Athenagoras in Jerusalem became an important ecumenical gesture. Travel to the United Nations and beyond made the pope’s international presence more immediate. Populorum progressio addressed inequality between nations; Humanae vitae reaffirmed the prohibition of contraception while discussing responsible parenthood and the inseparability of the marital act’s unitive and procreative meanings.",
+            "sourceRefs": [
+              "n250-paul-vi-pas",
+              "n250-paul-vi-populorum",
+              "n250-paul-vi-humanae"
+            ]
+          }
+        ]
+      },
+      "actions": [
+        {
+          "text": "He completed Vatican II and implemented its liturgical and institutional decisions, giving lasting practical form to a council he had inherited.",
+          "sourceRefs": [
+            "n250-paul-vi-pas"
+          ]
+        },
+        {
+          "text": "Populorum progressio treated development as a worldwide moral responsibility. It called for solidarity with newly independent countries facing economic dependence and widening inequality.",
+          "sourceRefs": [
+            "n250-paul-vi-populorum"
+          ]
+        },
+        {
+          "text": "Humanae vitae distinguished responsible decisions to space births from deliberately contraceptive acts. It also rejected coercive marital relations, stressing mutual love and respect.",
+          "sourceRefs": [
+            "n250-paul-vi-humanae"
+          ]
+        }
+      ],
+      "context": {
+        "paragraphs": [
+          {
+            "text": "Paul’s postconciliar Church faced both expectations of rapid reform and fears that continuity was being lost. Humanae vitae itself describes changes in women’s social position, technology and family conditions that made the question urgent, and acknowledges disagreement in the commission consulted. Beyond Europe, political independence did not automatically free poorer countries from economic vulnerability. Paul linked evangelization to solidarity without reducing it to material progress. His pontificate therefore required decisions about authority and conscience within Catholic life while seeking a credible Christian voice in an increasingly unequal, interconnected world.",
+            "sourceRefs": [
+              "n250-paul-vi-populorum",
+              "n250-paul-vi-humanae"
+            ]
+          }
+        ]
+      },
+      "saintStatus": {
+        "status": "saint",
+        "label": "Saint",
+        "recognition": "Beatified by Francis on 19 October 2014; canonized by Francis on 14 October 2018.",
+        "recognitionDate": "2018-10-14",
+        "beatificationDate": "2014-10-19",
+        "sourceRefs": [
+          "n250-paul-vi-cause"
+        ]
+      },
+      "antipopeReview": {
+        "status": "reviewed-none",
+        "claimantNames": [],
+        "note": "No rival in the historical antipope catalogue is identified for this pontificate by the reviewed biography and current Vatican sequence; this is not a survey of every modern self-proclaimed papal title.",
+        "sourceRefs": [
+          "n250-roster",
+          "n250-paul-vi-cause"
+        ]
+      },
+      "researchNotes": [],
+      "review": {
+        "coverage": "substantive",
+        "sourcesRead": [
+          "n250-paul-vi-cause",
+          "n250-paul-vi-pas",
+          "n250-paul-vi-populorum",
+          "n250-paul-vi-humanae"
+        ],
+        "openIssues": [],
+        "fieldsChecked": [
+          "biography",
+          "actions",
+          "context",
+          "birthDate",
+          "recognition",
+          "claimants"
+        ]
+      }
+    },
+    {
+      "personId": "pope-john-paul-i",
+      "papalName": "John Paul I",
+      "alternateNames": [
+        "Albino Luciani"
+      ],
+      "birthDate": {
+        "label": "17 October 1912",
+        "precision": "date",
+        "sourceRefs": [
+          "n250-john-paul-i-cause"
+        ],
+        "note": ""
+      },
+      "summary": {
+        "text": "John Paul I’s thirty-three-day pontificate was too short for an extensive legislative programme, but his teaching offers a clear pastoral voice. A former seminary teacher and bishop in the Veneto, Albino Luciani emphasized humility, faith, hope and charity. His final audience connected personal kindness with the hunger of whole peoples and the demands of social justice. He was beatified in 2022.",
+        "sourceRefs": [
+          "n250-john-paul-i-cause",
+          "n250-john-paul-i-charity"
+        ]
+      },
+      "biography": {
+        "paragraphs": [
+          {
+            "text": "Albino Luciani was formed in the seminaries of Feltre and Belluno and spent many years teaching and training future priests. He later served as diocesan vicar general before becoming bishop of Vittorio Veneto in 1958. There he emphasized pastoral visits, clergy formation, lay participation and the social problems of a region moving from rural to industrial life. He attended all four sessions of Vatican II and sought to apply its teaching as patriarch of Venice.",
+            "sourceRefs": [
+              "n250-john-paul-i-cause"
+            ]
+          },
+          {
+            "text": "Elected in August 1978, he chose a double name honouring John XXIII and Paul VI. His inaugural homily described leadership as service in charity and addressed the entire human family, including workers, migrants and those suffering. Only four general audiences followed. In his final teaching, he explained that love of God does not exclude human love and that love of neighbours requires concrete acts. He extended this responsibility from individuals in need to entire hungry peoples, drawing on Paul VI’s social teaching. His sudden death ended these beginnings.",
+            "sourceRefs": [
+              "n250-john-paul-i-inaugural",
+              "n250-john-paul-i-charity"
+            ]
+          }
+        ]
+      },
+      "actions": [
+        {
+          "text": "His four audiences presented humility and the theological virtues in accessible catechesis, making fundamental Christian commitments the centre of his brief public teaching.",
+          "sourceRefs": [
+            "n250-john-paul-i-cause"
+          ]
+        },
+        {
+          "text": "The inaugural homily framed papal authority as service and welcomed other Christians and international representatives within a vision of justice, solidarity and hope.",
+          "sourceRefs": [
+            "n250-john-paul-i-inaugural"
+          ]
+        },
+        {
+          "text": "His last audience linked charity with justice, obligations attached to property, care for hungry peoples and criticism of wasteful armaments. It resisted reducing love to sentiment.",
+          "sourceRefs": [
+            "n250-john-paul-i-charity"
+          ]
+        }
+      ],
+      "context": {
+        "paragraphs": [
+          {
+            "text": "Luciani entered office after the long and difficult implementation of Vatican II under Paul VI. His episcopal experience had included industrial change and debate within Catholic communities about how the council should be lived. His surviving papal texts show continuity with both recent predecessors: a welcoming pastoral manner accompanied by a clear commitment to inherited faith. The brevity of his reign requires restraint about what he might have done. What can be studied directly is the programme of service and practical love expressed in his homily and audiences, rather than an imagined course of reforms.",
+            "sourceRefs": [
+              "n250-john-paul-i-cause",
+              "n250-john-paul-i-inaugural",
+              "n250-john-paul-i-charity"
+            ]
+          }
+        ]
+      },
+      "saintStatus": {
+        "status": "blessed",
+        "label": "Blessed",
+        "recognition": "Beatified by Francis on 4 September 2022, following recognition of heroic virtues in 2017 and the approved miracle.",
+        "recognitionDate": null,
+        "beatificationDate": "2022-09-04",
+        "sourceRefs": [
+          "n250-john-paul-i-cause"
+        ]
+      },
+      "antipopeReview": {
+        "status": "reviewed-none",
+        "claimantNames": [],
+        "note": "No rival in the historical antipope catalogue is identified for this pontificate by the reviewed biography and current Vatican sequence; this is not a survey of every modern self-proclaimed papal title.",
+        "sourceRefs": [
+          "n250-roster",
+          "n250-john-paul-i-cause"
+        ]
+      },
+      "researchNotes": [],
+      "review": {
+        "coverage": "substantive",
+        "sourcesRead": [
+          "n250-john-paul-i-cause",
+          "n250-john-paul-i-charity",
+          "n250-john-paul-i-inaugural"
+        ],
+        "openIssues": [],
+        "fieldsChecked": [
+          "biography",
+          "actions",
+          "context",
+          "birthDate",
+          "recognition",
+          "claimants"
+        ]
+      }
+    },
+    {
+      "personId": "pope-john-paul-ii",
+      "papalName": "John Paul II",
+      "alternateNames": [
+        "Karol Józef Wojtyła"
+      ],
+      "birthDate": {
+        "label": "18 May 1920",
+        "precision": "date",
+        "sourceRefs": [
+          "n250-john-paul-ii-cause"
+        ],
+        "note": ""
+      },
+      "summary": {
+        "text": "John Paul II made the papacy a worldwide personal presence through travel, public teaching and encounters with young people. Shaped by Nazi occupation and Communist rule in Poland, he defended human dignity and religious freedom while giving Catholic life a strong doctrinal framework. His initiatives in Jewish relations were historic. His long government also requires scrutiny of failures in addressing abuse and episcopal misconduct.",
+        "sourceRefs": [
+          "n250-john-paul-ii-cause",
+          "n250-john-paul-ii-centesimus",
+          "n250-john-paul-ii-ushmm",
+          "n250-mccarrick-vn"
+        ]
+      },
+      "biography": {
+        "paragraphs": [
+          {
+            "text": "Karol Wojtyła worked in a quarry and chemical factory under Nazi occupation while studying in Kraków’s clandestine seminary. Ordained after the war, he combined pastoral ministry with philosophical and theological teaching. As archbishop of Kraków he participated in Vatican II, especially its discussion of the Church and the modern world. Elected in 1978, he became the first non-Italian pope since Adrian VI and undertook an unprecedented range of international pastoral journeys.",
+            "sourceRefs": [
+              "n250-john-paul-ii-cause"
+            ]
+          },
+          {
+            "text": "His pontificate produced the revised Latin and Eastern canon-law codes, the Catechism of the Catholic Church and World Youth Day. His social encyclicals connected freedom with solidarity and obligations toward the poor. He visited Rome’s synagogue and, in Jerusalem in 2000, honoured Holocaust victims and prayed at the Western Wall. Yet his leadership also included consequential errors: the Vatican’s later McCarrick investigation described how he accepted assurances that helped clear the way for McCarrick’s appointment to Washington despite earlier warnings.",
+            "sourceRefs": [
+              "n250-john-paul-ii-cause",
+              "n250-john-paul-ii-centesimus",
+              "n250-john-paul-ii-ushmm",
+              "n250-mccarrick-vn"
+            ]
+          }
+        ]
+      },
+      "actions": [
+        {
+          "text": "Centesimus annus interpreted the changes of 1989 through human rights, workers’ solidarity and nonviolent resistance. It also criticized consumerism that reduces people to economic wants.",
+          "sourceRefs": [
+            "n250-john-paul-ii-centesimus"
+          ]
+        },
+        {
+          "text": "His encounters with Jewish communities and acts of remembrance confronted antisemitism and advanced a transformed Catholic relationship with Judaism.",
+          "sourceRefs": [
+            "n250-john-paul-ii-ushmm"
+          ]
+        },
+        {
+          "text": "He promulgated revised legal codes and the Catechism, offering common reference points for a worldwide Church after Vatican II.",
+          "sourceRefs": [
+            "n250-john-paul-ii-cause"
+          ]
+        }
+      ],
+      "context": {
+        "paragraphs": [
+          {
+            "text": "The experience of ideological states made the dignity of the person a central theme of his teaching. His account of 1989 recognized the importance of workers and peaceful protest rather than presenting political change as the achievement of one leader. After Communist regimes fell, he continued to question economic systems that ignored moral and spiritual goods. The abuse crisis exposed another problem of power and accountability within the Church itself. The McCarrick case shows how personal trust and defective information could prevail over warning signs. Canonization concerns recognized holiness and does not remove these decisions from historical examination.",
+            "sourceRefs": [
+              "n250-john-paul-ii-centesimus",
+              "n250-mccarrick-vn"
+            ]
+          }
+        ]
+      },
+      "saintStatus": {
+        "status": "saint",
+        "label": "Saint",
+        "recognition": "Beatified by Benedict XVI on 1 May 2011; canonized by Francis on 27 April 2014.",
+        "recognitionDate": "2014-04-27",
+        "beatificationDate": "2011-05-01",
+        "sourceRefs": [
+          "n250-john-paul-ii-cause"
+        ]
+      },
+      "antipopeReview": {
+        "status": "reviewed-none",
+        "claimantNames": [],
+        "note": "No rival in the historical antipope catalogue is identified for this pontificate by the reviewed biography and current Vatican sequence; this is not a survey of every modern self-proclaimed papal title.",
+        "sourceRefs": [
+          "n250-roster",
+          "n250-john-paul-ii-cause"
+        ]
+      },
+      "researchNotes": [],
+      "review": {
+        "coverage": "substantive",
+        "sourcesRead": [
+          "n250-john-paul-ii-cause",
+          "n250-john-paul-ii-centesimus",
+          "n250-john-paul-ii-ushmm",
+          "n250-mccarrick-vn"
+        ],
+        "openIssues": [],
+        "fieldsChecked": [
+          "biography",
+          "actions",
+          "context",
+          "birthDate",
+          "recognition",
+          "claimants"
+        ]
+      }
+    },
+    {
+      "personId": "pope-benedict-xvi",
+      "papalName": "Benedict XVI",
+      "alternateNames": [
+        "Joseph Ratzinger"
+      ],
+      "birthDate": {
+        "label": "16 April 1927",
+        "precision": "date",
+        "sourceRefs": [
+          "n250-benedict-xvi-bio"
+        ],
+        "note": ""
+      },
+      "summary": {
+        "text": "Benedict XVI was a theologian whose papacy emphasized encounter with Christ, the relationship of faith and reason, and Christian love. A major participant in Catholic doctrinal work before his election, he also governed amid the unfolding abuse crisis. His freely announced resignation in 2013 made a rare papal succession during a predecessor’s lifetime. He lived as pope emeritus until his death in 2022.",
+        "sourceRefs": [
+          "n250-benedict-xvi-bio",
+          "n250-benedict-xvi-love",
+          "n250-benedict-xvi-ireland",
+          "n250-benedict-xvi-resignation",
+          "n250-benedict-xvi-death"
+        ]
+      },
+      "biography": {
+        "paragraphs": [
+          {
+            "text": "Joseph Ratzinger grew up in Bavaria under Nazism and was enrolled in wartime auxiliary anti-aircraft service. After the war he became a priest and university theologian. At Vatican II he advised Cardinal Josef Frings of Cologne. A short period as archbishop of Munich and Freising was followed by more than two decades leading the Congregation for the Doctrine of the Faith. He also chaired the commission responsible for drafting the Catechism of the Catholic Church before his election in 2005.",
+            "sourceRefs": [
+              "n250-benedict-xvi-bio"
+            ]
+          },
+          {
+            "text": "His first encyclical, Deus caritas est, presented Christianity as a response to God’s prior love, joining reflection on human and divine love to practical service of neighbours. Government confronted failures far removed from that ideal. His 2010 letter to Ireland acknowledged grave episcopal errors in handling abuse, expressed remorse to victims and required cooperation with civil authorities. The later McCarrick account also records limits in his own administration: recommendations to withdraw from public life were not formal sanctions and proved ineffective. In 2013 he judged his declining strength insufficient for office and resigned.",
+            "sourceRefs": [
+              "n250-benedict-xvi-love",
+              "n250-benedict-xvi-ireland",
+              "n250-benedict-xvi-resignation",
+              "n250-mccarrick-vn"
+            ]
+          }
+        ]
+      },
+      "actions": [
+        {
+          "text": "Deus caritas est made love of God and neighbour inseparable, connecting theological conviction with concrete charitable responsibility.",
+          "sourceRefs": [
+            "n250-benedict-xvi-love"
+          ]
+        },
+        {
+          "text": "His Irish pastoral letter explicitly addressed victims, abusers and bishops, calling for accountability and cooperation with civil authorities after serious failures of leadership.",
+          "sourceRefs": [
+            "n250-benedict-xvi-ireland"
+          ]
+        },
+        {
+          "text": "His resignation declared the Roman See vacant from the evening of 28 February 2013. It ended his pontificate, while his death came almost ten years later, on 31 December 2022.",
+          "sourceRefs": [
+            "n250-benedict-xvi-resignation",
+            "n250-benedict-xvi-death"
+          ]
+        }
+      ],
+      "context": {
+        "paragraphs": [
+          {
+            "text": "Ratzinger’s career crossed the council and the debates over its reception, bringing a scholar’s concern for truth into the responsibilities of central church government. His opening encyclical sought to resist a portrayal of religion primarily through prohibition or violence by starting from divine love. The abuse crisis tested the credibility of that message through the conduct of church institutions and their leaders. His resignation, explained in terms of responsibility and capacity rather than abandonment of faith, placed the practical demands of a worldwide ministry in view. Subsequent life as pope emeritus created a new form of coexistence with a reigning successor.",
+            "sourceRefs": [
+              "n250-benedict-xvi-love",
+              "n250-benedict-xvi-ireland",
+              "n250-benedict-xvi-resignation",
+              "n250-benedict-xvi-death"
+            ]
+          }
+        ]
+      },
+      "saintStatus": {
+        "status": "no-positive-claim",
+        "label": "",
+        "recognition": "No beatification, canonization or other formal positive cause designation is established by the official sources reviewed as of 17 October 2026.",
+        "recognitionDate": null,
+        "beatificationDate": null,
+        "sourceRefs": [
+          "n250-benedict-xvi-bio",
+          "n250-benedict-xvi-death"
+        ]
+      },
+      "antipopeReview": {
+        "status": "reviewed-none",
+        "claimantNames": [],
+        "note": "No rival in the historical antipope catalogue is identified for this pontificate by the reviewed biography and current Vatican sequence; this is not a survey of every modern self-proclaimed papal title.",
+        "sourceRefs": [
+          "n250-roster",
+          "n250-benedict-xvi-bio"
+        ]
+      },
+      "researchNotes": [],
+      "review": {
+        "coverage": "substantive",
+        "sourcesRead": [
+          "n250-benedict-xvi-bio",
+          "n250-benedict-xvi-love",
+          "n250-benedict-xvi-ireland",
+          "n250-benedict-xvi-resignation",
+          "n250-benedict-xvi-death",
+          "n250-mccarrick-vn"
+        ],
+        "openIssues": [],
+        "fieldsChecked": [
+          "biography",
+          "actions",
+          "context",
+          "birthDate",
+          "recognition",
+          "claimants"
+        ]
+      }
+    },
+    {
+      "personId": "pope-francis",
+      "papalName": "Francis",
+      "alternateNames": [
+        "Jorge Mario Bergoglio"
+      ],
+      "birthDate": {
+        "label": "17 December 1936",
+        "precision": "date",
+        "sourceRefs": [
+          "n250-francis-bio"
+        ],
+        "note": ""
+      },
+      "summary": {
+        "text": "Francis, the first pope from the Americas, placed mercy, missionary outreach and attention to excluded people at the centre of his pontificate. The Argentine Jesuit linked care for creation with social justice, promoted consultation across the Church and reformed the Roman Curia. His government also faced the abuse crisis and introduced new reporting procedures. His pontificate ended with his death on 21 April 2025.",
+        "sourceRefs": [
+          "n250-francis-bio",
+          "n250-francis-evangelii",
+          "n250-francis-laudato",
+          "n250-francis-vos"
+        ]
+      },
+      "biography": {
+        "paragraphs": [
+          {
+            "text": "Jorge Mario Bergoglio trained as a chemical technician before entering religious life. As a Jesuit he taught and held leadership responsibilities in Argentina; later he became auxiliary bishop and archbishop of Buenos Aires. Created a cardinal in 2001, he was elected in March 2013 after Benedict XVI’s resignation. He chose the name Francis in reference to poverty, peace and care for creation, and emphasized contact with prisoners, sick people and those overlooked by society.",
+            "sourceRefs": [
+              "n250-francis-bio"
+            ]
+          },
+          {
+            "text": "Evangelii gaudium set out a programme in which Christian communities would move beyond self-preservation and accompany people in their actual lives. Laudato si’ developed an integral ecology, arguing that damage to nature and harm to vulnerable communities belong to one interrelated crisis. He reformed the Curia through Praedicate Evangelium and convened synods addressing family life, young people, Amazonia and synodality. On abuse, Vos estis lux mundi established reporting and investigation procedures, later revised in 2023. His final illness did not prevent an Easter appearance the day before his death.",
+            "sourceRefs": [
+              "n250-francis-bio",
+              "n250-francis-evangelii",
+              "n250-francis-laudato",
+              "n250-francis-vos"
+            ]
+          }
+        ]
+      },
+      "actions": [
+        {
+          "text": "Evangelii gaudium made missionary conversion a criterion for institutional reform: structures should serve proclamation, welcome and patient accompaniment rather than the Church’s own maintenance.",
+          "sourceRefs": [
+            "n250-francis-evangelii"
+          ]
+        },
+        {
+          "text": "Laudato si’ joined environmental protection to poverty, work, culture and participation. It called for transparent assessment of development projects and a real voice for affected communities.",
+          "sourceRefs": [
+            "n250-francis-laudato"
+          ]
+        },
+        {
+          "text": "Vos estis lux mundi required accessible reporting structures and protected complainants against retaliation. It addressed interference in investigations and preserved obligations imposed by civil law.",
+          "sourceRefs": [
+            "n250-francis-vos"
+          ]
+        }
+      ],
+      "context": {
+        "paragraphs": [
+          {
+            "text": "Francis addressed a world marked by ecological damage, economic inequality and distrust of institutions. His teaching challenged responses that separated environmental questions from the lives of workers, families and poorer communities. He argued that short-term profit and political cycles could frustrate the long-term care required by a shared home. Within the Church, the abuse crisis made the relationship between pastoral language and effective accountability unavoidable. Written procedures cannot themselves establish that protection succeeds in practice; the reforms are recorded as concrete requirements, without claiming that they resolved the crisis. His missionary programme remained the theological reason offered for broader institutional change.",
+            "sourceRefs": [
+              "n250-francis-evangelii",
+              "n250-francis-laudato",
+              "n250-francis-vos"
+            ]
+          }
+        ]
+      },
+      "saintStatus": {
+        "status": "no-positive-claim",
+        "label": "",
+        "recognition": "No formal beatification, canonization or positive cause designation is established by the official sources reviewed as of 17 October 2026. Commemorative descriptions of a holy life do not constitute canonical recognition.",
+        "recognitionDate": null,
+        "beatificationDate": null,
+        "sourceRefs": [
+          "n250-francis-bio"
+        ]
+      },
+      "antipopeReview": {
+        "status": "reviewed-none",
+        "claimantNames": [],
+        "note": "No rival in the historical antipope catalogue is identified for this pontificate by the reviewed biography and current Vatican sequence; this is not a survey of every modern self-proclaimed papal title.",
+        "sourceRefs": [
+          "n250-roster",
+          "n250-francis-bio"
+        ]
+      },
+      "researchNotes": [
+        {
+          "text": "The updated official biography directly confirms death on 21 April 2025. Its funeral-year typo (2205) is excluded, and its final eulogy is not treated as a saint designation.",
+          "sourceRefs": [
+            "n250-francis-bio"
+          ]
+        }
+      ],
+      "review": {
+        "coverage": "substantive",
+        "sourcesRead": [
+          "n250-francis-bio",
+          "n250-francis-evangelii",
+          "n250-francis-laudato",
+          "n250-francis-vos"
+        ],
+        "openIssues": [],
+        "fieldsChecked": [
+          "biography",
+          "actions",
+          "context",
+          "birthDate",
+          "recognition",
+          "claimants"
+        ]
+      }
+    },
+    {
+      "personId": "pope-leo-xiv",
+      "papalName": "Leo XIV",
+      "alternateNames": [
+        "Robert Francis Prevost"
+      ],
+      "birthDate": {
+        "label": "14 September 1955",
+        "precision": "date",
+        "sourceRefs": [
+          "n250-leo-xiv-bio"
+        ],
+        "note": ""
+      },
+      "summary": {
+        "text": "Leo XIV brings American birth, Augustinian religious life and long pastoral experience in Peru to the papacy. Elected in May 2025, Robert Francis Prevost connected his chosen name to Leo XIII’s social teaching and the challenges of artificial intelligence. His 2026 encyclical Magnifica humanitas applies human dignity, accountability and the common good to digital power. His pontificate is ongoing at the research date.",
+        "sourceRefs": [
+          "n250-leo-xiv-bio",
+          "n250-leo-xiv-cardinals",
+          "n250-leo-xiv-magnifica",
+          "n250-leo-xiv-current"
+        ]
+      },
+      "biography": {
+        "paragraphs": [
+          {
+            "text": "Robert Francis Prevost grew up in the Chicago area and studied mathematics before entering the Augustinian novitiate. After theological and canon-law studies he served in Peru as a parish priest, formation director, seminary teacher and church judicial official. He later led the worldwide Augustinian order for two terms. Returning to episcopal service, he became bishop of Chiclayo and acquired Peruvian citizenship. Francis brought him to Rome in 2023 to lead the Dicastery for Bishops and the Pontifical Commission for Latin America.",
+            "sourceRefs": [
+              "n250-leo-xiv-bio"
+            ]
+          },
+          {
+            "text": "Elected on 8 May 2025, he told the cardinals that Vatican II, missionary conversion, synodality, care for the excluded and dialogue would guide his service. His choice of name explicitly recalled the Church’s response to the industrial revolution. Magnifica humanitas developed that connection in 2026, examining how artificial intelligence affects rights, opportunities and freedom. It called for identifiable responsibility, independent oversight and participation by communities whose lives are shaped by these systems, rather than treating technical efficiency as a sufficient moral standard.",
+            "sourceRefs": [
+              "n250-leo-xiv-cardinals",
+              "n250-leo-xiv-magnifica"
+            ]
+          }
+        ]
+      },
+      "actions": [
+        {
+          "text": "His first programme to the cardinals reaffirmed the council’s path and linked social teaching to new challenges involving human dignity, justice and labour.",
+          "sourceRefs": [
+            "n250-leo-xiv-cardinals"
+          ]
+        },
+        {
+          "text": "Magnifica humanitas called for accountable AI governance, remedies for harm and scrutiny of the values embedded in data and models. It also warned against concentrated digital power.",
+          "sourceRefs": [
+            "n250-leo-xiv-magnifica"
+          ]
+        },
+        {
+          "text": "The encyclical urged technological development to serve the common good and include affected communities in discernment and oversight, applying subsidiarity and solidarity to a new field.",
+          "sourceRefs": [
+            "n250-leo-xiv-magnifica"
+          ]
+        }
+      ],
+      "context": {
+        "paragraphs": [
+          {
+            "text": "Prevost’s career joined local pastoral work, religious-order leadership and the selection of bishops across the world. His opening programme situated a new pontificate within the inheritance of Francis and Vatican II while invoking Leo XIII’s response to industrial change. The comparison does not imply that digital technology simply repeats nineteenth-century conditions. It identifies a recurring question: whether new forms of productive power respect persons and permit communities to shape their own lives. Assessment remains provisional because the pontificate continues; early teaching and completed appointments can be described more securely than predictions about its eventual legacy.",
+            "sourceRefs": [
+              "n250-leo-xiv-bio",
+              "n250-leo-xiv-cardinals",
+              "n250-leo-xiv-magnifica"
+            ]
+          }
+        ]
+      },
+      "saintStatus": {
+        "status": "no-positive-claim",
+        "label": "",
+        "recognition": "Reigning pope at the research date; no posthumous cause, beatification or canonization is asserted.",
+        "recognitionDate": null,
+        "beatificationDate": null,
+        "sourceRefs": [
+          "n250-leo-xiv-bio",
+          "n250-leo-xiv-current"
+        ]
+      },
+      "antipopeReview": {
+        "status": "reviewed-none",
+        "claimantNames": [],
+        "note": "No rival in the historical antipope catalogue is identified for this pontificate by the reviewed biography and current Vatican sequence; this is not a survey of every modern self-proclaimed papal title.",
+        "sourceRefs": [
+          "n250-roster",
+          "n250-leo-xiv-bio"
+        ]
+      },
+      "researchNotes": [
+        {
+          "text": "Endpoint reviewed as of 17 October 2026. Vatican News reports continuing papal activity during recovery from lung surgery; no end date is inferred. Scheduled future activity is not counted as completed.",
+          "sourceRefs": [
+            "n250-leo-xiv-current"
+          ]
+        },
+        {
+          "text": "Magnifica humanitas is an actual Vatican-hosted encyclical dated 15 May 2026, not an extrapolation from the May 2025 address.",
+          "sourceRefs": [
+            "n250-leo-xiv-magnifica"
+          ]
+        }
+      ],
+      "review": {
+        "coverage": "substantive",
+        "sourcesRead": [
+          "n250-leo-xiv-bio",
+          "n250-leo-xiv-cardinals",
+          "n250-leo-xiv-magnifica",
+          "n250-leo-xiv-current"
+        ],
+        "openIssues": [],
+        "fieldsChecked": [
+          "biography",
+          "actions",
+          "context",
+          "birthDate",
+          "recognition",
+          "claimants"
+        ]
+      }
+    }
+  ]
+}

@@ -1,8 +1,8 @@
 # Birthplace review — 17 October 2026
 
-The follow-up review covers 45 people. It separates the place used by the map from regional geometry, family origin, source criticism and competing accounts. Public labels use clean place names. The source roster remains unchanged, including its original origin strings and every pontificate date.
+The first follow-up review covers 45 people; the full-sequence research pass adds a separate review of 13 remaining named origins. It separates the place used by the map from regional geometry, family origin, source criticism and competing accounts. Public labels use clean place names. The source roster remains unchanged, including its original origin strings and every pontificate date.
 
-Reviewed input is in `data/research/birthplaces.json`, applied after the original roster/geographic inputs and the 22 narrative examples by `scripts/build-data.py`. Existing numbered references retain their IDs. The compiled dataset now contains 134 sources, 206 people with named-place coordinates, 36 with regional geometry, 10 with unknown birthplaces and 13 named places awaiting coordinates. This adds 13 mapped people without substituting a neighboring town.
+Reviewed input is in `data/research/birthplaces.json`, applied after the original roster/geographic inputs and the 22 narrative examples by `scripts/build-data.py`. Existing numbered references retain their IDs. That first review produced 206 named-place coordinates and left 13 named origins unmapped. `data/research/geography-followup.json` subsequently resolves all 13 places, producing 219 named-place coordinates, 36 regional origins and 10 unknown birthplaces.
 
 ## Selection and evidence
 
@@ -25,4 +25,10 @@ Town points identify settlements, not birth houses. Existing town IDs and gazett
 
 The input source records contain URLs, short supporting passages, coordinate authorities and license details. Public attribution is in Resources and the README. See also `assets/map/README.md`.
 
-The review improves birthplace coverage; it does not complete the 243 remaining full biographies, comprehensive rival-claimant coverage, portrait research, or release verification.
+The full-sequence narrative research is recorded separately in [the research ledger](research-coverage.md). Portrait research and release verification remain separate tasks.
+
+## Small-place follow-up
+
+The later input checks each settlement against a geographic or territorial authority: ancient Luni, Tossignano, Baggio, Fiagnano, Lisciano, Villandraut, Maumont, Les Monts, Grizac, Rosiers d’Égletons, Torre de Canals, Albisola and Monticelli di Genga. It rejects homonyms, municipal centroids and tourism route-start coordinates when they do not identify the named place. These remain settlement anchors rather than birth-building claims.
+
+Innocent VI’s Les Monts estate in Beyssac is matched to the Ministry of Culture heritage record and an OpenStreetMap-derived estate point. The provenance states that the coordinate was read through Mapcarta; direct OSM access was unavailable. Its record explains why the nearby Beyssac church and tourism route-start points were rejected.

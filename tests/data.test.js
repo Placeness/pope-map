@@ -127,3 +127,47 @@ test('place labels stay concise while source precision and coordinate attributio
   assert.ok(find('Eleutherius').birthplace.sourceRefs.some(id=>sourceMap.get(id).url.includes('pleiades-geojson')));
   assert.ok(find('Nicholas II').birthplace.sourceRefs.some(id=>sourceMap.get(id).url==='https://www.openstreetmap.org/node/11766436919'));
 });
+
+test('every person has an individually reviewed educational profile with passage evidence', () => {
+  assert.equal(data.metadata.narrativeCoverage.reviewedPeople,265);
+  assert.deepEqual(data.metadata.narrativeCoverage.remainingPeople,[]);
+  for (const person of data.people) {
+    const n=person.narrative;
+    assert.ok(n,`${person.name}: missing research dossier`);
+    assert.doesNotMatch(person.summary,/appears at position|Vatican roster records his origin/);
+    assert.ok(person.summary.length>80,`${person.name}: roster metadata is not an introduction`);
+    assert.ok(['substantive','scarce-evidence'].includes(n.review.coverage));
+    const passages=[n.summary,...n.biography.paragraphs,...n.actions,...n.context.paragraphs];
+    assert.ok(n.biography.paragraphs.length&&n.actions.length&&n.context.paragraphs.length,person.name);
+    for (const passage of passages) {
+      assert.ok(passage.text.trim().length>30,`${person.name}: empty learning passage`);
+      assert.ok(passage.sourceRefs.length&&passage.sourceRefs.some(ref=>ref>3),`${person.name}: narrative needs more than a roster/gazetteer reference`);
+    }
+    for (const field of ['birthDate','saintStatus','antipopeReview'])assert.ok(n[field].sourceRefs.length,`${person.name}: ${field} was not individually checked`);
+    assert.ok(n.review.sourcesRead.length,person.name);
+    assert.notEqual(person.research.birthDate,'unresearched');
+    assert.notEqual(person.research.antipopeCoverage,'not-systematically-reviewed');
+  }
+});
+
+test('rival accounts distinguish repeated names and retain recognized disputed popes', () => {
+  for (const name of ['Leo VIII','Benedict V','Sylvester III'])assert.ok(data.people.some(person=>person.name===name),name);
+  const victors=data.antipopes.filter(claimant=>claimant.name.startsWith('Victor IV'));
+  assert.equal(victors.length,2);
+  assert.notEqual(victors[0].id,victors[1].id);
+  assert.ok(data.antipopes.some(claimant=>claimant.name==='Felix V'));
+  for (const name of ['Felix II','Ursinus','Eulalius','Laurentius','Dioscorus','Constantine II','Boniface VII','John XVI','Benedict X','Anacletus II','Felix V'])assert.ok(data.antipopes.some(claimant=>claimant.name===name),`Missing historical rival ${name}`);
+  const alexander=data.people.find(person=>person.name==='Alexander III');
+  assert.ok(data.pontificates.find(period=>period.personId===alexander.id).antipopeIds.length>=4);
+});
+
+test('recognition stages do not turn causes into beatification or canonization', () => {
+  const pius=data.people.find(person=>person.name==='Pius XII');
+  assert.equal(pius.saintStatus.status,'venerable');
+  assert.equal(pius.saintStatus.label,'Venerable');
+  assert.ok(pius.saintStatus.sourceRefs.length);
+  assert.equal(data.people.find(person=>person.name==='John Paul I').saintStatus.status,'blessed');
+  assert.equal(data.people.find(person=>person.name==='Leo III').saintStatus.recognitionDate,null,'Martyrology inclusion is not a dated canonization');
+  assert.equal(data.people.find(person=>person.name==='Pius VII').saintStatus.status,'servant-of-god');
+  assert.equal(data.people.find(person=>person.name==='Pius VII').saintStatus.recognitionDate,null,'An investigative session does not establish the initial cause-opening date');
+});

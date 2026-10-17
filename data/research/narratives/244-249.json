@@ -1,0 +1,1320 @@
+{
+  "reviewedAt": "2026-10-17",
+  "scope": {
+    "firstOrder": 244,
+    "lastOrder": 249
+  },
+  "sources": [
+    {
+      "key": "n244-roster",
+      "title": "The Popes: official chronological sequence",
+      "url": "https://www.vatican.va/content/vatican/en/holy-father.html",
+      "kind": "official-vatican",
+      "retrievedAt": "2026-10-17",
+      "passage": "Entries 244–249 list Innocent XIII through Clement XIV, their recognized sequence, pontificate dates, personal names and birthplaces. This source establishes roster inclusion and dates, not biographical achievements.",
+      "access": {
+        "method": "web-open",
+        "verified": true
+      },
+      "author": "Holy See"
+    },
+    {
+      "key": "n244-innocent-xiii-ce",
+      "title": "Pope Innocent XIII",
+      "url": "https://www.newadvent.org/cathen/08023a.htm",
+      "kind": "supplementary-catholic",
+      "retrievedAt": "2026-10-17",
+      "passage": "Opening biography gives 13 May 1655, diplomatic appointments and episcopal career; concluding pontificate paragraphs describe Sicily/Parma-Piacenza disputes, James Stuart, Unigenitus, Chinese Rites and Spain. Its Rome birthplace and some appointment dates differ from modern Treccani and current Vatican roster.",
+      "access": {
+        "method": "web-open",
+        "verified": true
+      },
+      "author": "Michael Ott",
+      "publication": "The Catholic Encyclopedia, vol.8 (1910)",
+      "notes": "Historical Catholic scholarship with local New York imprimatur; evaluative language is not a current Vatican judgment. Its date for the Spanish disciplinary measure requires crosschecking."
+    },
+    {
+      "key": "n244-innocent-xiii-treccani",
+      "title": "Innocenzo XIII",
+      "url": "https://www.treccani.it/enciclopedia/innocenzo-xiii_(Enciclopedia-dei-Papi)/",
+      "kind": "scholarly-reference",
+      "retrievedAt": "2026-10-17",
+      "passage": "Opening Michelangelo Conti paragraph gives Poli 13 May 1655; career paragraphs describe Lisbon and the War of Spanish Succession. Pontificate paragraphs beginning Investito Carlo VI, Quanto all’Unigenitus, and Ne sortiscono, il 13 describe 1722 homage, resistance of Catholic governments, confirmation of Unigenitus and 13 September 1723 orders requiring Jesuit compliance in China.",
+      "access": {
+        "method": "web-open",
+        "verified": true
+      },
+      "author": "Gino Benzoni",
+      "publication": "Enciclopedia dei Papi (2000)",
+      "notes": "Modern source disagrees with the Catholic Encyclopedia on birthplace and several minor dates; the reviewed Poli geometry is retained. Its printed date for Clement XIV’s later suppression is not used."
+    },
+    {
+      "key": "n244-benedict-xiii-ce",
+      "title": "Pope Benedict XIII",
+      "url": "https://www.newadvent.org/cathen/02431a.htm",
+      "kind": "supplementary-catholic",
+      "retrievedAt": "2026-10-17",
+      "passage": "Opening paragraphs describe Orsini’s Dominican vocation and pastoral work in Manfredonia, Cesena and Benevento, including earthquake relief; pontificate paragraphs discuss 1725 seminaries/synod, Unigenitus, Savoy and Sicilian jurisdiction, Portugal and Cardinal Coscia’s corruption.",
+      "access": {
+        "method": "web-open",
+        "verified": true
+      },
+      "author": "Patrick Healy",
+      "publication": "The Catholic Encyclopedia, vol.2 (1907)",
+      "notes": "Historical local imprimatur. Its death date 23 February 1730 differs from current Vatican 21 February; its 1649 birth year is disputed in modern research. Descriptions such as saintly are not formal recognition."
+    },
+    {
+      "key": "n244-benedict-xiii-treccani",
+      "title": "Benedetto XIII",
+      "url": "https://www.treccani.it/enciclopedia/benedetto-xiii_(Enciclopedia-dei-Papi)/",
+      "kind": "scholarly-reference",
+      "retrievedAt": "2026-10-17",
+      "passage": "Opening paragraph explicitly contrasts Vignato’s calculation 2 February 1650 with the majority 1649 tradition. Pastoral paragraphs describe grain-credit institutions. Pontificate discussion on Coscia and the Congregation on Agriculture distinguishes reform intentions from corrupt implementation, challenging the view that Orsini ignored civil government altogether.",
+      "access": {
+        "method": "web-open",
+        "verified": true
+      },
+      "author": "Gaspare De Caro",
+      "publication": "Enciclopedia dei Papi (2000)"
+    },
+    {
+      "key": "n244-benedict-xiii-cause",
+      "title": "Convegno su Benedetto XIII",
+      "url": "https://www.oratoriosanfilippo.org/2012/02/convegno-su-benedetto-xiii/",
+      "kind": "supplementary-catholic",
+      "retrievedAt": "2026-10-17",
+      "passage": "Report dated 25 February 2012, opening paragraph, explicitly calls Vincenzo Maria Orsini–Benedict XIII a Servant of God and reports the solemn reopening of his beatification cause on the preceding day at the Lateran Palace under Cardinal Agostino Vallini.",
+      "access": {
+        "method": "web-open",
+        "verified": true
+      },
+      "author": "Procura Generalis Confoederationis Oratorii S. Philippi Nerii",
+      "publication": "25 February 2012",
+      "notes": "Institutional religious-order report of the formal cause session; the date records reopening, not beatification or canonization."
+    },
+    {
+      "key": "n244-benedict-xiii-commemoration",
+      "title": "Il Papa ricorda Benedetto XIII: uomo umile, non cedette mai a stili mondani e carrierismo",
+      "url": "https://www.vaticannews.va/it/papa/news/2024-05/papa-benedetto-xiii-celebrazioni-gravina-omelia-semeraro.html",
+      "kind": "official-vatican-publication",
+      "retrievedAt": "2026-10-17",
+      "passage": "29 May 2024 report of Francis’s message at the election tercentenary: his Dominican vocation, ministry in three dioceses and concern for poor people and clergy; Cardinal Semeraro’s homily recalls 218 Marian sermons. The article uses 1650 as birth year but makes no beatification announcement.",
+      "access": {
+        "method": "web-open",
+        "verified": true
+      },
+      "author": "Vatican News",
+      "publication": "29 May 2024"
+    },
+    {
+      "key": "n244-clement-xii-ce",
+      "title": "Pope Clement XII",
+      "url": "https://www.newadvent.org/cathen/04030a.htm",
+      "kind": "supplementary-catholic",
+      "retrievedAt": "2026-10-17",
+      "passage": "Opening career paragraphs give birth 7 April 1652 and service as lawyer, treasurer and curial official. Pontificate paragraphs describe blindness, the Coscia prosecution, lottery revenue, Lateran façade, Trevi works, Ancona, San Marino and 1738 Masonic condemnation.",
+      "access": {
+        "method": "web-open",
+        "verified": true
+      },
+      "author": "James Loughlin",
+      "publication": "The Catholic Encyclopedia, vol.4 (1908)",
+      "notes": "Historical local imprimatur. Rhetorical praise and claims of broad financial success are checked against modern research; canonizations performed by him do not establish his own sainthood."
+    },
+    {
+      "key": "n244-clement-xii-treccani",
+      "title": "Clemente XII",
+      "url": "https://www.treccani.it/enciclopedia/clemente-xii_(Enciclopedia-dei-Papi)/",
+      "kind": "scholarly-reference",
+      "retrievedAt": "2026-10-17",
+      "passage": "Opening gives Florence 7 April 1652. Pontificate paragraphs on Coscia’s 9 May 1733 sentence, the December 1731 lottery and 14 February 1732 Ancona free-port edict explain attempted fiscal recovery; discussion of the War of Polish Succession and 1737 Spanish concordat shows constraints on papal diplomacy. The final assessment finds continuing administrative and financial disorder.",
+      "access": {
+        "method": "web-open",
+        "verified": true
+      },
+      "author": "Alberto Caracciolo",
+      "publication": "Enciclopedia dei Papi (2000)"
+    },
+    {
+      "key": "n244-clement-xii-in-eminenti",
+      "title": "In eminenti, reproduced in Leo XII’s Quo graviora",
+      "url": "https://www.vatican.va/content/leo-xii/it/documents/bolla-quo-graviora-13-marzo-1825.html",
+      "kind": "official-vatican",
+      "retrievedAt": "2026-10-17",
+      "passage": "Quo graviora§1 dates Clement XII’s In eminenti to 28 April 1738;§2 reproduces the constitution: secret oath-bound societies admitting people of different religions are prohibited to Catholics, with excommunication reserved to the pope except at death.",
+      "access": {
+        "method": "web-open",
+        "verified": true
+      },
+      "author": "Clement XII; reproduced by Leo XII",
+      "publication": "In eminenti,28 April 1738, reproduced 13 March 1825",
+      "notes": "This is the actual earlier constitution reproduced in a later papal document, not merely a later biographical reference."
+    },
+    {
+      "key": "n244-capitoline-history",
+      "title": "Capitoline Museum and Picture Gallery",
+      "url": "https://www.museicapitolini.org/en/il_museo/storia_del_museo/museo_capitolino_e_pinacoteca",
+      "kind": "secondary-reference",
+      "retrievedAt": "2026-10-17",
+      "passage": "Museum-history paragraphs state that Clement XII’s purchase of the Albani statues and portraits preceded public inauguration in 1734; the following paragraph attributes the Capitoline Picture Gallery and Forma Urbis fragments to Benedict XIV.",
+      "access": {
+        "method": "web-open",
+        "verified": true
+      },
+      "author": "Musei Capitolini / Roma Capitale",
+      "publication": "Official institutional museum history",
+      "notes": "Institutional authority for its collections and opening history; not a church recognition source."
+    },
+    {
+      "key": "n244-benedict-xiv-ce",
+      "title": "Pope Benedict XIV",
+      "url": "https://www.newadvent.org/cathen/02432a.htm",
+      "kind": "supplementary-catholic",
+      "retrievedAt": "2026-10-17",
+      "passage": "Opening gives Prospero Lorenzo Lambertini, Bologna 31 March 1675, canon-law career, promoter of faith 1708 and Bologna episcopate. Public policy describes concordats and benefices; Eastern Churches and liturgical sections cover Chinese rites, Martyrology 1748, episcopal ceremonial 1752, academies and manuscripts. Concluding bibliography identifies De synodo dioecesana 1748.",
+      "access": {
+        "method": "web-open",
+        "verified": true
+      },
+      "author": "Patrick Healy",
+      "publication": "The Catholic Encyclopedia, vol.2 (1907)",
+      "notes": "Historical local imprimatur. Sweeping claims that usury was almost suppressed and controversies conclusively ended are not repeated. Some early office dates differ from modern Treccani."
+    },
+    {
+      "key": "n244-benedict-xiv-treccani",
+      "title": "Benedetto XIV",
+      "url": "https://www.treccani.it/enciclopedia/benedetto-xiv_(Enciclopedia-dei-Papi)/",
+      "kind": "scholarly-reference",
+      "retrievedAt": "2026-10-17",
+      "passage": "Opening confirms birth 31 March 1675. Paragraphs Ma l’opera discuss De servorum Dei beatificatione 1734–1738; Con la bolla Ex quo dates the Chinese Rites decision 11 July 1742; Uno straordinario impulso describes scholarly institutions, scientific and anatomical teaching. Election paragraph gives 17 August 1740.",
+      "access": {
+        "method": "web-open",
+        "verified": true
+      },
+      "author": "Mario Rosa",
+      "publication": "Enciclopedia dei Papi (2000)"
+    },
+    {
+      "key": "n244-benedict-xiv-allatae",
+      "title": "Allatae sunt",
+      "url": "https://www.vatican.va/content/benedictus-xiv/it/documents/enciclica--i-allatae-sunt--i---26-luglio-1755--in-questa-encicli.html",
+      "kind": "official-vatican",
+      "retrievedAt": "2026-10-17",
+      "passage": "Opening§§1–4 answers questions from Basra about Armenian and Syrian Catholics and rejects unauthorized alterations of approved Eastern rites;§§18–21 and 33–36 reinforce preservation of those rites rather than promoting Latinization.",
+      "access": {
+        "method": "web-open",
+        "verified": true
+      },
+      "author": "Benedict XIV",
+      "publication": "26 July 1755"
+    },
+    {
+      "key": "n244-benedict-xiv-vix",
+      "title": "Vix pervenit",
+      "url": "https://www.vatican.va/content/benedictus-xiv/it/documents/enciclica--i-vix-pervenit--i---1-novembre-1745--poiche-e-venuto-.html",
+      "kind": "official-vatican",
+      "retrievedAt": "2026-10-17",
+      "passage": "Opening and§§1–3 describe consultation of theologians and canonists;§3 I–II rejects gain claimed solely by reason of a loan, while§3 III–V distinguishes legitimate extrinsic titles and other just contracts from disguised usury.",
+      "access": {
+        "method": "web-open",
+        "verified": true
+      },
+      "author": "Benedict XIV",
+      "publication": "1 November 1745"
+    },
+    {
+      "key": "n244-clement-xiii-ce",
+      "title": "Pope Clement XIII",
+      "url": "https://www.newadvent.org/cathen/04032a.htm",
+      "kind": "supplementary-catholic",
+      "retrievedAt": "2026-10-17",
+      "passage": "Opening gives Carlo Rezzonico, Venice 7 March 1693, curial service and pastoral work at Padua. Portugal/France/Spain sections recount expulsions of Jesuits, opposition to a French national reorganization, January 1765 approval of the institute and the 1768 Parma dispute; final paragraph lists condemned books.",
+      "access": {
+        "method": "web-open",
+        "verified": true
+      },
+      "author": "Sydney Smith",
+      "publication": "The Catholic Encyclopedia, vol.4 (1908)",
+      "notes": "Historical local imprimatur. Strongly apologetic assessments of rulers, Jesuits and Enlightenment writers are not adopted as neutral facts. Praise comparing him to a saint is not evidence of canonization; its causal explanation of his death is not repeated."
+    },
+    {
+      "key": "n244-clement-xiii-treccani",
+      "title": "Clemente XIII",
+      "url": "https://www.treccani.it/enciclopedia/clemente-xiii_(Enciclopedia-dei-Papi)/",
+      "kind": "scholarly-reference",
+      "retrievedAt": "2026-10-17",
+      "passage": "Opening gives Venice 7 March 1693 and legal/curial career; episcopate paragraphs describe Padua’s clerical discipline. Pontificate discussion records Apostolicum pascendi in January 1765; Sotto C. surveys book condemnations, while Le cause di questa grave carestia examines weather, speculation and administrative failures during the mid-1760s famine and incomplete structural reform.",
+      "access": {
+        "method": "web-open",
+        "verified": true
+      },
+      "author": "Luigi Cajani and Anna Foa",
+      "publication": "Enciclopedia dei Papi (2000)",
+      "notes": "Day dates for Apostolicum differ among reference works; the profile uses January 1765. Famine chronology is treated as a mid-1760s crisis rather than harmonizing different dates without evidence."
+    },
+    {
+      "key": "n244-clement-xiii-a-quo",
+      "title": "A quo die",
+      "url": "https://www.vatican.va/content/clemens-xiii/it/documents/enciclica-a-quo-die-14-settembre-1758.html",
+      "kind": "official-vatican",
+      "retrievedAt": "2026-10-17",
+      "passage": "§§5–7 urge bishops to serve rather than dominate, avoid envy and correct with charity;§9 treats ecclesiastical wealth as entrusted goods carrying obligations toward the poor.",
+      "access": {
+        "method": "web-open",
+        "verified": true
+      },
+      "author": "Clement XIII",
+      "publication": "14 September 1758"
+    },
+    {
+      "key": "n244-clement-xiii-catechism",
+      "title": "In dominico agro",
+      "url": "https://www.vatican.va/content/clemens-xiii/it/documents/enciclica-in-dominico-agro-14-giugno-1761.html",
+      "kind": "official-vatican",
+      "retrievedAt": "2026-10-17",
+      "passage": "§5 orders a corrected reprinting of the Roman Catechism and announces a vernacular edition;§6 instructs bishops to ensure its use in parish teaching;§7 calls for teachers marked by knowledge, humility and charity.",
+      "access": {
+        "method": "web-open",
+        "verified": true
+      },
+      "author": "Clement XIII",
+      "publication": "14 June 1761"
+    },
+    {
+      "key": "n244-clement-xiii-books",
+      "title": "Christianae reipublicae",
+      "url": "https://www.vatican.va/content/clemens-xiii/it/documents/enciclica-christianae-reipublicae-25-novembre-1766.html",
+      "kind": "official-vatican",
+      "retrievedAt": "2026-10-17",
+      "passage": "§1 attacks atheism, materialism and writings challenging revealed mysteries;§2 orders vigorous action against harmful books, warnings to readers and recourse to Catholic rulers’ power.",
+      "access": {
+        "method": "web-open",
+        "verified": true
+      },
+      "author": "Clement XIII",
+      "publication": "25 November 1766"
+    },
+    {
+      "key": "n244-clement-xiii-famine",
+      "title": "Canale, Saverio",
+      "url": "https://www.treccani.it/enciclopedia/saverio-canale_(Dizionario-Biografico)/",
+      "kind": "scholarly-reference",
+      "retrievedAt": "2026-10-17",
+      "passage": "Paragraphs Comunque, seppure sprovvisto and Essendo esaurite describe Treasurer Canale following Clement XIII’s instructions during famine: funds from Castel Sant’Angelo for French grain, community grain-purchase loans, shelters for roughly 6000 refugees and grain/oil stores; extraordinary costs worsened fiscal pressure.",
+      "access": {
+        "method": "web-open",
+        "verified": true
+      },
+      "author": "Mirella Giansante",
+      "publication": "Dizionario Biografico degli Italiani, vol.17 (1974)"
+    },
+    {
+      "key": "n244-clement-xiv-ce",
+      "title": "Pope Clement XIV",
+      "url": "https://www.newadvent.org/cathen/04034a.htm",
+      "kind": "supplementary-catholic",
+      "retrievedAt": "2026-10-17",
+      "passage": "Opening and conclave discussion describe Ganganelli’s Franciscan and theological career and royal pressure in 1769. Subsequent paragraphs cover reconciliation with Portugal, Bourbon demands, suppression, Ricci’s imprisonment, uneven implementation and return of Avignon/Benevento. Final illness paragraph distinguishes doctors’ account from poisoning rumors.",
+      "access": {
+        "method": "web-open",
+        "verified": true
+      },
+      "author": "Joseph Wilhelm",
+      "publication": "The Catholic Encyclopedia, vol.4 (1908)",
+      "notes": "Historical local imprimatur. The essay’s strongly partisan character judgments are not adopted. Its 18 May 1769 election date conflicts with the current Vatican 19 May; its claim of complete restoration in 1804 is not used."
+    },
+    {
+      "key": "n244-clement-xiv-treccani",
+      "title": "Clemente XIV",
+      "url": "https://www.treccani.it/enciclopedia/clemente-xiv_(Enciclopedia-dei-Papi)/",
+      "kind": "scholarly-reference",
+      "retrievedAt": "2026-10-17",
+      "passage": "Opening gives 31 October 1705, Sant’Arcangelo, habit in 1723 and profession 1724. Pontificate paragraphs distinguish development and publication of Dominus ac Redemptor, intellectual censorship and museum patronage; concluding illness discussion treats poisoning as a contemporary legend rather than an established cause of death.",
+      "access": {
+        "method": "web-open",
+        "verified": true
+      },
+      "author": "Mario Rosa",
+      "publication": "Enciclopedia dei Papi (2000)"
+    },
+    {
+      "key": "n244-clement-xiv-suppression",
+      "title": "Dominus ac Redemptor",
+      "url": "https://www.vatican.va/content/clemens-xiv/it/documents/breve-dominus-ac-redemptor-21-luglio-1773.html",
+      "kind": "official-vatican",
+      "retrievedAt": "2026-10-17",
+      "passage": "§§22–24 describe rulers’ expulsions, demands and the pope’s deliberation;§25 suppresses the Society of Jesus and its houses/offices, transfers authority to local ordinaries and bars recruitment. Subsequent provisions regulate former members and property; closing date is 21 July 1773.",
+      "access": {
+        "method": "web-open",
+        "verified": true
+      },
+      "author": "Clement XIV",
+      "publication": "21 July 1773",
+      "notes": "Evidence for the pope’s decision and stated rationale, not independent proof of every historical allegation against Jesuits rehearsed in the document."
+    },
+    {
+      "key": "n244-clement-xiv-museum",
+      "title": "Gallery of Statues and the Hall of Busts",
+      "url": "https://www.museivaticani.va/content/museivaticani/en/collezioni/musei/museo-pio-clementino/Galleria-delle-Statue-e-Sala-dei-Busti/galleria-delle-statue-e-sala-dei-busti.html",
+      "kind": "official-vatican-publication",
+      "retrievedAt": "2026-10-17",
+      "passage": "Museum-history paragraph dates Clement XIV’s conversion of the Belvedere loggia into museum space to 1771–1772, with enclosure by windowed walls and creation of the Hall of Busts; the following sentence distinguishes Pius VI’s later expansion.",
+      "access": {
+        "method": "web-open",
+        "verified": true
+      },
+      "author": "Vatican Museums",
+      "publication": "Official collection history"
+    },
+    {
+      "key": "n244-benedict-xiv-commemoration",
+      "title": "Discorso preparato da Pio XII in occasione di una solenne commemorazione di Papa Benedetto XIV",
+      "url": "https://www.vatican.va/content/pius-xii/it/speeches/1958/documents/hf_p-xii_spe_19581115_benedetto-xiv.html",
+      "kind": "official-vatican",
+      "retrievedAt": "2026-10-17",
+      "passage": "Introduction identifies a text prepared by Pius XII for a planned November 1958 commemoration; section I, paragraphs on theological disputes and book examination, cites Lambertini distinguishing defined doctrine from free theological opinions and refusing condemnation of a work without examination and consideration of its defense.",
+      "access": {
+        "method": "web-open",
+        "verified": true
+      },
+      "author": "Pius XII",
+      "publication": "Prepared for the planned November 1958 commemoration",
+      "notes": "The introduction states this was a prepared commemorative text; it should not be described as a speech delivered by Pius XII after his death. The page title/search metadata and URL contain differing dates, so the event date is not used as a biographical fact."
+    }
+  ],
+  "profiles": [
+    {
+      "personId": "pope-innocent-xiii",
+      "papalName": "Innocent XIII",
+      "alternateNames": [
+        "Michelangelo Conti"
+      ],
+      "birthDate": {
+        "label": "13 May 1655",
+        "precision": "date",
+        "sourceRefs": [
+          "n244-innocent-xiii-ce",
+          "n244-innocent-xiii-treccani"
+        ],
+        "note": ""
+      },
+      "summary": {
+        "text": "Innocent XIII was a papal diplomat whose short pontificate defended Roman authority in Europe and the missions. Michelangelo Conti had represented the Holy See in Switzerland and Portugal before becoming pope in 1721. He maintained the condemnation of Jansenist propositions in Unigenitus and challenged Jesuit resistance to restrictions on Chinese rites. His negotiations with Catholic monarchies exposed the growing limits of papal influence over their territorial and ecclesiastical policies.",
+        "sourceRefs": [
+          "n244-innocent-xiii-ce",
+          "n244-innocent-xiii-treccani"
+        ]
+      },
+      "biography": {
+        "paragraphs": [
+          {
+            "text": "Michelangelo Conti belonged to the aristocratic family associated with Innocent III, whose name he adopted as pope. Educated for church service, he worked in the papal administration before holding diplomatic posts in Lucerne and Lisbon. The Portuguese posting gave him experience of a Catholic monarchy whose overseas patronage intertwined commerce, colonial rule and missionary work. He subsequently governed the dioceses of Osimo and Viterbo, resigning the latter because of ill health before his election.",
+            "sourceRefs": [
+              "n244-innocent-xiii-ce",
+              "n244-innocent-xiii-treccani"
+            ]
+          },
+          {
+            "text": "Elected on 8 May 1721, he inherited Clement XI’s unresolved disputes. French bishops who hoped that he would withdraw Unigenitus were disappointed: the earlier condemnation of propositions associated with Pasquier Quesnel remained in force. In the Chinese Rites controversy, he likewise insisted that missionaries obey Roman restrictions rather than continue disputed accommodations. These decisions placed disciplinary unity ahead of appeals for greater local latitude, although they did not settle the underlying conflicts.",
+            "sourceRefs": [
+              "n244-innocent-xiii-ce",
+              "n244-innocent-xiii-treccani"
+            ]
+          },
+          {
+            "text": "His diplomacy produced mixed results. He accepted Charles VI’s investiture in Sicily, but protested arrangements for Parma and Piacenza that disregarded papal claims. He continued support for the exiled Catholic Stuart claimant to the British crowns and gave assistance to Venice and Malta against the Ottoman threat. At home he limited the revenues attached to his brother’s cardinalate under the anti-nepotism rules of Innocent XII. Chronic illness restricted an already brief reign, which ended in 1724.",
+            "sourceRefs": [
+              "n244-innocent-xiii-ce"
+            ]
+          }
+        ]
+      },
+      "actions": [
+        {
+          "text": "Maintained Unigenitus after French bishops requested its withdrawal, preserving his predecessor’s doctrinal judgment amid the Jansenist controversy.",
+          "sourceRefs": [
+            "n244-innocent-xiii-ce"
+          ]
+        },
+        {
+          "text": "Required Jesuit authorities in 1723 to demonstrate compliance with Roman decisions on Chinese rites, threatening restrictions on recruitment if disobedience continued.",
+          "sourceRefs": [
+            "n244-innocent-xiii-treccani"
+          ]
+        },
+        {
+          "text": "Issued a measure for clerical discipline in Spain in 1723, seeking more consistent observance by both diocesan clergy and religious communities.",
+          "sourceRefs": [
+            "n244-innocent-xiii-ce",
+            "n244-innocent-xiii-treccani"
+          ]
+        },
+        {
+          "text": "Supported Venice and Malta against Ottoman pressure and maintained financial assistance to the exiled Stuart claimant, continuing older papal diplomatic commitments.",
+          "sourceRefs": [
+            "n244-innocent-xiii-ce"
+          ]
+        }
+      ],
+      "context": {
+        "paragraphs": [
+          {
+            "text": "The political map left by the War of the Spanish Succession placed Italian territories under competing Habsburg and Bourbon interests. Charles VI’s claims in southern Italy and Spanish plans for Parma and Piacenza mattered to Rome because the papacy asserted feudal and ecclesiastical rights there. The Catholic powers could seek papal recognition while resisting papal demands. Innocent’s investiture of Sicily therefore did not give him control over the emperor’s wider Italian policy.",
+            "sourceRefs": [
+              "n244-innocent-xiii-ce"
+            ]
+          },
+          {
+            "text": "Missionary and European disputes also intersected. The Chinese Rites debate concerned whether practices involving Confucius and ancestors could be treated as civil observances compatible with Christianity. In France, the controversy over Unigenitus involved episcopal authority as well as doctrine. Innocent’s rejection of challenges in both fields shows why criticism of particular Jesuit practices should not be mistaken for sympathy with Jansenism.",
+            "sourceRefs": [
+              "n244-innocent-xiii-ce",
+              "n244-innocent-xiii-treccani"
+            ]
+          }
+        ]
+      },
+      "saintStatus": {
+        "status": "no-positive-claim",
+        "label": "",
+        "recognition": "No canonization or beatification is established by the sources reviewed; no public saint title is asserted.",
+        "recognitionDate": null,
+        "beatificationDate": null,
+        "sourceRefs": [
+          "n244-innocent-xiii-ce",
+          "n244-innocent-xiii-treccani"
+        ]
+      },
+      "antipopeReview": {
+        "status": "reviewed-none",
+        "claimantNames": [],
+        "note": "No rival in the historical antipope catalogue is identified for this pontificate by the reviewed biography and current Vatican sequence; this is not a survey of every modern self-proclaimed papal title.",
+        "sourceRefs": [
+          "n244-roster",
+          "n244-innocent-xiii-ce"
+        ]
+      },
+      "researchNotes": [
+        {
+          "text": "The Catholic Encyclopedia says Rome for his birth, whereas the current Vatican roster and Benzoni identify Poli; the reviewed birthplace remains Poli. Minor cardinal-appointment dates also conflict and are omitted.",
+          "sourceRefs": [
+            "n244-innocent-xiii-ce",
+            "n244-innocent-xiii-treccani",
+            "n244-roster"
+          ]
+        },
+        {
+          "text": "Sources give conflicting day/month dates for the Spanish disciplinary bull; the profile states 1723 without resolving the exact day. It does not repeat a 1724 date found in an older separate encyclopedia entry, which would fall after this pope’s death.",
+          "sourceRefs": [
+            "n244-innocent-xiii-ce",
+            "n244-innocent-xiii-treccani"
+          ]
+        }
+      ],
+      "review": {
+        "coverage": "substantive",
+        "sourcesRead": [
+          "n244-innocent-xiii-ce",
+          "n244-innocent-xiii-treccani",
+          "n244-roster"
+        ],
+        "openIssues": [],
+        "fieldsChecked": [
+          "biography",
+          "actions",
+          "context",
+          "birthDate",
+          "recognition",
+          "claimants"
+        ]
+      }
+    },
+    {
+      "personId": "pope-benedict-xiii",
+      "papalName": "Benedict XIII",
+      "alternateNames": [
+        "Pier Francesco Orsini",
+        "Pietro Francesco Orsini",
+        "Vincenzo Maria Orsini"
+      ],
+      "birthDate": {
+        "label": "2 February 1649 or 1650",
+        "precision": "range",
+        "sourceRefs": [
+          "n244-benedict-xiii-ce",
+          "n244-benedict-xiii-treccani"
+        ],
+        "note": "The day and month agree; modern scholarship explicitly records the competing 1649 and 1650 years. Vatican News’s 2024 commemoration uses 1650."
+      },
+      "summary": {
+        "text": "Benedict XIII brought a Dominican friar’s habits and decades of diocesan ministry to the papacy. He encouraged seminaries, synods and clerical discipline, and was remembered for his care of Benevento after devastating earthquakes. His government also suffered from his misplaced trust in Cardinal Niccolò Coscia and other associates. His record combines sustained pastoral commitment with serious failures of oversight in the administration of the Papal States.",
+        "sourceRefs": [
+          "n244-benedict-xiii-ce",
+          "n244-benedict-xiii-treccani"
+        ]
+      },
+      "biography": {
+        "paragraphs": [
+          {
+            "text": "Born Pier Francesco Orsini into the ruling family of Gravina, he relinquished a wealthy inheritance to enter the Dominicans, taking the religious name Vincenzo Maria. His relatives opposed the decision, but it was sustained by papal authority. Made a cardinal while still young, he retained the order’s habit and preferred work in dioceses to a career centered on the Roman court. He served Manfredonia and Cesena before beginning his long archiepiscopate at Benevento in 1686.",
+            "sourceRefs": [
+              "n244-benedict-xiii-ce"
+            ]
+          },
+          {
+            "text": "At Benevento he visited parishes, held synods, supported hospitals and directed rebuilding after the earthquakes of 1688 and 1702. Elected pope after a prolonged conclave in 1724, he continued to approach church government through liturgy, preaching and pastoral discipline. He organized support for diocesan seminaries and held a Roman provincial synod during the Jubilee of 1725. He also maintained Unigenitus and worked for its acceptance by Cardinal de Noailles of Paris.",
+            "sourceRefs": [
+              "n244-benedict-xiii-ce"
+            ]
+          },
+          {
+            "text": "His preference for familiar Beneventan collaborators became a liability. Coscia and others exploited his confidence; their financial abuses damaged papal credibility and provoked investigation under Clement XII. Modern scholarship also credits Benedict with serious economic reform intentions, including agricultural credit and tax relief, whose implementation was distorted by profiteering. His personal austerity did not protect the government from corruption. The formal reopening of his beatification cause in 2012 concerns an examination of his life; it does not erase that historical problem or constitute beatification.",
+            "sourceRefs": [
+              "n244-benedict-xiii-treccani",
+              "n244-benedict-xiii-ce",
+              "n244-benedict-xiii-cause"
+            ]
+          }
+        ]
+      },
+      "actions": [
+        {
+          "text": "Established a commission for seminaries and held the 1725 Roman provincial synod, seeking better clerical formation and implementation of church discipline.",
+          "sourceRefs": [
+            "n244-benedict-xiii-ce"
+          ]
+        },
+        {
+          "text": "Personally participated in the penitential ministry of the 1725 Jubilee and pressed clerics and cardinals to avoid luxury.",
+          "sourceRefs": [
+            "n244-benedict-xiii-ce"
+          ]
+        },
+        {
+          "text": "Promoted agricultural credit and economic relief, but entrusted their execution to associates whose abuses undermined the intended reforms.",
+          "sourceRefs": [
+            "n244-benedict-xiii-treccani"
+          ]
+        },
+        {
+          "text": "Negotiated jurisdictional settlements with Savoy and the ruler of Naples/Sicily, accepting concessions intended to unblock ecclesiastical government.",
+          "sourceRefs": [
+            "n244-benedict-xiii-ce"
+          ]
+        }
+      ],
+      "context": {
+        "paragraphs": [
+          {
+            "text": "Benedict’s election followed deadlock between cardinals associated with Habsburg and Bourbon interests. The new pope faced disputes in France over Unigenitus, royal claims over church appointments in Savoy and Sicily, and Portugal’s demand for influence over cardinal nominations. His willingness to settle some jurisdictional quarrels reflected concern for functioning dioceses, although the concessions could diminish Rome’s practical leverage. The rupture with John V of Portugal showed that conciliation did not resolve every conflict.",
+            "sourceRefs": [
+              "n244-benedict-xiii-ce",
+              "n244-benedict-xiii-treccani"
+            ]
+          },
+          {
+            "text": "His pontificate also illustrates a distinction between pastoral reputation and institutional performance. As bishop he had managed relief and local credit projects; as pope, the same trust in a small personal circle allowed systematic abuse. Coscia’s subsequent punishment belonged to Clement XII’s reign. Benedict’s modern cause is an investigation of personal sanctity, while the corruption of his administration remains part of the historical assessment.",
+            "sourceRefs": [
+              "n244-benedict-xiii-ce",
+              "n244-benedict-xiii-treccani",
+              "n244-benedict-xiii-cause"
+            ]
+          }
+        ]
+      },
+      "saintStatus": {
+        "status": "servant-of-god",
+        "label": "Servant of God",
+        "recognition": "The Oratorian Confederation’s 25 February 2012 institutional report explicitly calls him Servant of God and records the formal reopening of his beatification cause at the Lateran on 24 February 2012. This is a cause-stage title, not beatification or canonization.",
+        "recognitionDate": null,
+        "beatificationDate": null,
+        "sourceRefs": [
+          "n244-benedict-xiii-cause"
+        ],
+        "causeReopenedDate": "2012-02-24"
+      },
+      "antipopeReview": {
+        "status": "reviewed-none",
+        "claimantNames": [],
+        "note": "No rival in the historical antipope catalogue is identified for this pontificate by the reviewed biography and current Vatican sequence; this is not a survey of every modern self-proclaimed papal title.",
+        "sourceRefs": [
+          "n244-roster",
+          "n244-benedict-xiii-ce"
+        ]
+      },
+      "researchNotes": [
+        {
+          "text": "Benedict XIII is distinct from Pedro de Luna, the earlier Avignon claimant who used the same papal name. The shared name does not create a rival claimant during 1724–1730.",
+          "sourceRefs": [
+            "n244-benedict-xiii-ce",
+            "n244-roster"
+          ]
+        },
+        {
+          "text": "The Catholic Encyclopedia’s 23 February 1730 death date is superseded for roster display by the current Vatican sequence’s 21 February 1730. Its 1649 birth year is retained only as one side of an explicit scholarly dispute.",
+          "sourceRefs": [
+            "n244-benedict-xiii-ce",
+            "n244-benedict-xiii-treccani",
+            "n244-roster"
+          ]
+        },
+        {
+          "text": "Francis’s 2024 commemoration praises his pastoral virtues, but is not itself a new canonization or beatification decree.",
+          "sourceRefs": [
+            "n244-benedict-xiii-commemoration"
+          ]
+        }
+      ],
+      "review": {
+        "coverage": "substantive",
+        "sourcesRead": [
+          "n244-benedict-xiii-ce",
+          "n244-benedict-xiii-treccani",
+          "n244-benedict-xiii-cause",
+          "n244-roster",
+          "n244-benedict-xiii-commemoration"
+        ],
+        "openIssues": [],
+        "fieldsChecked": [
+          "biography",
+          "actions",
+          "context",
+          "birthDate",
+          "recognition",
+          "claimants"
+        ]
+      }
+    },
+    {
+      "personId": "pope-clement-xii",
+      "papalName": "Clement XII",
+      "alternateNames": [
+        "Lorenzo Corsini"
+      ],
+      "birthDate": {
+        "label": "7 April 1652",
+        "precision": "date",
+        "sourceRefs": [
+          "n244-clement-xii-ce",
+          "n244-clement-xii-treccani"
+        ],
+        "note": ""
+      },
+      "summary": {
+        "text": "Clement XII was an experienced papal financial administrator who became pope at seventy-eight. Despite blindness, he pursued recovery from the previous administration’s abuses, encouraged commerce and left a visible mark on Rome through building and collecting. His reign opened the Capitoline Museum to the public and began the Trevi Fountain. He also issued the first papal condemnation of Freemasonry, while war and dynastic pressure limited his freedom in Italian affairs.",
+        "sourceRefs": [
+          "n244-clement-xii-ce",
+          "n244-capitoline-history",
+          "n244-clement-xii-in-eminenti",
+          "n244-clement-xii-treccani"
+        ]
+      },
+      "biography": {
+        "paragraphs": [
+          {
+            "text": "Lorenzo Corsini came from a wealthy Florentine family and studied law at Pisa. After his father’s death he entered ecclesiastical service, using family resources to acquire offices under the venal system then customary in the papal administration. He built a long career in Rome, particularly as treasurer, and became a cardinal under Clement XI. An intended diplomatic appointment to Vienna failed because the imperial court demanded a role in choosing the nuncio.",
+            "sourceRefs": [
+              "n244-clement-xii-ce"
+            ]
+          },
+          {
+            "text": "Elected in 1730 after a long conclave, Clement inherited financial disorder and widespread resentment of Cardinal Coscia’s circle. He demanded restitution and backed proceedings that brought Coscia a ten-year prison sentence. Blind from early in his pontificate, he continued to transact business with the assistance of officials and relatives. He restored the public lottery as a source of revenue and promoted commercial activity, including Ancona’s development as an Adriatic trading port. These initiatives did not secure a lasting cure for the state’s fiscal problems.",
+            "sourceRefs": [
+              "n244-clement-xii-ce",
+              "n244-clement-xii-treccani"
+            ]
+          },
+          {
+            "text": "His public legacy was also architectural and cultural. The new façade of St John Lateran, the Consulta palace and the beginning of the Trevi Fountain linked papal authority to a renewed cityscape. His acquisition of Cardinal Albani’s antiquities helped establish the public Capitoline Museum in 1734. Alongside this patronage, In eminenti prohibited Catholic participation in Masonic associations. Clement’s protection of institutions and concern for discipline thus operated together with a sharply guarded view of religious and social order.",
+            "sourceRefs": [
+              "n244-clement-xii-ce",
+              "n244-capitoline-history",
+              "n244-clement-xii-in-eminenti"
+            ]
+          }
+        ]
+      },
+      "actions": [
+        {
+          "text": "Prosecuted Coscia’s financial abuses and sought restitution, making the previous administration’s corruption a central early issue of his reign.",
+          "sourceRefs": [
+            "n244-clement-xii-ce",
+            "n244-clement-xii-treccani"
+          ]
+        },
+        {
+          "text": "Established Ancona as a free port in 1732 and supported its harbor and road connections, attempting to stimulate trade in the Papal States.",
+          "sourceRefs": [
+            "n244-clement-xii-treccani",
+            "n244-clement-xii-ce"
+          ]
+        },
+        {
+          "text": "Purchased the Albani antiquities collection and inaugurated the Capitoline Museum for the public in 1734.",
+          "sourceRefs": [
+            "n244-capitoline-history"
+          ]
+        },
+        {
+          "text": "Commissioned the Lateran façade and began the Trevi Fountain, giving lasting architectural form to the papal presence in Rome.",
+          "sourceRefs": [
+            "n244-clement-xii-ce"
+          ]
+        },
+        {
+          "text": "Issued In eminenti on 28 April 1738, prohibiting Catholics from joining or supporting Masonic societies under the constitution’s ecclesiastical penalties.",
+          "sourceRefs": [
+            "n244-clement-xii-in-eminenti"
+          ]
+        }
+      ],
+      "context": {
+        "paragraphs": [
+          {
+            "text": "The War of the Polish Succession reshaped Italy during Clement’s reign. Charles of Bourbon took Naples and Sicily from Habsburg rule, and foreign armies crossed papal territory, bringing requisitions and political pressure. Rome’s claims concerning investiture and immunity could not determine the settlement. A concordat with Spain in 1737 restored a measure of agreement, but disputes with Naples over ecclesiastical privileges continued.",
+            "sourceRefs": [
+              "n244-clement-xii-treccani"
+            ]
+          },
+          {
+            "text": "Clement governed a state with weak finances while acting as patron of a major artistic capital. Lottery revenue and commercial measures supported ambitious works, but war and structural economic problems frustrated recovery. His Masonic condemnation addressed a different perceived danger: secret, oath-bound associations that crossed confessional lines and operated beyond ordinary ecclesiastical scrutiny. The document records his reasoning and prohibitions; its accusations should not be treated as an independent account of every lodge.",
+            "sourceRefs": [
+              "n244-clement-xii-ce",
+              "n244-clement-xii-treccani",
+              "n244-clement-xii-in-eminenti"
+            ]
+          }
+        ]
+      },
+      "saintStatus": {
+        "status": "no-positive-claim",
+        "label": "",
+        "recognition": "No canonization or beatification is established by the sources reviewed; no public saint title is asserted.",
+        "recognitionDate": null,
+        "beatificationDate": null,
+        "sourceRefs": [
+          "n244-clement-xii-ce",
+          "n244-clement-xii-treccani"
+        ]
+      },
+      "antipopeReview": {
+        "status": "reviewed-none",
+        "claimantNames": [],
+        "note": "No rival in the historical antipope catalogue is identified for this pontificate by the reviewed biography and current Vatican sequence; this is not a survey of every modern self-proclaimed papal title.",
+        "sourceRefs": [
+          "n244-roster",
+          "n244-clement-xii-ce"
+        ]
+      },
+      "researchNotes": [
+        {
+          "text": "The Catholic Encyclopedia’s appreciative portrayal is balanced with Caracciolo’s finding that economic and administrative disorder persisted at the end of the reign. No positive personal canonization or beatification claim is established here.",
+          "sourceRefs": [
+            "n244-clement-xii-ce",
+            "n244-clement-xii-treccani"
+          ]
+        }
+      ],
+      "review": {
+        "coverage": "substantive",
+        "sourcesRead": [
+          "n244-clement-xii-ce",
+          "n244-clement-xii-treccani",
+          "n244-capitoline-history",
+          "n244-clement-xii-in-eminenti",
+          "n244-roster"
+        ],
+        "openIssues": [],
+        "fieldsChecked": [
+          "biography",
+          "actions",
+          "context",
+          "birthDate",
+          "recognition",
+          "claimants"
+        ]
+      }
+    },
+    {
+      "personId": "pope-benedict-xiv",
+      "papalName": "Benedict XIV",
+      "alternateNames": [
+        "Prospero Lambertini",
+        "Prospero Lorenzo Lambertini"
+      ],
+      "birthDate": {
+        "label": "31 March 1675",
+        "precision": "date",
+        "sourceRefs": [
+          "n244-benedict-xiv-ce",
+          "n244-benedict-xiv-treccani"
+        ],
+        "note": ""
+      },
+      "summary": {
+        "text": "Benedict XIV was a canon lawyer, pastor and scholar whose writings gave enduring shape to Catholic administration. Prospero Lambertini studied how saints’ causes should be examined and how bishops should govern their dioceses. As pope he supported libraries, academies and scientific teaching, negotiated with European rulers and clarified difficult questions of discipline. His learned openness coexisted with firm limits, including renewed restrictions in the Chinese Rites controversy.",
+        "sourceRefs": [
+          "n244-benedict-xiv-ce",
+          "n244-benedict-xiv-treccani"
+        ]
+      },
+      "biography": {
+        "paragraphs": [
+          {
+            "text": "Born in Bologna, Lambertini trained in theology and both canon and civil law before entering the Roman congregations. As promoter of the faith from 1708 he acquired direct experience of the evidentiary and procedural questions involved in saints’ causes. He became bishop of Ancona and then archbishop of Bologna, where he emphasized parish visitation, clerical formation, Scripture and the Fathers. His legal learning was connected to the practical work of a diocesan pastor.",
+            "sourceRefs": [
+              "n244-benedict-xiv-ce"
+            ]
+          },
+          {
+            "text": "Elected in 1740 after a six-month conclave, he brought those interests into universal church government. His treatise De servorum Dei beatificatione et beatorum canonizatione had organized the law and evidence associated with recognizing saints; De synodo dioecesana later explored episcopal and synodal responsibilities. He supported scholarly academies and the expansion and cataloguing of manuscripts, and encouraged scientific teaching in Bologna. The Capitoline Picture Gallery also took shape under his patronage.",
+            "sourceRefs": [
+              "n244-benedict-xiv-ce",
+              "n244-benedict-xiv-treccani",
+              "n244-capitoline-history"
+            ]
+          },
+          {
+            "text": "His diplomacy accepted concessions over appointments and benefices in order to reduce conflict with Catholic governments. His teaching likewise distinguished questions requiring different answers. Vix pervenit condemned profit exacted simply because money was lent, while recognizing that legitimate titles or other just contracts could support returns. Allatae sunt defended approved Eastern liturgies against Latinizing missionary practice. By contrast, his Chinese Rites decision confirmed restrictions on accommodations Rome judged incompatible with Catholic worship.",
+            "sourceRefs": [
+              "n244-benedict-xiv-ce",
+              "n244-benedict-xiv-vix",
+              "n244-benedict-xiv-allatae",
+              "n244-benedict-xiv-treccani"
+            ]
+          }
+        ]
+      },
+      "actions": [
+        {
+          "text": "Systematized canonization procedure in De servorum Dei beatificatione et beatorum canonizatione, published 1734–1738, bringing legal and historical scrutiny to saints’ causes.",
+          "sourceRefs": [
+            "n244-benedict-xiv-treccani",
+            "n244-benedict-xiv-ce"
+          ]
+        },
+        {
+          "text": "Published De synodo dioecesana in 1748, a major study connecting canon law with the work of bishops and diocesan synods.",
+          "sourceRefs": [
+            "n244-benedict-xiv-ce"
+          ]
+        },
+        {
+          "text": "Confirmed restrictions on Chinese rites in Ex quo singulari of 11 July 1742, requiring missionaries to accept Roman disciplinary limits.",
+          "sourceRefs": [
+            "n244-benedict-xiv-treccani",
+            "n244-benedict-xiv-ce"
+          ]
+        },
+        {
+          "text": "Issued Vix pervenit in 1745 on usury and just contracts, and Allatae sunt in 1755 on preserving approved Eastern rites.",
+          "sourceRefs": [
+            "n244-benedict-xiv-vix",
+            "n244-benedict-xiv-allatae"
+          ]
+        },
+        {
+          "text": "Supported academies, manuscript cataloguing, scientific teaching and the Capitoline Picture Gallery, making learned institutions a conspicuous part of his patronage.",
+          "sourceRefs": [
+            "n244-benedict-xiv-ce",
+            "n244-benedict-xiv-treccani",
+            "n244-capitoline-history"
+          ]
+        }
+      ],
+      "context": {
+        "paragraphs": [
+          {
+            "text": "Benedict governed while Catholic monarchies sought control of church revenues and appointments. His agreements with Spain, Portugal, Sardinia and Naples made concessions in temporal or patronage matters while attempting to preserve the Church’s pastoral work and spiritual jurisdiction. This conciliatory policy could attract criticism within Rome, but it differed from simply accepting royal control without negotiation. The disputed division of the patriarchate of Aquileia showed the continuing friction between papal decisions and the interests of Venice and the Habsburgs.",
+            "sourceRefs": [
+              "n244-benedict-xiv-ce"
+            ]
+          },
+          {
+            "text": "His relationship with eighteenth-century learning was similarly selective. Historical investigation, canon law, libraries and science could serve the Church; approval did not extend to every contemporary religious or cultural accommodation. Preserving an established Eastern Christian rite was different in his judgment from accepting contested practices in the China missions. His writings reveal the categories and distinctions through which he made those decisions. Pius XII’s later assessment also emphasized his distinction between defined doctrine and opinions left open to theological schools, and his insistence that books receive examination before condemnation.",
+            "sourceRefs": [
+              "n244-benedict-xiv-ce",
+              "n244-benedict-xiv-allatae",
+              "n244-benedict-xiv-treccani",
+              "n244-benedict-xiv-commemoration"
+            ]
+          }
+        ]
+      },
+      "saintStatus": {
+        "status": "no-positive-claim",
+        "label": "",
+        "recognition": "No canonization or beatification is established by the sources reviewed; no public saint title is asserted.",
+        "recognitionDate": null,
+        "beatificationDate": null,
+        "sourceRefs": [
+          "n244-benedict-xiv-ce",
+          "n244-benedict-xiv-treccani"
+        ]
+      },
+      "antipopeReview": {
+        "status": "reviewed-none",
+        "claimantNames": [],
+        "note": "No rival in the historical antipope catalogue is identified for this pontificate by the reviewed biography and current Vatican sequence; this is not a survey of every modern self-proclaimed papal title.",
+        "sourceRefs": [
+          "n244-roster",
+          "n244-benedict-xiv-ce"
+        ]
+      },
+      "researchNotes": [
+        {
+          "text": "Early office dates differ between Healy and Rosa: Council secretary 1718/1720 and titular episcopacy 1725/1724. They are omitted rather than silently reconciled. The 1742 Chinese Rites document Ex quo singulari is distinct from Ex quo primum of 1756.",
+          "sourceRefs": [
+            "n244-benedict-xiv-ce",
+            "n244-benedict-xiv-treccani"
+          ]
+        },
+        {
+          "text": "His scholarship on canonization is not evidence that he was himself canonized. None of the sources reviewed establishes a positive personal cause-stage title.",
+          "sourceRefs": [
+            "n244-benedict-xiv-ce",
+            "n244-benedict-xiv-treccani"
+          ]
+        }
+      ],
+      "review": {
+        "coverage": "substantive",
+        "sourcesRead": [
+          "n244-benedict-xiv-ce",
+          "n244-benedict-xiv-treccani",
+          "n244-capitoline-history",
+          "n244-benedict-xiv-vix",
+          "n244-benedict-xiv-allatae",
+          "n244-benedict-xiv-commemoration",
+          "n244-roster"
+        ],
+        "openIssues": [],
+        "fieldsChecked": [
+          "biography",
+          "actions",
+          "context",
+          "birthDate",
+          "recognition",
+          "claimants"
+        ]
+      }
+    },
+    {
+      "personId": "pope-clement-xiii",
+      "papalName": "Clement XIII",
+      "alternateNames": [
+        "Carlo Rezzonico",
+        "Carlo della Torre Rezzonico"
+      ],
+      "birthDate": {
+        "label": "7 March 1693",
+        "precision": "date",
+        "sourceRefs": [
+          "n244-clement-xiii-ce",
+          "n244-clement-xiii-treccani"
+        ],
+        "note": ""
+      },
+      "summary": {
+        "text": "Clement XIII defended the Jesuits as Catholic governments expelled them and demanded their abolition. Formerly bishop of Padua, he also promoted clerical formation, shared catechetical teaching and charitable service. His response to Enlightenment criticism included censorship backed by appeals to secular rulers. At home, famine required emergency grain purchases and relief. His pontificate reveals both a pastoral understanding of episcopal office and resistance to the growing reach of royal government.",
+        "sourceRefs": [
+          "n244-clement-xiii-ce",
+          "n244-clement-xiii-catechism",
+          "n244-clement-xiii-books",
+          "n244-clement-xiii-famine"
+        ]
+      },
+      "biography": {
+        "paragraphs": [
+          {
+            "text": "Carlo Rezzonico was born into a wealthy Venetian family, studied with the Jesuits at Bologna and trained in law at Padua. He served as a governor and in the Roman courts before becoming a cardinal. As bishop of Padua from 1743, he emphasized the formation and conduct of priests and held a diocesan synod. His personal generosity and pastoral discipline were remembered by contemporaries with differing theological allegiances. He became pope on 6 July 1758.",
+            "sourceRefs": [
+              "n244-clement-xiii-ce"
+            ]
+          },
+          {
+            "text": "In his first encyclical he told bishops that their office was service, not domination. His 1761 instruction on the Roman Catechism sought a common basis for parish teaching, supported by corrected editions and capable teachers. This pastoral program accompanied a determined defense of Roman authority. He rejected proposals to remodel the French Jesuits under a national superior independent of Rome, and in January 1765 reaffirmed the Society’s institute, teaching and spiritual work through Apostolicum pascendi.",
+            "sourceRefs": [
+              "n244-clement-xiii-a-quo",
+              "n244-clement-xiii-catechism",
+              "n244-clement-xiii-ce"
+            ]
+          },
+          {
+            "text": "His defense could not prevent expulsion from Portugal, France, Spain and other Bourbon territories. The displaced religious also presented practical difficulties: Clement initially refused the arrival of the Spanish Jesuits before later allowing refuge in papal territory. Meanwhile the famine crisis of the mid-1760s forced emergency measures, including grain imports, loans and shelters. His government provided relief without overcoming the provisioning system’s deeper weaknesses. He died in 1769 as coordinated royal pressure for universal suppression reached Rome.",
+            "sourceRefs": [
+              "n244-clement-xiii-ce",
+              "n244-clement-xiii-famine",
+              "n244-clement-xiii-treccani"
+            ]
+          }
+        ]
+      },
+      "actions": [
+        {
+          "text": "Reaffirmed the Jesuit institute in Apostolicum pascendi in January 1765 and resisted national restructuring of the order under royal control.",
+          "sourceRefs": [
+            "n244-clement-xiii-ce",
+            "n244-clement-xiii-treccani"
+          ]
+        },
+        {
+          "text": "Ordered renewed editions and parish use of the Roman Catechism in 1761, tying common doctrinal instruction to humility and charity in its teachers.",
+          "sourceRefs": [
+            "n244-clement-xiii-catechism"
+          ]
+        },
+        {
+          "text": "Authorized emergency grain purchases, community loans and shelters for famine refugees, drawing heavily on already strained papal resources.",
+          "sourceRefs": [
+            "n244-clement-xiii-famine"
+          ]
+        },
+        {
+          "text": "Urged bishops in 1766 to suppress writings he judged hostile to faith and morality and to seek Catholic rulers’ assistance in enforcing that policy.",
+          "sourceRefs": [
+            "n244-clement-xiii-books"
+          ]
+        },
+        {
+          "text": "Protested Parma’s 1768 ecclesiastical legislation, triggering a wider Bourbon confrontation over papal rights and territory.",
+          "sourceRefs": [
+            "n244-clement-xiii-ce"
+          ]
+        }
+      ],
+      "context": {
+        "paragraphs": [
+          {
+            "text": "The Jesuit crisis involved different conflicts in different states. Portugal’s minister Pombal targeted an influential transnational order; in France, the Lavalette financial affair and the Parlement’s campaign opened the way to suppression; Spain’s Charles III expelled the order in 1767. Rome considered attacks on a papally approved institute a challenge to church jurisdiction, while monarchies sought control over institutions within their territories. The Parma dispute intensified that confrontation and brought the French, Spanish and Neapolitan courts into a common demand for abolition.",
+            "sourceRefs": [
+              "n244-clement-xiii-ce"
+            ]
+          },
+          {
+            "text": "His intellectual policy was also defensive. The condemnation of works including Helvétius’s De l’esprit, the Encyclopédie and Febronius’s De statu Ecclesiae placed him against currents that challenged received doctrine or Roman jurisdiction. Christianae reipublicae made censorship an explicit pastoral duty and sought civil enforcement. This coercive response belongs beside his charitable teaching and famine relief when assessing his government; neither strand supplies the whole account.",
+            "sourceRefs": [
+              "n244-clement-xiii-ce",
+              "n244-clement-xiii-books",
+              "n244-clement-xiii-a-quo",
+              "n244-clement-xiii-famine"
+            ]
+          }
+        ]
+      },
+      "saintStatus": {
+        "status": "no-positive-claim",
+        "label": "",
+        "recognition": "No canonization or beatification is established by the sources reviewed; no public saint title is asserted.",
+        "recognitionDate": null,
+        "beatificationDate": null,
+        "sourceRefs": [
+          "n244-clement-xiii-ce",
+          "n244-clement-xiii-treccani"
+        ]
+      },
+      "antipopeReview": {
+        "status": "reviewed-none",
+        "claimantNames": [],
+        "note": "No rival in the historical antipope catalogue is identified for this pontificate by the reviewed biography and current Vatican sequence; this is not a survey of every modern self-proclaimed papal title.",
+        "sourceRefs": [
+          "n244-roster",
+          "n244-clement-xiii-ce"
+        ]
+      },
+      "researchNotes": [
+        {
+          "text": "The exact January 1765 day assigned to Apostolicum pascendi differs in the reviewed reference tradition; the public text intentionally uses the month. The historical encyclopedia’s saint-like praise is not a formal recognition claim.",
+          "sourceRefs": [
+            "n244-clement-xiii-ce",
+            "n244-clement-xiii-treccani"
+          ]
+        },
+        {
+          "text": "Famine measures are dated 1763 in Canale’s biography, while the broader papal biography discusses the 1764–1767 crisis; the profile uses mid-1760s without inventing a single chronology.",
+          "sourceRefs": [
+            "n244-clement-xiii-famine",
+            "n244-clement-xiii-treccani"
+          ]
+        }
+      ],
+      "review": {
+        "coverage": "substantive",
+        "sourcesRead": [
+          "n244-clement-xiii-ce",
+          "n244-clement-xiii-treccani",
+          "n244-clement-xiii-catechism",
+          "n244-clement-xiii-books",
+          "n244-clement-xiii-famine",
+          "n244-clement-xiii-a-quo",
+          "n244-roster"
+        ],
+        "openIssues": [],
+        "fieldsChecked": [
+          "biography",
+          "actions",
+          "context",
+          "birthDate",
+          "recognition",
+          "claimants"
+        ]
+      }
+    },
+    {
+      "personId": "pope-clement-xiv",
+      "papalName": "Clement XIV",
+      "alternateNames": [
+        "Giovanni Vincenzo Antonio Ganganelli",
+        "Giovan Vincenzo Antonio Ganganelli",
+        "Lorenzo Ganganelli"
+      ],
+      "birthDate": {
+        "label": "31 October 1705",
+        "precision": "date",
+        "sourceRefs": [
+          "n244-clement-xiv-ce",
+          "n244-clement-xiv-treccani"
+        ],
+        "note": ""
+      },
+      "summary": {
+        "text": "Clement XIV was a Conventual Franciscan theologian whose pontificate is defined by the suppression of the Society of Jesus in 1773. Seeking relief from a sustained confrontation with Catholic courts, he chose a concession his predecessor had resisted. His reign also fostered museum collections and attempted diplomatic reconciliation. The suppression disrupted schools, missions and religious communities, while its uneven reception exposed the limits of papal power over European rulers.",
+        "sourceRefs": [
+          "n244-clement-xiv-ce",
+          "n244-clement-xiv-treccani",
+          "n244-clement-xiv-museum"
+        ]
+      },
+      "biography": {
+        "paragraphs": [
+          {
+            "text": "Giovanni Vincenzo Antonio Ganganelli grew up in Romagna and entered the Conventual Franciscans, taking the name Lorenzo. He studied and taught philosophy and theology, held responsibilities within his order and became a consultant to the Holy Office. Benedict XIV valued his theological work, and Clement XIII created him a cardinal in 1759. His background was therefore chiefly religious and academic before his election to the papacy in 1769.",
+            "sourceRefs": [
+              "n244-clement-xiv-ce",
+              "n244-clement-xiv-treccani"
+            ]
+          },
+          {
+            "text": "The conclave took place amid demands from Bourbon governments for the Jesuits’ universal abolition. Once elected, Clement sought settlements with Catholic courts, including restored relations with Portugal, and made concessions in disputes inherited from his predecessor. These measures did not remove the central demand. Spain’s envoy José Moñino pressed the issue, while other potential protectors of the Jesuits became less willing to oppose the Bourbon courts. Clement delayed before finally deciding to suppress the order.",
+            "sourceRefs": [
+              "n244-clement-xiv-ce"
+            ]
+          },
+          {
+            "text": "Dominus ac Redemptor, dated 21 July 1773, abolished the Society’s offices and institutions, transferred authority to local bishops and stopped the admission of novices. Clement presented the measure as necessary for the Church’s peace. It brought grave consequences for Jesuit communities, educational work and missions; Superior General Lorenzo Ricci was imprisoned. Suppression was not uniformly enforced, particularly in Russia. Clement also developed the museum spaces that became part of the Pio-Clementino collection. He died in 1774, leaving a deeply disputed legacy.",
+            "sourceRefs": [
+              "n244-clement-xiv-suppression",
+              "n244-clement-xiv-ce",
+              "n244-clement-xiv-museum"
+            ]
+          }
+        ]
+      },
+      "actions": [
+        {
+          "text": "Suppressed the Society of Jesus through Dominus ac Redemptor in 1773, abolishing its governance and requiring provision for former members under local ecclesiastical authority.",
+          "sourceRefs": [
+            "n244-clement-xiv-suppression"
+          ]
+        },
+        {
+          "text": "Restored diplomatic relations with Portugal and pursued accommodation with Bourbon governments after the confrontations of Clement XIII’s reign.",
+          "sourceRefs": [
+            "n244-clement-xiv-ce"
+          ]
+        },
+        {
+          "text": "Recovered Avignon and Benevento after the suppression, while royal interference in other church affairs continued.",
+          "sourceRefs": [
+            "n244-clement-xiv-ce"
+          ]
+        },
+        {
+          "text": "Created new museum accommodation in the Belvedere in 1771–1772, an important stage in the formation of the Pio-Clementino collection.",
+          "sourceRefs": [
+            "n244-clement-xiv-museum"
+          ]
+        }
+      ],
+      "context": {
+        "paragraphs": [
+          {
+            "text": "By 1769 the Jesuits had already been expelled from Portugal, France, Spain and several related territories. Their colleges, missions and close association with papal authority made them a target in struggles over education, property and church jurisdiction. Charles III of Spain and the Bourbon courts wanted Rome to convert national expulsions into an act applying to the whole Church. Clement’s decision was made within that pressure, but remained a papal act with its own legal provisions and consequences.",
+            "sourceRefs": [
+              "n244-clement-xiv-ce"
+            ]
+          },
+          {
+            "text": "Accommodation did not mean a general embrace of Enlightenment religious criticism. Clement continued opposition to Febronian challenges to Roman authority and to writings regarded as hostile to Catholic belief. At the same time his museum patronage participated in the antiquarian culture of eighteenth-century Rome. The subsequent portrayal of him either as a philosophical liberator or as a poisoned victim reflects the polemics surrounding suppression; neither supplies a secure biography.",
+            "sourceRefs": [
+              "n244-clement-xiv-treccani",
+              "n244-clement-xiv-museum"
+            ]
+          }
+        ]
+      },
+      "saintStatus": {
+        "status": "no-positive-claim",
+        "label": "",
+        "recognition": "No canonization or beatification is established by the sources reviewed; no public saint title is asserted.",
+        "recognitionDate": null,
+        "beatificationDate": null,
+        "sourceRefs": [
+          "n244-clement-xiv-ce",
+          "n244-clement-xiv-treccani"
+        ]
+      },
+      "antipopeReview": {
+        "status": "reviewed-none",
+        "claimantNames": [],
+        "note": "No rival in the historical antipope catalogue is identified for this pontificate by the reviewed biography and current Vatican sequence; this is not a survey of every modern self-proclaimed papal title.",
+        "sourceRefs": [
+          "n244-roster",
+          "n244-clement-xiv-ce"
+        ]
+      },
+      "researchNotes": [
+        {
+          "text": "The current Vatican sequence’s 19 May 1769 election date controls roster display; the Catholic Encyclopedia says 18 May. For his religious career, modern research distinguishes taking the habit in 1723 from profession in 1724, rather than treating them as one event.",
+          "sourceRefs": [
+            "n244-roster",
+            "n244-clement-xiv-ce",
+            "n244-clement-xiv-treccani"
+          ]
+        },
+        {
+          "text": "Poisoning accusations circulated after his death, but neither the contemporary medical report discussed in the Catholic Encyclopedia nor Rosa’s account establishes assassination. The narrative does not repeat that legend as fact.",
+          "sourceRefs": [
+            "n244-clement-xiv-ce",
+            "n244-clement-xiv-treccani"
+          ]
+        },
+        {
+          "text": "The suppression brief’s historical accusations record its justification; they are not independently verified findings about all Jesuits. Unproven stories about a binding pre-election promise are not used as settled facts.",
+          "sourceRefs": [
+            "n244-clement-xiv-suppression",
+            "n244-clement-xiv-ce"
+          ]
+        }
+      ],
+      "review": {
+        "coverage": "substantive",
+        "sourcesRead": [
+          "n244-clement-xiv-ce",
+          "n244-clement-xiv-treccani",
+          "n244-clement-xiv-museum",
+          "n244-clement-xiv-suppression",
+          "n244-roster"
+        ],
+        "openIssues": [],
+        "fieldsChecked": [
+          "biography",
+          "actions",
+          "context",
+          "birthDate",
+          "recognition",
+          "claimants"
+        ]
+      }
+    }
+  ]
+}

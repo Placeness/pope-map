@@ -1,0 +1,2360 @@
+{
+  "reviewedAt": "2026-10-17",
+  "sources": [
+    {
+      "title": "The catacombs, destination of the Great Jubilee",
+      "url": "https://www.vatican.va/content/dam/wss/jubilee_2000/magazine/documents/ju_mag_01091997_p-70_en.html",
+      "author": "Enrico dal Covolo",
+      "publication": "Vatican Jubilee 2000 magazine, 1 September 1997",
+      "accessedAt": "2026-10-10",
+      "section": "The history of Callistus; The question of Hippolytus",
+      "supportingPassageSummary": "Roman Trastevere tradition for Callistus; exile and reconciliation narrative; Hippolytus identity explicitly uncertain.",
+      "verificationHierarchy": "official-vatican-historical-publication",
+      "key": "cl-ex-catacombs",
+      "passage": "Roman Trastevere tradition for Callistus; exile and reconciliation narrative; Hippolytus identity explicitly uncertain."
+    },
+    {
+      "title": "The List of Popes",
+      "url": "https://www.newadvent.org/cathen/12272b.htm",
+      "author": null,
+      "publication": "Catholic Encyclopedia vol 12, 1911; later online additions",
+      "accessedAt": "2026-10-10",
+      "section": "Rows 16–19 and 194",
+      "supportingPassageSummary": "Traditional Hippolytus links across four pontificates and positive Blessed Benedict XI title.",
+      "verificationHierarchy": "historical-catholic-encyclopedia",
+      "key": "cl-ex-ce-list",
+      "passage": "Traditional Hippolytus links across four pontificates and positive Blessed Benedict XI title."
+    },
+    {
+      "title": "Antipope",
+      "url": "https://www.newadvent.org/cathen/01582a.htm",
+      "author": null,
+      "publication": "Catholic Encyclopedia vol 1, 1907, Robert Appleton Company",
+      "accessedAt": "2026-10-10",
+      "section": "Definition and historical list",
+      "supportingPassageSummary": "Rival claimants; Hippolytus marked with question mark; some classifications differ from current Vatican roster.",
+      "verificationHierarchy": "historical-catholic-encyclopedia",
+      "key": "cl-ex-antipope-list",
+      "passage": "Rival claimants; Hippolytus marked with question mark; some classifications differ from current Vatican roster."
+    },
+    {
+      "title": "Pope Cornelius",
+      "url": "https://www.newadvent.org/cathen/04375c.htm",
+      "author": "John Chapman",
+      "publication": "Catholic Encyclopedia vol 4, 1908, Robert Appleton Company",
+      "accessedAt": "2026-10-10",
+      "section": "Election; Novatian schism; lapsed Christians; exile paragraphs",
+      "supportingPassageSummary": "Cornelius elected after persecution, supported penitential readmission and faced Novatian rival claim.",
+      "verificationHierarchy": "historical-catholic-encyclopedia",
+      "key": "cl-ex-cornelius",
+      "passage": "Cornelius elected after persecution, supported penitential readmission and faced Novatian rival claim."
+    },
+    {
+      "title": "Robert of Geneva",
+      "url": "https://www.newadvent.org/cathen/13096c.htm",
+      "author": "William Turner",
+      "publication": "Catholic Encyclopedia, volume 13, 1912",
+      "accessedAt": "2026-10-10",
+      "section": "Opening birth/election dates and Avignon paragraphs",
+      "supportingPassageSummary": "Clement VII claimant born Geneva, elected at Fondi in opposition to Urban VI in 1378; died at Avignon in 1394.",
+      "verificationHierarchy": "historical-catholic-encyclopedia",
+      "key": "cl-ex-clement-vii-claimant",
+      "passage": "Clement VII claimant born Geneva, elected at Fondi in opposition to Urban VI in 1378; died at Avignon in 1394."
+    },
+    {
+      "title": "Pontiffs — official Vatican roster",
+      "url": "https://www.vatican.va/content/vatican/en/holy-father.html",
+      "author": "Holy See",
+      "publication": "Live Vatican roster",
+      "accessedAt": "2026-10-10",
+      "section": "Rows for named pontiffs; Benedict IX rows 145, 147, 150; Dionysius row 25",
+      "supportingPassageSummary": "Authoritative sequence, repeated pontificates, source dates and birthplace/origin labels.",
+      "verificationHierarchy": "official-vatican",
+      "key": "cl-ex-roster",
+      "passage": "Authoritative sequence, repeated pontificates, source dates and birthplace/origin labels."
+    },
+    {
+      "title": "Mark Dykmans, Clemente VII, antipapa — Enciclopedia dei Papi",
+      "url": "https://www.treccani.it/enciclopedia/antipapa-clemente-vii_%28Enciclopedia-dei-Papi%29/",
+      "author": "Mark Dykmans",
+      "publication": "Treccani,2000",
+      "accessedAt": "2026-10-10",
+      "section": "Opening biography",
+      "supportingPassageSummary": "Robert of Geneva was born at the castle of Annecy in1342; differs from older CE Geneva origin.",
+      "verificationHierarchy": "supplementary-scholarly",
+      "approval": "Vatican approval not established.",
+      "key": "cl-ex-clement-vii-treccani",
+      "passage": "Robert of Geneva was born at the castle of Annecy in1342; differs from older CE Geneva origin."
+    },
+    {
+      "title": "Pedro de Luna",
+      "url": "https://www.newadvent.org/cathen/09431c.htm",
+      "author": "Johann Peter Kirsch",
+      "publication": "Catholic Encyclopedia, volume 9, 1910",
+      "accessedAt": "2026-10-10",
+      "section": "Election, dealings with Boniface IX, Innocent VII, Gregory XII; Constance and final claim",
+      "supportingPassageSummary": "Benedict XIII elected in 1394; rival to three successive Roman popes; deposed July 1417, continued claim after Martin V election.",
+      "verificationHierarchy": "historical-catholic-encyclopedia",
+      "key": "cl-ex-benedict-xiii-claimant",
+      "passage": "Benedict XIII elected in 1394; rival to three successive Roman popes; deposed July 1417, continued claim after Martin V election."
+    },
+    {
+      "title": "Gli Anni Santi del 1423 e 1450",
+      "url": "https://www.vatican.va/jubilee_2000/pilgrim/documents/ju_gp_06042000_p-7_it.html",
+      "author": "Mario Sensi",
+      "publication": "Vatican Jubilee 2000 historical publication, 6 April 2000",
+      "accessedAt": "2026-10-10",
+      "section": "Opening paragraphs: Alexander V, Martin V and the Council of Constance",
+      "supportingPassageSummary": "Alexander V was elected at Pisa; Constance deposed John XXIII and Benedict XIII; Gregory XII resigned; Martin V elected in 1417.",
+      "verificationHierarchy": "official-vatican-historical-publication",
+      "key": "cl-ex-schism-vatican",
+      "passage": "Alexander V was elected at Pisa; Constance deposed John XXIII and Benedict XIII; Gregory XII resigned; Martin V elected in 1417."
+    },
+    {
+      "title": "Alexander V",
+      "url": "https://www.newadvent.org/cathen/01288a.htm",
+      "author": "John Bertram Peterson",
+      "publication": "Catholic Encyclopedia, volume 1, 1907",
+      "accessedAt": "2026-10-10",
+      "section": "Opening dates and Council of Pisa paragraphs; final discussion of legitimacy",
+      "supportingPassageSummary": "Peter of Candia elected in June 1409; died May 1410; Pisan election added a third claimant alongside Gregory XII and Benedict XIII.",
+      "verificationHierarchy": "historical-catholic-encyclopedia",
+      "key": "cl-ex-alexander-v-claimant",
+      "passage": "Peter of Candia elected in June 1409; died May 1410; Pisan election added a third claimant alongside Gregory XII and Benedict XIII."
+    },
+    {
+      "title": "John XXIII (Pisan claimant)",
+      "url": "https://www.newadvent.org/cathen/08434a.htm",
+      "author": "Johann Peter Kirsch",
+      "publication": "Catholic Encyclopedia, volume 8, 1910",
+      "accessedAt": "2026-10-10",
+      "section": "Election paragraph (17 May 1410); Gregory XII relations; Constance deposition (29 May 1415)",
+      "supportingPassageSummary": "Baldassare Cossa succeeded Alexander V in 1410; rival to Gregory XII and Benedict XIII; deposed 1415; later submitted to Martin V.",
+      "verificationHierarchy": "historical-catholic-encyclopedia",
+      "key": "cl-ex-john-xxiii-claimant",
+      "passage": "Baldassare Cossa succeeded Alexander V in 1410; rival to Gregory XII and Benedict XIII; deposed 1415; later submitted to Martin V."
+    },
+    {
+      "key": "cl-felix-ii",
+      "title": "Felix II",
+      "url": "https://www.newadvent.org/cathen/06030a.htm",
+      "kind": "supplementary-catholic",
+      "publication": "The Catholic Encyclopedia, 1907–1913; New Advent transcription",
+      "retrievedAt": "2026-10-17",
+      "passage": "Biography paragraphs on Liberius’s exile, imperial installation, return and expulsion; final paragraphs distinguish the claimant from a martyr named Felix.",
+      "access": {
+        "method": "web-open",
+        "verified": true
+      },
+      "notes": "Historical Catholic reference with local ecclesiastical approval, not a current Vatican determination. Original text is public domain in the United States; partisan judgments require critical assessment."
+    },
+    {
+      "key": "cl-anastasius",
+      "title": "Anastasius Bibliothecarius",
+      "url": "https://www.newadvent.org/cathen/16002b.htm",
+      "kind": "supplementary-catholic",
+      "publication": "The Catholic Encyclopedia, 1907–1913; New Advent transcription",
+      "retrievedAt": "2026-10-17",
+      "passage": "Paragraphs14–17 on Anastasius the presbyter, rival election in855, and the disputed identification with the later librarian.",
+      "access": {
+        "method": "web-open",
+        "verified": true
+      },
+      "notes": "Historical Catholic reference with local ecclesiastical approval, not a current Vatican determination. Original text is public domain in the United States; partisan judgments require critical assessment."
+    },
+    {
+      "key": "cl-boniface-vii",
+      "title": "Boniface VII",
+      "url": "https://www.newadvent.org/cathen/02661c.htm",
+      "kind": "supplementary-catholic",
+      "publication": "The Catholic Encyclopedia, 1907–1913; New Advent transcription",
+      "retrievedAt": "2026-10-17",
+      "passage": "Opening and chronological paragraphs on the974 coup, flight to Constantinople, return in984, imprisonment of JohnXIV and death in985.",
+      "access": {
+        "method": "web-open",
+        "verified": true
+      },
+      "notes": "Historical Catholic reference with local ecclesiastical approval, not a current Vatican determination. Original text is public domain in the United States; partisan judgments require critical assessment."
+    },
+    {
+      "key": "cl-john-xvi",
+      "title": "Antipope John XVI (XVII)",
+      "url": "https://www.newadvent.org/cathen/08428a.htm",
+      "kind": "supplementary-catholic",
+      "publication": "The Catholic Encyclopedia, 1907–1913; New Advent transcription",
+      "retrievedAt": "2026-10-17",
+      "passage": "Biography paragraphs on JohnPhilagathus’s Piacenza and imperial career; Crescentius’s election in997; capture, mutilation, deposition and monastic confinement in998.",
+      "access": {
+        "method": "web-open",
+        "verified": true
+      },
+      "notes": "Historical Catholic reference with local ecclesiastical approval, not a current Vatican determination. Original text is public domain in the United States; partisan judgments require critical assessment."
+    },
+    {
+      "key": "cl-cadalus",
+      "title": "Cadalous",
+      "url": "https://www.newadvent.org/cathen/03128c.htm",
+      "kind": "supplementary-catholic",
+      "publication": "The Catholic Encyclopedia, 1907–1913; New Advent transcription",
+      "retrievedAt": "2026-10-17",
+      "passage": "Opening and chronological paragraphs on the1061 Basel election, fighting at Rome, regency changes, Mantua1064 and continued claim until death1072.",
+      "access": {
+        "method": "web-open",
+        "verified": true
+      },
+      "notes": "Historical Catholic reference with local ecclesiastical approval, not a current Vatican determination. Original text is public domain in the United States; partisan judgments require critical assessment."
+    },
+    {
+      "key": "cl-guibert",
+      "title": "Guibert of Ravenna",
+      "url": "https://www.newadvent.org/cathen/07063a.htm",
+      "kind": "supplementary-catholic",
+      "publication": "The Catholic Encyclopedia, 1907–1913; New Advent transcription",
+      "retrievedAt": "2026-10-17",
+      "passage": "Brixen1080 election; Lateran enthronement and imperial coronation1084; continuing opposition under VictorIII, UrbanII and PaschalII; death1100.",
+      "access": {
+        "method": "web-open",
+        "verified": true
+      },
+      "notes": "Historical Catholic reference with local ecclesiastical approval, not a current Vatican determination. Original text is public domain in the United States; partisan judgments require critical assessment."
+    },
+    {
+      "key": "cl-gregory-viii",
+      "title": "Gregory VIII (antipope)",
+      "url": "https://www.newadvent.org/cathen/06795b.htm",
+      "kind": "supplementary-catholic",
+      "publication": "The Catholic Encyclopedia, 1907–1913; New Advent transcription",
+      "retrievedAt": "2026-10-17",
+      "passage": "Opening biography and final paragraphs on MauriceBourdin, imperial election8March1118, opposition to GelasiusII, imprisonment under CallixtusII and later confinement.",
+      "access": {
+        "method": "web-open",
+        "verified": true
+      },
+      "notes": "Historical Catholic reference with local ecclesiastical approval, not a current Vatican determination. Original text is public domain in the United States; partisan judgments require critical assessment."
+    },
+    {
+      "key": "cl-anacletus-ii",
+      "title": "Anacletus II",
+      "url": "https://www.newadvent.org/cathen/01447a.htm",
+      "kind": "supplementary-catholic",
+      "publication": "The Catholic Encyclopedia, 1907–1913; New Advent transcription",
+      "retrievedAt": "2026-10-17",
+      "passage": "Divided election of1130, competing cardinal groups and Roman support; international recognition of InnocentII, RogerII’s allegiance, and death25January1138.",
+      "access": {
+        "method": "web-open",
+        "verified": true
+      },
+      "notes": "Historical Catholic reference with local ecclesiastical approval, not a current Vatican determination. Original text is public domain in the United States; partisan judgments require critical assessment."
+    },
+    {
+      "key": "cl-victor-iv",
+      "title": "Victor IV (two claimants)",
+      "url": "https://www.newadvent.org/cathen/15411a.htm",
+      "kind": "supplementary-catholic",
+      "publication": "The Catholic Encyclopedia, 1907–1913; New Advent transcription",
+      "retrievedAt": "2026-10-17",
+      "passage": "Separate numbered accounts: GregoryConti’s two-month claim and submission29May1138; Octavian’s election1159, Pavia1160, international allegiances and death1164.",
+      "access": {
+        "method": "web-open",
+        "verified": true
+      },
+      "notes": "Historical Catholic reference with local ecclesiastical approval, not a current Vatican determination. Original text is public domain in the United States; partisan judgments require critical assessment."
+    },
+    {
+      "key": "cl-paschal-iii",
+      "title": "Paschal III",
+      "url": "https://www.newadvent.org/cathen/11515a.htm",
+      "kind": "supplementary-catholic",
+      "publication": "The Catholic Encyclopedia, 1907–1913; New Advent transcription",
+      "retrievedAt": "2026-10-17",
+      "passage": "Single biographical paragraph: GuidoofCrema succeeds Octavian in1164, Charlemagne recognition at imperial request1165, and death1168.",
+      "access": {
+        "method": "web-open",
+        "verified": true
+      },
+      "notes": "Historical Catholic reference with local ecclesiastical approval, not a current Vatican determination. Original text is public domain in the United States; partisan judgments require critical assessment."
+    },
+    {
+      "key": "cl-natalis",
+      "title": "Pope St. Zephyrinus",
+      "url": "https://www.newadvent.org/cathen/15756c.htm",
+      "kind": "supplementary-catholic",
+      "publication": "The Catholic Encyclopedia, 1907–1913; New Advent transcription",
+      "retrievedAt": "2026-10-17",
+      "passage": "Paragraphs on the Theodotian community, appointment of Natalis as its bishop and his subsequent reconciliation; this is not evidence of an uncontested formal papal claim.",
+      "access": {
+        "method": "web-open",
+        "verified": true
+      },
+      "notes": "Historical Catholic reference with local ecclesiastical approval, not a current Vatican determination. Original text is public domain in the United States; partisan judgments require critical assessment."
+    },
+    {
+      "key": "cl-ursinus",
+      "title": "Pope St. Damasus I",
+      "url": "https://www.newadvent.org/cathen/04613a.htm",
+      "kind": "supplementary-catholic",
+      "publication": "The Catholic Encyclopedia, 1907–1913; New Advent transcription",
+      "retrievedAt": "2026-10-17",
+      "passage": "Opening election paragraphs on Ursinus, opposing Roman factions, violence and imperial exile; source openly acknowledges partisan testimony.",
+      "access": {
+        "method": "web-open",
+        "verified": true
+      },
+      "notes": "Historical Catholic reference with local ecclesiastical approval, not a current Vatican determination. Original text is public domain in the United States; partisan judgments require critical assessment."
+    },
+    {
+      "key": "cl-eulalius",
+      "title": "Pope St. Boniface I",
+      "url": "https://www.newadvent.org/cathen/02658a.htm",
+      "kind": "supplementary-catholic",
+      "publication": "The Catholic Encyclopedia, 1907–1913; New Advent transcription",
+      "retrievedAt": "2026-10-17",
+      "passage": "Paragraphs on the double election after Zosimus, imperial hearings, exclusion of both claimants, Eulalius’s Easter return and Honorius’s decision.",
+      "access": {
+        "method": "web-open",
+        "verified": true
+      },
+      "notes": "Historical Catholic reference with local ecclesiastical approval, not a current Vatican determination. Original text is public domain in the United States; partisan judgments require critical assessment."
+    },
+    {
+      "key": "cl-laurentius",
+      "title": "Pope St. Symmachus",
+      "url": "https://www.newadvent.org/cathen/14377a.htm",
+      "kind": "supplementary-catholic",
+      "publication": "The Catholic Encyclopedia, 1907–1913; New Advent transcription",
+      "retrievedAt": "2026-10-17",
+      "passage": "Double election498, arbitration and499 submission, renewed conflict501–502, four-year division and later restoration of churches to Symmachus.",
+      "access": {
+        "method": "web-open",
+        "verified": true
+      },
+      "notes": "Historical Catholic reference with local ecclesiastical approval, not a current Vatican determination. Original text is public domain in the United States; partisan judgments require critical assessment."
+    },
+    {
+      "key": "cl-dioscorus",
+      "title": "Dioscorus",
+      "url": "https://www.newadvent.org/cathen/05018a.htm",
+      "kind": "supplementary-catholic",
+      "publication": "The Catholic Encyclopedia, 1907–1913; New Advent transcription",
+      "retrievedAt": "2026-10-17",
+      "passage": "Divided election against Felix IV’s designated successor, majority clerical support, death 14 October 530 in less than a month, posthumous condemnation and Agapetus’s reversal.",
+      "access": {
+        "method": "web-open",
+        "verified": true
+      },
+      "notes": "Historical Catholic reference with local ecclesiastical approval, not a current Vatican determination. Original text is public domain in the United States; partisan judgments require critical assessment."
+    },
+    {
+      "key": "cl-sergius-election",
+      "title": "Pope St. Sergius I",
+      "url": "https://www.newadvent.org/cathen/13728b.htm",
+      "kind": "supplementary-catholic",
+      "publication": "The Catholic Encyclopedia, 1907–1913; New Advent transcription",
+      "retrievedAt": "2026-10-17",
+      "passage": "Opening paragraph on rival elections of archdeacon Paschal and archpriest Theodore, followed by the wider choice of Sergius.",
+      "access": {
+        "method": "web-open",
+        "verified": true
+      },
+      "notes": "Historical Catholic reference with local ecclesiastical approval, not a current Vatican determination. Original text is public domain in the United States; partisan judgments require critical assessment."
+    },
+    {
+      "key": "cl-stephen-election",
+      "title": "Pope Stephen (III) IV",
+      "url": "https://www.newadvent.org/cathen/14289a.htm",
+      "kind": "supplementary-catholic",
+      "publication": "The Catholic Encyclopedia, 1907–1913; New Advent transcription",
+      "retrievedAt": "2026-10-17",
+      "passage": "Opening paragraphs on Toto’s installation of Constantine, the Lombard intervention and Philip’s brief election, followed by Stephen’s accession and769 electoral legislation.",
+      "access": {
+        "method": "web-open",
+        "verified": true
+      },
+      "notes": "Historical Catholic reference with local ecclesiastical approval, not a current Vatican determination. Original text is public domain in the United States; partisan judgments require critical assessment."
+    },
+    {
+      "key": "cl-john-844",
+      "title": "Pope Sergius II",
+      "url": "https://www.newadvent.org/cathen/13728c.htm",
+      "kind": "supplementary-catholic",
+      "publication": "The Catholic Encyclopedia, 1907–1913; New Advent transcription",
+      "retrievedAt": "2026-10-17",
+      "passage": "Opening election paragraphs: majority choice of Sergius, attempted installation of the deacon John and his removal to a monastery.",
+      "access": {
+        "method": "web-open",
+        "verified": true
+      },
+      "notes": "Historical Catholic reference with local ecclesiastical approval, not a current Vatican determination. Original text is public domain in the United States; partisan judgments require critical assessment."
+    },
+    {
+      "key": "cl-christopher",
+      "title": "Pope Leo V",
+      "url": "https://www.newadvent.org/cathen/09159b.htm",
+      "kind": "supplementary-catholic",
+      "publication": "The Catholic Encyclopedia, 1907–1913; New Advent transcription",
+      "retrievedAt": "2026-10-17",
+      "passage": "Final biographical paragraphs on Christopher’s imprisonment of LeoV, usurpation and displacement by SergiusIII; conflicting death accounts explicitly assessed.",
+      "access": {
+        "method": "web-open",
+        "verified": true
+      },
+      "notes": "Historical Catholic reference with local ecclesiastical approval, not a current Vatican determination. Original text is public domain in the United States; partisan judgments require critical assessment."
+    },
+    {
+      "key": "cl-gregory-1012",
+      "title": "Gregory VI (antipope of1012)",
+      "url": "https://www.newadvent.org/cathen/06791b.htm",
+      "kind": "supplementary-catholic",
+      "publication": "The Catholic Encyclopedia, 1907–1913; New Advent transcription",
+      "retrievedAt": "2026-10-17",
+      "passage": "Full short article: challenge to BenedictVIII, expulsion fromRome, appeal to HenryII atChristmas1012 and removal of papal insignia.",
+      "access": {
+        "method": "web-open",
+        "verified": true
+      },
+      "notes": "Historical Catholic reference with local ecclesiastical approval, not a current Vatican determination. Original text is public domain in the United States; partisan judgments require critical assessment."
+    },
+    {
+      "key": "cl-benedict-x",
+      "title": "Pope Nicholas II",
+      "url": "https://www.newadvent.org/cathen/11055a.htm",
+      "kind": "supplementary-catholic",
+      "publication": "The Catholic Encyclopedia, 1907–1913; New Advent transcription",
+      "retrievedAt": "2026-10-17",
+      "passage": "Opening1058 rival election and exile of protesting cardinals; Nicholas’s Siena election, Sutri deposition and1059 Norman-backed capitulation atGaleria.",
+      "access": {
+        "method": "web-open",
+        "verified": true
+      },
+      "notes": "Historical Catholic reference with local ecclesiastical approval, not a current Vatican determination. Original text is public domain in the United States; partisan judgments require critical assessment."
+    },
+    {
+      "key": "cl-callixtus-ii",
+      "title": "Pope Callistus II",
+      "url": "https://www.newadvent.org/cathen/03185a.htm",
+      "kind": "supplementary-catholic",
+      "publication": "The Catholic Encyclopedia, 1907–1913; New Advent transcription",
+      "retrievedAt": "2026-10-17",
+      "passage": "Paragraphs on GregoryVIII’s retreat toSutri and capture in1121 before the Worms settlement.",
+      "access": {
+        "method": "web-open",
+        "verified": true
+      },
+      "notes": "Historical Catholic reference with local ecclesiastical approval, not a current Vatican determination. Original text is public domain in the United States; partisan judgments require critical assessment."
+    },
+    {
+      "key": "cl-theodoric",
+      "title": "Theodoric, antipope",
+      "url": "https://www.treccani.it/enciclopedia/antipapa-teodorico_(Enciclopedia-dei-Papi)/",
+      "kind": "scholarly-reference",
+      "author": "Andrea Piazza",
+      "publication": "Enciclopedia dei Papi, 2000",
+      "retrievedAt": "2026-10-17",
+      "passage": "Biographical paragraphs: Guibert’s death, late September 1100 election, earlier cardinal offices, 105-day interval before capture, and confinement at Cava de’ Tirreni; epitaph records death in 1102.",
+      "access": {
+        "method": "web-open",
+        "verified": true
+      }
+    },
+    {
+      "key": "cl-albert",
+      "title": "Albert, antipope",
+      "url": "https://www.treccani.it/enciclopedia/antipapa-alberto_(Enciclopedia-dei-Papi)/",
+      "kind": "scholarly-reference",
+      "author": "Andrea Piazza",
+      "publication": "Enciclopedia dei Papi, 2000",
+      "retrievedAt": "2026-10-17",
+      "passage": "Election and capture paragraphs: bishop of Silva Candida in Guibert’s obedience; election placed within February 1101 rather than 1102; surrender after street fighting and confinement at San Lorenzo at Aversa.",
+      "access": {
+        "method": "web-open",
+        "verified": true
+      }
+    },
+    {
+      "key": "cl-sylvester-iv",
+      "title": "Sylvester IV, antipope",
+      "url": "https://www.treccani.it/enciclopedia/antipapa-silvestro-iv_(Enciclopedia-dei-Papi)/",
+      "kind": "scholarly-reference",
+      "author": "Andrea Piazza",
+      "publication": "Enciclopedia dei Papi, 2000",
+      "retrievedAt": "2026-10-17",
+      "passage": "Election and withdrawal paragraphs: Maginulf’s November 1105 election, Guarnerio of Ancona’s intervention, retreat through Tivoli to Osimo, and renunciation on 12–13 April 1111 during the investiture settlement.",
+      "access": {
+        "method": "web-open",
+        "verified": true
+      }
+    },
+    {
+      "key": "cl-celestine-1124",
+      "title": "Pope Honorius II: disputed election of 1124",
+      "url": "https://www.newadvent.org/cathen/07456a.htm",
+      "kind": "supplementary-catholic",
+      "author": "Michael Ott",
+      "publication": "The Catholic Encyclopedia, 1910; New Advent transcription",
+      "retrievedAt": "2026-10-17",
+      "passage": "Opening election paragraphs: Teobaldo’s initial election and investiture as Celestine II, Frangipani intervention for Lamberto, Teobaldo’s withdrawal, and subsequent general acceptance of Honorius II.",
+      "access": {
+        "method": "web-open",
+        "verified": true
+      },
+      "notes": "Historical Catholic reference with local ecclesiastical approval; its account distinguishes an initial election from the later accepted succession."
+    },
+    {
+      "key": "cl-callixtus-iii",
+      "title": "Callixtus III, antipope",
+      "url": "https://www.treccani.it/enciclopedia/antipapa-callisto-iii_(Enciclopedia-dei-Papi)/",
+      "kind": "scholarly-reference",
+      "author": "Karl Jordan",
+      "publication": "Enciclopedia dei Papi, 2000",
+      "retrievedAt": "2026-10-17",
+      "passage": "Biographical paragraphs: Giovanni’s abbacy at Struma, September 1168 election, German legations and imperial support, abandonment in the 1176–1177 peace agreements, and submission at Tusculum on 29 August 1178.",
+      "access": {
+        "method": "web-open",
+        "verified": true
+      }
+    },
+    {
+      "key": "cl-innocent-iii",
+      "title": "Innocent III, antipope",
+      "url": "https://www.treccani.it/enciclopedia/antipapa-innocenzo-iii_(Enciclopedia-dei-Papi)/",
+      "kind": "scholarly-reference",
+      "author": "Maria Teresa Caciorgna",
+      "publication": "Enciclopedia dei Papi, 2000",
+      "retrievedAt": "2026-10-17",
+      "passage": "Later biographical paragraphs: Lando’s earlier service to Victor IV, Paschal III and Callixtus III; competing 1178/1179 chronicle dates; Palombara refuge and capture in January 1180; competing identifications of his prison.",
+      "access": {
+        "method": "web-open",
+        "verified": true
+      }
+    },
+    {
+      "key": "cl-nicholas-v",
+      "title": "Pope John XXII: Louis of Bavaria and Nicholas V",
+      "url": "https://www.newadvent.org/cathen/08431a.htm",
+      "kind": "supplementary-catholic",
+      "author": "Johann Peter Kirsch",
+      "publication": "The Catholic Encyclopedia, 1910; New Advent transcription",
+      "retrievedAt": "2026-10-17",
+      "passage": "Conflict with Louis of Bavaria, paragraphs beginning with the 1328 Roman expedition: proclamation on 12 May, consecration on 22 May, declining support, and public submission at Avignon on 25 August 1330.",
+      "access": {
+        "method": "web-open",
+        "verified": true
+      },
+      "notes": "Historical Catholic reference with local ecclesiastical approval; polemical descriptions of the rival side have been replaced by factual summaries."
+    },
+    {
+      "key": "cl-felix-v-modern",
+      "title": "Felix V, antipope",
+      "url": "https://www.treccani.it/enciclopedia/antipapa-felice-v_(Enciclopedia-dei-Papi)/",
+      "kind": "scholarly-reference",
+      "author": "Francesco Cognasso",
+      "publication": "Enciclopedia dei Papi, 2000",
+      "retrievedAt": "2026-10-17",
+      "passage": "Final papal-career paragraphs: retirement at Ripaille in 1434; election on 5 November 1439; consecration in July 1440; limited recognition; abdication on 7 April 1449 and reconciliation with Nicholas V.",
+      "access": {
+        "method": "web-open",
+        "verified": true
+      }
+    },
+    {
+      "key": "cl-felix-v-ce",
+      "title": "Felix V",
+      "url": "https://www.newadvent.org/cathen/06031b.htm",
+      "kind": "supplementary-catholic",
+      "author": "Johann Peter Kirsch",
+      "publication": "The Catholic Encyclopedia, 1909; New Advent transcription",
+      "retrievedAt": "2026-10-17",
+      "passage": "Full biography: Savoyard rule and Ripaille retirement, Basel’s election, restricted obedience, disputes over revenue, and reconciliation with Nicholas V. The election date conflicts with the modern specialist account.",
+      "access": {
+        "method": "web-open",
+        "verified": true
+      },
+      "notes": "Historical Catholic reference with local ecclesiastical approval. Its 30 October 1439 election date is superseded here by Cognasso’s 5 November date; its judgments about personal ambition are not treated as established motives."
+    },
+    {
+      "key": "cl-clement-viii-modern",
+      "title": "Clement VIII, antipope",
+      "url": "https://www.treccani.it/enciclopedia/clemente-viii-antipapa/",
+      "kind": "scholarly-reference",
+      "author": null,
+      "publication": "Treccani, Enciclopedia on line",
+      "retrievedAt": "2026-10-17",
+      "passage": "Full short entry: Egidio Muñoz elected in 1423 by three cardinals, supported by Alfonso of Aragon, resigned in 1429 after Alfonso’s agreement with Martin V and became bishop of Majorca.",
+      "access": {
+        "method": "web-open",
+        "verified": true
+      }
+    },
+    {
+      "key": "cl-clement-viii-context",
+      "title": "Benedict XIII, antipope: the final Peñíscola succession",
+      "url": "https://www.treccani.it/enciclopedia/antipapa-benedetto-xiii_(Enciclopedia-dei-Papi)/",
+      "kind": "scholarly-reference",
+      "author": "Manuel Vaquero Piñeiro",
+      "publication": "Enciclopedia dei Papi, 2000",
+      "retrievedAt": "2026-10-17",
+      "passage": "Final succession paragraphs: Benedict’s last four cardinals, three electing Gil Muñoz as Clement VIII, Jean Carrier’s separate choice of Benedict XIV, and Clement’s resignation in 1429.",
+      "access": {
+        "method": "web-open",
+        "verified": true
+      }
+    },
+    {
+      "key": "cl-benedict-xiv",
+      "title": "Benedict XIV, antipope: Bernard Garnier",
+      "url": "https://www.treccani.it/enciclopedia/benedetto-xiv-antipapa/",
+      "kind": "scholarly-reference",
+      "author": null,
+      "publication": "Treccani, Enciclopedia on line",
+      "retrievedAt": "2026-10-17",
+      "passage": "Full short entry: Bernard Garnier, sacristan of Rodez, selected by Jean Carrier on 12 November 1425; no effective authority and an undetermined short subsequent life.",
+      "access": {
+        "method": "web-open",
+        "verified": true
+      }
+    },
+    {
+      "key": "cl-viaur-scholarship",
+      "title": "Prophétie et politique dans la France du Midi au XVe siècle",
+      "url": "https://www.persee.fr/doc/mefr_1123-9883_1990_num_102_2_3134?pageId=T1_598",
+      "kind": "scholarly-reference",
+      "author": "Colette Beaune and Nicole Lemaître",
+      "publication": "Mélanges de l’École française de Rome. Moyen Âge, 102(2), 1990, pp. 597–616",
+      "retrievedAt": "2026-10-17",
+      "passage": "Page 598 and notes 2–3: the 1467 Rodez inquisition record preserves followers of Bernard Garnier and Jean Carrier; a quoted interrogation calls Johannes Carreri successor to Benedict. The article does not establish a precise second accession date.",
+      "access": {
+        "method": "web-open",
+        "verified": true
+      },
+      "notes": "Read the actual page 598 text and footnotes. This supports reporting a later claimant tradition, not a confident 1430–1437 reign or an identification of every person named Carrier."
+    },
+    {
+      "key": "cl-boniface-ii",
+      "title": "John Bertram Peterson, Pope Boniface II",
+      "url": "https://www.newadvent.org/cathen/02660a.htm",
+      "kind": "supplementary-catholic",
+      "author": "John Bertram Peterson",
+      "publication": "The Catholic Encyclopedia, volume 2, 1907; New Advent transcription",
+      "retrievedAt": "2026-10-17",
+      "passage": "Paragraph beginning “Both popes were consecrated”: Boniface and Dioscorus consecrated 22 September 530; schism lasted twenty-two days until Dioscorus died 14 October. Opening 17 September election date is a separate dating issue.",
+      "access": {
+        "method": "web-open",
+        "verified": true
+      }
+    },
+    {
+      "key": "cl-ursinus-siricius",
+      "title": "Pope St. Siricius: continued claim of Ursinus",
+      "url": "https://www.newadvent.org/cathen/14026a.htm",
+      "kind": "supplementary-catholic",
+      "author": "Johann Peter Kirsch",
+      "publication": "The Catholic Encyclopedia, volume 14, 1912; New Advent transcription",
+      "retrievedAt": "2026-10-17",
+      "passage": "Second biographical paragraph: after Siricius’s election in December 384, Ursinus was still alive and maintained his claims; imperial approval of the election in February 385 prevented a renewed crisis.",
+      "access": {
+        "method": "web-open",
+        "verified": true
+      },
+      "notes": "The paragraph misnumbers the fourth-century emperor as Valentinian III; that typographical error is not adopted. Its explicit statement about Ursinus supports the continued personal claim."
+    },
+    {
+      "key": "cl-novatian-full",
+      "title": "Novatian and Novatianism",
+      "url": "https://www.newadvent.org/cathen/11138a.htm",
+      "kind": "supplementary-catholic",
+      "author": "John Chapman",
+      "publication": "The Catholic Encyclopedia, volume 11, 1911; New Advent transcription",
+      "retrievedAt": "2026-10-17",
+      "passage": "Biography, rival consecration and international correspondence paragraphs; later paragraphs on Cyprian’s appeal to Stephen over Novatianist Marcian of Arles and Dionysius’s report to Stephen of reunited eastern churches.",
+      "access": {
+        "method": "web-open",
+        "verified": true
+      },
+      "notes": "Historical reference with local ecclesiastical approval. Polemical accusations are not accepted uncritically, and evidence of the community is distinguished from that of its founder."
+    },
+    {
+      "key": "cl-novatian-lucius",
+      "title": "Pope St. Lucius I: continuing Novatian schism",
+      "url": "https://www.newadvent.org/cathen/09411a.htm",
+      "kind": "supplementary-catholic",
+      "author": "Johann Peter Kirsch",
+      "publication": "The Catholic Encyclopedia, volume 9, 1910; New Advent transcription",
+      "retrievedAt": "2026-10-17",
+      "passage": "Paragraphs interpreting Cyprian’s congratulatory letter, especially the explicit statement that Novatian’s Roman schism continued under Lucius; following paragraph on Lucius’s support for restoring the penitent lapsed.",
+      "access": {
+        "method": "web-open",
+        "verified": true
+      }
+    },
+    {
+      "key": "cl-novatian-modern",
+      "title": "Novatian, antipope",
+      "url": "https://www.treccani.it/enciclopedia/antipapa-novaziano_(Enciclopedia-dei-Papi)/",
+      "kind": "scholarly-reference",
+      "author": "Manlio Simonetti",
+      "publication": "Enciclopedia dei Papi, 2000",
+      "retrievedAt": "2026-10-17",
+      "passage": "Paragraphs after the autumn 251 council: no precise subsequent personal news; Socrates reports martyrdom under Valerian in 257–258, with later literary and archaeological testimony discussed critically.",
+      "access": {
+        "method": "web-open",
+        "verified": true
+      },
+      "notes": "Simonetti treats the converging evidence as significant while preserving uncertainty about identification and the surviving martyrdom tradition."
+    },
+    {
+      "key": "cl-novatian-socrates",
+      "title": "Church History, Book IV, chapter 28",
+      "url": "https://www.newadvent.org/fathers/26014.htm",
+      "kind": "primary-text",
+      "author": "Socrates Scholasticus",
+      "publication": "Fifth-century Church History; Nicene and Post-Nicene Fathers translation, 1890",
+      "retrievedAt": "2026-10-17",
+      "passage": "Chapter 28, after discussion of Novatian’s episcopal consecration and correspondence: reports that Novatian himself suffered martyrdom during Valerian’s persecution.",
+      "access": {
+        "method": "web-open",
+        "verified": true
+      },
+      "notes": "A later ancient historical witness, sympathetic to the Novatians; this is evidence of the reported personal endpoint, not a contemporary death certificate or proof of every year of active leadership."
+    },
+    {
+      "key": "cl-heraclius-modern",
+      "title": "Heraclius, traditionally catalogued as antipope",
+      "url": "https://www.treccani.it/enciclopedia/antipapa-eraclio_(Enciclopedia-dei-Papi)/",
+      "kind": "scholarly-reference",
+      "author": "Angelo Di Berardino",
+      "publication": "Enciclopedia dei Papi, 2000",
+      "retrievedAt": "2026-10-17",
+      "passage": "Full biography, especially final paragraphs: Damasus’s epitaph is the only testimony; penitential dispute and Maxentius’s exile of both leaders; no indication of an antipope election, possibly an influential priest or deacon.",
+      "access": {
+        "method": "web-open",
+        "verified": true
+      }
+    },
+    {
+      "key": "cl-heraclius-eusebius",
+      "title": "Pope St. Eusebius: Heraclius’s faction",
+      "url": "https://www.newadvent.org/cathen/05615b.htm",
+      "kind": "supplementary-catholic",
+      "author": "Johann Peter Kirsch",
+      "publication": "The Catholic Encyclopedia, volume 5, 1909; New Advent transcription",
+      "retrievedAt": "2026-10-17",
+      "passage": "Middle paragraphs interpreting Damasus’s epitaph: Heraclius led the opposing Roman faction; immediate readmission of the lapsed is the more likely interpretation; severe disorder led Maxentius to exile both Heraclius and Eusebius.",
+      "access": {
+        "method": "web-open",
+        "verified": true
+      },
+      "notes": "The source identifies factional leadership, not a documented episcopal consecration; the interpretation of the faction’s penitential position remains inferential."
+    }
+  ],
+  "claimants": [
+    {
+      "id": "ex-hippolytus",
+      "name": "Hippolytus",
+      "aliases": [],
+      "claimDates": "Traditionally circa 217–235/236",
+      "classification": "Traditional antipope identification; historical identity disputed",
+      "summary": "A rival community is traditionally associated with Hippolytus; the identity behind the story is debated.",
+      "biography": "The traditional account links the schism with doctrinal and disciplinary disagreement, exile alongside Pontian and eventual reconciliation. Vatican historical scholarship warns that the writer, bishop and martyr called Hippolytus may be different people. The narrative remains qualified.",
+      "relatedPapalNames": [
+        "Callistus I",
+        "Urban I",
+        "Pontianus"
+      ],
+      "sourceRefs": [
+        "cl-ex-catacombs",
+        "cl-ex-ce-list",
+        "cl-ex-antipope-list"
+      ],
+      "claims": {
+        "dates": [
+          "cl-ex-catacombs",
+          "cl-ex-ce-list"
+        ],
+        "summary": [
+          "cl-ex-catacombs"
+        ],
+        "biography": [
+          "cl-ex-catacombs"
+        ],
+        "classification": [
+          "cl-ex-catacombs",
+          "cl-ex-antipope-list"
+        ]
+      },
+      "researchNotes": []
+    },
+    {
+      "id": "ex-novatian",
+      "name": "Novatian",
+      "aliases": [
+        "Novatus"
+      ],
+      "claimDates": "From 251; traditionally until Valerian’s persecution in 257–258",
+      "classification": "Antipope",
+      "summary": "Novatian’s rival election divided Rome over how to treat Christians who had fallen away.",
+      "biography": "A learned Roman priest, Novatian obtained rival episcopal consecration after Cornelius’s election in 251 and appealed to churches beyond Rome. The dispute joined competing claims to the Roman bishopric with disagreement over restoring Christians who had lapsed during persecution. His schism continued under Lucius I, while Stephen I faced its effects in Arles and elsewhere. Links to Sixtus II reflect the tradition that Novatian survived into Valerian’s persecution of 257–258. Precise details of his later personal leadership and death are uncertain; the community that bore his name survived its founder for centuries.",
+      "relatedPapalNames": [
+        "Cornelius",
+        "Lucius I",
+        "Stephen I",
+        "Sixtus II"
+      ],
+      "sourceRefs": [
+        "cl-ex-cornelius",
+        "cl-ex-antipope-list",
+        "cl-novatian-full",
+        "cl-novatian-lucius",
+        "cl-novatian-modern",
+        "cl-novatian-socrates"
+      ],
+      "claims": {
+        "dates": [
+          "cl-ex-antipope-list",
+          "cl-ex-cornelius",
+          "cl-novatian-modern",
+          "cl-novatian-socrates"
+        ],
+        "summary": [
+          "cl-ex-cornelius"
+        ],
+        "biography": [
+          "cl-ex-cornelius",
+          "cl-novatian-full",
+          "cl-novatian-lucius",
+          "cl-novatian-modern",
+          "cl-novatian-socrates"
+        ],
+        "classification": [
+          "cl-ex-antipope-list"
+        ]
+      },
+      "researchNotes": [
+        {
+          "text": "The Lucius biography explicitly describes continued Roman schism; the full Novatian biography documents its effects under Stephen. Simonetti says precise personal news ceases after the 251 council but weighs later reports of death in Valerian’s persecution. The Sixtus II relationship is therefore a qualified chronological association, not evidence of a newly documented election or continuous personal activity. Later Novatianist bishops are not additional claims by Novatian himself.",
+          "sourceRefs": [
+            "cl-novatian-full",
+            "cl-novatian-lucius",
+            "cl-novatian-modern",
+            "cl-novatian-socrates"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ex-clement-vii-claimant",
+      "name": "Clement VII (Avignon claimant)",
+      "aliases": [
+        "Robert of Geneva"
+      ],
+      "claimDates": "20 September 1378–16 September 1394",
+      "classification": "Antipope; distinct from recognized Pope Clement VII (1523–1534)",
+      "summary": "A second election in 1378 divided the Church between Roman and Avignon obediences.",
+      "biography": "Robert of Geneva was elected at Fondi in opposition to Urban VI. He later settled at Avignon, gaining the allegiance of several kingdoms. His claim continued into the pontificate of Boniface IX.",
+      "relatedPapalNames": [
+        "Urban VI",
+        "Boniface IX"
+      ],
+      "sourceRefs": [
+        "cl-ex-clement-vii-claimant",
+        "cl-ex-ce-list",
+        "cl-ex-roster"
+      ],
+      "claims": {
+        "dates": [
+          "cl-ex-clement-vii-claimant",
+          "cl-ex-ce-list",
+          "cl-ex-roster"
+        ],
+        "summary": [
+          "cl-ex-clement-vii-claimant",
+          "cl-ex-ce-list",
+          "cl-ex-roster"
+        ],
+        "biography": [
+          "cl-ex-clement-vii-claimant",
+          "cl-ex-ce-list",
+          "cl-ex-roster"
+        ],
+        "classification": [
+          "cl-ex-clement-vii-claimant",
+          "cl-ex-ce-list",
+          "cl-ex-roster"
+        ]
+      },
+      "researchNotes": [
+        {
+          "text": "Birthplace conflict: Treccani(2000)Annecy versus older Catholic Encyclopedia Geneva. Birthplace is not displayed in the initial claimant note.",
+          "sourceRefs": [
+            "cl-ex-clement-vii-treccani",
+            "cl-ex-clement-vii-claimant"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ex-benedict-xiii-claimant",
+      "name": "Benedict XIII (Avignon claimant)",
+      "aliases": [
+        "Pedro de Luna"
+      ],
+      "claimDates": "28 September 1394–July 1417; continued claim until death in 1422 or 1423",
+      "classification": "Antipope; distinct from recognized Pope Benedict XIII (1724–1730)",
+      "summary": "Benedict XIII succeeded the Avignon claimant and remained in dispute with successive Roman popes.",
+      "biography": "Pedro de Luna negotiated with Boniface IX, Innocent VII and Gregory XII, but proposed mutual resignations did not end the division. Constance deposed him in July 1417. He retained his claim at Peñíscola after Martin V’s election.",
+      "relatedPapalNames": [
+        "Boniface IX",
+        "Innocent VII",
+        "Gregory XII",
+        "Martin V"
+      ],
+      "sourceRefs": [
+        "cl-ex-benedict-xiii-claimant",
+        "cl-ex-schism-vatican"
+      ],
+      "claims": {
+        "dates": [
+          "cl-ex-benedict-xiii-claimant",
+          "cl-ex-schism-vatican"
+        ],
+        "summary": [
+          "cl-ex-benedict-xiii-claimant",
+          "cl-ex-schism-vatican"
+        ],
+        "biography": [
+          "cl-ex-benedict-xiii-claimant",
+          "cl-ex-schism-vatican"
+        ],
+        "classification": [
+          "cl-ex-benedict-xiii-claimant",
+          "cl-ex-schism-vatican"
+        ]
+      },
+      "researchNotes": [
+        {
+          "text": "CE gives both 26 and 27 July 1417 for deposition, and alternative death dates in 1422/1423. The prototype preserves the month and alternatives.",
+          "sourceRefs": [
+            "cl-ex-benedict-xiii-claimant"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ex-alexander-v-claimant",
+      "name": "Alexander V (Pisan claimant)",
+      "aliases": [
+        "Pietro Philarghi",
+        "Peter of Candia"
+      ],
+      "claimDates": "26 June 1409–3 May 1410",
+      "classification": "Pisan claimant excluded from current Vatican sequence; older sources discuss legitimacy",
+      "summary": "The Council of Pisa attempted to heal the division by electing Alexander V, but added a third claimant.",
+      "biography": "The election followed Pisa’s attempted deposition of Gregory XII and Benedict XIII. Neither abandoned his claim. Alexander died at Bologna in 1410 and was succeeded by Baldassare Cossa, who took the name John XXIII.",
+      "relatedPapalNames": [
+        "Gregory XII"
+      ],
+      "sourceRefs": [
+        "cl-ex-alexander-v-claimant",
+        "cl-ex-schism-vatican",
+        "cl-ex-roster"
+      ],
+      "claims": {
+        "dates": [
+          "cl-ex-alexander-v-claimant",
+          "cl-ex-schism-vatican",
+          "cl-ex-roster"
+        ],
+        "summary": [
+          "cl-ex-alexander-v-claimant",
+          "cl-ex-schism-vatican",
+          "cl-ex-roster"
+        ],
+        "biography": [
+          "cl-ex-alexander-v-claimant",
+          "cl-ex-schism-vatican",
+          "cl-ex-roster"
+        ],
+        "classification": [
+          "cl-ex-alexander-v-claimant",
+          "cl-ex-schism-vatican",
+          "cl-ex-roster"
+        ]
+      },
+      "researchNotes": [
+        {
+          "text": "The 1907 encyclopedia discusses unresolved legitimacy. Use current Vatican inclusion for the recognized sequence and preserve this historical classification discussion.",
+          "sourceRefs": [
+            "cl-ex-alexander-v-claimant",
+            "cl-ex-roster"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ex-john-xxiii-claimant",
+      "name": "John XXIII (Pisan claimant)",
+      "aliases": [
+        "Baldassare Cossa"
+      ],
+      "claimDates": "17 May 1410–29 May 1415",
+      "classification": "Antipope; distinct from Saint John XXIII (1958–1963)",
+      "summary": "John XXIII continued the Pisan claim during Gregory XII’s pontificate and helped convene the Council of Constance.",
+      "biography": "Baldassare Cossa succeeded Alexander V in 1410. The council met with three competing claims before it. John was deposed in May 1415; Gregory XII resigned, and Benedict XIII was later deposed. Martin V’s election restored the recognized succession.",
+      "relatedPapalNames": [
+        "Gregory XII"
+      ],
+      "sourceRefs": [
+        "cl-ex-john-xxiii-claimant",
+        "cl-ex-schism-vatican"
+      ],
+      "claims": {
+        "dates": [
+          "cl-ex-john-xxiii-claimant",
+          "cl-ex-schism-vatican"
+        ],
+        "summary": [
+          "cl-ex-john-xxiii-claimant",
+          "cl-ex-schism-vatican"
+        ],
+        "biography": [
+          "cl-ex-john-xxiii-claimant",
+          "cl-ex-schism-vatican"
+        ],
+        "classification": [
+          "cl-ex-john-xxiii-claimant",
+          "cl-ex-schism-vatican"
+        ]
+      },
+      "researchNotes": [
+        {
+          "text": "CE opening says 1400–15, but its detailed election paragraph gives 17 May 1410. Use the explicit event paragraph; the opening is an apparent typographical error.",
+          "sourceRefs": [
+            "cl-ex-john-xxiii-claimant"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "claimant-felix-ii",
+      "name": "Felix II",
+      "aliases": [],
+      "claimDates": "355–358; continued rival identity until his death in 365",
+      "classification": "Antipope; excluded from the current Vatican sequence",
+      "summary": "An imperial replacement for the exiled Liberius divided the Roman Church during the conflict over Nicene faith.",
+      "biography": "Constantius II supported Felix’s installation after sending Liberius into exile. Much of the Roman clergy accepted the new bishop, while the people continued to demand Liberius. The emperor’s proposed joint government did not resolve the dispute: Liberius returned and Felix was driven out. Later accounts confused this claimant with a martyr named Felix, producing a saintly biography that cannot simply be transferred to him.",
+      "relatedPapalNames": [
+        "Liberius"
+      ],
+      "sourceRefs": [
+        "cl-felix-ii"
+      ],
+      "claims": {
+        "dates": [
+          "cl-felix-ii"
+        ],
+        "summary": [
+          "cl-felix-ii"
+        ],
+        "biography": [
+          "cl-felix-ii"
+        ],
+        "classification": [
+          "cl-felix-ii"
+        ]
+      },
+      "researchNotes": [
+        {
+          "text": "The survey’s355–365 dates include years after expulsion. The individual biography distinguishes active occupation355–358 from death in365; no saint designation is asserted for this claimant.",
+          "sourceRefs": [
+            "cl-felix-ii"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "claimant-anastasius",
+      "name": "Anastasius (855)",
+      "aliases": [
+        "Anastasius Bibliothecarius (disputed identification)"
+      ],
+      "claimDates": "855",
+      "classification": "Antipope; excluded from the current Vatican sequence",
+      "summary": "Imperial supporters attempted to replace Benedict III with the previously deposed priest Anastasius.",
+      "biography": "The intervention briefly displaced Benedict before Roman resistance and wider support restored him. A further historical question concerns identity: the claimant has often been identified with Anastasius the Librarian, the learned translator and later papal official. The sources and their interpretation do not make that identification wholly secure, so the rival election and the librarian’s subsequent career should not be merged without qualification.",
+      "relatedPapalNames": [
+        "Benedict III"
+      ],
+      "sourceRefs": [
+        "cl-anastasius"
+      ],
+      "claims": {
+        "dates": [
+          "cl-anastasius"
+        ],
+        "summary": [
+          "cl-anastasius"
+        ],
+        "biography": [
+          "cl-anastasius"
+        ],
+        "classification": [
+          "cl-anastasius"
+        ]
+      },
+      "researchNotes": [
+        {
+          "text": "The biography itself preserves disagreement over whether the librarian and rival claimant were the same man. Its opening NicholasI reign dates contain a typo; current Vatican dates remain authoritative.",
+          "sourceRefs": [
+            "cl-anastasius"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "claimant-boniface-vii",
+      "name": "Boniface VII",
+      "aliases": [
+        "Franco"
+      ],
+      "claimDates": "974 and 984–985",
+      "classification": "Antipope; excluded from the current Vatican sequence",
+      "summary": "Boniface VII’s two occupations of Rome were tied to aristocratic coups and the deaths of imprisoned popes.",
+      "biography": "The Roman deacon Franco was installed after a revolt imprisoned Benedict VI in 974. Benedict was killed, and Boniface fled when imperial forces returned. He continued to regard himself as pope while in Constantinople. Returning after Otto II’s death, he imprisoned John XIV, who died in captivity, and controlled Rome until 985. This was a continuing rival claim with two periods of actual power; it was not two additional recognized pontificates.",
+      "relatedPapalNames": [
+        "Benedict VI",
+        "Benedict VII",
+        "John XIV"
+      ],
+      "sourceRefs": [
+        "cl-boniface-vii"
+      ],
+      "claims": {
+        "dates": [
+          "cl-boniface-vii"
+        ],
+        "summary": [
+          "cl-boniface-vii"
+        ],
+        "biography": [
+          "cl-boniface-vii"
+        ],
+        "classification": [
+          "cl-boniface-vii"
+        ]
+      },
+      "researchNotes": [
+        {
+          "text": "The source’s highly charged language is not reproduced. Relationship to BenedictVII concerns the continuing rival claim between the two Roman occupations.",
+          "sourceRefs": [
+            "cl-boniface-vii"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "claimant-john-xvi",
+      "name": "John XVI",
+      "aliases": [
+        "John Philagathus"
+      ],
+      "claimDates": "997–998",
+      "classification": "Antipope; excluded from the current Vatican sequence",
+      "summary": "Crescentius installed John Philagathus while Gregory V was excluded from Rome, turning a Roman revolt into a rival papal claim.",
+      "biography": "John had served the imperial family as a diplomat and archbishop of Piacenza. He accepted the papal title in opposition to Gregory V despite earlier ties to Otto III. When imperial troops recovered Rome, he was captured and mutilated before formal deposition and humiliating public treatment. The monk Nilus sought mercy for him. The episode exposes the violence of imperial and aristocratic struggles rather than a simple division between virtuous and wicked parties.",
+      "relatedPapalNames": [
+        "Gregory V"
+      ],
+      "sourceRefs": [
+        "cl-john-xvi"
+      ],
+      "claims": {
+        "dates": [
+          "cl-john-xvi"
+        ],
+        "summary": [
+          "cl-john-xvi"
+        ],
+        "biography": [
+          "cl-john-xvi"
+        ],
+        "classification": [
+          "cl-john-xvi"
+        ]
+      },
+      "researchNotes": [
+        {
+          "text": "Later accounts disagree about the circumstances of confinement and death; the public claim dates are distinct from his later lifetime.",
+          "sourceRefs": [
+            "cl-john-xvi"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "claimant-honorius-ii",
+      "name": "Honorius II (Cadalus)",
+      "aliases": [
+        "Cadalus",
+        "Cadalous"
+      ],
+      "claimDates": "1061–1072; effective challenge ended in 1064",
+      "classification": "Antipope; excluded from the current Vatican sequence",
+      "summary": "Imperial and Italian opponents of Alexander II elected Cadalus of Parma, prolonging the struggle over who could choose a pope.",
+      "biography": "The regency of Empress Agnes supported Cadalus’s election at Basel after reforming cardinals chose Alexander II. Armed forces brought the rival to Rome, but a change of imperial regent weakened his cause. The Council of Mantua recognized Alexander in 1064. Cadalus continued to maintain his claim from Parma until his death, so the period of effective competition and the nominal duration of his pretension must be distinguished.",
+      "relatedPapalNames": [
+        "Alexander II"
+      ],
+      "sourceRefs": [
+        "cl-cadalus"
+      ],
+      "claims": {
+        "dates": [
+          "cl-cadalus"
+        ],
+        "summary": [
+          "cl-cadalus"
+        ],
+        "biography": [
+          "cl-cadalus"
+        ],
+        "classification": [
+          "cl-cadalus"
+        ]
+      },
+      "researchNotes": []
+    },
+    {
+      "id": "claimant-clement-iii",
+      "name": "Clement III (Guibert)",
+      "aliases": [
+        "Guibert of Ravenna",
+        "Wibert"
+      ],
+      "claimDates": "1080–1100; enthroned at Rome in 1084",
+      "classification": "Antipope; excluded from the current Vatican sequence",
+      "summary": "Henry IV supported Guibert of Ravenna against Gregory VII, and the resulting rival papacy continued under three successors.",
+      "biography": "Chosen at Brixen in 1080, Guibert took the name Clement III and entered Rome with Henry’s forces in 1084. He crowned Henry emperor while Gregory remained besieged. His supporters subsequently contested control of Rome with Victor III and Urban II. Even after losing much of the city, Guibert retained adherents and renewed his challenge under Paschal II before dying in 1100. The long conflict joined questions of church reform, imperial authority and possession of Roman churches.",
+      "relatedPapalNames": [
+        "Gregory VII",
+        "Victor III",
+        "Urban II",
+        "Paschal II"
+      ],
+      "sourceRefs": [
+        "cl-guibert"
+      ],
+      "claims": {
+        "dates": [
+          "cl-guibert"
+        ],
+        "summary": [
+          "cl-guibert"
+        ],
+        "biography": [
+          "cl-guibert"
+        ],
+        "classification": [
+          "cl-guibert"
+        ]
+      },
+      "researchNotes": []
+    },
+    {
+      "id": "claimant-gregory-viii",
+      "name": "Gregory VIII (Maurice Bourdin)",
+      "aliases": [
+        "Maurice Bourdin",
+        "Mauritius Burdinus"
+      ],
+      "claimDates": "1118–1121",
+      "classification": "Antipope; excluded from the current Vatican sequence",
+      "summary": "Henry V promoted Maurice Bourdin as Gregory VIII when Gelasius II refused imperial control of the papal succession.",
+      "biography": "Bourdin had been archbishop of Braga and a papal negotiator before aligning with Henry. His election in Rome created another imperial-backed claimant during the investiture struggle. He failed to gain broad recognition, and Callixtus II’s forces eventually captured him. His confinement outlasted the practical end of the claim. He is distinct from the recognized Gregory VIII elected in 1187.",
+      "relatedPapalNames": [
+        "Gelasius II",
+        "Callixtus II"
+      ],
+      "sourceRefs": [
+        "cl-gregory-viii",
+        "cl-callixtus-ii"
+      ],
+      "claims": {
+        "dates": [
+          "cl-gregory-viii",
+          "cl-callixtus-ii"
+        ],
+        "summary": [
+          "cl-gregory-viii"
+        ],
+        "biography": [
+          "cl-gregory-viii"
+        ],
+        "classification": [
+          "cl-gregory-viii"
+        ]
+      },
+      "researchNotes": [
+        {
+          "text": "The1121 end date is checked against CallixtusII’s narrative; the claimant lived longer in confinement.",
+          "sourceRefs": [
+            "cl-gregory-viii"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "claimant-anacletus-ii",
+      "name": "Anacletus II",
+      "aliases": [
+        "Pietro Pierleoni"
+      ],
+      "claimDates": "1130–1138",
+      "classification": "Antipope; excluded from the current Vatican sequence",
+      "summary": "Two groups of cardinals elected Innocent II and Anacletus II in 1130, producing rival obediences in Rome and beyond.",
+      "biography": "Pietro Pierleoni was a monk of Cluny, cardinal and experienced legate before the election. He initially commanded a larger cardinal bloc and strong Roman support, while Innocent obtained recognition across much of Europe through diplomacy and Bernard of Clairvaux’s advocacy. Roger II of Sicily remained Anacletus’s principal royal ally. The division endured until Anacletus’s death; his successor soon submitted to Innocent.",
+      "relatedPapalNames": [
+        "Innocent II"
+      ],
+      "sourceRefs": [
+        "cl-anacletus-ii"
+      ],
+      "claims": {
+        "dates": [
+          "cl-anacletus-ii"
+        ],
+        "summary": [
+          "cl-anacletus-ii"
+        ],
+        "biography": [
+          "cl-anacletus-ii"
+        ],
+        "classification": [
+          "cl-anacletus-ii"
+        ]
+      },
+      "researchNotes": [
+        {
+          "text": "The older article contains hostile and antisemitic polemic about Pierleoni ancestry. Ancestry is not treated as a legal defect or an explanation of legitimacy. Current Vatican inclusion determines the recognized sequence.",
+          "sourceRefs": [
+            "cl-anacletus-ii"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "claimant-victor-iv-1138",
+      "name": "Victor IV (Gregory Conti)",
+      "aliases": [
+        "Gregory Conti"
+      ],
+      "claimDates": "March–29 May 1138",
+      "classification": "Antipope; excluded from the current Vatican sequence",
+      "summary": "Anacletus II’s remaining supporters elected Gregory Conti, but he soon recognized Innocent II.",
+      "biography": "Conti’s brief claim continued the division that had begun in 1130. Within about two months he submitted to Innocent, ending this final organized attempt to perpetuate the Anacletan obedience. He must be distinguished from Octavian, a different claimant who later used the same papal name.",
+      "relatedPapalNames": [
+        "Innocent II"
+      ],
+      "sourceRefs": [
+        "cl-victor-iv"
+      ],
+      "claims": {
+        "dates": [
+          "cl-victor-iv"
+        ],
+        "summary": [
+          "cl-victor-iv"
+        ],
+        "biography": [
+          "cl-victor-iv"
+        ],
+        "classification": [
+          "cl-victor-iv"
+        ]
+      },
+      "researchNotes": []
+    },
+    {
+      "id": "claimant-victor-iv-1159",
+      "name": "Victor IV (Octavian)",
+      "aliases": [
+        "Octavian of Monticelli"
+      ],
+      "claimDates": "1159–1164",
+      "classification": "Antipope; excluded from the current Vatican sequence",
+      "summary": "Octavian’s rival election in 1159 developed into the imperial-backed schism opposing Alexander III.",
+      "biography": "A minority of cardinals supported Octavian while the majority elected Alexander. Frederick Barbarossa’s council at Pavia recognized Victor, whereas France, England and other kingdoms accepted Alexander. This divided recognition made the contest European rather than merely Roman. Victor died at Lucca in 1164, but his party elected successors and the schism continued.",
+      "relatedPapalNames": [
+        "Alexander III"
+      ],
+      "sourceRefs": [
+        "cl-victor-iv"
+      ],
+      "claims": {
+        "dates": [
+          "cl-victor-iv"
+        ],
+        "summary": [
+          "cl-victor-iv"
+        ],
+        "biography": [
+          "cl-victor-iv"
+        ],
+        "classification": [
+          "cl-victor-iv"
+        ]
+      },
+      "researchNotes": []
+    },
+    {
+      "id": "claimant-paschal-iii",
+      "name": "Paschal III",
+      "aliases": [
+        "Guido of Crema"
+      ],
+      "claimDates": "1164–1168",
+      "classification": "Antipope; excluded from the current Vatican sequence",
+      "summary": "Guido of Crema succeeded the imperial claimant Victor IV and continued opposition to Alexander III.",
+      "biography": "Paschal’s claim depended heavily on Frederick Barbarossa’s party. In 1165 he declared Charlemagne a saint at the emperor’s request, linking sacred prestige to imperial politics. That act was not a recognized universal papal canonization. Paschal died in 1168, leaving the schism to another successor.",
+      "relatedPapalNames": [
+        "Alexander III"
+      ],
+      "sourceRefs": [
+        "cl-paschal-iii"
+      ],
+      "claims": {
+        "dates": [
+          "cl-paschal-iii"
+        ],
+        "summary": [
+          "cl-paschal-iii"
+        ],
+        "biography": [
+          "cl-paschal-iii"
+        ],
+        "classification": [
+          "cl-paschal-iii"
+        ]
+      },
+      "researchNotes": []
+    },
+    {
+      "id": "claimant-natalis",
+      "name": "Natalis (Natalius)",
+      "aliases": [
+        "Natalius"
+      ],
+      "claimDates": "Early third century",
+      "classification": "Rival Roman community bishop; antipope classification disputed",
+      "summary": "A separate Theodotian community appointed Natalis as its bishop before he sought reconciliation with Zephyrinus.",
+      "biography": "The story belongs to early disputes about Christ and the organization of rival Christian communities in Rome. Natalis had suffered for his faith before accepting leadership of the Theodotian group. He subsequently returned to the Roman communion. The evidence establishes separate episcopal leadership, but whether this should be classified as a formal antipope claim is disputed; he is included to explain the division without presenting the label as settled.",
+      "relatedPapalNames": [
+        "Zephyrinus"
+      ],
+      "sourceRefs": [
+        "cl-natalis"
+      ],
+      "claims": {
+        "dates": [
+          "cl-natalis"
+        ],
+        "summary": [
+          "cl-natalis"
+        ],
+        "biography": [
+          "cl-natalis"
+        ],
+        "classification": [
+          "cl-natalis"
+        ]
+      },
+      "researchNotes": []
+    },
+    {
+      "id": "claimant-ursinus",
+      "name": "Ursinus",
+      "aliases": [
+        "Ursicinus"
+      ],
+      "claimDates": "366–367; continued claim attested at Siricius’s accession in 384",
+      "classification": "Antipope; excluded from the current Vatican sequence",
+      "summary": "The rival elections of Damasus and Ursinus brought deadly factional violence to Rome.",
+      "biography": "Ursinus, a deacon supported by a group associated with Liberius, was consecrated against Damasus. Their followers fought for control of churches while imperial officials tried to restore order. Ursinus was exiled in 367, but his supporters continued to challenge Damasus. He was still alive and maintaining his claim when Siricius succeeded Damasus in December 384. Imperial recognition helped Siricius’s election take effect without a renewed crisis. The surviving narratives are partisan; recognizing Damasus in the official sequence does not make every accusation against his opponents reliable.",
+      "relatedPapalNames": [
+        "Damasus I",
+        "Siricius"
+      ],
+      "sourceRefs": [
+        "cl-ursinus",
+        "cl-ursinus-siricius"
+      ],
+      "claims": {
+        "dates": [
+          "cl-ursinus",
+          "cl-ursinus-siricius"
+        ],
+        "summary": [
+          "cl-ursinus"
+        ],
+        "biography": [
+          "cl-ursinus",
+          "cl-ursinus-siricius"
+        ],
+        "classification": [
+          "cl-ursinus"
+        ]
+      },
+      "researchNotes": [
+        {
+          "text": "The source’s polemical allocation of blame is not adopted wholesale; rival clerical accounts and Ammianus must be assessed separately.",
+          "sourceRefs": [
+            "cl-ursinus"
+          ]
+        },
+        {
+          "text": "The 367 exile ended the initial Roman occupation, not Ursinus’s personal pretension. The Siricius biography explicitly attests his continued claim at the December 384 accession; a precise later endpoint is not established here.",
+          "sourceRefs": [
+            "cl-ursinus",
+            "cl-ursinus-siricius"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "claimant-eulalius",
+      "name": "Eulalius",
+      "aliases": [],
+      "claimDates": "418–419",
+      "classification": "Antipope; excluded from the current Vatican sequence",
+      "summary": "Eulalius and Boniface were elected by competing Roman groups, drawing Emperor Honorius into the settlement.",
+      "biography": "The archdeacon Eulalius initially received imperial recognition. A new hearing required both claimants to leave Rome while bishops considered the dispute. Eulalius returned in an attempt to preside over Easter, breaking that condition. The emperor then recognized Boniface. The controversy shows how control of a basilica, episcopal support and imperial policing could determine the practical outcome of an early papal election.",
+      "relatedPapalNames": [
+        "Boniface I"
+      ],
+      "sourceRefs": [
+        "cl-eulalius"
+      ],
+      "claims": {
+        "dates": [
+          "cl-eulalius"
+        ],
+        "summary": [
+          "cl-eulalius"
+        ],
+        "biography": [
+          "cl-eulalius"
+        ],
+        "classification": [
+          "cl-eulalius"
+        ]
+      },
+      "researchNotes": [
+        {
+          "text": "The article prints3April418 within an account of the419 settlement; the surrounding chronology and current roster control, so that typo is not repeated.",
+          "sourceRefs": [
+            "cl-eulalius"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "claimant-laurentius",
+      "name": "Laurentius",
+      "aliases": [],
+      "claimDates": "498–499 and renewed opposition circa 501–506",
+      "classification": "Antipope; excluded from the current Vatican sequence",
+      "summary": "Laurentius’s supporters contested Symmachus’s election and later controlled the Lateran during a prolonged Roman division.",
+      "biography": "Both candidates initially accepted the arbitration of Theodoric, king of the Ostrogoths. Laurentius submitted and received another bishopric, but disputes over Easter and accusations against Symmachus revived his party. Rome then had competing centers of authority, with senators, bishops and the Gothic ruler involved. Theodoric eventually ordered the churches restored to Symmachus. Partisan accounts and invented legal precedents from the dispute require careful historical reading.",
+      "relatedPapalNames": [
+        "Symmachus"
+      ],
+      "sourceRefs": [
+        "cl-laurentius"
+      ],
+      "claims": {
+        "dates": [
+          "cl-laurentius"
+        ],
+        "summary": [
+          "cl-laurentius"
+        ],
+        "biography": [
+          "cl-laurentius"
+        ],
+        "classification": [
+          "cl-laurentius"
+        ]
+      },
+      "researchNotes": [
+        {
+          "text": "The short survey ends the claim in501, but the full biography describes renewed opposition and four further years of divided possession. Dates distinguish the phases.",
+          "sourceRefs": [
+            "cl-laurentius"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "claimant-dioscorus",
+      "name": "Dioscorus",
+      "aliases": [
+        "Dioscurus"
+      ],
+      "claimDates": "530 (22 days)",
+      "classification": "Rival elected bishop excluded from the current sequence; historical legitimacy debated",
+      "summary": "Most Roman priests chose Dioscorus instead of accepting Felix IV’s designation of Boniface II as successor.",
+      "biography": "Dioscorus had served as a diplomat and represented a different political alignment from Boniface’s supporters. His death within weeks ended the immediate division. Boniface later obtained signatures condemning him, but Agapetus reversed the condemnation and burned the document. The brief dispute therefore should not be narrated as though the surviving official line had been unanimously accepted from the start.",
+      "relatedPapalNames": [
+        "Boniface II"
+      ],
+      "sourceRefs": [
+        "cl-dioscorus",
+        "cl-boniface-ii"
+      ],
+      "claims": {
+        "dates": [
+          "cl-dioscorus",
+          "cl-boniface-ii"
+        ],
+        "summary": [
+          "cl-dioscorus"
+        ],
+        "biography": [
+          "cl-dioscorus"
+        ],
+        "classification": [
+          "cl-dioscorus"
+        ]
+      },
+      "researchNotes": []
+    },
+    {
+      "id": "claimant-theodore-687",
+      "name": "Theodore (687)",
+      "aliases": [
+        "Theodore the archpriest"
+      ],
+      "claimDates": "687",
+      "classification": "Antipope; excluded from the current Vatican sequence",
+      "summary": "A faction chose the archpriest Theodore during the divided election that ultimately produced Sergius I.",
+      "biography": "Theodore and the archdeacon Paschal each had supporters after Conon’s death. A broader body of Roman clergy and people rejected the division and selected Sergius. Theodore accepted the settlement. This was a contested accession rather than a long alternative papal government; the claimant is distinct from the recognized popes Theodore I and Theodore II.",
+      "relatedPapalNames": [
+        "Sergius I"
+      ],
+      "sourceRefs": [
+        "cl-sergius-election"
+      ],
+      "claims": {
+        "dates": [
+          "cl-sergius-election"
+        ],
+        "summary": [
+          "cl-sergius-election"
+        ],
+        "biography": [
+          "cl-sergius-election"
+        ],
+        "classification": [
+          "cl-sergius-election"
+        ]
+      },
+      "researchNotes": []
+    },
+    {
+      "id": "claimant-paschal-687",
+      "name": "Paschal (687)",
+      "aliases": [
+        "Pascal the archdeacon"
+      ],
+      "claimDates": "687; opposition continued after the election",
+      "classification": "Antipope; excluded from the current Vatican sequence",
+      "summary": "The archdeacon Paschal sought the exarch’s backing but lost the divided Roman election to Sergius I.",
+      "biography": "Paschal’s bid illustrates the influence of the imperial exarch at Ravenna over Roman church affairs. His supporters faced both Theodore’s party and the wider coalition that chose Sergius. The dispute accompanied Sergius’s accession; it did not create an additional recognized pontificate.",
+      "relatedPapalNames": [
+        "Sergius I"
+      ],
+      "sourceRefs": [
+        "cl-sergius-election"
+      ],
+      "claims": {
+        "dates": [
+          "cl-sergius-election"
+        ],
+        "summary": [
+          "cl-sergius-election"
+        ],
+        "biography": [
+          "cl-sergius-election"
+        ],
+        "classification": [
+          "cl-sergius-election"
+        ]
+      },
+      "researchNotes": []
+    },
+    {
+      "id": "claimant-constantine-ii",
+      "name": "Constantine II",
+      "aliases": [
+        "Constantine of Nepi"
+      ],
+      "claimDates": "767–768",
+      "classification": "Antipope; excluded from the current Vatican sequence",
+      "summary": "The layman Constantine was installed through the armed intervention of his brother Toto before Stephen III’s election.",
+      "biography": "Roman opponents sought Lombard support to remove Constantine. His overthrow was followed by cruel reprisals and another brief rival election. The crisis helped produce the 769 rules restricting papal candidates and lay electoral participation. Constantine is distinct from the recognized Pope Constantine of the early eighth century.",
+      "relatedPapalNames": [
+        "Stephen III"
+      ],
+      "sourceRefs": [
+        "cl-stephen-election"
+      ],
+      "claims": {
+        "dates": [
+          "cl-stephen-election"
+        ],
+        "summary": [
+          "cl-stephen-election"
+        ],
+        "biography": [
+          "cl-stephen-election"
+        ],
+        "classification": [
+          "cl-stephen-election"
+        ]
+      },
+      "researchNotes": []
+    },
+    {
+      "id": "claimant-philip",
+      "name": "Philip (768)",
+      "aliases": [
+        "Philip the monk"
+      ],
+      "claimDates": "768 (brief election)",
+      "classification": "Antipope; excluded from the current Vatican sequence",
+      "summary": "Lombard allies promoted the monk Philip during the struggle that ended Constantine II’s occupation.",
+      "biography": "Christopher and other Roman leaders rejected the Lombard-backed choice and brought about Stephen III’s election. Philip’s very brief candidacy belongs to that unstable transition. It should not be treated as a lengthy competing reign or confused with a later pope.",
+      "relatedPapalNames": [
+        "Stephen III"
+      ],
+      "sourceRefs": [
+        "cl-stephen-election"
+      ],
+      "claims": {
+        "dates": [
+          "cl-stephen-election"
+        ],
+        "summary": [
+          "cl-stephen-election"
+        ],
+        "biography": [
+          "cl-stephen-election"
+        ],
+        "classification": [
+          "cl-stephen-election"
+        ]
+      },
+      "researchNotes": []
+    },
+    {
+      "id": "claimant-john-844",
+      "name": "John (844)",
+      "aliases": [
+        "John the deacon"
+      ],
+      "claimDates": "844",
+      "classification": "Antipope; excluded from the current Vatican sequence",
+      "summary": "An opposing group attempted to place the deacon John on the papal throne before Sergius II was consecrated.",
+      "biography": "The challenge was quickly suppressed and John was confined in a monastery. The episode is a short rival installation, not a recognized pontificate. It also preceded the separate imperial intervention over Sergius’s consecration without prior consultation.",
+      "relatedPapalNames": [
+        "Sergius II"
+      ],
+      "sourceRefs": [
+        "cl-john-844"
+      ],
+      "claims": {
+        "dates": [
+          "cl-john-844"
+        ],
+        "summary": [
+          "cl-john-844"
+        ],
+        "biography": [
+          "cl-john-844"
+        ],
+        "classification": [
+          "cl-john-844"
+        ]
+      },
+      "researchNotes": []
+    },
+    {
+      "id": "claimant-christopher",
+      "name": "Christopher",
+      "aliases": [],
+      "claimDates": "903–904",
+      "classification": "Antipope; excluded from the current Vatican sequence",
+      "summary": "Christopher imprisoned Leo V and took power in Rome before being displaced by Sergius III.",
+      "biography": "A Roman cardinal-priest, Christopher benefited from the city’s violent factional politics. His occupation removed Leo V after a very short pontificate. The fates of both prisoners were later told in conflicting ways, and claims that Sergius ordered both deaths are not secure enough to present without qualification. Christopher’s place in older papal catalogues does not override his exclusion from the current official sequence.",
+      "relatedPapalNames": [
+        "Leo V",
+        "Sergius III"
+      ],
+      "sourceRefs": [
+        "cl-christopher"
+      ],
+      "claims": {
+        "dates": [
+          "cl-christopher"
+        ],
+        "summary": [
+          "cl-christopher"
+        ],
+        "biography": [
+          "cl-christopher"
+        ],
+        "classification": [
+          "cl-christopher"
+        ]
+      },
+      "researchNotes": []
+    },
+    {
+      "id": "claimant-gregory-1012",
+      "name": "Gregory (1012)",
+      "aliases": [
+        "Gregory VI (claimant numbering)"
+      ],
+      "claimDates": "1012",
+      "classification": "Antipope; excluded from the current Vatican sequence",
+      "summary": "A rival named Gregory appealed unsuccessfully to Henry II against Benedict VIII.",
+      "biography": "Driven from Rome after his attempt to become pope, Gregory sought royal support in Germany. Henry promised an examination but required him to remove the papal insignia and cease acting as pope in the meantime. The surviving account gives little further information. This Gregory is distinct from the recognized Gregory VI of 1045–1046.",
+      "relatedPapalNames": [
+        "Benedict VIII"
+      ],
+      "sourceRefs": [
+        "cl-gregory-1012"
+      ],
+      "claims": {
+        "dates": [
+          "cl-gregory-1012"
+        ],
+        "summary": [
+          "cl-gregory-1012"
+        ],
+        "biography": [
+          "cl-gregory-1012"
+        ],
+        "classification": [
+          "cl-gregory-1012"
+        ]
+      },
+      "researchNotes": []
+    },
+    {
+      "id": "claimant-benedict-x",
+      "name": "Benedict X",
+      "aliases": [
+        "John Mincius"
+      ],
+      "claimDates": "1058–1059",
+      "classification": "Antipope; excluded from the current Vatican sequence",
+      "summary": "The election of Benedict X divided Roman factions and helped prompt new rules for choosing a pope.",
+      "biography": "John Mincius, bishop of Velletri, was installed after Stephen IX’s death while reforming cardinals opposed the proceedings. Nicholas II was elected at Siena, condemned his rival at Sutri and entered Rome. Norman military support eventually forced Benedict to surrender at Galeria. The 1059 election decree must be understood against this recent contest for control of the papal succession.",
+      "relatedPapalNames": [
+        "Nicholas II"
+      ],
+      "sourceRefs": [
+        "cl-benedict-x"
+      ],
+      "claims": {
+        "dates": [
+          "cl-benedict-x"
+        ],
+        "summary": [
+          "cl-benedict-x"
+        ],
+        "biography": [
+          "cl-benedict-x"
+        ],
+        "classification": [
+          "cl-benedict-x"
+        ]
+      },
+      "researchNotes": [
+        {
+          "text": "The extremely short BenedictX article gives1056–1061, an unreliable compression of NicholasII’s dates. The full Nicholas biography supplies1058–1059 for the rival election and surrender.",
+          "sourceRefs": [
+            "cl-benedict-x"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "claimant-theodoric",
+      "name": "Theodoric",
+      "aliases": [
+        "Teodorico"
+      ],
+      "claimDates": "Late September 1100–early January 1101",
+      "classification": "Antipope; excluded from the current Vatican sequence",
+      "summary": "Supporters of Clement III elected Theodoric to continue their challenge to Paschal II, but his Roman following soon collapsed.",
+      "biography": "Previously a cardinal deacon and then bishop of Albano in Clement III’s obedience, Theodoric was elected during Paschal II’s absence from Rome. A nighttime ceremony at Saint Peter’s and a brief synod sought to sustain the rival succession. He left Rome hoping to reach Henry IV, but Paschal’s supporters captured him early in January 1101. Confined to the abbey of Cava de’ Tirreni, he died in 1102. His short career illustrates how a rival papal court could survive its founder without securing effective imperial assistance.",
+      "relatedPapalNames": [
+        "Paschal II"
+      ],
+      "sourceRefs": [
+        "cl-theodoric"
+      ],
+      "claims": {
+        "dates": [
+          "cl-theodoric"
+        ],
+        "summary": [
+          "cl-theodoric"
+        ],
+        "biography": [
+          "cl-theodoric"
+        ],
+        "classification": [
+          "cl-theodoric"
+        ]
+      },
+      "researchNotes": [
+        {
+          "text": "Piazza identifies his bishopric as Albano, distinguishing him from Albert of Silva Candida. The 1102 death does not extend his effective claim beyond capture in early 1101; direct imperial direction of the election is unproven.",
+          "sourceRefs": [
+            "cl-theodoric"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "claimant-albert",
+      "name": "Albert",
+      "aliases": [
+        "Alberto"
+      ],
+      "claimDates": "1101; effective challenge lasted about one day",
+      "classification": "Antipope; excluded from the current Vatican sequence",
+      "summary": "Albert’s election was a last attempt by Clement III’s Roman supporters to maintain their succession after Theodoric’s capture.",
+      "biography": "Bishop of Silva Candida, also called Santa Rufina, Albert had long served in Clement III’s rival court. His supporters elected him at the church of the Holy Apostles in Rome. Street fighting drove him to San Marcello, where a protector’s nephew accepted money from Paschal II’s side and handed him over. Stripped of his pallium and publicly humiliated, Albert was imprisoned and then sent to the monastery of San Lorenzo at Aversa. The surviving accounts compress the decisive events into a single day; his subsequent death is undated.",
+      "relatedPapalNames": [
+        "Paschal II"
+      ],
+      "sourceRefs": [
+        "cl-albert"
+      ],
+      "claims": {
+        "dates": [
+          "cl-albert"
+        ],
+        "summary": [
+          "cl-albert"
+        ],
+        "biography": [
+          "cl-albert"
+        ],
+        "classification": [
+          "cl-albert"
+        ]
+      },
+      "researchNotes": [
+        {
+          "text": "The specialist chronology favors an election shortly after Theodoric’s capture, within February 1101. Lists assigning 1102 are not followed. Henry IV’s direct involvement is uncertain.",
+          "sourceRefs": [
+            "cl-albert"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "claimant-sylvester-iv",
+      "name": "Sylvester IV",
+      "aliases": [
+        "Maginulf",
+        "Maginolfo"
+      ],
+      "claimDates": "1105–1111; brief occupation of Rome in 1105",
+      "classification": "Antipope; excluded from the current Vatican sequence",
+      "summary": "Sylvester IV’s challenge combined Roman factional politics with the struggle over imperial influence in church appointments.",
+      "biography": "The archpriest Maginulf was acclaimed at the Pantheon in November 1105. Troops of Guarnerio, margrave of Ancona, secured the Lateran, where his consecration probably occurred on 18 November. His supporters accused Paschal II of simony, but their venture also reflected local aristocratic rivalries. Unable to maintain military support, Sylvester withdrew to Tivoli and then Osimo. Henry V later used his claim as pressure against Paschal during the investiture crisis. On the king’s order Sylvester renounced his claim on 12–13 April 1111 and accepted Paschal; his later death is unknown.",
+      "relatedPapalNames": [
+        "Paschal II"
+      ],
+      "sourceRefs": [
+        "cl-sylvester-iv"
+      ],
+      "claims": {
+        "dates": [
+          "cl-sylvester-iv"
+        ],
+        "summary": [
+          "cl-sylvester-iv"
+        ],
+        "biography": [
+          "cl-sylvester-iv"
+        ],
+        "classification": [
+          "cl-sylvester-iv"
+        ]
+      },
+      "researchNotes": [
+        {
+          "text": "Evidence does not establish continuous activity or possession of Rome between the brief 1105 occupation and the 1111 renunciation. This movement should not automatically be treated as a direct continuation of Albert’s party.",
+          "sourceRefs": [
+            "cl-sylvester-iv"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "claimant-celestine-1124",
+      "name": "Celestine II (1124)",
+      "aliases": [
+        "Teobaldo Boccadipecora",
+        "Theobald"
+      ],
+      "claimDates": "1124; withdrew before consecration",
+      "classification": "Withdrawn pope-elect in the disputed election of 1124; traditionally catalogued among antipopes",
+      "summary": "Celestine II was the cardinals’ first choice in a disrupted election, then withdrew to prevent a schism.",
+      "biography": "After Callixtus II’s death, the cardinals elected Teobaldo Boccadipecora and invested him with the scarlet mantle while the Te Deum began. Roberto Frangipani interrupted the ceremony and proclaimed Lamberto of Ostia as Honorius II. Teobaldo relinquished his election. Five days later Lamberto offered to resign unless the cardinals freely accepted him; they did. The episode exposes the influence of armed Roman families over elections and the importance attached to securing a consensus afterward. This Celestine is distinct from the recognized pope elected in 1143.",
+      "relatedPapalNames": [
+        "Honorius II"
+      ],
+      "sourceRefs": [
+        "cl-celestine-1124"
+      ],
+      "claims": {
+        "dates": [
+          "cl-celestine-1124"
+        ],
+        "summary": [
+          "cl-celestine-1124"
+        ],
+        "biography": [
+          "cl-celestine-1124"
+        ],
+        "classification": [
+          "cl-celestine-1124"
+        ]
+      },
+      "researchNotes": [
+        {
+          "text": "Calling Teobaldo simply an illegitimate rival obscures the source’s account that he was elected first. His withdrawal before consecration explains his exclusion without assuming that the original vote was fraudulent.",
+          "sourceRefs": [
+            "cl-celestine-1124"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "claimant-callixtus-iii",
+      "name": "Callixtus III",
+      "aliases": [
+        "Giovanni of Struma",
+        "John of Struma"
+      ],
+      "claimDates": "September 1168–29 August 1178",
+      "classification": "Antipope; excluded from the current Vatican sequence",
+      "summary": "Callixtus III sustained the imperial side of the schism against Alexander III until Frederick Barbarossa’s reconciliation deprived him of decisive support.",
+      "biography": "Giovanni was a Vallombrosan monk and abbot of Struma near Arezzo. He served the rival obedience created in 1159 and succeeded Paschal III in September 1168. Based mainly at Viterbo, he sent legates to Germany seeking money and military assistance. Frederick recognized him but also negotiated with Alexander. The peace agreements at Anagni and Venice abandoned Callixtus’s cause. Forced from Viterbo when Alexander’s authority recovered, he submitted at Tusculum in August 1178 and became rector of Benevento. He is still documented there in 1180.",
+      "relatedPapalNames": [
+        "Alexander III"
+      ],
+      "sourceRefs": [
+        "cl-callixtus-iii"
+      ],
+      "claims": {
+        "dates": [
+          "cl-callixtus-iii"
+        ],
+        "summary": [
+          "cl-callixtus-iii"
+        ],
+        "biography": [
+          "cl-callixtus-iii"
+        ],
+        "classification": [
+          "cl-callixtus-iii"
+        ]
+      },
+      "researchNotes": [
+        {
+          "text": "Jordan identifies Struma in the Arno valley near Arezzo and does not support the older Hungarian-origin account. His death occurred before 1184 but is undated.",
+          "sourceRefs": [
+            "cl-callixtus-iii"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "claimant-innocent-iii",
+      "name": "Innocent III (1179 claimant)",
+      "aliases": [
+        "Lando of Sezze",
+        "Landus Setinus"
+      ],
+      "claimDates": "29 September 1179–early January 1180",
+      "classification": "Antipope; excluded from the current Vatican sequence",
+      "summary": "Innocent III was the final claimant produced by the opposition to Alexander III, after imperial recognition of Alexander had already ended the main schism.",
+      "biography": "Lando of Sezze had served successive rival popes as cardinal deacon of Sant’Angelo. A remaining group of dissidents elected him when Alexander’s powerful supporter Christian of Mainz was imprisoned. Lando stayed at Palombara, protected by a relative of the earlier claimant Victor IV. Alexander negotiated the purchase of the castle, secured Lando’s surrender and imprisoned him with his followers. No independent program of government survives from this brief challenge. His capture extinguished the last organized continuation of the rival succession begun in 1159.",
+      "relatedPapalNames": [
+        "Alexander III"
+      ],
+      "sourceRefs": [
+        "cl-innocent-iii"
+      ],
+      "claims": {
+        "dates": [
+          "cl-innocent-iii"
+        ],
+        "summary": [
+          "cl-innocent-iii"
+        ],
+        "biography": [
+          "cl-innocent-iii"
+        ],
+        "classification": [
+          "cl-innocent-iii"
+        ]
+      },
+      "researchNotes": [
+        {
+          "text": "The specialist favors 1179 over the conflicting 1178 chronicle date: the circumstances match Christian’s captivity and no rival appears in the March 1179 Lateran council. Cave near Rome is the preferred prison identification; Cava de’ Tirreni remains an alternative interpretation. Family links are uncertain.",
+          "sourceRefs": [
+            "cl-innocent-iii"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "claimant-nicholas-v",
+      "name": "Nicholas V (1328 claimant)",
+      "aliases": [
+        "Pietro Rainalducci",
+        "Peter of Corvara"
+      ],
+      "claimDates": "12 May 1328–25 August 1330",
+      "classification": "Antipope; excluded from the current Vatican sequence",
+      "summary": "Nicholas V emerged from Louis of Bavaria’s attempt to depose John XXII and establish a papacy allied to imperial power.",
+      "biography": "The Franciscan Pietro Rainalducci was proclaimed pope at Rome on 12 May 1328 after Louis’s supporters declared John XXII deposed. He was consecrated ten days later. The venture drew strength from the conflict over imperial authority and the bitter Franciscan dispute about the poverty of Christ and the apostles. Its political base weakened as Italian cities abandoned Louis. Pietro sought pardon and publicly submitted to John at Avignon on 25 August 1330. John absolved him, but he remained under restriction at Avignon for the final three years of his life.",
+      "relatedPapalNames": [
+        "John XXII"
+      ],
+      "sourceRefs": [
+        "cl-nicholas-v"
+      ],
+      "claims": {
+        "dates": [
+          "cl-nicholas-v"
+        ],
+        "summary": [
+          "cl-nicholas-v"
+        ],
+        "biography": [
+          "cl-nicholas-v"
+        ],
+        "classification": [
+          "cl-nicholas-v"
+        ]
+      },
+      "researchNotes": [
+        {
+          "text": "This claimant is distinct from the recognized Nicholas V elected in 1447. The source’s Corbario place form is represented by the familiar alias Peter of Corvara; a precise birth date is not supplied here.",
+          "sourceRefs": [
+            "cl-nicholas-v"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "claimant-felix-v",
+      "name": "Felix V",
+      "aliases": [
+        "Amadeus VIII of Savoy",
+        "Amedeo VIII"
+      ],
+      "claimDates": "5 November 1439–7 April 1449",
+      "classification": "Antipope; excluded from the current Vatican sequence",
+      "summary": "The Council of Basel elected the retired duke of Savoy against Eugene IV, turning a dispute about councils and papal authority into a renewed schism.",
+      "biography": "Amadeus VIII had governed and consolidated Savoy before retiring with a religious brotherhood at Ripaille in 1434. Basel’s remaining council fathers chose him after declaring Eugene IV deposed. He accepted the name Felix V and received consecration and coronation in July 1440. His obedience remained concentrated in Savoy, Switzerland and parts of Germany; he never secured Rome. Friction with the council over revenues further weakened the project. French mediation eventually produced reconciliation with Nicholas V. Felix abdicated in April 1449 and received the title of cardinal of Santa Sabina and apostolic responsibilities in his former obedience.",
+      "relatedPapalNames": [
+        "Eugene IV",
+        "Nicholas V"
+      ],
+      "sourceRefs": [
+        "cl-felix-v-modern",
+        "cl-felix-v-ce"
+      ],
+      "claims": {
+        "dates": [
+          "cl-felix-v-modern"
+        ],
+        "summary": [
+          "cl-felix-v-modern",
+          "cl-felix-v-ce"
+        ],
+        "biography": [
+          "cl-felix-v-modern",
+          "cl-felix-v-ce"
+        ],
+        "classification": [
+          "cl-felix-v-modern",
+          "cl-felix-v-ce"
+        ]
+      },
+      "researchNotes": [
+        {
+          "text": "Cognasso dates election to 5 November 1439, correcting the older encyclopedia’s 30 October; the claim therefore begins before the 1440 consecration. Abdication, later death in January 1451 and local tomb devotion are separate matters.",
+          "sourceRefs": [
+            "cl-felix-v-modern",
+            "cl-felix-v-ce"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "claimant-clement-viii",
+      "name": "Clement VIII (Peñíscola claimant)",
+      "aliases": [
+        "Gil Muñoz",
+        "Egidio Muñoz",
+        "Gil Sánchez Muñoz"
+      ],
+      "claimDates": "1423–1429",
+      "classification": "Antipope; excluded from the current Vatican sequence",
+      "summary": "Clement VIII continued Benedict XIII’s shrinking obedience after the Council of Constance had elected Martin V to reunite the Church.",
+      "biography": "Three cardinals appointed by Benedict XIII elected the Valencian cleric Gil Muñoz at Peñíscola. Alfonso V of Aragon supported him while disputing Italian affairs with Martin V. A fourth cardinal, Jean Carrier, rejected this succession and chose a rival of his own. Clement’s position depended on royal protection rather than broad ecclesiastical acceptance. When Alfonso and Martin reached an agreement, he resigned in 1429 and subsequently served as bishop of Majorca. The episode shows how the Western Schism’s remaining local obediences could outlast its general settlement.",
+      "relatedPapalNames": [
+        "Martin V"
+      ],
+      "sourceRefs": [
+        "cl-clement-viii-modern",
+        "cl-clement-viii-context"
+      ],
+      "claims": {
+        "dates": [
+          "cl-clement-viii-modern"
+        ],
+        "summary": [
+          "cl-clement-viii-modern",
+          "cl-clement-viii-context"
+        ],
+        "biography": [
+          "cl-clement-viii-modern",
+          "cl-clement-viii-context"
+        ],
+        "classification": [
+          "cl-clement-viii-modern",
+          "cl-clement-viii-context"
+        ]
+      },
+      "researchNotes": [
+        {
+          "text": "The modern Treccani entry gives the election as 1423. Carlo Capasso’s older Enciclopedia Italiana entry starts it in 1425; that compressed chronology is not followed.",
+          "sourceRefs": [
+            "cl-clement-viii-modern",
+            "cl-clement-viii-context"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "claimant-benedict-xiv-garnier",
+      "name": "Benedict XIV (Bernard Garnier)",
+      "aliases": [
+        "Bernard Garnier",
+        "Bernardo Garnier"
+      ],
+      "claimDates": "From 12 November 1425; end date uncertain",
+      "classification": "Antipope; excluded from the current Vatican sequence",
+      "summary": "Bernard Garnier was the rival selected by Jean Carrier after Carrier rejected the other Peñíscola cardinals’ election of Clement VIII.",
+      "biography": "Garnier was a sacristan at Rodez. Carrier, formerly an archdeacon there and a representative of Benedict XIII, acted alone in selecting him on 12 November 1425. This created another division within an already isolated continuation of the Avignon obedience. Garnier acquired no effective authority. The brief surviving account does not establish a secure end date for his claim or a reliable sequence of later successors. His story marks the fragmentary aftermath of the Western Schism rather than a renewed church-wide contest.",
+      "relatedPapalNames": [
+        "Martin V"
+      ],
+      "sourceRefs": [
+        "cl-benedict-xiv",
+        "cl-clement-viii-context",
+        "cl-viaur-scholarship"
+      ],
+      "claims": {
+        "dates": [
+          "cl-benedict-xiv"
+        ],
+        "summary": [
+          "cl-benedict-xiv",
+          "cl-clement-viii-context"
+        ],
+        "biography": [
+          "cl-benedict-xiv",
+          "cl-clement-viii-context"
+        ],
+        "classification": [
+          "cl-benedict-xiv",
+          "cl-clement-viii-context"
+        ]
+      },
+      "researchNotes": [
+        {
+          "text": "The opened Treccani accounts do not establish a 1429/1430 end date. Beaune and Lemaître discuss a later Jean Carrier claimant using the 1467 Rodez trial; the precise identity, accession and end dates remain unsettled. This evidence is retained without adding an equally established second Benedict XIV record.",
+          "sourceRefs": [
+            "cl-benedict-xiv",
+            "cl-clement-viii-context",
+            "cl-viaur-scholarship"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "claimant-heraclius",
+      "name": "Heraclius",
+      "aliases": [
+        "Eraclio"
+      ],
+      "claimDates": "During Eusebius’s episcopate, circa 308–310",
+      "classification": "Rival Roman faction leader; formal papal election unproven",
+      "summary": "Heraclius led opposition to Eusebius over the readmission of Christians who had lapsed during persecution. His status as a rival bishop is uncertain.",
+      "biography": "Damasus’s surviving epitaph for Eusebius records a divided Roman community and names Heraclius as the opposing leader. Eusebius required penance before reconciliation; Heraclius most likely represented those demanding immediate readmission. Violent disorder led Emperor Maxentius to exile both men. Heraclius then disappears from the evidence. Although later catalogues include him among antipopes, the inscription does not record his election or episcopal consecration. He may instead have been an influential priest or deacon leading a faction.",
+      "relatedPapalNames": [
+        "Eusebius"
+      ],
+      "sourceRefs": [
+        "cl-heraclius-modern",
+        "cl-heraclius-eusebius"
+      ],
+      "claims": {
+        "dates": [
+          "cl-heraclius-modern",
+          "cl-heraclius-eusebius"
+        ],
+        "summary": [
+          "cl-heraclius-modern",
+          "cl-heraclius-eusebius"
+        ],
+        "biography": [
+          "cl-heraclius-modern",
+          "cl-heraclius-eusebius"
+        ],
+        "classification": [
+          "cl-heraclius-modern",
+          "cl-heraclius-eusebius"
+        ]
+      },
+      "researchNotes": [
+        {
+          "text": "The specialist entry’s antipope heading does not settle the issue: its conclusion explicitly says the inscription supplies no indication of a papal claim. The episcopate’s placement in 308, 309 or 310 is debated in these historical sources; the recognized roster chronology is preserved separately.",
+          "sourceRefs": [
+            "cl-heraclius-modern",
+            "cl-heraclius-eusebius"
+          ]
+        }
+      ]
+    }
+  ],
+  "coverageNotes": [
+    "Historical survey completed across the conventional catalogue of rival papal claimants, from disputed early Roman cases through the medieval schisms and Felix V’s resignation in 1449. Forty-one individual records include brief contested elections and carefully distinguished uncertain classifications; this is not a catalogue of modern self-proclaimed popes.",
+    "Current Vatican inclusion controls the recognized sequence. Leo VIII, Benedict V and Sylvester III remain recognized people despite older classification disputes. Rival claimants are linked to the recognized pontificates they challenged; claim dates distinguish active occupation, continued claims and later life.",
+    "Hippolytus’s identity and the formal antipope classification of Natalis remain disputed. Dioscorus’s election and Celestine II’s withdrawal in 1124 require more nuance than a simple illegitimate-rival label. The six existing ex-* claimant identifiers are preserved.",
+    "The fragmentary Viaur continuation after Bernard Garnier is documented in research notes. A later Jean Carrier claimant is reported in scholarship, but exact identity, papal name and chronology are insufficiently settled here for an additional equally established record. The additional Heraclius entry concerns a separately documented early Roman faction leader, with formal election unproven."
+  ]
+}
