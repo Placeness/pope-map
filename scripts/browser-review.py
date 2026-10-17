@@ -1,6 +1,8 @@
 #!/usr/bin/env python3
 """Optional browser regression check (requires Python Playwright and Chromium)."""
 import argparse
+import json
+import re
 from pathlib import Path
 from playwright.sync_api import sync_playwright
 
@@ -12,20 +14,40 @@ parser.add_argument("--screenshots", default=str(ROOT / "docs/qa"))
 args = parser.parse_args()
 output = Path(args.screenshots)
 output.mkdir(parents=True, exist_ok=True)
+records=json.loads((ROOT/'data/popes.json').read_text())['people']
+mappable=sum(bool(person['birthplace'].get('coordinates') or person['birthplace'].get('bounds')) for person in records)
 
 with sync_playwright() as p:
     browser = p.chromium.launch(executable_path=args.browser, headless=True, args=["--no-sandbox"])
-    for name, width, height in [("desktop", 1440, 900), ("mobile", 390, 844)]:
+    for name, width, height in [("desktop", 1440, 900), ("mobile", 390, 844), ("small-mobile", 320, 568)]:
         page = browser.new_page(viewport={"width": width, "height": height}, reduced_motion="reduce")
         errors, remote_requests, requests = [], [], []
         page.on("pageerror", lambda error: errors.append(str(error)))
         page.on("request", lambda request: requests.append(request.url))
         page.on("request", lambda request: remote_requests.append(request.url) if request.url.startswith("https://") else None)
         page.goto(args.url, wait_until="networkidle")
-        page.locator(".pope-map-marker").first.wait_for()
+        page.locator(".pope-map-marker").first.wait_for(state="attached")
         page.screenshot(path=str(output / f"preview-{name}.png"))
+        assert page.locator('.pope-map-marker:visible').count()>0, 'The landing must expose mapped birthplaces'
+        visible_people=0
+        for label in page.locator('.pope-map-marker:visible').evaluate_all('(buttons)=>buttons.map(button=>button.getAttribute("aria-label"))'):
+            count=re.search(r', (\d+) popes',label)
+            visible_people+=int(count.group(1)) if count else 1
+        assert visible_people>=mappable/2, f'The landing exposes only {visible_people}/{mappable} mapped people'
+        page.locator('[data-action="world-map"]').click()
+        page.locator('.pope-map-inset').wait_for(state="visible")
+        page.screenshot(path=str(output / f"preview-world-{name}.png"))
+        page.locator('.pope-map-inset-place[aria-label^="Leo XIV,"]').click()
+        assert page.locator('.profile-heading h2').inner_text() == 'Leo XIV'
+        page.locator('[data-action="close-panel"]').click()
+        page.locator('[data-action="world-map"]').click()
+        page.locator('.pope-map-inset-place[aria-label^="Francis,"]').click()
+        assert page.locator('.profile-heading h2').inner_text() == 'Francis'
+        page.locator('[data-action="close-panel"]').click()
+        page.locator('[data-action="reset-map"]').click()
         page.locator('.primary-nav [data-action="list"]').click()
         assert page.locator(".pope-row").count() == 267
+        assert not any('approximate' in label or 'broad origin' in label for label in page.locator('.pope-row-place').all_inner_texts())
         page.locator('[data-action="select-period"][data-index="144"]').click()
         assert page.locator(".profile-heading h2").inner_text() == "Benedict IX"
         assert page.locator(".period-button").count() == 3
@@ -43,7 +65,7 @@ with sync_playwright() as p:
         page.locator('#selection-card [data-action="restart-tour"]').click()
         assert page.locator(".profile-heading h2").inner_text() == "Peter"
         page.screenshot(path=str(output / f"preview-tour-{name}.png"))
-        if name == "mobile":
+        if width <= 760:
             page.locator("#tour-jump").select_option("266")
         else:
             page.locator('.timeline-stop[data-index="266"]').click()

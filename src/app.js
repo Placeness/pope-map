@@ -2,18 +2,28 @@ const $ = selector => document.querySelector(selector);
 const h = value => String(value ?? '').replace(/[&<>"']/g, char => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[char]));
 const state = {data:null,people:new Map(),eras:new Map(),map:null,panel:null,selectedIndex:null,group:null,fromList:false,listScroll:0,query:'',tourActive:false,tourVisited:false,tourIndex:0,timelineBuilt:false};
 const panel = $('#content-panel'), stage = $('#main-content'), status = $('#app-status');
+stage.addEventListener('pope-map-viewchange',event => {
+  stage.classList.toggle('is-world-overview',event.detail?.mode === 'world');
+});
 const mobileQuery = matchMedia('(max-width:760px)');
 const mobile = () => mobileQuery.matches;
 const currentPeriod = () => state.selectedIndex === null ? null : state.data.pontificates[state.selectedIndex];
 const currentPerson = () => state.people.get(currentPeriod()?.personId);
 const eraFor = person => state.eras.get(person?.eraId) || {};
 const dot = person => `<span class="era-dot" style="--era:${h(eraFor(person).color || '#E8B04B')}" aria-hidden="true"></span>`;
+const cleanPlaceLabel = value => String(value || '')
+  .replace(/\s*\((?:approximate\b|broad origin\b|(?:birthplace|origin|location) uncertain\b)[^)]*\)/gi,'')
+  .replace(/\s*[—–]\s*(?:approximate\b|broad origin\b|(?:birthplace|origin|location) uncertain\b).*$/gi,'')
+  .replace(/\s{2,}/g,' ').trim();
 const placeText = person => {
   const place = person.birthplace || {};
   if (place.precision === 'unknown') return 'Birthplace unknown';
-  const country = place.country && !String(place.label).includes(place.country) ? `, ${place.country}` : '';
-  const approximate = place.precision === 'region' && !/approximate/i.test(place.label) ? ' (approximate region)' : '';
-  return `${place.label || 'Birthplace unknown'}${country}${approximate}`;
+  const label = cleanPlaceLabel(place.label);
+  const country = cleanPlaceLabel(place.country);
+  const showCountry = country && !/\b(?:unknown|unresolved)\b/i.test(country)
+    && !(place.precision === 'region' && country.includes('/'))
+    && !label.toLocaleLowerCase().includes(country.toLocaleLowerCase());
+  return label ? `${label}${showCountry ? `, ${country}` : ''}` : 'Birthplace unknown';
 };
 const paragraphs = text => String(text || '').split(/\n\s*\n/).filter(Boolean).map(part => `<p>${h(part)}</p>`).join('');
 const safeHref = value => /^(https?:\/\/|\.\/|assets\/)/.test(String(value || '')) ? h(value) : '#';
@@ -88,7 +98,8 @@ function renderGroupChooser(person) {
   if (!state.group || state.group.peopleIds.length<2) return '';
   const people=state.group.peopleIds.map(id=>state.people.get(id)).filter(Boolean).sort((a,b)=>a.firstOrder-b.firstOrder);
   const index=people.findIndex(item=>item.id===person.id);if(index<0)return '';
-  const label=state.group.regional?`Approximate origin region · ${state.group.label}`:state.group.kind==='shared'?`Shared birthplace · ${state.group.label}`:state.group.label==='Popes in this area'?'Popes in this area · nearby birthplaces':`Popes in this area · ${state.group.label}`;
+  const groupPlace=cleanPlaceLabel(state.group.label);
+  const label=state.group.regional?(groupPlace==='Popes in this area'?'Birthplace regions in this area':`Birthplace region · ${groupPlace}`):state.group.kind==='shared'?`Shared birthplace · ${groupPlace}`:groupPlace==='Popes in this area'?'Popes in this area':`Popes in this area · ${groupPlace}`;
   return `<section class="group-chooser" aria-label="Location chooser"><p class="group-label">${h(label)}</p><div class="group-navigation">${dot(person)}<span class="group-current">${h(person.name)}</span><span class="group-count">${index+1}/${people.length}</span><button type="button" class="group-arrow" data-action="group-previous" aria-label="Previous pope in this location" ${index===0?'disabled':''}>‹</button><button type="button" class="group-arrow" data-action="group-next" aria-label="Next pope in this location" ${index===people.length-1?'disabled':''}>›</button></div><details class="group-menu"><summary>Choose from all ${people.length} popes</summary><div class="group-people">${people.map(item=>`<button type="button" class="group-person${item.id===person.id?' is-selected':''}" data-action="group-select" data-person="${h(item.id)}">${dot(item)}<span>${h(item.name)}<span>${h(placeText(item))}</span></span></button>`).join('')}</div></details></section>`;
 }
 function expandable(label,content){return content?`<details class="expandable"><summary>${h(label)}</summary>${content}</details>`:'';}
@@ -96,7 +107,9 @@ function renderProfile() {
   const period=currentPeriod(),person=currentPerson();if(!person)return;
   const era=eraFor(person),periods=state.data.pontificates.map((item,index)=>({...item,index})).filter(item=>item.personId===person.id);
   const statusLabel=['saint','blessed'].includes(person.saintStatus?.status)?`<span class="saint-badge">${h(person.saintStatus.label || (person.saintStatus.status==='saint'?'Saint':'Blessed'))}</span>`:'';
-  const birth=person.birthplace||{},locationNote=birth.precision==='unknown'?'His birthplace is unknown. The map keeps its current view.':birth.uncertainty||'';
+  const birth=person.birthplace||{};
+  const historicalPlace=cleanPlaceLabel(birth.historicalName);
+  const showHistoricalPlace=historicalPlace&&!placeText(person).toLocaleLowerCase().includes(historicalPlace.toLocaleLowerCase());
   const portrait=person.portrait?.src?`<img class="profile-portrait" src="${safeHref(person.portrait.src)}" alt="${h(person.portrait.alt||person.name)}">${person.portrait.credit?`<p class="portrait-credit">${h(person.portrait.credit)}</p>`:''}`:'';
   const repeatPeriods=periods.length>1?`<section class="profile-periods" aria-label="Pontificate periods"><span class="profile-periods-title">One pope, ${periods.length} pontificate entries</span>${periods.map(item=>`<button type="button" class="period-button${item.index===state.selectedIndex?' is-active':''}" data-action="select-period" data-index="${item.index}"><span>Vatican sequence ${item.order} · ${h(item.dates)}</span>${item.index===state.selectedIndex?'<span class="active-label">Active period</span>':''}</button>`).join('')}</section>`:'';
   const claimants=(period.antipopeIds||[]).map(id=>state.data.antipopes.find(item=>item.id===id)).filter(Boolean);
@@ -110,7 +123,7 @@ function renderProfile() {
   if(person.saintStatus?.beatificationDate&&person.saintStatus.beatificationDate!==person.saintStatus.recognitionDate)recognitionDates.push(`Beatified: ${dateLabel(person.saintStatus.beatificationDate)}.`);
   const recognition=['saint','blessed'].includes(person.saintStatus?.status)?paragraphs(person.saintStatus.recognition)+(recognitionDates.length?`<p>${recognitionDates.map(h).join('<br>')}</p>`:''):'';
   const backToList=state.fromList&&!mobile();panel.setAttribute('aria-label',`${person.name} profile`);
-  panel.innerHTML=`${panelTop(backToList?'back-list':'map',backToList?'Back to list':'Back to map')}<article class="panel-body">${state.fromList&&mobile()?'<button type="button" class="text-button mobile-back-list" data-action="back-list">← Back to list</button>':''}${renderGroupChooser(person)}<div class="profile-era">${dot(person)}${h(era.label||'')}</div><div class="profile-heading"><h2 tabindex="-1">${h(person.name)}</h2>${statusLabel}</div><div class="drawn-rule" aria-hidden="true"></div><p class="profile-dates">${h(period.dates)}${periods.length>1?` <span class="active-label">· Active period ${period.order}</span>`:''}</p>${portrait}<div class="profile-facts"><div><span class="fact-label">Birthplace</span><span class="fact-value">${h(placeText(person))}</span>${birth.historicalName?`<span class="fact-historical">${h(birth.historicalName)}</span>`:''}</div><div><span class="fact-label">Born</span><span class="fact-value">${h(person.birthDate?.label||'Unknown')}</span></div></div>${locationNote?`<p class="location-note">${h(locationNote)}</p>`:''}<p class="profile-summary">${h(person.summary||'')}</p>${repeatPeriods}${expandable('His life and papacy',biography)}${expandable('Actions and teachings',actions)}${expandable('The world around his papacy',context)}${expandable(claimants.length===1?'A disputed papal claim':'Disputed papal claims',antipopeContent)}${expandable('Recognition in the Church',recognition)}</article>`;
+  panel.innerHTML=`${panelTop(backToList?'back-list':'map',backToList?'Back to list':'Back to map')}<article class="panel-body">${state.fromList&&mobile()?'<button type="button" class="text-button mobile-back-list" data-action="back-list">← Back to list</button>':''}${renderGroupChooser(person)}<div class="profile-era">${dot(person)}${h(era.label||'')}</div><div class="profile-heading"><h2 tabindex="-1">${h(person.name)}</h2>${statusLabel}</div><div class="drawn-rule" aria-hidden="true"></div><p class="profile-dates">${h(period.dates)}${periods.length>1?` <span class="active-label">· Active period ${period.order}</span>`:''}</p>${portrait}<div class="profile-facts"><div><span class="fact-label">Birthplace</span><span class="fact-value">${h(placeText(person))}</span>${showHistoricalPlace?`<span class="fact-historical">${h(historicalPlace)}</span>`:''}</div><div><span class="fact-label">Born</span><span class="fact-value">${h(person.birthDate?.label||'Unknown')}</span></div></div><p class="profile-summary">${h(person.summary||'')}</p>${repeatPeriods}${expandable('His life and papacy',biography)}${expandable('Actions and teachings',actions)}${expandable('The world around his papacy',context)}${expandable(claimants.length===1?'A disputed papal claim':'Disputed papal claims',antipopeContent)}${expandable('Recognition in the Church',recognition)}</article>`;
 }
 function selectPeriod(index,{group=null,fromList=false,focus=true,move=true}={}) {
   index=Number(index);if(!Number.isInteger(index)||index<0||index>=state.data.pontificates.length)return;

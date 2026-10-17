@@ -28,9 +28,9 @@ An optional repeatable browser check is available as `python3 scripts/browser-re
 
 - 267 official pontificate entries linked to 265 people, including Benedict IX at positions 145, 147 and 150.
 - 22 researched narrative profiles; the remaining 243 profiles currently have source-backed roster facts. Fuller biographies, actions and context remain research gaps.
-- 193 people have named-place map reference points; 46 have approximate regions; 11 have unknown birthplaces. Another 15 have supported named origins whose coordinates remain unresolved. These stay accessible in the list and tour.
+- 206 people have named-place map reference points; 36 have regional origins; 10 have unknown birthplaces. Another 13 have supported named origins whose coordinates remain unresolved. These stay accessible in the list and tour.
 - Six selected rival claimants exercise disputes within and across pontificates. This is not comprehensive antipope coverage.
-- 49 numbered sources include Vatican publications, sources with historical local ecclesiastical approval, supplementary scholarship and geographic data. References are kept out of public text.
+- 134 numbered sources include Vatican publications, sources with historical local ecclesiastical approval, supplementary scholarship and geographic data. References are kept out of public text.
 - A missing saint designation does not mean a person is not a saint. Positive historical designations and selected modern recognition records are recorded; unverified fields stay explicit internally.
 
 The authoritative compiled data is `data/popes.json`; reviewed inputs live in `data/research/`. To regenerate it:
@@ -42,10 +42,14 @@ npm run data
 
 The extractor uses the checked-in source snapshots and preserves every source date string. `scripts/build-locations.py --gazetteer /absolute/path/to/cities.json` reproduces place matching using the extracted `cities.json@1.1.65` GeoNames package; the full gazetteer is not vendored. Indicative region bounds are navigation envelopes, not historical border claims. `docs/internal/locations-findings.md` explains unmatched towns and aliases.
 
+`data/research/birthplaces.json` records the subsequent review of 45 people, with person-specific source passages, geographic authorities and retained disagreements. These refinements apply after the original roster and narrative examples. Public labels use place names; precision and conflicting accounts remain in the internal records. See [birthplace review](docs/internal/birthplace-review.md).
+
+Dense town and regional origins share one screen-space grouping system, with unique-person counts and a single selected/hover label. The portrait overview frames Europe and the Mediterranean inside the usable map area; “Show the world” adds an interactive Americas inset instead of fitting an empty north–south continental strip.
+
 ## Design and release status
 
 The complete Notion brief and supplied mockup governed the prototype. Young Serif and Instrument Sans are self-hosted. Supplied Print & Praise artwork serves the logo, overview, context and era markers; era illustrations are not individual portraits. Original artwork remains intact. See [artwork mapping](docs/internal/artwork.md) and [era rationale](docs/internal/eras.md).
 
 This branch is for review. No merge, deployment or domain changes are part of this work. The existing `CNAME` is retained. Current domain evidence and the checks required after an approved deployment are in [domain-check.md](docs/internal/domain-check.md).
 
-Art: [Print & Praise](https://www.etsy.com/shop/PrintAndPraise). Place reference coordinates: [GeoNames](https://www.geonames.org/) ([CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)). Basemap: public-domain [Natural Earth](https://www.naturalearthdata.com/). Font licenses are included in `assets/fonts/`.
+Art: [Print & Praise](https://www.etsy.com/shop/PrintAndPraise). Place reference coordinates: [GeoNames](https://www.geonames.org/) ([CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)); ancient Nicopolis and Ephesus representative points: Pleiades contributors, © Ancient World Mapping Center and Institute for the Study of the Ancient World, [CC BY 3.0 US](https://creativecommons.org/licenses/by/3.0/us/), via [Ryan Baumann’s export](https://github.com/ryanfb/pleiades-geojson), used unchanged. Chevron: [© OpenStreetMap contributors](https://www.openstreetmap.org/copyright), ODbL. Basemap: public-domain [Natural Earth](https://www.naturalearthdata.com/). Font licenses are included in `assets/fonts/`.

@@ -1,7 +1,7 @@
 import { countries } from './map-geography.js';
 
 const SVG_NS = 'http://www.w3.org/2000/svg';
-const NEARBY_DISTANCE = 52;
+const NEARBY_DISTANCE = 62;
 const MIN_WIDTH = 9;
 const MAX_WIDTH = 380;
 const boundView = next => ({
@@ -24,7 +24,12 @@ const makeSvg = (tag, attributes = {}) => {
 const orderedUnique = people => [...new Map(people.map(person => [person.id, person])).values()]
   .sort((a, b) => a.firstOrder - b.firstOrder || a.name.localeCompare(b.name));
 
-/** A regional origin never contributes a precise point to a nearby-pin cluster. */
+export const displayPlace = value => String(value || '')
+  .replace(/\s*\((?:approximate[^)]*|broad origin|birthplace uncertain)\)/gi, '')
+  .replace(/\s*[—–]\s*approximate.*$/i, '')
+  .trim();
+
+/** Regional bounds supply an area anchor for visual density; their source geometry and precision remain intact. */
 export function collectLocations(people) {
   const places = new Map();
   for (const person of people) {
@@ -45,65 +50,63 @@ export function collectLocations(people) {
   return [...places.values()].map(place => ({ ...place, people: orderedUnique(place.people) }));
 }
 
-/** Nearby groups are recomputed in screen space at every zoom, using unique people. */
+/** One density layer includes points and areas without changing their source precision. */
 export function clusterLocations(locations, toScreen, distance = NEARBY_DISTANCE) {
-  const exact = locations.filter(place => place.location.precision === 'place');
-  const pending = new Set(exact);
-  const groups = [];
-  while (pending.size) {
-    const first = pending.values().next().value;
-    pending.delete(first);
-    const members = [first];
-    // Connected components keep a dense set of overlapping Italian pins usable.
-    for (let cursor = 0; cursor < members.length; cursor += 1) {
-      const position = toScreen(members[cursor].point);
-      for (const candidate of pending) {
-        const other = toScreen(candidate.point);
-        if (Math.hypot(position[0] - other[0], position[1] - other[1]) < distance) {
-          pending.delete(candidate);
-          members.push(candidate);
-        }
-      }
-    }
+  const describe = members => {
     const people = orderedUnique(members.flatMap(place => place.people));
-    groups.push({
+    const shared = members.length === 1 && members[0].location.precision === 'place';
+    return {
       key: members.map(place => place.key).sort().join('~'),
-      kind: members.length === 1 ? 'shared' : 'area',
-      label: members.length === 1 ? members[0].location.label : 'Popes in this area',
+      kind: shared ? 'shared' : 'area',
+      label: members.length === 1 ? displayPlace(members[0].location.label) : 'Popes in this area',
       location: members.length === 1 ? members[0].location : null,
-      people,
+      people, members,
       point: members.reduce((sum, place) => [sum[0] + place.point[0] / members.length, sum[1] + place.point[1] / members.length], [0, 0]),
-      members,
-    });
-  }
-  // Approximate area symbols group with other regions, never with precise pins.
-  const regionalPending = new Set(locations.filter(item => item.location.precision === 'region'));
-  while (regionalPending.size) {
-    const first = regionalPending.values().next().value;
-    regionalPending.delete(first);
-    const members = [first];
-    for (let cursor = 0; cursor < members.length; cursor += 1) {
-      const position = toScreen(members[cursor].point);
-      for (const candidate of regionalPending) {
-        const other = toScreen(candidate.point);
+      regional: members.every(place => place.location.precision === 'region'),
+      hasRegions: members.some(place => place.location.precision === 'region'),
+    };
+  };
+  const groups = locations.map(place => describe([place]));
+  // Recheck displayed group centres after every merge.
+  // This prevents both overlapping symbols and centroid shifts into another group.
+  let merged = true;
+  while (merged) {
+    merged = false;
+    outer: for (let left = 0; left < groups.length; left += 1) {
+      const position = toScreen(groups[left].point);
+      for (let right = left + 1; right < groups.length; right += 1) {
+        const other = toScreen(groups[right].point);
         if (Math.hypot(position[0] - other[0], position[1] - other[1]) < distance) {
-          regionalPending.delete(candidate);
-          members.push(candidate);
+          groups[left] = describe([...groups[left].members, ...groups[right].members]);
+          groups.splice(right, 1);
+          merged = true;
+          break outer;
         }
       }
     }
-    groups.push({
-      key: members.map(place => place.key).sort().join('~'),
-      kind: 'area',
-      label: members.length === 1 ? members[0].location.label : 'Popes in this area',
-      location: members.length === 1 ? members[0].location : null,
-      people: orderedUnique(members.flatMap(place => place.people)),
-      point: members.reduce((sum, place) => [sum[0] + place.point[0] / members.length, sum[1] + place.point[1] / members.length], [0, 0]),
-      members,
-      regional: true,
-    });
   }
-  return groups;
+  return groups.sort((a, b) => a.people[0].firstOrder - b.people[0].firstOrder);
+}
+
+/** Fit documented data into a usable rectangle, rather than fitting a whole continent. */
+export function fitLocations(locations, viewport, rectangle = {}, coreOnly = false) {
+  const central = locations.filter(place => place.point[0] > -25 && place.point[0] < 60);
+  let candidates = coreOnly && central.length ? central : locations;
+  const specific = candidates.filter(place => place.location.precision === 'place' ||
+    (place.location.bounds[1][0] - place.location.bounds[0][0] < 30 && place.location.bounds[1][1] - place.location.bounds[0][1] < 30));
+  if (specific.length) candidates = specific;
+  const points = candidates.map(place => place.point);
+  if (!points.length) points.push(projectCoordinates([14, 43]));
+  const left = rectangle.left ?? 24, top = rectangle.top ?? 24;
+  const right = rectangle.right ?? viewport.width - 24, bottom = rectangle.bottom ?? viewport.height - 24;
+  const availableWidth = Math.max(80, right - left), availableHeight = Math.max(80, bottom - top);
+  const west = Math.min(...points.map(point => point[0])), east = Math.max(...points.map(point => point[0]));
+  const north = Math.min(...points.map(point => point[1])), south = Math.max(...points.map(point => point[1]));
+  const viewWidth = Math.max(20, (east - west + 9) * viewport.width / availableWidth, (south - north + 9) * viewport.width / availableHeight);
+  return boundView({ width: viewWidth, center: [
+    (west + east) / 2 - ((left + right) / 2 - viewport.width / 2) * viewWidth / viewport.width,
+    (north + south) / 2 - ((top + bottom) / 2 - viewport.height / 2) * viewWidth / viewport.width,
+  ] });
 }
 
 /**
@@ -117,6 +120,10 @@ export function createMap(element, { people, eras, onSelectGroup = () => {}, onS
   const placeByPerson = new Map();
   locations.forEach(place => place.people.forEach(person => placeByPerson.set(person.id, place)));
   let selectedId = null;
+  let framing = 'overview';
+  let showWorld = false;
+  let hoveredKey = null;
+  let focusedKey = null;
   let panelOpen = false;
   let width = Math.max(element.clientWidth, 1);
   let height = Math.max(element.clientHeight, 1);
@@ -141,35 +148,80 @@ export function createMap(element, { people, eras, onSelectGroup = () => {}, onS
   const land = makeSvg('g', { class: 'pope-map-land' });
   countries.forEach(country => land.append(makeSvg('path', { d: country.path, 'vector-effect': 'non-scaling-stroke' })));
   const regionalLayer = makeSvg('g', { class: 'pope-map-regions' });
-  const connectorLayer = makeSvg('g', { class: 'pope-map-region-connectors' });
   const regionalNodes = new Map();
   locations.filter(place => place.location.precision === 'region').forEach(place => {
     const [[west, south], [east, north]] = place.location.bounds;
     const upperLeft = projectCoordinates([west, north]);
     const lowerRight = projectCoordinates([east, south]);
-    const rect = makeSvg('rect', {
-      x: upperLeft[0], y: upperLeft[1], width: lowerRight[0] - upperLeft[0], height: lowerRight[1] - upperLeft[1],
-      rx: 0.8, 'vector-effect': 'non-scaling-stroke',
-    });
+    const rect = makeSvg('rect', { x: upperLeft[0], y: upperLeft[1], width: lowerRight[0] - upperLeft[0], height: lowerRight[1] - upperLeft[1], rx: 0.6, 'vector-effect': 'non-scaling-stroke' });
     regionalNodes.set(place.key, rect);
     regionalLayer.append(rect);
   });
-  svg.append(land, regionalLayer, connectorLayer);
+  const selectedPlaceDot = makeSvg('circle', { class: 'pope-map-selected-place', 'vector-effect': 'non-scaling-stroke' });
+  const tooltipConnector = makeSvg('line', { class: 'pope-map-tooltip-connector', 'vector-effect': 'non-scaling-stroke' });
+  svg.append(land, regionalLayer, selectedPlaceDot, tooltipConnector);
   const labelsLayer = document.createElement('div');
   labelsLayer.className = 'pope-map-labels';
   labelsLayer.setAttribute('aria-hidden', 'true');
   const markerLayer = document.createElement('div');
   markerLayer.className = 'pope-map-markers';
+  const tooltip = document.createElement('div');
+  tooltip.className = 'pope-map-tooltip';
+  tooltip.hidden = true;
+  tooltip.setAttribute('aria-hidden', 'true');
   const status = document.createElement('p');
   status.className = 'pope-map-status';
   status.setAttribute('aria-live', 'polite');
-  element.replaceChildren(svg, labelsLayer, markerLayer, status);
+  const inset = document.createElement('section');
+  inset.className = 'pope-map-inset';
+  inset.setAttribute('aria-label', 'Birthplaces in the Americas');
+  inset.hidden = true;
+  const insetHeading = document.createElement('div');
+  insetHeading.className = 'pope-map-inset-heading';
+  const insetTitle = document.createElement('span');
+  insetTitle.textContent = 'Americas';
+  const insetClose = document.createElement('button');
+  insetClose.type = 'button';
+  insetClose.textContent = '×';
+  insetClose.setAttribute('aria-label', 'Close Americas overview');
+  insetClose.addEventListener('click', () => reset(), listeners);
+  insetHeading.append(insetTitle, insetClose);
+  const insetCanvas = document.createElement('div');
+  insetCanvas.className = 'pope-map-inset-canvas';
+  const insetSvg = makeSvg('svg', { 'aria-hidden': 'true', preserveAspectRatio: 'xMidYMid meet' });
+  const insetLand = makeSvg('g', { class: 'pope-map-inset-land' });
+  countries.forEach(country => insetLand.append(makeSvg('path', { d: country.path, 'vector-effect': 'non-scaling-stroke' })));
+  insetSvg.append(insetLand);
+  insetCanvas.append(insetSvg);
+  inset.append(insetHeading, insetCanvas);
+  inset.addEventListener('pointerdown', event => event.stopPropagation(), listeners);
+  inset.addEventListener('wheel', event => event.stopPropagation(), listeners);
+  const distantLocations = locations.filter(place => place.point[0] < -25 || place.point[0] > 60);
+  const insetMarkers = distantLocations.map(place => {
+    const button = document.createElement('button');
+    button.className = 'pope-map-inset-place';
+    button.type = 'button';
+    const circle = document.createElement('span');
+    circle.className = 'pope-map-inset-dot';
+    circle.setAttribute('aria-hidden', 'true');
+    const label = document.createElement('span');
+    label.className = 'pope-map-inset-place-label';
+    label.textContent = displayPlace(place.location.label).split(',')[0];
+    button.append(circle, label);
+    button.setAttribute('aria-label', `${place.people.map(person => person.name).join(', ')}, ${displayPlace(place.location.label)}`);
+    button.addEventListener('click', () => {
+      if (place.people.length > 1) onSelectGroup({ kind: place.location.precision === 'place' ? 'shared' : 'area', label: displayPlace(place.location.label), peopleIds: place.people.map(person => person.id), regional: place.location.precision === 'region' });
+      else onSelectPerson(place.people[0].id);
+    }, listeners);
+    insetCanvas.append(button);
+    return { button, place, label };
+  });
+  element.replaceChildren(svg, labelsLayer, markerLayer, tooltip, inset, status);
 
   const backgroundLabels = [
     ['France', 2, 47], ['Spain', -4, 40], ['Italy', 15.7, 39], ['Germany', 10, 52], ['Poland', 21, 53],
     ['Greece', 23, 38.2], ['Türkiye', 35, 40], ['Egypt', 29, 26], ['Algeria', 3, 28], ['Morocco', -7, 31],
-    ['United States', -104, 39], ['Argentina', -66, -35], ['Brazil', -51, -12], ['Mexico', -102, 23],
-    ['Atlantic Ocean', -34, 25, 'sea'], ['Mediterranean Sea', 18, 33.5, 'sea'],
+    ['United States', -104, 39], ['Argentina', -66, -35], ['Mediterranean Sea', 18, 33.5, 'sea'],
   ].map(([label, longitude, latitude, type]) => {
     const node = document.createElement('span');
     node.className = `pope-map-geographic-label${type ? ' pope-map-sea-label' : ''}`;
@@ -179,185 +231,204 @@ export function createMap(element, { people, eras, onSelectGroup = () => {}, onS
   });
 
   const toScreen = point => [(point[0] - view.center[0]) * width / view.width + width / 2, (point[1] - view.center[1]) * width / view.width + height / 2];
-  const focalX = () => panelOpen && width >= 760 ? 0.75 : 0.5;
-  const stopAnimation = () => {
-    if (animation !== null) cancelAnimationFrame(animation);
-    animation = null;
+  const focalX = () => panelOpen && width > 760 ? 0.75 : 0.5;
+  const stopAnimation = () => { if (animation !== null) cancelAnimationFrame(animation); animation = null; };
+  const overlap = (a, b) => Math.max(0, Math.min(a.right, b.right) - Math.max(a.left, b.left)) * Math.max(0, Math.min(a.bottom, b.bottom) - Math.max(a.top, b.top));
+  const uiBoxes = () => {
+    const origin = element.getBoundingClientRect();
+    return [...element.parentElement.querySelectorAll('.welcome-card,.era-legend,.selection-card,.tour-rail,.map-toolbar,.pope-map-inset')]
+      .filter(node => !node.hidden && node.getClientRects().length)
+      .map(node => { const box = node.getBoundingClientRect(); return { left: box.left - origin.left, right: box.right - origin.left, top: box.top - origin.top, bottom: box.bottom - origin.top, node }; });
   };
+
+  function overviewView() {
+    const obstacles = uiBoxes().filter(box => box.node !== inset);
+    const welcome = obstacles.find(box => box.node.classList.contains('welcome-card'));
+    const legend = obstacles.find(box => box.node.classList.contains('era-legend'));
+    const portrait = width <= 760;
+    const left = panelOpen && !portrait ? width * 0.5 + 24 : portrait ? 24 : welcome ? welcome.right + 34 : width * 0.27;
+    const top = portrait && welcome ? welcome.bottom + 28 : 38;
+    return fitLocations(locations, { width, height }, { left, right: width - (portrait ? 68 : 78), top, bottom: height - Math.max(85, (legend ? height - legend.top : 0) + 28) }, true);
+  }
+
+  function renderInset() {
+    inset.hidden = !showWorld || !distantLocations.length;
+    if (inset.hidden) return;
+    const obstacles = uiBoxes().filter(box => box.node !== inset);
+    const legend = obstacles.find(box => box.node.classList.contains('era-legend'));
+    const welcome = obstacles.find(box => box.node.classList.contains('welcome-card'));
+    const card = obstacles.find(box => box.node.classList.contains('selection-card'));
+    const insetWidthOuter = inset.offsetWidth, insetHeightOuter = inset.offsetHeight;
+    const desiredLeft = width > 760 ? panelOpen ? width * 0.5 + 22 : welcome ? welcome.right + 30 : card ? card.right + 20 : 28 : 16;
+    const desiredBottom = width > 760 ? 24 : Math.max(100, legend ? height - legend.top + 14 : 100);
+    const positions = [[desiredLeft, height - desiredBottom - insetHeightOuter], [desiredLeft, 16], [16, 16], [width - insetWidthOuter - 74, 16], [16, welcome ? welcome.bottom + 16 : 16]]
+      .map(([left, top]) => ({ left: Math.max(12, Math.min(width - insetWidthOuter - 12, left)), top: Math.max(12, Math.min(height - insetHeightOuter - 12, top)) }));
+    const ranked = positions.map(position => ({ ...position, score: obstacles.reduce((score, box) => score + overlap({ ...position, right: position.left + insetWidthOuter, bottom: position.top + insetHeightOuter }, box), 0) })).sort((a, b) => a.score - b.score);
+    inset.style.left = `${ranked[0].left}px`;
+    inset.style.top = `${ranked[0].top}px`;
+    const insetWidth = insetCanvas.clientWidth, insetHeight = insetCanvas.clientHeight;
+    const insetView = fitLocations(distantLocations, { width: insetWidth, height: insetHeight }, { left: 25, right: insetWidth - 25, top: 27, bottom: insetHeight - 25 });
+    const insetMapHeight = insetView.width * insetHeight / insetWidth;
+    insetSvg.setAttribute('viewBox', `${insetView.center[0] - insetView.width / 2} ${insetView.center[1] - insetMapHeight / 2} ${insetView.width} ${insetMapHeight}`);
+    insetMarkers.forEach(({ button, place, label }) => {
+      const active = place.people.find(person => person.id === selectedId);
+      button.style.left = `${(place.point[0] - insetView.center[0]) * insetWidth / insetView.width + insetWidth / 2}px`;
+      button.style.top = `${(place.point[1] - insetView.center[1]) * insetWidth / insetView.width + insetHeight / 2}px`;
+      button.classList.toggle('is-selected', Boolean(active));
+      button.style.setProperty('--marker-color', byEra.get((active || place.people[0]).eraId)?.color || '#22305F');
+      label.textContent = active ? active.name : displayPlace(place.location.label).split(',')[0];
+    });
+  }
 
   function markerContent(button, group) {
     const activePerson = group.people.find(person => person.id === selectedId);
     const singlePerson = group.people.length === 1 ? group.people[0] : null;
-    const depictedPerson = activePerson || singlePerson;
-    const era = depictedPerson ? byEra.get(depictedPerson.eraId) : null;
-    const active = Boolean(activePerson);
-    button.className = `pope-map-marker${active ? ' is-selected' : ''}${group.regional ? ' is-regional' : ''}${group.people.length > 1 ? ' is-grouped' : ''}`;
+    const era = byEra.get((activePerson || singlePerson)?.eraId);
+    const regional = activePerson ? activePerson.birthplace.precision === 'region' : group.regional;
+    button.className = `pope-map-marker${activePerson ? ' is-selected' : ''}${regional ? ' is-regional' : ''}${group.people.length > 1 ? ' is-grouped' : ''}`;
     button.style.setProperty('--marker-color', era?.color || '#22305F');
-    button.setAttribute('aria-pressed', String(active));
-    const countText = group.people.length > 1 ? `, ${group.people.length} popes` : '';
-    button.setAttribute('aria-label', `${group.regional ? 'Approximate birth region: ' : ''}${group.label}${countText}${activePerson ? `, ${activePerson.name} selected` : singlePerson ? `, ${singlePerson.name}` : ''}`);
+    button.setAttribute('aria-pressed', String(Boolean(activePerson)));
+    button.setAttribute('aria-label', `${group.label}${group.people.length > 1 ? `, ${group.people.length} popes` : `, ${singlePerson.name}`}${activePerson ? `, ${activePerson.name} selected` : ''}`);
     const signature = `${group.key}|${selectedId}|${era?.marker || ''}`;
     if (button.dataset.content === signature) return;
     button.dataset.content = signature;
-    button.replaceChildren();
-    if (group.regional) {
-      const regionSymbol = document.createElement('span');
-      regionSymbol.className = 'pope-map-region-symbol';
-      regionSymbol.setAttribute('aria-hidden', 'true');
-      const approximate = document.createElement('span');
-      approximate.className = 'pope-map-approximate-symbol';
-      approximate.textContent = '≈';
-      regionSymbol.append(approximate);
-      if (group.people.length > 1) {
-        const count = document.createElement('span');
-        count.textContent = group.people.length;
-        regionSymbol.append(count);
-      }
-      button.append(regionSymbol);
-    } else if (era?.marker) {
+    const bubble = document.createElement('span');
+    bubble.className = 'pope-map-bubble';
+    bubble.setAttribute('aria-hidden', 'true');
+    if (group.people.length > 1) bubble.textContent = group.people.length;
+    else if (era?.marker && !regional) {
       const image = document.createElement('img');
-      image.className = 'pope-map-pin-art';
-      image.src = era.marker;
-      image.alt = '';
-      image.draggable = false;
-      image.addEventListener('error', () => {
-        image.remove();
-        button.classList.add('has-fallback-pin');
-        const fallback = document.createElement('span');
-        fallback.className = 'pope-map-pin-fallback';
-        fallback.setAttribute('aria-hidden', 'true');
-        button.prepend(fallback);
-      }, { once: true });
-      button.append(image);
-      if (group.people.length > 1) {
-        const badge = document.createElement('span');
-        badge.className = 'pope-map-count-badge';
-        badge.textContent = group.people.length;
-        button.append(badge);
-      }
-    } else {
-      const badge = document.createElement('span');
-      badge.className = 'pope-map-cluster';
-      badge.textContent = group.people.length > 1 ? group.people.length : '•';
-      badge.setAttribute('aria-hidden', 'true');
-      button.append(badge);
-    }
-    const label = document.createElement('span');
-    label.className = 'pope-map-marker-label';
-    const name = document.createElement('strong');
-    name.textContent = activePerson?.name || singlePerson?.name || group.label;
-    label.append(name);
-    if (activePerson || group.regional) {
-      const place = document.createElement('span');
-      place.textContent = activePerson?.birthplace.label || singlePerson?.birthplace.label || (group.members.length > 1 ? 'Approximate birth regions' : `${group.people.length} popes · approximate birth region`);
-      label.append(place);
-    }
-    button.append(label);
+      image.className = 'pope-map-era-art';
+      image.src = era.marker; image.alt = ''; image.draggable = false;
+      image.addEventListener('error', () => { image.remove(); bubble.classList.add('has-dot'); }, { once: true });
+      bubble.append(image);
+    } else bubble.classList.add('has-dot');
+    button.replaceChildren(bubble);
   }
 
-  function refreshRegionVisibility() {
-    const selectedPlace = placeByPerson.get(selectedId);
-    const highlighted = new Set();
-    markerNodes.forEach(button => {
-      const group = button.mapGroup;
-      if (!group?.regional || (!button.mapHovered && !button.mapFocused)) return;
-      const members = selectedPlace && group.people.some(person => person.id === selectedId) ? [selectedPlace] : group.members;
-      members.forEach(place => highlighted.add(place.key));
+  function updateTooltip() {
+    tooltipConnector.style.display = 'none';
+    const focused = markerNodes.get(focusedKey)?.hidden ? null : markerNodes.get(focusedKey);
+    const hovered = markerNodes.get(hoveredKey)?.hidden ? null : markerNodes.get(hoveredKey);
+    const selected = [...markerNodes.values()].find(button => !button.hidden && button.mapGroup.people.some(person => person.id === selectedId));
+    const button = focused || hovered || selected;
+    tooltip.hidden = !button;
+    if (!button) return;
+    const group = button.mapGroup;
+    const person = group.people.find(item => item.id === selectedId) || (group.people.length === 1 ? group.people[0] : null);
+    const heading = document.createElement('strong');
+    heading.textContent = person?.name || `${group.people.length} popes`;
+    const place = document.createElement('span');
+    place.textContent = person ? displayPlace(person.birthplace.label) : group.label;
+    tooltip.replaceChildren(heading, place);
+    tooltip.style.setProperty('--marker-color', person ? byEra.get(person.eraId)?.color || '#22305F' : '#22305F');
+    tooltip.style.maxWidth = `${Math.min(230, width - 32)}px`;
+    const tooltipWidth = tooltip.offsetWidth, tooltipHeight = tooltip.offsetHeight;
+    const ownPlace = person?.id === selectedId ? placeByPerson.get(person.id) : null;
+    const [x, y] = ownPlace ? toScreen(ownPlace.point) : [parseFloat(button.style.left), parseFloat(button.style.top)];
+    const minX = panelOpen && width > 760 ? width * 0.48 + 12 : 12;
+    const maxX = width - tooltipWidth - 12, maxY = height - tooltipHeight - 12;
+    const candidates = [
+      [x + 35, y - tooltipHeight / 2], [x - tooltipWidth - 35, y - tooltipHeight / 2],
+      [x - tooltipWidth / 2, y + 35], [x - tooltipWidth / 2, y - tooltipHeight - 35],
+      [x + 35, y + 35], [x + 35, y - tooltipHeight - 35],
+      [x - tooltipWidth - 35, y + 35], [x - tooltipWidth - 35, y - tooltipHeight - 35],
+    ].map(([left, top]) => ({ left: Math.max(minX, Math.min(maxX, left)), top: Math.max(12, Math.min(maxY, top)) }));
+    const origin = element.getBoundingClientRect();
+    const markers = [...markerNodes.values()].filter(node => !node.hidden).map(node => { const b = node.getBoundingClientRect(); return { left: b.left - origin.left - 3, right: b.right - origin.left + 3, top: b.top - origin.top - 3, bottom: b.bottom - origin.top + 3 }; });
+    const obstacles = [...uiBoxes(), ...markers];
+    const rank = candidate => ({ ...candidate,
+      score: obstacles.reduce((score, obstacle) => score + overlap({ ...candidate, right: candidate.left + tooltipWidth, bottom: candidate.top + tooltipHeight }, obstacle), 0),
+      distance: Math.hypot(candidate.left + tooltipWidth / 2 - x, candidate.top + tooltipHeight / 2 - y),
     });
-    regionalNodes.forEach((node, key) => {
-      const active = selectedPlace?.key === key;
-      node.classList.toggle('is-selected', active);
-      node.classList.toggle('is-visible', active || highlighted.has(key));
-      node.style.setProperty('--region-color', active ? byEra.get(byId.get(selectedId)?.eraId)?.color || '#22305F' : '#5E93C2');
-    });
+    const compare = (a, b) => a.score - b.score || a.distance - b.distance;
+    const ranked = candidates.map(rank).sort(compare);
+    if (ranked[0].score > 0) {
+      for (const radius of [70, 100, 140, 180]) for (let step = 0; step < 12; step += 1) {
+        const angle = step * Math.PI / 6;
+        ranked.push(rank({ left: Math.max(minX, Math.min(maxX, x + Math.cos(angle) * radius - tooltipWidth / 2)), top: Math.max(12, Math.min(maxY, y + Math.sin(angle) * radius - tooltipHeight / 2)) }));
+      }
+      for (const left of [minX, (minX + maxX) / 2, maxX]) for (const top of [12, maxY * 0.25, maxY * 0.5, maxY * 0.75, maxY]) {
+        ranked.push(rank({ left, top }));
+      }
+      ranked.sort(compare);
+      if (ranked[0].score > 0) {
+        for (let left = minX; left <= maxX; left += 8) for (let top = 12; top <= maxY; top += 8) ranked.push(rank({ left, top }));
+        ranked.sort(compare);
+      }
+    }
+    tooltip.style.left = `${ranked[0].left}px`; tooltip.style.top = `${ranked[0].top}px`;
+    const edge = [Math.max(ranked[0].left, Math.min(ranked[0].left + tooltipWidth, x)), Math.max(ranked[0].top, Math.min(ranked[0].top + tooltipHeight, y))];
+    const distance = Math.hypot(edge[0] - x, edge[1] - y);
+    if (distance > 65) {
+      const startRadius = ownPlace && group.kind === 'area' ? 8 : 25;
+      const start = [x + (edge[0] - x) * startRadius / distance, y + (edge[1] - y) * startRadius / distance];
+      const toWorld = point => [view.center[0] + (point[0] - width / 2) * view.width / width, view.center[1] + (point[1] - height / 2) * view.width / width];
+      const from = toWorld(start), to = toWorld(edge);
+      tooltipConnector.setAttribute('x1', from[0]); tooltipConnector.setAttribute('y1', from[1]); tooltipConnector.setAttribute('x2', to[0]); tooltipConnector.setAttribute('y2', to[1]);
+      tooltipConnector.style.setProperty('--marker-color', person ? byEra.get(person.eraId)?.color || '#22305F' : '#22305F');
+      tooltipConnector.style.display = '';
+    }
   }
 
   function render() {
     if (destroyed) return;
     const mapHeight = view.width * height / width;
     svg.setAttribute('viewBox', `${view.center[0] - view.width / 2} ${view.center[1] - mapHeight / 2} ${view.width} ${mapHeight}`);
-    backgroundLabels.forEach(({ node, point, type }) => {
-      const position = toScreen(point);
-      node.style.left = `${position[0]}px`;
-      node.style.top = `${position[1]}px`;
-      node.hidden = position[0] < 30 || position[0] > width - 30 || position[1] < 20 || position[1] > height - 20 || (view.width < 32 && !type);
-    });
-    const groups = clusterLocations(locations, toScreen);
-    const exactFootprints = groups.filter(group => !group.regional).map(group => {
-      const active = group.people.find(person => person.id === selectedId);
-      const [x, y] = toScreen(active ? placeByPerson.get(active.id).point : group.point);
-      return { left: x - 31, right: x + 31, top: y - (active ? 80 : 71), bottom: y + 7 };
-    });
-    const regionalPositions = new Map();
-    const placedRegions = [];
-    const offsets = [[0, 0], [48, 0], [-48, 0], [0, 48], [0, -48], [40, 40], [40, -40], [-40, 40], [-40, -40], [68, 0], [-68, 0], [0, 68], [0, -68]];
-    const collides = position => [...exactFootprints, ...placedRegions].some(box => position[0] + 24 > box.left && position[0] - 24 < box.right && position[1] + 24 > box.top && position[1] - 24 < box.bottom);
-    connectorLayer.replaceChildren();
-    groups.filter(group => group.regional)
-      .sort((a, b) => Number(b.people.some(person => person.id === selectedId)) - Number(a.people.some(person => person.id === selectedId)))
-      .forEach(group => {
-        const active = group.people.find(person => person.id === selectedId);
-        const original = toScreen(active ? placeByPerson.get(active.id).point : group.point);
-        const ownAreas = active ? [placeByPerson.get(active.id)] : group.members;
-        const corners = ownAreas.flatMap(place => place.location.bounds.map(projectCoordinates)).map(toScreen);
-        const area = { left: Math.min(...corners.map(point => point[0])), right: Math.max(...corners.map(point => point[0])), top: Math.min(...corners.map(point => point[1])), bottom: Math.max(...corners.map(point => point[1])) };
-        const candidates = offsets.map(offset => [original[0] + offset[0], original[1] + offset[1]]).filter(position => !collides(position));
-        // ≈ labels are area annotations. Keep their group distinct from precise pins.
-        const position = candidates.find(point => point[0] >= area.left && point[0] <= area.right && point[1] >= area.top && point[1] <= area.bottom) || candidates[0] || original;
-        regionalPositions.set(group.key, position);
-        placedRegions.push({ left: position[0] - 24, right: position[0] + 24, top: position[1] - 24, bottom: position[1] + 24 });
-        const distance = Math.hypot(position[0] - original[0], position[1] - original[1]);
-        if (distance > 26) {
-          const edge = position.map((value, index) => value + (original[index] - value) * 22 / distance);
-          const toWorld = point => [view.center[0] + (point[0] - width / 2) * view.width / width, view.center[1] + (point[1] - height / 2) * view.width / width];
-          const originWorld = toWorld(original);
-          const edgeWorld = toWorld(edge);
-          const connector = makeSvg('line', { x1: originWorld[0], y1: originWorld[1], x2: edgeWorld[0], y2: edgeWorld[1], 'vector-effect': 'non-scaling-stroke' });
-          if (active) connector.style.setProperty('--connector-color', byEra.get(active.eraId)?.color || '#22305F');
-          connectorLayer.append(connector);
-        }
-      });
+    renderInset();
+    const groups = clusterLocations(locations, toScreen, NEARBY_DISTANCE);
     const retained = new Set();
+    const obstacles = uiBoxes();
     for (const group of groups) {
-      const activePerson = group.people.find(person => person.id === selectedId);
-      // Exact pins stay at a documented place; ≈ symbols identify an area, not a point.
-      const anchor = activePerson ? placeByPerson.get(activePerson.id).point : group.point;
-      const position = group.regional ? regionalPositions.get(group.key) : toScreen(anchor);
-      if (position[0] < -80 || position[0] > width + 80 || position[1] < -100 || position[1] > height + 80) continue;
+      const [x, y] = toScreen(group.point);
+      if (x < 24 || x > width - 24 || y < 24 || y > height - 24 || (panelOpen && width > 760 && x < width * 0.48 + 22)) continue;
       retained.add(group.key);
       let button = markerNodes.get(group.key);
       if (!button) {
-        button = document.createElement('button');
-        button.type = 'button';
+        button = document.createElement('button'); button.type = 'button';
         button.addEventListener('click', event => {
-          event.stopPropagation();
-          if (clickSuppressed) return;
+          event.stopPropagation(); if (clickSuppressed) return;
           const current = button.mapGroup;
-          if (current.people.length > 1) {
-            onSelectGroup({ kind: current.kind, label: current.label, peopleIds: current.people.map(person => person.id), regional: Boolean(current.regional) });
-          } else {
-            onSelectPerson(current.people[0].id);
-          }
+          if (current.people.length > 1) onSelectGroup({ kind: current.kind, label: current.label, peopleIds: current.people.map(person => person.id), regional: current.regional, hasRegions: current.hasRegions });
+          else onSelectPerson(current.people[0].id);
         }, listeners);
-        button.addEventListener('mouseenter', () => { button.mapHovered = true; refreshRegionVisibility(); }, listeners);
-        button.addEventListener('mouseleave', () => { button.mapHovered = false; refreshRegionVisibility(); }, listeners);
-        button.addEventListener('focus', () => { button.mapFocused = true; refreshRegionVisibility(); }, listeners);
-        button.addEventListener('blur', () => { button.mapFocused = false; refreshRegionVisibility(); }, listeners);
-        markerNodes.set(group.key, button);
-        markerLayer.append(button);
+        button.addEventListener('mouseenter', () => { hoveredKey = button.mapGroup.key; updateTooltip(); }, listeners);
+        button.addEventListener('mouseleave', () => { if (hoveredKey === button.mapGroup.key) hoveredKey = null; updateTooltip(); }, listeners);
+        button.addEventListener('focus', () => { focusedKey = button.mapGroup.key; updateTooltip(); }, listeners);
+        button.addEventListener('blur', () => { if (focusedKey === button.mapGroup.key) focusedKey = null; updateTooltip(); }, listeners);
+        markerNodes.set(group.key, button); markerLayer.append(button);
       }
       button.mapGroup = group;
-      button.style.left = `${position[0]}px`;
-      button.style.top = `${position[1]}px`;
+      button.style.left = `${x}px`; button.style.top = `${y}px`;
+      button.hidden = obstacles.some(box => overlap({ left: x - 22, right: x + 22, top: y - 22, bottom: y + 22 }, box) > 0);
+      button.tabIndex = button.hidden ? -1 : 0;
       markerContent(button, group);
     }
-    markerNodes.forEach((node, key) => {
-      if (!retained.has(key)) {
-        node.remove();
-        markerNodes.delete(key);
-      }
+    markerNodes.forEach((node, key) => { if (!retained.has(key)) { node.remove(); markerNodes.delete(key); } });
+    const selectedPlace = placeByPerson.get(selectedId);
+    const selectedGroup = groups.find(group => group.people.some(person => person.id === selectedId));
+    const ownPoint = selectedPlace && toScreen(selectedPlace.point);
+    const groupPoint = selectedGroup && toScreen(selectedGroup.point);
+    const showExactDot = selectedPlace?.location.precision === 'place' && selectedGroup?.kind === 'area' && Math.hypot(ownPoint[0] - groupPoint[0], ownPoint[1] - groupPoint[1]) > 12;
+    selectedPlaceDot.style.display = showExactDot ? '' : 'none';
+    if (showExactDot) {
+      selectedPlaceDot.setAttribute('cx', selectedPlace.point[0]); selectedPlaceDot.setAttribute('cy', selectedPlace.point[1]); selectedPlaceDot.setAttribute('r', 4 * view.width / width);
+      selectedPlaceDot.style.setProperty('--marker-color', byEra.get(byId.get(selectedId)?.eraId)?.color || '#22305F');
+    }
+    regionalNodes.forEach((node, key) => {
+      const active = selectedPlace?.key === key;
+      node.classList.toggle('is-selected', active);
+      node.style.setProperty('--region-color', active ? byEra.get(byId.get(selectedId)?.eraId)?.color || '#22305F' : '#5E93C2');
     });
-    refreshRegionVisibility();
+    updateTooltip();
+    const markerBoxes = [...markerNodes.values()].map(button => { const x = parseFloat(button.style.left), y = parseFloat(button.style.top); return { left: x - 28, right: x + 28, top: y - 28, bottom: y + 28 }; });
+    if (!tooltip.hidden) markerBoxes.push({ left: parseFloat(tooltip.style.left), right: parseFloat(tooltip.style.left) + tooltip.offsetWidth, top: parseFloat(tooltip.style.top), bottom: parseFloat(tooltip.style.top) + tooltip.offsetHeight });
+    backgroundLabels.forEach(({ node, point, type }) => {
+      const [x, y] = toScreen(point);
+      node.style.left = `${x}px`; node.style.top = `${y}px`; node.hidden = false;
+      const box = { left: x - node.offsetWidth / 2, right: x + node.offsetWidth / 2, top: y - 9, bottom: y + 9 };
+      node.hidden = x < 30 || x > width - 30 || y < 20 || y > height - 20 || (view.width < 28 && !type) || markerBoxes.some(marker => overlap(box, marker));
+    });
   }
 
   function updateView(next, animate = false) {
@@ -386,12 +457,12 @@ export function createMap(element, { people, eras, onSelectGroup = () => {}, onS
   function focusSelected(animate = true) {
     const place = placeByPerson.get(selectedId);
     if (!place) return;
-    let targetWidth = view.width > 140 ? 115 : Math.max(view.width, 54);
+    let targetWidth = Math.min(overviewView().width, view.width);
     if (place.location.precision === 'region') {
       const [[west, south], [east, north]] = place.location.bounds;
       const top = projectCoordinates([west, north]);
       const bottom = projectCoordinates([east, south]);
-      const availableFraction = panelOpen && width >= 760 ? 0.42 : 0.85;
+      const availableFraction = panelOpen && width > 760 ? 0.42 : 0.85;
       targetWidth = Math.max(targetWidth, (east - west) / availableFraction, (bottom[1] - top[1]) * width / (height * 0.65));
       const center = [(west + east) / 2, (top[1] + bottom[1]) / 2];
       updateView({ center: [center[0] - (focalX() - 0.5) * targetWidth, center[1]], width: targetWidth }, animate);
@@ -406,30 +477,30 @@ export function createMap(element, { people, eras, onSelectGroup = () => {}, onS
     selectedId = personId;
     if (typeof options.panelOpen === 'boolean') panelOpen = options.panelOpen;
     const person = byId.get(personId);
-    status.textContent = placeByPerson.has(personId)
-      ? `${person.name}: ${person.birthplace.label}${person.birthplace.precision === 'region' ? ', approximate birth region' : ''}.`
-      : person.birthplace?.precision === 'unknown'
-        ? `${person.name}: birthplace unknown. The map view is retained.`
-        : `${person.name}: ${person.birthplace?.label || 'Recorded origin'}. Map position unavailable; the view is retained.`;
-    if (options.move !== false && placeByPerson.has(personId)) focusSelected();
-    else render();
+    status.textContent = `${person.name}: ${person.birthplace?.precision === 'unknown' ? 'Birthplace unknown' : displayPlace(person.birthplace?.label) || 'Birthplace unknown'}.`;
+    if (options.move !== false && placeByPerson.has(personId)) { framing = 'selected'; showWorld = false; element.dispatchEvent(new CustomEvent('pope-map-viewchange', { bubbles: true, detail: { mode: 'selected' } })); focusSelected(); }
+    else { framing = 'free'; render(); }
   }
 
   function setPanelOpen(open) {
     if (panelOpen === Boolean(open)) return;
     panelOpen = Boolean(open);
-    if (width >= 760 && placeByPerson.has(selectedId)) focusSelected();
+    if (width > 760 && placeByPerson.has(selectedId)) focusSelected();
+    else if (width > 760 && (framing === 'overview' || framing === 'world')) updateView(overviewView(), true);
     else render();
   }
 
   function reset(mode = 'default') {
-    updateView(mode === 'world'
-      ? { center: [0, projectCoordinates([0, 12])[1]], width: 360 }
-      : { center: [width >= 760 ? -0.8 : 12, projectCoordinates([0, 40])[1]], width: width >= 760 ? 115 : 100 }, true);
+    framing = mode === 'world' ? 'world' : 'overview';
+    showWorld = mode === 'world';
+    element.dispatchEvent(new CustomEvent('pope-map-viewchange', { bubbles: true, detail: { mode: framing } }));
+    hoveredKey = null; focusedKey = null;
+    updateView(overviewView(), true);
   }
 
   function zoomBy(factor, position = [width * focalX(), height / 2]) {
     if (!Number.isFinite(factor) || factor <= 0) return;
+    framing = 'free';
     const nextWidth = Math.max(MIN_WIDTH, Math.min(MAX_WIDTH, view.width / factor));
     const ratio = nextWidth / view.width;
     const anchor = [view.center[0] + (position[0] - width / 2) * view.width / width, view.center[1] + (position[1] - height / 2) * view.width / width];
@@ -442,7 +513,8 @@ export function createMap(element, { people, eras, onSelectGroup = () => {}, onS
     width = Math.max(element.clientWidth, 1);
     height = Math.max(element.clientHeight, 1);
     const selectedPlace = placeByPerson.get(selectedId);
-    if (selectedPlace && (previousWidth !== width || (previousHeight !== height && selectedPlace.location.precision === 'region'))) focusSelected(false);
+    if (framing === 'overview' || framing === 'world') updateView(overviewView());
+    else if (framing === 'selected' && selectedPlace && (previousWidth !== width || (previousHeight !== height && selectedPlace.location.precision === 'region'))) focusSelected(false);
     else render();
   }
 
@@ -451,6 +523,7 @@ export function createMap(element, { people, eras, onSelectGroup = () => {}, onS
     const step = view.width * 0.08;
     if (['ArrowLeft', 'ArrowRight', 'ArrowUp', 'ArrowDown'].includes(event.key)) {
       event.preventDefault();
+      framing = 'free';
       updateView({ ...view, center: [view.center[0] + (event.key === 'ArrowLeft' ? -step : event.key === 'ArrowRight' ? step : 0), view.center[1] + (event.key === 'ArrowUp' ? -step : event.key === 'ArrowDown' ? step : 0)] });
     } else if (['+', '=', '-'].includes(event.key)) {
       event.preventDefault();
@@ -476,6 +549,7 @@ export function createMap(element, { people, eras, onSelectGroup = () => {}, onS
   element.addEventListener('pointerdown', event => {
     if (event.target.closest?.('.pope-map-marker') || (event.pointerType === 'mouse' && event.button !== 0)) return;
     stopAnimation();
+    framing = 'free';
     pointers.set(event.pointerId, [event.clientX, event.clientY]);
     gesture = getGesture();
     clickSuppressed = false;
@@ -508,8 +582,11 @@ export function createMap(element, { people, eras, onSelectGroup = () => {}, onS
   element.addEventListener('pointercancel', endPointer, listeners);
   const observer = new ResizeObserver(resize);
   observer.observe(element);
-  view = { center: [width >= 760 ? -0.8 : 12, projectCoordinates([0, 40])[1]], width: width >= 760 ? 115 : 100 };
+  view = overviewView();
   render();
+  document.fonts?.ready.then(() => {
+    if (!destroyed && (framing === 'overview' || framing === 'world')) updateView(overviewView());
+  });
 
   return {
     select, setPanelOpen, reset, zoomBy, resize,

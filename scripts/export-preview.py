@@ -28,7 +28,7 @@ for era in data["eras"]:
 
 geography = (ROOT / "src/map-geography.js").read_text().replace("export const countries", "const countries", 1)
 map_code = (ROOT / "src/map.js").read_text().replace("import { countries } from './map-geography.js';", "", 1)
-map_code = map_code.replace("export function ", "function ")
+map_code = re.sub(r"(?m)^export (?=(?:function|const|let|class)\b)", "", map_code)
 app = (ROOT / "src/app.js").read_text()
 fetch_code = "const response=await fetch('./data/popes.json');"
 import_code = "const{createMap}=await import('./map.js');"
