@@ -1,0 +1,630 @@
+{
+  "reviewedAt": "2026-10-17",
+  "sources": [
+    {
+      "id": "geo2-roster",
+      "title": "Pontiffs — Vatican birthplace rows",
+      "url": "https://www.vatican.va/content/vatican/en/holy-father.html",
+      "kind": "official-vatican",
+      "passage": "Birth column: Eutichianus — Luni; John X — Tossignano (Imola); Alexander II — Baggio (Milano); Honorius II — Fiagnano (Imola); Nicholas IV — Lisciano (Ascoli Piceno); Clement V — Villandraut; Clement VI — Maumont; Innocent VI — Monts; Urban V — Grizac; Gregory XI — Rosiers d’Egletons; Callixtus III — Torre de Canals; Julius II — Albisola; Leo XII — Monticelli di Genga (Fabriano).",
+      "access": {
+        "method": "web-open",
+        "verified": true
+      }
+    },
+    {
+      "id": "geo2-luni-city",
+      "title": "City of Luni — national museum and ancient city archaeological area",
+      "url": "https://www.comune.luni.sp.it/en-us/vivere-il-comune/cultura/museo-nazionale-e-zona-archeologica-di-luni-53327-1-9b30dba10993c07f5c159cecc0496529",
+      "kind": "official-territorial",
+      "passage": "Description identifies the archaeological area as the ancient city of Luni. Map section gives 44°3′53.6″ N, 10°0′53.2″ E and directs visitors to the Antica Città di Luni. This is a reference point for the archaeological area, not the modern municipal administration or a birth house.",
+      "access": {
+        "method": "web-open",
+        "verified": true
+      }
+    },
+    {
+      "id": "geo2-john-x-ce",
+      "title": "Catholic Encyclopedia — John X",
+      "url": "https://www.newadvent.org/cathen/08425b.htm",
+      "kind": "supplementary-catholic",
+      "passage": "Opening: born at Tossignano, Romagna. Used only for the birthplace here; other dates and military details in this historical article require separate critical review.",
+      "access": {
+        "method": "web-open",
+        "verified": true
+      }
+    },
+    {
+      "id": "geo2-tossignano-osm",
+      "title": "Tossignano settlement — OpenStreetMap and GeoNames via Mapcarta",
+      "url": "https://mapcarta.com/18676386",
+      "kind": "geographic-gazetteer",
+      "passage": "Settlement section identifies Tossignano within Borgo Tossignano, Metropolitan City of Bologna: latitude 44.27239, longitude 11.60361. OpenStreetMap node 411116521, place=village; GeoNames ID 3165354. Distinct from the lower settlement named Borgo Tossignano.",
+      "access": {
+        "method": "web-open",
+        "verified": true
+      }
+    },
+    {
+      "id": "geo2-alexander-ii-ce",
+      "title": "Catholic Encyclopedia — Alexander II",
+      "url": "https://www.newadvent.org/cathen/01286a.htm",
+      "kind": "supplementary-catholic",
+      "passage": "Opening biography identifies Anselm of Baggio and his birthplace at Baggio, near Milan.",
+      "access": {
+        "method": "web-open",
+        "verified": true
+      }
+    },
+    {
+      "id": "geo2-baggio-geonames",
+      "title": "GeoNames 3182557 — Baggio",
+      "url": "https://www.geonames.org/3182557/baggio.html",
+      "kind": "geographic-gazetteer",
+      "passage": "Feature section: Baggio, Italy, P PPLX section of populated place, GeoNameId 3182557; coordinates 45.45929, 9.09170. Administrative hierarchy: Lombardy, Province of Milan, Milan, Municipio 7.",
+      "access": {
+        "method": "web-open",
+        "verified": true
+      }
+    },
+    {
+      "id": "geo2-honorius-ii-ce",
+      "title": "Catholic Encyclopedia — Honorius II",
+      "url": "https://www.newadvent.org/cathen/07456a.htm",
+      "kind": "supplementary-catholic",
+      "passage": "Opening identifies Lamberto Scannabecchi as born at Fagnano near Imola. The local gazetteer records Fiagnano/Fagnano as variants of the same settlement in Casalfiumanese.",
+      "access": {
+        "method": "web-open",
+        "verified": true
+      }
+    },
+    {
+      "id": "geo2-fiagnano-gazetteer",
+      "title": "Appennino Romagnolo — Fiagnano, Castello di Fiagnano",
+      "url": "https://www.appenninoromagnolo.it/toponimi/legge_scheda.asp?id=6445",
+      "kind": "geographic-gazetteer",
+      "passage": "Toponym sheet 6445: Fiagnano, municipality Casalfiumanese, type frazione; WGS84 coordinates 44°19′52″ N, 11°34′22″ E. Historical extracts from Emilio Rosetti (1894) identify Honorius II’s origin here; an 1881 extract equates Fiagnano and Fagnano. The sheet contains an erroneous birth year in one old extract, which is not adopted.",
+      "access": {
+        "method": "web-open",
+        "verified": true
+      }
+    },
+    {
+      "id": "geo2-nicholas-iv-treccani",
+      "title": "Treccani, Enciclopedia dei Papi — Nicholas IV",
+      "url": "https://www.treccani.it/enciclopedia/niccolo-iv_(Enciclopedia-dei-Papi)/",
+      "kind": "scholarly-reference",
+      "passage": "Giulia Barone, opening: Girolamo was probably born near Lisciano (Ascoli Piceno), around 1225–1230; contemporary records call him Girolamo d’Ascoli. This supports the geographical identification but does not identify a house.",
+      "access": {
+        "method": "web-open",
+        "verified": true
+      }
+    },
+    {
+      "id": "geo2-lisciano-osm",
+      "title": "Lisciano, Ascoli Piceno — OpenStreetMap and GeoNames via Mapcarta",
+      "url": "https://mapcarta.com/18695050",
+      "kind": "geographic-gazetteer",
+      "passage": "Lisciano is identified as a hamlet/frazione of Ascoli Piceno in Marche, population about 150; latitude 42.83069, longitude 13.60193; OpenStreetMap node 452991281, place=hamlet; GeoNames ID 3174686. Not Lisciano Niccone or another hamlet in the Ascoli province.",
+      "access": {
+        "method": "web-open",
+        "verified": true
+      }
+    },
+    {
+      "id": "geo2-clement-v-ce",
+      "title": "Catholic Encyclopedia — Clement V",
+      "url": "https://www.newadvent.org/cathen/04020a.htm",
+      "kind": "supplementary-catholic",
+      "passage": "Opening identifies Bertrand de Got as born at Villandraut in Gascony, France. The birthplace is a town identity, not evidence that the later papal castle was his birth building.",
+      "access": {
+        "method": "web-open",
+        "verified": true
+      }
+    },
+    {
+      "id": "geo2-villandraut-town",
+      "title": "Municipality of Villandraut — Villandraut en chiffres",
+      "url": "https://www.villandraut.fr/fr/villandraut-commune-du-sud-gironde.php",
+      "kind": "official-territorial",
+      "passage": "Official municipality overview, Villandraut en chiffres: postal code 33730, INSEE code 33547; coordinates 44°27′30″ Nord / 0°22′16″ Ouest. Longitude is west and therefore negative in decimal coordinates.",
+      "access": {
+        "method": "web-open",
+        "verified": true
+      }
+    },
+    {
+      "id": "geo2-maumont-dreal",
+      "title": "DREAL Limousin — Château de Maumont et ses abords",
+      "url": "https://www.nouvelle-aquitaine.developpement-durable.gouv.fr/IMG/pdf/ROSIERS_D_EGLETONS_chateau_d---.pdf",
+      "kind": "official-territorial",
+      "passage": "Protected-site inventory: Maumont castle and village are in Rosiers-d’Égletons, three kilometres east of the town. Pierre Roger was born in the village and became Clement VI in 1342. The current château is based on a medieval fortress and was substantially rebuilt later, so its present building is not used as proof of a birth room.",
+      "access": {
+        "method": "web-open",
+        "verified": true
+      }
+    },
+    {
+      "id": "geo2-maumont-osm",
+      "title": "Maumont hamlet, Rosiers-d’Égletons — OpenStreetMap via Mapcarta",
+      "url": "https://mapcarta.com/fr/18335862",
+      "kind": "geographic-gazetteer",
+      "passage": "Maumont is a hamlet within Rosiers-d’Égletons, Corrèze: latitude 45.37542, longitude 2.04344; OpenStreetMap node 1590307718, place=hamlet; GeoNames ID 2995092. The record is distinguished from several unrelated Maumont settlements.",
+      "access": {
+        "method": "web-open",
+        "verified": true
+      }
+    },
+    {
+      "id": "geo2-grizac-pop",
+      "title": "French Ministry of Culture, Mérimée PA00103895 — Château de Grisac",
+      "url": "https://pop.culture.gouv.fr/notice/merimee/PA00103895",
+      "kind": "official-territorial",
+      "passage": "Historical description identifies the Grizac/Grisac site in Le Pont-de-Montvert as the birthplace of Guillaume de Grimoard, later Urban V; it also explains that much surviving construction is later medieval or subsequent rebuilding. Current commune INSEE code 48116.",
+      "access": {
+        "method": "web-open",
+        "verified": true
+      }
+    },
+    {
+      "id": "geo2-grizac-osm",
+      "title": "Grizac hamlet — OpenStreetMap and GeoNames via Mapcarta",
+      "url": "https://mapcarta.com/18374858",
+      "kind": "geographic-gazetteer",
+      "passage": "Grizac is a hamlet in Pont-de-Montvert-Sud-Mont-Lozère, Lozère: latitude 44.34282, longitude 3.69939. OpenStreetMap node 2319985807, place=hamlet; GeoNames ID 3014590. The castle of the same name is immediately below the village.",
+      "access": {
+        "method": "web-open",
+        "verified": true
+      }
+    },
+    {
+      "id": "geo2-gregory-xi-treccani",
+      "title": "Treccani, Enciclopedia dei Papi — Gregory XI",
+      "url": "https://www.treccani.it/enciclopedia/gregorio-xi_(Enciclopedia-dei-Papi)/",
+      "kind": "scholarly-reference",
+      "passage": "Michel Hayez, opening biographical paragraph: Pierre Roger, the last French pope, was born at Rosiers d’Égletons, Corrèze, in Limousin around 1330. The source does not narrow that claim to a documented building.",
+      "access": {
+        "method": "web-open",
+        "verified": true
+      }
+    },
+    {
+      "id": "geo2-rosiers-osm",
+      "title": "Rosiers-d’Égletons village — OpenStreetMap via Mapcarta",
+      "url": "https://mapcarta.com/fr/18311218",
+      "kind": "geographic-gazetteer",
+      "passage": "Village record, with Rosiers-d’Égletons and Rosiers as alternate names: latitude 45.37691, longitude 2.00701; OpenStreetMap node 1590305078, place=village; GeoNames ID 2982770. This is the village record, distinct from the administrative division GeoNames 6428402.",
+      "access": {
+        "method": "web-open",
+        "verified": true
+      }
+    },
+    {
+      "id": "geo2-canals-municipal",
+      "title": "Municipality of Canals — El pueblo",
+      "url": "https://transparencia.canals.es/es_ES/web/canals/el-poble",
+      "kind": "official-territorial",
+      "passage": "Cuna del Papa Borgia and ¿Dónde ir? sections distinguish the barony of La Torre from Canals and locate the Borja tower and oratory in La Torreta; the municipality identifies this as Callixtus III’s birthplace. This supports the historical neighbourhood, independently of an exact surviving birth room.",
+      "access": {
+        "method": "web-open",
+        "verified": true
+      }
+    },
+    {
+      "id": "geo2-canals-tower-osm",
+      "title": "Borja tower, La Torreta de Canals — OpenStreetMap via Mapcarta",
+      "url": "https://mapcarta.com/es/W1058721658",
+      "kind": "geographic-gazetteer",
+      "passage": "Torre de los Borja in Canals, beside the Oratorio de los Borja and Carrer del Forn: latitude 38.956, longitude -0.5894; OpenStreetMap way 1058721658. This heritage landmark is used as a geographical anchor for the small historical La Torre settlement, not as a claim about a surviving birth room.",
+      "access": {
+        "method": "web-open",
+        "verified": true
+      }
+    },
+    {
+      "id": "geo2-julius-ii-ce",
+      "title": "Catholic Encyclopedia — Julius II",
+      "url": "https://www.newadvent.org/cathen/08562a.htm",
+      "kind": "supplementary-catholic",
+      "passage": "Opening: Giuliano della Rovere was born at Albissola near Savona on 5 December 1443.",
+      "access": {
+        "method": "web-open",
+        "verified": true
+      }
+    },
+    {
+      "id": "geo2-albisola-mic",
+      "title": "Italian Ministry of Culture, Alba Docilia — Il paesaggio albisolese dopo il Mille",
+      "url": "https://albadocilia.cultura.gov.it/?page_id=5749",
+      "kind": "official-territorial",
+      "passage": "Carla Bracco explains that Borgo Inferiore, now Albissola Marina, split from Borgo Superiore in 1615. The landscape of Superiore includes the Cà Grande, traditionally associated with Giuliano della Rovere’s birth, now Villa Della Rovere-Gavotti. That building tradition is not treated as proof of an exact birth house.",
+      "access": {
+        "method": "web-open",
+        "verified": true
+      }
+    },
+    {
+      "id": "geo2-albisola-town-osm",
+      "title": "Albisola Superiore town — OpenStreetMap via Mapcarta",
+      "url": "https://mapcarta.com/25414164",
+      "kind": "geographic-gazetteer",
+      "passage": "Town record for Albisola Superiore, Province of Savona, Liguria: latitude 44.33984, longitude 8.50935; OpenStreetMap node 66587183, place=town; linked GeoNames ID 6534243. This is the settlement point, not the inland administrative-area point linked to GeoNames 3183313.",
+      "access": {
+        "method": "web-open",
+        "verified": true
+      }
+    },
+    {
+      "id": "geo2-leo-xii-treccani",
+      "title": "Treccani, Dizionario Biografico — Leo XII",
+      "url": "https://www.treccani.it/enciclopedia/papa-leone-xii_(Dizionario-Biografico)/",
+      "kind": "scholarly-reference",
+      "passage": "Giuseppe Monsagrati, opening: Annibale della Genga was born at Genga, district and diocese of Fabriano, on 2 August 1760. Later paragraphs identify the abbey at Monticelli as a place of retirement. This is broader than the Vatican roster’s Monticelli di Genga and does not independently establish that hamlet as his exact birthplace.",
+      "access": {
+        "method": "web-open",
+        "verified": true
+      }
+    },
+    {
+      "id": "geo2-monticelli-osm",
+      "title": "Monticelli hamlet, Genga — OpenStreetMap via Mapcarta",
+      "url": "https://mapcarta.com/30293664",
+      "kind": "geographic-gazetteer",
+      "passage": "Monticelli is a hamlet/frazione in Genga, Ancona, Marche, population about 23: latitude 43.43118, longitude 12.92449; OpenStreetMap node 1207948464, place=hamlet; GeoNames ID 8973993; Wikidata Q18495966. Distinct from numerous unrelated Monticelli settlements.",
+      "access": {
+        "method": "web-open",
+        "verified": true
+      }
+    },
+    {
+      "id": "geo2-monts-beyssac",
+      "title": "Pays de Lubersac-Pompadour intermunicipal authority — Beyssac",
+      "url": "https://www.lubersacpompadour.fr/presentation/commune/beyssac",
+      "kind": "official-territorial",
+      "passage": "Municipal presentation: the estate Les Monts within Beyssac is where Innocent VI was born. The authority lists his commemorative stele among the notable sites, but does not give coordinates for Les Monts.",
+      "access": {
+        "method": "web-open",
+        "verified": true
+      }
+    },
+    {
+      "id": "geo2-monts-rando",
+      "title": "Nature en Limousin — La Siauve, Les Monts heritage points",
+      "url": "https://rando-millevaches.fr/fr/trek/750585-La-Siauve",
+      "kind": "official-territorial",
+      "passage": "Tourism route separates Beyssac town from Les Monts, former national stud estate and Innocent VI’s birthplace. Heritage points identify his stele and the old stables at Les Monts. The published route-start coordinates elsewhere identify Beyssac church, not Les Monts, and must not be reused as the birthplace point.",
+      "access": {
+        "method": "web-open",
+        "verified": true
+      }
+    },
+    {
+      "id": "geo2-monts-pop",
+      "title": "French Ministry of Culture, Mérimée PA19000024 — Domaine des Monts",
+      "url": "https://pop.culture.gouv.fr/notice/merimee/PA19000024",
+      "kind": "official-territorial",
+      "passage": "Localisation: Nouvelle-Aquitaine, Corrèze, Beyssac, Les Monts; lieu-dit Les Monts; cadastral parcels AO 63, 73 and 77. The nineteenth-century stud-farm buildings occupy older agricultural land. The rendered heritage notice does not provide usable numerical coordinates.",
+      "access": {
+        "method": "web-open",
+        "verified": true
+      }
+    },
+    {
+      "id": "geo2-monts-osm",
+      "title": "Domaine des Monts de Beyssac — OpenStreetMap via Mapcarta",
+      "url": "https://mapcarta.com/fr/N4843445714",
+      "kind": "geographic-gazetteer",
+      "passage": "Domaine des Monts de Beyssac, also Domaine des Monts, identified as an estate at Beyssac, Corrèze: latitude 45.36955, longitude 1.41948; OpenStreetMap node 4843445714; Wikidata Q22996066. The record puts Beyssac church 1.25 km west, independently distinguishing the estate from the town/route-start point. Coordinates were read on the OSM-derived Mapcarta page, not directly from an accessible OSM API.",
+      "access": {
+        "method": "web-open",
+        "verified": true
+      }
+    }
+  ],
+  "people": [
+    {
+      "papalName": "Eutichianus",
+      "label": "Luni",
+      "country": "Italy",
+      "countryCode": "IT",
+      "precision": "place",
+      "coordinates": [
+        10.014778,
+        44.064889
+      ],
+      "bounds": null,
+      "placeId": "place-it-luni",
+      "reasoning": "The Vatican names Luni. The municipality identifies and geolocates the archaeological area of ancient Luni. Use that ancient-city site as the map anchor, rather than Ortonovo or a centroid of the modern municipality created under the same name. No individual birth building is identified.",
+      "supportingPassage": "Vatican row 27: Luni; municipal archaeological-area map: 44°3′53.6″ N, 10°0′53.2″ E.",
+      "sourceRefs": [
+        "geo2-roster",
+        "geo2-luni-city"
+      ],
+      "coordinateSourceRefs": [
+        "geo2-luni-city"
+      ],
+      "confidence": "medium"
+    },
+    {
+      "papalName": "John X",
+      "label": "Tossignano",
+      "country": "Italy",
+      "countryCode": "IT",
+      "precision": "place",
+      "coordinates": [
+        11.60361,
+        44.27239
+      ],
+      "bounds": null,
+      "placeId": "place-it-tossignano",
+      "reasoning": "Match the historical hill settlement Tossignano, now a frazione in the municipality of Borgo Tossignano. The map point is the named village node; the lower Borgo settlement was not substituted.",
+      "supportingPassage": "John X biography names Tossignano; the geographic record identifies Tossignano village and its coordinates.",
+      "sourceRefs": [
+        "geo2-roster",
+        "geo2-john-x-ce"
+      ],
+      "coordinateSourceRefs": [
+        "geo2-tossignano-osm"
+      ],
+      "confidence": "high"
+    },
+    {
+      "papalName": "Alexander II",
+      "label": "Baggio, Milan",
+      "country": "Italy",
+      "countryCode": "IT",
+      "precision": "place",
+      "coordinates": [
+        9.0917,
+        45.45929
+      ],
+      "bounds": null,
+      "placeId": "place-it-baggio-milan",
+      "reasoning": "GeoNames identifies the named Baggio settlement within present-day Milan, rather than assigning the pope the central Milan point. This represents the locality, not a surviving medieval home.",
+      "supportingPassage": "Biography: Baggio near Milan; GeoNames: Baggio in Milan Municipio 7, 45.45929 N, 9.09170 E.",
+      "sourceRefs": [
+        "geo2-roster",
+        "geo2-alexander-ii-ce"
+      ],
+      "coordinateSourceRefs": [
+        "geo2-baggio-geonames"
+      ],
+      "confidence": "high"
+    },
+    {
+      "papalName": "Honorius II",
+      "label": "Fiagnano",
+      "country": "Italy",
+      "countryCode": "IT",
+      "precision": "place",
+      "coordinates": [
+        11.572778,
+        44.331111
+      ],
+      "bounds": null,
+      "placeId": "place-it-fiagnano",
+      "reasoning": "The local toponymic record explicitly equates the Fagnano spelling in the biography with Fiagnano in Casalfiumanese, near Imola. Its WGS84 point anchors the historical village/castle locality. It is unrelated to Fagnano Castello in Calabria or Fagnano Olona in Lombardy.",
+      "supportingPassage": "Gazetteer: Fiagnano/Fagnano, Casalfiumanese; 44°19′52″ N, 11°34′22″ E; Lamberto became Pope Honorius II.",
+      "sourceRefs": [
+        "geo2-roster",
+        "geo2-honorius-ii-ce",
+        "geo2-fiagnano-gazetteer"
+      ],
+      "coordinateSourceRefs": [
+        "geo2-fiagnano-gazetteer"
+      ],
+      "confidence": "high"
+    },
+    {
+      "papalName": "Nicholas IV",
+      "label": "Lisciano, Ascoli Piceno",
+      "country": "Italy",
+      "countryCode": "IT",
+      "precision": "place",
+      "coordinates": [
+        13.60193,
+        42.83069
+      ],
+      "bounds": null,
+      "placeId": "place-it-lisciano-ascoli-piceno",
+      "reasoning": "The named Lisciano is the frazione immediately south of Ascoli Piceno. Treccani places the birth near Lisciano, so the village point is an interpretive locality anchor and does not claim a documented birth building.",
+      "supportingPassage": "Vatican: Lisciano (Ascoli Piceno); Treccani: probably near Lisciano; geographic record: Lisciano frazione of Ascoli Piceno, 42.83069 N, 13.60193 E.",
+      "sourceRefs": [
+        "geo2-roster",
+        "geo2-nicholas-iv-treccani"
+      ],
+      "coordinateSourceRefs": [
+        "geo2-lisciano-osm"
+      ],
+      "confidence": "medium"
+    },
+    {
+      "papalName": "Clement V",
+      "label": "Villandraut",
+      "country": "France",
+      "countryCode": "FR",
+      "precision": "place",
+      "coordinates": [
+        -0.371111,
+        44.458333
+      ],
+      "bounds": null,
+      "placeId": "place-fr-villandraut",
+      "reasoning": "Use the town coordinates published by its municipality. The longitude conversion preserves the west sign. This is a town anchor and makes no claim about the exact building of Bertrand de Got’s birth.",
+      "supportingPassage": "Biography: born Villandraut; official town data: 44°27′30″ N, 0°22′16″ W.",
+      "sourceRefs": [
+        "geo2-roster",
+        "geo2-clement-v-ce"
+      ],
+      "coordinateSourceRefs": [
+        "geo2-villandraut-town"
+      ],
+      "confidence": "high"
+    },
+    {
+      "papalName": "Clement VI",
+      "label": "Maumont, Rosiers-d’Égletons",
+      "country": "France",
+      "countryCode": "FR",
+      "precision": "place",
+      "coordinates": [
+        2.04344,
+        45.37542
+      ],
+      "bounds": null,
+      "placeId": "place-fr-maumont-limousin",
+      "reasoning": "The official protected-site inventory identifies the Maumont village where Pierre Roger was born. Match the named hamlet east of Rosiers-d’Égletons, rather than Rosiers town itself or a different Maumont in Charente, Dordogne or Corrèze. The map point represents the hamlet.",
+      "supportingPassage": "DREAL: Pierre Roger, later Clement VI, born in Maumont village; geographic record: hamlet in Rosiers-d’Égletons, 45.37542 N, 2.04344 E.",
+      "sourceRefs": [
+        "geo2-roster",
+        "geo2-maumont-dreal"
+      ],
+      "coordinateSourceRefs": [
+        "geo2-maumont-osm"
+      ],
+      "confidence": "high"
+    },
+    {
+      "papalName": "Urban V",
+      "label": "Grizac",
+      "country": "France",
+      "countryCode": "FR",
+      "precision": "place",
+      "coordinates": [
+        3.69939,
+        44.34282
+      ],
+      "bounds": null,
+      "placeId": "place-fr-grizac",
+      "reasoning": "The Ministry of Culture identifies the historical Grizac site associated with Guillaume de Grimoard. Use the named hamlet point next to its château, rather than the distant administrative centre of Pont-de-Montvert. This is locality precision.",
+      "supportingPassage": "Official heritage notice: Urban V born at Grizac; geographic record: Grizac hamlet, 44.34282 N, 3.69939 E.",
+      "sourceRefs": [
+        "geo2-roster",
+        "geo2-grizac-pop"
+      ],
+      "coordinateSourceRefs": [
+        "geo2-grizac-osm"
+      ],
+      "confidence": "high"
+    },
+    {
+      "papalName": "Gregory XI",
+      "label": "Rosiers-d’Égletons",
+      "country": "France",
+      "countryCode": "FR",
+      "precision": "place",
+      "coordinates": [
+        2.00701,
+        45.37691
+      ],
+      "bounds": null,
+      "placeId": "place-fr-rosiers-d-egletons",
+      "reasoning": "Both Vatican and Treccani identify Rosiers-d’Égletons. Use the named village node; do not assume that Gregory was born in the same specific Maumont hamlet as his uncle Clement VI merely because both belonged to the Roger family.",
+      "supportingPassage": "Treccani: born Rosiers d’Égletons, Corrèze; village record: 45.37691 N, 2.00701 E.",
+      "sourceRefs": [
+        "geo2-roster",
+        "geo2-gregory-xi-treccani"
+      ],
+      "coordinateSourceRefs": [
+        "geo2-rosiers-osm"
+      ],
+      "confidence": "high"
+    },
+    {
+      "papalName": "Callixtus III",
+      "label": "Torre de Canals",
+      "country": "Spain",
+      "countryCode": "ES",
+      "precision": "place",
+      "coordinates": [
+        -0.5894,
+        38.956
+      ],
+      "bounds": null,
+      "placeId": "place-es-torre-de-canals",
+      "reasoning": "The official municipal history distinguishes La Torre, now La Torreta, from Canals proper. The Borja tower and neighbouring oratory identify the centre of that historical settlement. Use this landmark only to anchor the named locality; the map does not assert the exact building or room of birth.",
+      "supportingPassage": "Vatican: Torre de Canals; municipality: Borja tower and oratory in La Torreta, associated with Callixtus III; mapped tower: 38.956 N, -0.5894 E.",
+      "sourceRefs": [
+        "geo2-roster",
+        "geo2-canals-municipal"
+      ],
+      "coordinateSourceRefs": [
+        "geo2-canals-tower-osm"
+      ],
+      "confidence": "high"
+    },
+    {
+      "papalName": "Julius II",
+      "label": "Albisola",
+      "country": "Italy",
+      "countryCode": "IT",
+      "precision": "place",
+      "coordinates": [
+        8.50935,
+        44.33984
+      ],
+      "bounds": null,
+      "placeId": "place-it-albisola",
+      "reasoning": "Albisola was historically one settlement before the separation of Marina in 1615. The Ministry of Culture associates Giuliano’s birth tradition with the upper borough, so use the Albisola Superiore town point for the historical Albisola label. No building claim is inferred from the tradition, and the inland municipality centroid is excluded.",
+      "supportingPassage": "Biography: Albissola near Savona; Ministry of Culture: Superiore/Inferiore separation in 1615 and Giuliano’s local birth tradition; mapped upper town: 44.33984 N, 8.50935 E.",
+      "sourceRefs": [
+        "geo2-roster",
+        "geo2-julius-ii-ce",
+        "geo2-albisola-mic"
+      ],
+      "coordinateSourceRefs": [
+        "geo2-albisola-town-osm"
+      ],
+      "confidence": "medium"
+    },
+    {
+      "papalName": "Leo XII",
+      "label": "Monticelli di Genga",
+      "country": "Italy",
+      "countryCode": "IT",
+      "precision": "place",
+      "coordinates": [
+        12.92449,
+        43.43118
+      ],
+      "bounds": null,
+      "placeId": "place-it-monticelli-di-genga",
+      "reasoning": "Preserve the Vatican roster’s specific Monticelli di Genga label and map the actual hamlet in Genga. Treccani uses broader Genga and discusses Monticelli as a later residence; that difference remains a research limitation, not evidence to relocate the point to central Genga. No birth-house claim is made.",
+      "supportingPassage": "Vatican row 252: Monticelli di Genga (Fabriano); geographic record: Monticelli hamlet in Genga, 43.43118 N, 12.92449 E.",
+      "sourceRefs": [
+        "geo2-roster",
+        "geo2-leo-xii-treccani"
+      ],
+      "coordinateSourceRefs": [
+        "geo2-monticelli-osm"
+      ],
+      "confidence": "medium"
+    },
+    {
+      "papalName": "Innocent VI",
+      "label": "Les Monts, Beyssac",
+      "country": "France",
+      "countryCode": "FR",
+      "precision": "place",
+      "coordinates": [
+        1.41948,
+        45.36955
+      ],
+      "bounds": null,
+      "placeId": "place-fr-monts-limousin",
+      "reasoning": "The intermunicipal authority identifies Les Monts estate in Beyssac as Innocent VI’s birthplace. Ministry of Culture record PA19000024 identifies the same estate and cadastral parcels. The OSM-derived estate point anchors that named locality, 1.25 km east of Beyssac church; the church and tourism route-start coordinates were rejected. The surviving buildings are nineteenth-century and are not presented as a medieval birth house.",
+      "supportingPassage": "Intermunicipal authority: Les Monts in Beyssac, where Innocent VI was born; Mérimée PA19000024: Beyssac, Les Monts, parcels AO 63, 73, 77; mapped estate: 45.36955 N, 1.41948 E.",
+      "sourceRefs": [
+        "geo2-roster",
+        "geo2-monts-beyssac",
+        "geo2-monts-rando",
+        "geo2-monts-pop"
+      ],
+      "coordinateSourceRefs": [
+        "geo2-monts-osm"
+      ],
+      "confidence": "high"
+    }
+  ],
+  "remaining": []
+}

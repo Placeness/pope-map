@@ -1,0 +1,3573 @@
+{
+  "reviewedAt": "2026-10-17",
+  "scope": {
+    "firstOrder": 225,
+    "lastOrder": 243
+  },
+  "sources": [
+    {
+      "key": "n225-pius-v-ce",
+      "title": "Pope St. Pius V",
+      "url": "https://www.newadvent.org/cathen/12130a.htm",
+      "kind": "supplementary-catholic",
+      "author": "Joseph Lataste",
+      "publication": "The Catholic Encyclopedia / New Advent",
+      "retrievedAt": "2026-10-17",
+      "passage": "Biography sections on Dominican formation, inquisitorial career, reform and episcopal residence, Elizabeth’s excommunication, Holy League and Lepanto, beatification and canonization.",
+      "access": {
+        "method": "web-open",
+        "verified": true
+      },
+      "notes": "Historical Catholic reference with local ecclesiastical imprimatur; original article published before 1929. Its confessional judgments and treatment of hostile chronicles require critical reading."
+    },
+    {
+      "key": "n225-pius-v-vatican",
+      "title": "April 30: Saint Pius V",
+      "url": "https://www.vaticanstate.va/en/component/content/article/april-30-saint-pius-v.html?Itemid=216&catid=51",
+      "kind": "official-vatican-publication",
+      "author": "Governorate of Vatican City State",
+      "publication": "Governorate of Vatican City State",
+      "retrievedAt": "2026-10-17",
+      "passage": "Opening birth and Dominican name; inquisitorial appointments; implementation of Trent; liturgical books and Rosary commemoration.",
+      "access": {
+        "method": "web-open",
+        "verified": true
+      },
+      "notes": "Official devotional biography; legendary vision is labeled tradition on the page and is not presented as a verified event here."
+    },
+    {
+      "key": "n225-pius-v-treccani",
+      "title": "Pio V, santo",
+      "url": "https://www.treccani.it/enciclopedia/santo-pio-v_(Enciclopedia-dei-Papi)/",
+      "kind": "scholarly-reference",
+      "author": "Simona Feci",
+      "publication": "Treccani",
+      "retrievedAt": "2026-10-17",
+      "passage": "Sections on coercive enforcement, restrictions on Jews, confiscation of property and the 1569 expulsion except specified cities.",
+      "access": {
+        "method": "web-open",
+        "verified": true
+      },
+      "notes": "Used for policies omitted or defended in the older devotional biography; concise account without copying modern prose."
+    },
+    {
+      "key": "n225-liturgy-directory",
+      "title": "Directory on Popular Piety and the Liturgy",
+      "url": "https://www.vatican.va/roman_curia/congregations/ccdds/documents/rc_con_ccdds_doc_20020513_vers-direttorio_en.html",
+      "kind": "official-vatican",
+      "author": "Congregation for Divine Worship and the Discipline of the Sacraments",
+      "publication": "The Holy See",
+      "retrievedAt": "2026-10-17",
+      "passage": "§39 and note 34 give Pius V’s 1568 Breviary and 1570 Missal and Paul V’s 1614 Roman Ritual; §40 discusses benefits and limitations of post-Tridentine ritual uniformity.",
+      "access": {
+        "method": "web-open",
+        "verified": true
+      },
+      "notes": "Official 2002 historical overview; used narrowly for the publication of liturgical books and their institutional effect."
+    },
+    {
+      "key": "n225-gregory-xiii-ce",
+      "title": "Pope Gregory XIII",
+      "url": "https://www.newadvent.org/cathen/07001b.htm",
+      "kind": "supplementary-catholic",
+      "author": "Michael Ott",
+      "publication": "The Catholic Encyclopedia / New Advent",
+      "retrievedAt": "2026-10-17",
+      "passage": "Sections on legal career, Trent, schools and missions, Roman College, Irish expeditions, celebration after the St Bartholomew massacre, official legal and liturgical publications, finances.",
+      "access": {
+        "method": "web-open",
+        "verified": true
+      },
+      "notes": "Historical Catholic reference with local ecclesiastical imprimatur; original article published before 1929. Its confessional judgments and treatment of hostile chronicles require critical reading."
+    },
+    {
+      "key": "n225-gregory-xiii-treccani",
+      "title": "Gregorio XIII",
+      "url": "https://www.treccani.it/enciclopedia/gregorio-xiii_(Enciclopedia-dei-Papi)/",
+      "kind": "scholarly-reference",
+      "author": "Agostino Borromeo",
+      "publication": "Treccani",
+      "retrievedAt": "2026-10-17",
+      "passage": "Sections 107–109 distinguish no prior involvement in massacre from its celebration; section 281 gives 1582 calendar change; sections on schools, mission diplomacy and central government.",
+      "access": {
+        "method": "web-open",
+        "verified": true
+      },
+      "notes": "Used to correct CE’s calendar typo 1578 and avoid excusing the documented celebration of massacre through speculation about the pope’s private knowledge."
+    },
+    {
+      "key": "n225-sixtus-v-ce",
+      "title": "Pope Sixtus V",
+      "url": "https://www.newadvent.org/cathen/14033a.htm",
+      "kind": "supplementary-catholic",
+      "author": "Michael Ott",
+      "publication": "The Catholic Encyclopedia / New Advent",
+      "retrievedAt": "2026-10-17",
+      "passage": "Sections on Franciscan formation, inquisitorial severity, anti-bandit campaign, finances, Rome rebuilding, seventy cardinals, fifteen congregations and flawed Vulgate.",
+      "access": {
+        "method": "web-open",
+        "verified": true
+      },
+      "notes": "Historical Catholic reference with local ecclesiastical imprimatur; original article published before 1929. Its confessional judgments and treatment of hostile chronicles require critical reading."
+    },
+    {
+      "key": "n225-sixtus-v-curia",
+      "title": "To Promote and Safeguard the Faith: From the Holy Office to the Congregation for the Doctrine of the Faith",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/storia/documents/rc_con_cfaith_storia_20150319_promuovere-custodire-fede_en.html",
+      "kind": "official-vatican",
+      "author": "Congregation for the Doctrine of the Faith",
+      "publication": "The Holy See",
+      "retrievedAt": "2026-10-17",
+      "passage": "Paragraphs on the 22 January 1588 Immensa aeterni Dei, fifteen congregations and pre-eminence of the Inquisition.",
+      "access": {
+        "method": "web-open",
+        "verified": true
+      },
+      "notes": "Official institutional history; used for the date and structure of the curial reform, correcting CE’s different date."
+    },
+    {
+      "key": "n225-urban-vii-ce",
+      "title": "Pope Urban VII",
+      "url": "https://www.newadvent.org/cathen/15218a.htm",
+      "kind": "supplementary-catholic",
+      "author": "Michael Ott",
+      "publication": "The Catholic Encyclopedia / New Advent",
+      "retrievedAt": "2026-10-17",
+      "passage": "Full biography: Trent, Rossano, Spain and Cologne diplomacy; immediate poor relief and bread subsidy, work projects, datary reform, rejection of nepotism, death before coronation and dowry bequest.",
+      "access": {
+        "method": "web-open",
+        "verified": true
+      },
+      "notes": "Historical Catholic reference with local ecclesiastical imprimatur; original article published before 1929. Its confessional judgments and treatment of hostile chronicles require critical reading."
+    },
+    {
+      "key": "n225-urban-vii-treccani",
+      "title": "Urbano VII",
+      "url": "https://www.treccani.it/enciclopedia/urbano-vii_(Enciclopedia-dei-Papi)/",
+      "kind": "scholarly-reference",
+      "author": "Gino Benzoni",
+      "publication": "Treccani",
+      "retrievedAt": "2026-10-17",
+      "passage": "Opening birth; concluding sections on election coalition, fiscal relief and Datary reform.",
+      "access": {
+        "method": "web-open",
+        "verified": true
+      },
+      "notes": "Used to connect the short reign’s first measures to a reaction against Sixtus V’s fiscal practices."
+    },
+    {
+      "key": "n225-gregory-xiv-ce",
+      "title": "Pope Gregory XIV",
+      "url": "https://www.newadvent.org/cathen/07004a.htm",
+      "kind": "supplementary-catholic",
+      "author": "Michael Ott",
+      "publication": "The Catholic Encyclopedia / New Advent",
+      "retrievedAt": "2026-10-17",
+      "passage": "Full biography: Cremona and Trent; French League intervention; papal subsidies and army; Camillian approval; Philippine indigenous emancipation decree; Bible and Breviary revision.",
+      "access": {
+        "method": "web-open",
+        "verified": true
+      },
+      "notes": "Historical Catholic reference with local ecclesiastical imprimatur; original article published before 1929. Its confessional judgments and treatment of hostile chronicles require critical reading."
+    },
+    {
+      "key": "n225-innocent-ix-ce",
+      "title": "Pope Innocent IX",
+      "url": "https://www.newadvent.org/cathen/08020a.htm",
+      "kind": "supplementary-catholic",
+      "author": "Nicholas Weber",
+      "publication": "The Catholic Encyclopedia / New Advent",
+      "retrievedAt": "2026-10-17",
+      "passage": "Full biography: legal training and Farnese service, Nicastro and Trent, Venice negotiations for Holy League, administration under Gregory XIV, French policy, property protection and intended reserve fund.",
+      "access": {
+        "method": "web-open",
+        "verified": true
+      },
+      "notes": "Historical Catholic reference with local ecclesiastical imprimatur; original article published before 1929. Its confessional judgments and treatment of hostile chronicles require critical reading."
+    },
+    {
+      "key": "n225-clement-viii-ce",
+      "title": "Pope Clement VIII",
+      "url": "https://www.newadvent.org/cathen/04027a.htm",
+      "kind": "supplementary-catholic",
+      "author": "James Loughlin",
+      "publication": "The Catholic Encyclopedia / New Advent",
+      "retrievedAt": "2026-10-17",
+      "passage": "Full biography: legal career, Polish mission, church visitation, Henry IV absolution, Vervins, Ferrara, Bruno execution, revised books and de auxiliis controversy.",
+      "access": {
+        "method": "web-open",
+        "verified": true
+      },
+      "notes": "Historical Catholic reference with local ecclesiastical imprimatur; original article published before 1929. Its confessional judgments and treatment of hostile chronicles require critical reading."
+    },
+    {
+      "key": "n225-clement-viii-brest",
+      "title": "Apostolic Letter for the Fourth Centenary of the Union of Brest",
+      "url": "https://www.vatican.va/content/john-paul-ii/fr/apost_letters/1995/documents/hf_jp-ii_apl_19951112_iv-cent-union-brest.html",
+      "kind": "official-vatican",
+      "author": "John Paul II",
+      "publication": "The Holy See",
+      "retrievedAt": "2026-10-17",
+      "passage": "§1 distinguishes Roman agreement 23 December 1595 from Brest proclamation 16 October 1596; §§2–3 explain retention of eastern liturgy and hierarchy and the divisive historical setting.",
+      "access": {
+        "method": "web-open",
+        "verified": true
+      },
+      "notes": "Used narrowly to clarify chronology and preservation of the Byzantine tradition; the union’s disputed reception must not be hidden."
+    },
+    {
+      "key": "n225-leo-xi-ce",
+      "title": "Pope Leo XI",
+      "url": "https://www.newadvent.org/cathen/09166a.htm",
+      "kind": "supplementary-catholic",
+      "author": "Michael Ott",
+      "publication": "The Catholic Encyclopedia / New Advent",
+      "retrievedAt": "2026-10-17",
+      "passage": "Full biography: Medici background, Tuscan embassy, episcopal career, French legation,1605 election, refusal to promote grandnephew during illness.",
+      "access": {
+        "method": "web-open",
+        "verified": true
+      },
+      "notes": "Historical Catholic reference with local ecclesiastical imprimatur; original article published before 1929. Its confessional judgments and treatment of hostile chronicles require critical reading."
+    },
+    {
+      "key": "n225-paul-v-ce",
+      "title": "Pope Paul V",
+      "url": "https://www.newadvent.org/cathen/11581b.htm",
+      "kind": "supplementary-catholic",
+      "author": "James Loughlin",
+      "publication": "The Catholic Encyclopedia / New Advent",
+      "retrievedAt": "2026-10-17",
+      "passage": "Full biography: legal formation, residence enforcement, Venetian interdict and settlement, English allegiance oath, Borghese patronage and St Peter’s.",
+      "access": {
+        "method": "web-open",
+        "verified": true
+      },
+      "notes": "Historical Catholic reference with local ecclesiastical imprimatur; original article published before 1929. Its confessional judgments and treatment of hostile chronicles require critical reading."
+    },
+    {
+      "key": "n225-paul-v-galileo",
+      "title": "Heliocentrism Condemned:400 Years Ago on March 11",
+      "url": "https://www.vaticanobservatory.org/sacred-space-astronomy/heliocentrism-condemned-400-years-ago-march-11/",
+      "kind": "official-vatican-publication",
+      "author": "Pavel Gabor",
+      "publication": "Vatican Observatory",
+      "retrievedAt": "2026-10-17",
+      "passage": "Commentary and Galileo’s 12 March 1616 letter recount the Index condemnation and subsequent cordial papal audience.",
+      "access": {
+        "method": "web-open",
+        "verified": true
+      },
+      "notes": "Vatican Observatory historical essay citing primary correspondence; used briefly to distinguish doctrinal censorship from Galileo’s later 1633 trial."
+    },
+    {
+      "key": "n225-gregory-xv-ce",
+      "title": "Pope Gregory XV",
+      "url": "https://www.newadvent.org/cathen/07004b.htm",
+      "kind": "supplementary-catholic",
+      "author": "Michael Ott",
+      "publication": "The Catholic Encyclopedia / New Advent",
+      "retrievedAt": "2026-10-17",
+      "passage": "Sections on Ludovisi’s training and diplomacy, nephew’s role,1621–1622 election rules, Propaganda Fide, canonizations, religious orders and wartime politics. Political paragraphs identify subsidies to Ferdinand II, the Palatine electoral transfer and the 1623 transport of Heidelberg’s manuscripts by Leo Allatius.",
+      "access": {
+        "method": "web-open",
+        "verified": true
+      },
+      "notes": "Historical Catholic reference with local ecclesiastical imprimatur; original article published before 1929. Its confessional judgments and treatment of hostile chronicles require critical reading."
+    },
+    {
+      "key": "n225-gregory-xv-missions",
+      "title": "Presentation of the Study Conference Euntes in mundum universum",
+      "url": "https://press.vatican.va/content/salastampa/en/bollettino/pubblico/2022/11/15/221115c.html",
+      "kind": "official-vatican",
+      "author": "Holy See Press Office; conference presenters",
+      "publication": "The Holy See",
+      "retrievedAt": "2026-10-17",
+      "passage": "Historical sections explain the 1622 permanent congregation,22 June bull, colonial and Protestant expansion, and Urban VIII’s subsequent consolidation.",
+      "access": {
+        "method": "web-open",
+        "verified": true
+      },
+      "notes": "Official presentation of scholarly conference; used for institutional purpose and context, not as evidence of complete independence from colonial rule."
+    },
+    {
+      "key": "n225-urban-viii-ce",
+      "title": "Pope Urban VIII",
+      "url": "https://www.newadvent.org/cathen/15218b.htm",
+      "kind": "supplementary-catholic",
+      "author": "Michael Ott",
+      "publication": "The Catholic Encyclopedia / New Advent",
+      "retrievedAt": "2026-10-17",
+      "passage": "Biography paragraphs on Barberini’s education and diplomatic career; restrictions on public saint cult, revised Breviary, missionary college and 1639 Indigenous enslavement prohibition; Barberini enrichment, Castro war, construction and Thirty Years War diplomacy. Read through the concluding assessment, distinguishing documented acts from the author’s defense of papal motives.",
+      "access": {
+        "method": "web-open",
+        "verified": true
+      },
+      "notes": "Historical Catholic reference with local ecclesiastical imprimatur; original article published before 1929. Its confessional judgments and treatment of hostile chronicles require critical reading."
+    },
+    {
+      "key": "n225-urban-viii-galileo-jubilee",
+      "title": "Il Giubileo del 1625, l’Anno Santo dell’Età moderna",
+      "url": "https://www.vatican.va/jubilee_2000/pilgrim/documents/ju_gp_01072000-6_it.html",
+      "kind": "official-vatican-publication",
+      "author": "Vittorino Grossi",
+      "publication": "The Holy See",
+      "retrievedAt": "2026-10-17",
+      "passage": "Vittorino Grossi’s Jubilee historical essay identifies Urban’s order to reopen Galileo’s proceeding in January 1633 and reproduces the June 1633 condemnation; earlier paragraphs discuss Barberini patronage and taxation.",
+      "access": {
+        "method": "web-open",
+        "verified": true
+      },
+      "notes": "Vatican-hosted historical essay; used for identified events, not its sweeping judgments about earlier conclaves. The article mistakenly calls Maffeo bishop of Bologna; his role was legate, as the full biography establishes."
+    },
+    {
+      "key": "n225-galileo-1992-jpii",
+      "title": "Address to the Pontifical Academy of Sciences, 31 October 1992",
+      "url": "https://www.vatican.va/content/john-paul-ii/it/speeches/1992/october/documents/hf_jp-ii_spe_19921031_accademia-scienze.html",
+      "kind": "official-vatican",
+      "author": "John Paul II",
+      "publication": "The Holy See",
+      "retrievedAt": "2026-10-17",
+      "passage": "Sections 4–9 and 12 acknowledge errors in the Galileo affair, especially theologians’ identification of geocentric biblical interpretation with revealed doctrine; section 9 notes that the 1633 sentence was reformable.",
+      "access": {
+        "method": "web-open",
+        "verified": true
+      },
+      "notes": "Primary papal reassessment; used for the modern interpretation of the condemnation, not as a complete account of the 1633 proceedings."
+    },
+    {
+      "key": "n225-innocent-x-ce",
+      "title": "Pope Innocent X",
+      "url": "https://www.newadvent.org/cathen/08020b.htm",
+      "kind": "supplementary-catholic",
+      "author": "Michael Ott",
+      "publication": "The Catholic Encyclopedia / New Advent",
+      "retrievedAt": "2026-10-17",
+      "passage": "Full biography: Pamfili’s legal and diplomatic career, Barberini prosecution and French pressure, destruction of Castro, protest against Westphalia, Cum occasione and Olimpia Maidalchini’s influence. Read the final discussion distinguishing scandalous allegations from demonstrated family influence.",
+      "access": {
+        "method": "web-open",
+        "verified": true
+      },
+      "notes": "Historical Catholic reference with local ecclesiastical imprimatur; original article published before 1929. Its confessional judgments and treatment of hostile chronicles require critical reading."
+    },
+    {
+      "key": "n225-innocent-x-treccani",
+      "title": "Innocenzo X — Enciclopedia dei Papi",
+      "url": "https://www.treccani.it/enciclopedia/innocenzo-x_(Enciclopedia-dei-Papi)/",
+      "kind": "scholarly-reference",
+      "author": "Olivier Poncet",
+      "publication": "Treccani",
+      "retrievedAt": "2026-10-17",
+      "passage": "Sections on the Pamphili household and Olimpia’s intermittent exclusion and return; Piazza Navona and the 1648 contract for Bernini’s Four Rivers fountain; Zelo domus Dei’s delayed promulgation; 1652 suppression of small convents and the 1645 Chinese Rites decision. The opening gives 7 May 1574 and identifies a Sapienza law doctorate.",
+      "access": {
+        "method": "web-open",
+        "verified": true
+      },
+      "notes": "Modern scholarly biography consulted for specific government, art and chronology passages. Its critical account avoids reducing Olimpia’s power to sexual scandal."
+    },
+    {
+      "key": "n225-alexander-vii-ce",
+      "title": "Pope Alexander VII",
+      "url": "https://www.newadvent.org/cathen/01294a.htm",
+      "kind": "supplementary-catholic",
+      "author": "John Bertram Peterson",
+      "publication": "The Catholic Encyclopedia / New Advent",
+      "retrievedAt": "2026-10-17",
+      "passage": "Full biography: Chigi’s education, Malta and German diplomacy, Münster and secretaryship; initial exclusion then advancement of relatives; dispute with France, Queen Christina, Jansenism and Bernini’s Roman works.",
+      "access": {
+        "method": "web-open",
+        "verified": true
+      },
+      "notes": "Historical Catholic reference with local ecclesiastical imprimatur; original article published before 1929. Its confessional judgments and treatment of hostile chronicles require critical reading."
+    },
+    {
+      "key": "n225-alexander-vii-treccani",
+      "title": "Alessandro VII — Enciclopedia dei Papi",
+      "url": "https://www.treccani.it/enciclopedia/alessandro-vii_(Enciclopedia-dei-Papi)/",
+      "kind": "scholarly-reference",
+      "author": "Mario Rosa",
+      "publication": "Treccani",
+      "retrievedAt": "2026-10-17",
+      "passage": "Doctrinal sections distinguish Ad sanctam beati Petri Sedem of 16 October 1656 from the formulary imposed by Regiminis apostolici of 15 February 1665. The China section explains the 1656 permission for ceremonies understood as civic, not religious.",
+      "access": {
+        "method": "web-open",
+        "verified": true
+      },
+      "notes": "Used to correct the older encyclopedia’s conflation of the 1656 and 1665 documents; modern critical discussion of the political and doctrinal consequences."
+    },
+    {
+      "key": "n225-alexander-vii-gastaldi",
+      "title": "Gastaldi, Girolamo — Dizionario Biografico degli Italiani",
+      "url": "https://www.treccani.it/enciclopedia/girolamo-gastaldi_(Dizionario-Biografico)/",
+      "kind": "scholarly-reference",
+      "author": "Marcella Marsili",
+      "publication": "Treccani",
+      "retrievedAt": "2026-10-17",
+      "passage": "Paragraphs on the plague of 1656–57: Alexander delegated Rome’s protection to the health congregation and Gastaldi, whose measures included health passes, inspection, restricted entry, quarantine and isolation facilities.",
+      "access": {
+        "method": "web-open",
+        "verified": true
+      },
+      "notes": "Used only for the concrete public-health measures and papal delegation; the historical medical theories reported in the article are not presented as modern science."
+    },
+    {
+      "key": "n225-clement-ix-ce",
+      "title": "Pope Clement IX",
+      "url": "https://www.newadvent.org/cathen/04028a.htm",
+      "kind": "supplementary-catholic",
+      "author": "James Loughlin",
+      "publication": "The Catholic Encyclopedia / New Advent",
+      "retrievedAt": "2026-10-17",
+      "passage": "Full biography: education, Spanish nunciature, secretaryship under Alexander VII, charity and grain relief, Clementine Peace, Portugal, Aix-la-Chapelle and defense of Crete. The claims of negligible nepotism and uniformly successful financial reform are checked against modern research.",
+      "access": {
+        "method": "web-open",
+        "verified": true
+      },
+      "notes": "Historical Catholic reference with local ecclesiastical imprimatur; original article published before 1929. Its confessional judgments and treatment of hostile chronicles require critical reading."
+    },
+    {
+      "key": "n225-clement-ix-treccani",
+      "title": "Clemente IX — Enciclopedia dei Papi",
+      "url": "https://www.treccani.it/enciclopedia/clemente-ix_(Enciclopedia-dei-Papi)/",
+      "kind": "scholarly-reference",
+      "author": "Luciano Osbat and Raoul Meloncelli",
+      "publication": "Treccani",
+      "retrievedAt": "2026-10-17",
+      "passage": "Opening distinguishes birth on 27 January from baptism on 28 January 1600. Family-government passages document appointments and financial benefits; the works section identifies Rospigliosi’s Sant’Alessio libretto.",
+      "access": {
+        "method": "web-open",
+        "verified": true
+      },
+      "notes": "Modern correction of the older biography’s birth date and idealized account of nepotism and finance. Used for these specific passages rather than a comprehensive paraphrase of the article."
+    },
+    {
+      "key": "n225-clement-x-ce",
+      "title": "Pope Clement X",
+      "url": "https://www.newadvent.org/cathen/04028b.htm",
+      "kind": "supplementary-catholic",
+      "author": "James Loughlin",
+      "publication": "The Catholic Encyclopedia / New Advent",
+      "retrievedAt": "2026-10-17",
+      "passage": "Full biography: Emilio Altieri’s service in Ravenna, Naples and Roman congregations; late cardinalate and election; Paluzzi-Altieri adoption and delegated government; canonizations, French régale conflict and financial assistance to Poland.",
+      "access": {
+        "method": "web-open",
+        "verified": true
+      },
+      "notes": "Historical Catholic reference with local ecclesiastical imprimatur; original article published before 1929. Its confessional judgments and treatment of hostile chronicles require critical reading."
+    },
+    {
+      "key": "n225-clement-x-treccani",
+      "title": "Clemente X — Enciclopedia dei Papi",
+      "url": "https://www.treccani.it/enciclopedia/clemente-x_(Enciclopedia-dei-Papi)/",
+      "kind": "scholarly-reference",
+      "author": "Luciano Osbat",
+      "publication": "Treccani",
+      "retrievedAt": "2026-10-17",
+      "passage": "Government section: continuity of ministers; Superna magni patrisfamilias of June 1670 on religious orders, bishops and royal interference; 1672 scrutiny of relics and certificates; 1675 Jubilee.",
+      "access": {
+        "method": "web-open",
+        "verified": true
+      },
+      "notes": "Used for specific administrative measures, not the article’s broad evaluative language about the pope’s religious character."
+    },
+    {
+      "key": "n225-rose-lima-causes",
+      "title": "Rosa da Lima — Dicastery for the Causes of Saints",
+      "url": "https://www.causesanti.va/it/santi-e-beati/rosa-da-lima.html",
+      "kind": "official-vatican",
+      "author": "Dicastery for the Causes of Saints",
+      "publication": "The Holy See",
+      "retrievedAt": "2026-10-17",
+      "passage": "Official recognition entry records canonization by Clement X on 12 April 1671 and presents her Peruvian life and colonial setting.",
+      "access": {
+        "method": "web-open",
+        "verified": true
+      },
+      "notes": "Current official recognition source for an action of Clement X; it is not evidence of Clement’s own saint status."
+    },
+    {
+      "key": "n225-innocent-xi-ce",
+      "title": "Pope Innocent XI",
+      "url": "https://www.newadvent.org/cathen/08021a.htm",
+      "kind": "supplementary-catholic",
+      "author": "Michael Ott",
+      "publication": "The Catholic Encyclopedia / New Advent",
+      "retrievedAt": "2026-10-17",
+      "passage": "Full biography: Odescalchi’s legal and administrative career, famine relief and Novara; austerity and finance; French régale, Four Articles, embassy asylum and Cologne; Vienna and Holy League; moral regulation and Quietism. The article’s pre-beatification status and some family/chronological details are obsolete.",
+      "access": {
+        "method": "web-open",
+        "verified": true
+      },
+      "notes": "Historical Catholic reference with local ecclesiastical imprimatur; original article published before 1929. Its confessional judgments and treatment of hostile chronicles require critical reading."
+    },
+    {
+      "key": "n225-innocent-xi-beatification",
+      "title": "In onore del beato Innocenzo XI, 7 October 1956",
+      "url": "https://www.vatican.va/content/pius-xii/it/speeches/1956/documents/hf_p-xii_spe_19561006_chemioterapia.html",
+      "kind": "official-vatican",
+      "author": "Pius XII",
+      "publication": "The Holy See",
+      "retrievedAt": "2026-10-17",
+      "passage": "Heading dates the address to 7 October 1956; opening paragraphs explicitly say Pius XII has enrolled Innocent XI among the blessed. Later sections discuss the French conflict and the anti-Ottoman coalition.",
+      "access": {
+        "method": "web-open",
+        "verified": true
+      },
+      "notes": "Primary evidence for beatification. Although the URL contains an unrelated-looking 6 October filename, the displayed document is the 7 October radiomessage for Blessed Innocent XI; the content, not the slug, establishes the date."
+    },
+    {
+      "key": "n225-alexander-viii-ce",
+      "title": "Pope Alexander VIII",
+      "url": "https://www.newadvent.org/cathen/01295a.htm",
+      "kind": "supplementary-catholic",
+      "author": "John Bertram Peterson",
+      "publication": "The Catholic Encyclopedia / New Advent",
+      "retrievedAt": "2026-10-17",
+      "passage": "Full biography: Ottoboni’s legal career, cardinalate and Brescia; French return of Avignon, rejection of Gallican Articles, aid to Venice, acquisition of Christina’s library, taxation and revived nepotism.",
+      "access": {
+        "method": "web-open",
+        "verified": true
+      },
+      "notes": "Historical Catholic reference with local ecclesiastical imprimatur; original article published before 1929. Its confessional judgments and treatment of hostile chronicles require critical reading."
+    },
+    {
+      "key": "n225-alexander-viii-treccani",
+      "title": "Alessandro VIII — Enciclopedia dei Papi",
+      "url": "https://www.treccani.it/enciclopedia/alessandro-viii_(Enciclopedia-dei-Papi)/",
+      "kind": "scholarly-reference",
+      "author": "Armando Petrucci",
+      "publication": "Treccani",
+      "retrievedAt": "2026-10-17",
+      "passage": "Opening documents birth on 22 April 1610 and legal career; Brescia section describes coercion against Val Camonica religious groups. Later paragraphs distinguish renewed French negotiations from the January 1691 publication of Inter multiplices.",
+      "access": {
+        "method": "web-open",
+        "verified": true
+      },
+      "notes": "Consulted for specific corrections and episodes. The older biography’s quiet Brescia portrayal, degree chronology and election day are not adopted uncritically."
+    },
+    {
+      "key": "n225-innocent-xii-ce",
+      "title": "Pope Innocent XII",
+      "url": "https://www.newadvent.org/cathen/08022a.htm",
+      "kind": "supplementary-catholic",
+      "author": "Michael Ott",
+      "publication": "The Catholic Encyclopedia / New Advent",
+      "retrievedAt": "2026-10-17",
+      "passage": "Full biography: Pignatelli’s administrative and diplomatic career, 1691 compromise election, Romanum decet Pontificem, charitable institutions, Curia Innocenziana, French episcopal settlement, Fénelon and Spanish succession.",
+      "access": {
+        "method": "web-open",
+        "verified": true
+      },
+      "notes": "Historical Catholic reference with local ecclesiastical imprimatur; original article published before 1929. Its confessional judgments and treatment of hostile chronicles require critical reading."
+    },
+    {
+      "key": "n225-innocent-xii-treccani",
+      "title": "Innocenzo XII — Enciclopedia dei Papi",
+      "url": "https://www.treccani.it/enciclopedia/innocenzo-xii_(Enciclopedia-dei-Papi)/",
+      "kind": "scholarly-reference",
+      "author": "Renata Ago",
+      "publication": "Treccani",
+      "retrievedAt": "2026-10-17",
+      "passage": "Reform sections discuss nepotism, offices, tribunals and poor relief; French section distinguishes the 1692–93 settlement from formal retraction of the Four Articles. The hospice account records resistance to compulsory confinement.",
+      "access": {
+        "method": "web-open",
+        "verified": true
+      },
+      "notes": "Specific corrections and social-policy passages consulted. The older biography overstates French repeal and supplies disputed career dates; those claims are avoided."
+    },
+    {
+      "key": "n225-clement-xi-ce",
+      "title": "Pope Clement XI",
+      "url": "https://www.newadvent.org/cathen/04029a.htm",
+      "kind": "supplementary-catholic",
+      "author": "James Loughlin",
+      "publication": "The Catholic Encyclopedia / New Advent",
+      "retrievedAt": "2026-10-17",
+      "passage": "Full biography: Albani’s classical scholarship, court career and briefs; anti-nepotism drafting, patronage and food relief; Spanish succession, imperial invasion and 1709 concession; manuscripts, meridian, Jansenism and Chinese Rites.",
+      "access": {
+        "method": "web-open",
+        "verified": true
+      },
+      "notes": "Historical Catholic reference with local ecclesiastical imprimatur; original article published before 1929. Its confessional judgments and treatment of hostile chronicles require critical reading."
+    },
+    {
+      "key": "n225-clement-xi-treccani",
+      "title": "Clemente XI — Enciclopedia dei Papi",
+      "url": "https://www.treccani.it/enciclopedia/clemente-xi_(Enciclopedia-dei-Papi)/",
+      "kind": "scholarly-reference",
+      "author": "Stefano Andretta",
+      "publication": "Treccani",
+      "retrievedAt": "2026-10-17",
+      "passage": "Opening gives birth as 22 or 23 July 1649; political sections detail military coercion in 1708–09; China sections trace the 1704 ruling, Tournon, Ex illa die and missionary difficulties.",
+      "access": {
+        "method": "web-open",
+        "verified": true
+      },
+      "notes": "Modern scholarly crosscheck, especially the birth-date conflict and consequences of the rites policy. Evaluative judgments about personality and exclusive motives are not treated as facts."
+    },
+    {
+      "key": "n225-clement-xi-ricci-rites-ce",
+      "title": "Matteo Ricci — Chinese Rites sections",
+      "url": "https://www.newadvent.org/cathen/13034a.htm",
+      "kind": "supplementary-catholic",
+      "author": "Joseph Brucker",
+      "publication": "The Catholic Encyclopedia / New Advent",
+      "retrievedAt": "2026-10-17",
+      "passage": "Sections on the rites, especially paragraphs beginning with the 1693 Maigrot mandate through Tournon’s legation, 1704 and 1710 decisions, Ex illa die, Mezzabarba and the 1742 confirmation. Explains ancestors, Confucius, terms for God and imperial residence permits.",
+      "access": {
+        "method": "web-open",
+        "verified": true
+      },
+      "notes": "Historical Catholic reference with strong missionary and confessional assumptions. Used for named actions, chronology and the competing interpretations of ceremonies; its judgments about Chinese intellectual inferiority and superstition are not adopted."
+    },
+    {
+      "key": "n225-clement-xi-unigenitus-ce",
+      "title": "Unigenitus",
+      "url": "https://www.newadvent.org/cathen/15128a.htm",
+      "kind": "supplementary-catholic",
+      "author": "Michael Ott",
+      "publication": "The Catholic Encyclopedia / New Advent",
+      "retrievedAt": "2026-10-17",
+      "passage": "Opening and doctrinal sections identify 101 condemned propositions from Quesnel; later paragraphs trace French reception, royal and episcopal resistance, the 1717 appeal to a council and Pastoralis officii in 1718.",
+      "access": {
+        "method": "web-open",
+        "verified": true
+      },
+      "notes": "Historical Catholic treatment from the Roman side of the controversy. Its descriptions of opponents’ motives and alleged bribery are not repeated. The public narrative uses the year 1713, avoiding inconsistent days in older articles."
+    },
+    {
+      "key": "n225-clement-xi-observatory-meridian",
+      "title": "Time and a Church Pendulum",
+      "url": "https://www.vaticanobservatory.org/sacred-space-astronomy/time-and-a-church-pendulum/",
+      "kind": "official-vatican-publication",
+      "author": "Christopher M. Graney",
+      "publication": "Vatican Observatory",
+      "retrievedAt": "2026-10-17",
+      "passage": "Passage on Santa Maria degli Angeli identifies Bianchini’s meridian line under Clement XI and explains solar passage across the local noon meridian.",
+      "access": {
+        "method": "web-open",
+        "verified": true
+      },
+      "notes": "Vatican Observatory educational article used only for the meridian’s function and papal patronage, not as a general biography."
+    },
+    {
+      "key": "n225-clement-viii-birth-treccani",
+      "title": "Clemente VIII — birth and early career",
+      "url": "https://www.treccani.it/enciclopedia/clemente-viii_(Enciclopedia-dei-Papi)/",
+      "kind": "scholarly-reference",
+      "author": "Agostino Borromeo",
+      "publication": "Treccani",
+      "retrievedAt": "2026-10-17",
+      "passage": "Opening paragraph gives 24 February 1536 at Fano, identifying his parents and the family’s exile; early-career paragraphs describe legal study and Roman service.",
+      "access": {
+        "method": "web-open",
+        "verified": true
+      },
+      "notes": "Consulted for the explicit birth date, correcting the March date in the older Catholic Encyclopedia. No birthplace geometry is changed."
+    },
+    {
+      "key": "n225-leo-xi-birth-treccani",
+      "title": "Leone XI — birth and family",
+      "url": "https://www.treccani.it/enciclopedia/leone-xi_(Enciclopedia-dei-Papi)/",
+      "kind": "scholarly-reference",
+      "author": "Matteo Sanfilippo",
+      "publication": "Treccani",
+      "retrievedAt": "2026-10-17",
+      "passage": "Opening paragraph dates Alessandro de’ Medici’s birth to 2 June 1536, contrasting with the older Catholic Encyclopedia’s year 1535; early paragraphs describe family and religious formation.",
+      "access": {
+        "method": "web-open",
+        "verified": true
+      },
+      "notes": "The conflict in birth year is retained internally and represented as a narrow range; this pass does not choose an unsupported exact date or alter birthplace geometry."
+    }
+  ],
+  "profiles": [
+    {
+      "personId": "pope-pius-v",
+      "papalName": "Pius V",
+      "alternateNames": [
+        "Antonio Ghislieri",
+        "Michele Ghislieri"
+      ],
+      "birthDate": {
+        "label": "17 January 1504",
+        "precision": "date",
+        "sourceRefs": [
+          "n225-pius-v-vatican",
+          "n225-pius-v-ce"
+        ],
+        "note": "Exact date supplied by the official biography and historical reference."
+      },
+      "summary": {
+        "text": "Pius V turned the Council of Trent’s program into a stricter pattern of Catholic life through clerical discipline, a catechism, and revised liturgical books. A former inquisitor, he also pursued religious conformity through repression, including the expulsion of Jewish communities. His alliance against the Ottomans culminated in Lepanto, while his attack on Elizabeth I complicated the position of English Catholics.",
+        "sourceRefs": [
+          "n225-pius-v-ce",
+          "n225-pius-v-vatican",
+          "n225-pius-v-treccani",
+          "n225-liturgy-directory"
+        ]
+      },
+      "biography": {
+        "paragraphs": [
+          {
+            "text": "Antonio Ghislieri entered the Dominicans as Michele and spent years teaching and governing religious houses before becoming an inquisitor, bishop, and cardinal. Elected pope in 1566, he brought an ascetic personal style and a conviction that reform required both exemplary conduct and firm enforcement. He pressed bishops to live in their dioceses, restrained court luxury, supported pastoral instruction, and insisted on the implementation of Trent.",
+            "sourceRefs": [
+              "n225-pius-v-ce",
+              "n225-pius-v-vatican",
+              "n225-pius-v-treccani",
+              "n225-liturgy-directory"
+            ]
+          },
+          {
+            "text": "The Roman Catechism and the revised Breviary and Missal helped give that reform a durable form. The Breviary of 1568 and Missal of 1570 provided authorized texts for clergy and worship, spreading a more uniform Roman practice through much of the Latin Church. Their influence lasted for centuries, although this was a reform of an existing rite rather than the invention of the Mass.",
+            "sourceRefs": [
+              "n225-pius-v-ce",
+              "n225-pius-v-vatican",
+              "n225-pius-v-treccani",
+              "n225-liturgy-directory"
+            ]
+          },
+          {
+            "text": "His pursuit of conformity also had coercive consequences. The Inquisition gained strength, and in 1569 he ordered Jewish communities expelled from most of the Papal States, leaving exceptions including Rome and Ancona. In 1570 he excommunicated Elizabeth I and declared her subjects released from allegiance, intensifying the collision between Catholic loyalty and the English crown. He helped assemble the Holy League whose fleet defeated the Ottomans at Lepanto in 1571. The victory did not permanently destroy Ottoman naval power. Clement XI canonized him in 1712. His legacy includes lasting pastoral institutions, the victory at Lepanto and coercive policies toward religious minorities.",
+            "sourceRefs": [
+              "n225-pius-v-ce",
+              "n225-pius-v-vatican",
+              "n225-pius-v-treccani",
+              "n225-liturgy-directory"
+            ]
+          }
+        ]
+      },
+      "actions": [
+        {
+          "text": "Promulgated the Roman Breviary in 1568 and Missal in 1570 and supported the Roman Catechism, giving post-Tridentine teaching and worship common texts.",
+          "sourceRefs": [
+            "n225-pius-v-ce",
+            "n225-pius-v-vatican",
+            "n225-pius-v-treccani",
+            "n225-liturgy-directory"
+          ]
+        },
+        {
+          "text": "Enforced episcopal residence and clerical discipline, treating pastoral reform as an obligation of office.",
+          "sourceRefs": [
+            "n225-pius-v-ce",
+            "n225-pius-v-vatican",
+            "n225-pius-v-treccani",
+            "n225-liturgy-directory"
+          ]
+        },
+        {
+          "text": "Expelled Jewish communities from most of the Papal States in 1569, imposing displacement and loss on a vulnerable minority.",
+          "sourceRefs": [
+            "n225-pius-v-ce",
+            "n225-pius-v-vatican",
+            "n225-pius-v-treccani",
+            "n225-liturgy-directory"
+          ]
+        },
+        {
+          "text": "Excommunicated Elizabeth I and released subjects from allegiance in 1570, with major consequences for English Catholic political life.",
+          "sourceRefs": [
+            "n225-pius-v-ce",
+            "n225-pius-v-vatican",
+            "n225-pius-v-treccani",
+            "n225-liturgy-directory"
+          ]
+        },
+        {
+          "text": "Organized the Holy League against Ottoman expansion, culminating in the naval victory at Lepanto in 1571.",
+          "sourceRefs": [
+            "n225-pius-v-ce",
+            "n225-pius-v-vatican",
+            "n225-pius-v-treccani",
+            "n225-liturgy-directory"
+          ]
+        }
+      ],
+      "context": {
+        "paragraphs": [
+          {
+            "text": "Trent had ended only three years before Pius’s election. Its decrees still required books, trained clergy, functioning dioceses, and sustained enforcement. Pius approached that work within an age of confessional warfare, when rulers and church leaders often treated religious dissent as a threat to public order. Spain and Venice could cooperate against the Ottomans while pursuing their own interests. In England, a papal claim to depose the queen could strengthen the government’s suspicion that Catholic practice implied foreign political allegiance. His pontificate therefore joined lasting pastoral organization to coercive policies with serious human costs.",
+            "sourceRefs": [
+              "n225-pius-v-ce",
+              "n225-pius-v-vatican",
+              "n225-pius-v-treccani",
+              "n225-liturgy-directory"
+            ]
+          },
+          {
+            "text": "The standardized books gave bishops and parish clergy practical tools for teaching and worship, so the implementation of Trent reached beyond councils and courts into the recurring routines of Catholic communities.",
+            "sourceRefs": [
+              "n225-pius-v-ce",
+              "n225-pius-v-vatican",
+              "n225-pius-v-treccani",
+              "n225-liturgy-directory"
+            ]
+          }
+        ]
+      },
+      "saintStatus": {
+        "status": "saint",
+        "label": "Saint",
+        "recognition": "Recognized as Saint Pius V by Vatican publishing sources; beatified by Clement X in 1672 and canonized by Clement XI in 1712. Exact decree dates are not independently established here.",
+        "recognitionDate": "1712",
+        "beatificationDate": "1672",
+        "sourceRefs": [
+          "n225-pius-v-ce",
+          "n225-pius-v-vatican"
+        ]
+      },
+      "antipopeReview": {
+        "status": "reviewed-none",
+        "claimantNames": [],
+        "note": "The person-specific biography was checked for a competing papal claimant; no named rival claimant was identified.",
+        "sourceRefs": [
+          "n225-pius-v-ce",
+          "n225-pius-v-vatican",
+          "n225-pius-v-treccani",
+          "n225-liturgy-directory"
+        ]
+      },
+      "researchNotes": [
+        {
+          "text": "CE’s claim that Lepanto dealt Ottoman power a blow from which it never recovered is an exaggeration and is not repeated.",
+          "sourceRefs": [
+            "n225-pius-v-ce",
+            "n225-pius-v-vatican",
+            "n225-pius-v-treccani",
+            "n225-liturgy-directory"
+          ]
+        },
+        {
+          "text": "The devotional story of a supernatural vision announcing the victory is not treated as independently established history.",
+          "sourceRefs": [
+            "n225-pius-v-ce",
+            "n225-pius-v-vatican",
+            "n225-pius-v-treccani",
+            "n225-liturgy-directory"
+          ]
+        }
+      ],
+      "review": {
+        "coverage": "substantive",
+        "sourcesRead": [
+          "n225-pius-v-ce",
+          "n225-pius-v-vatican",
+          "n225-pius-v-treccani",
+          "n225-liturgy-directory"
+        ],
+        "openIssues": [],
+        "fieldsChecked": [
+          "biography",
+          "actions",
+          "context",
+          "birthDate",
+          "recognition",
+          "claimants"
+        ]
+      }
+    },
+    {
+      "personId": "pope-gregory-xiii",
+      "papalName": "Gregory XIII",
+      "alternateNames": [
+        "Ugo Boncompagni"
+      ],
+      "birthDate": {
+        "label": "7 January 1502",
+        "precision": "date",
+        "sourceRefs": [
+          "n225-gregory-xiii-ce"
+        ],
+        "note": "Exact date given in the historical biography."
+      },
+      "summary": {
+        "text": "Gregory XIII’s name endures in the calendar, but his educational and diplomatic projects were equally ambitious. He funded colleges to train clergy for a divided and expanding Catholic world, supported missions, and strengthened Roman administration. He also celebrated the St Bartholomew’s Day massacre as a Catholic victory and backed armed action against Elizabethan rule, exposing the violence of confessional politics.",
+        "sourceRefs": [
+          "n225-gregory-xiii-ce",
+          "n225-gregory-xiii-treccani"
+        ]
+      },
+      "biography": {
+        "paragraphs": [
+          {
+            "text": "Ugo Boncompagni was a Bolognese law teacher whose curial and conciliar service made him an experienced administrator before his election in 1572. He had worked at Trent and in Spanish diplomacy. As pope he invested heavily in colleges, especially institutions training priests for territories where Catholicism faced political or religious opposition. His support for the Roman College helped give rise to its later Gregorian name.",
+            "sourceRefs": [
+              "n225-gregory-xiii-ce",
+              "n225-gregory-xiii-treccani"
+            ]
+          },
+          {
+            "text": "He promoted German, English, Greek, Maronite, and other educational institutions and favored Jesuit missions. The Japanese embassy received in 1585 made Rome’s connection with East Asian Christianity visible. At the same time he strengthened diplomatic representation through nunciatures and authorized official editions of canon law and the Roman Martyrology, seeking reliable institutions and texts for the post-Tridentine church.",
+            "sourceRefs": [
+              "n225-gregory-xiii-ce",
+              "n225-gregory-xiii-treccani"
+            ]
+          },
+          {
+            "text": "His calendar reform of 1582 corrected the drift of the Julian calendar and revised the leap-year rule. It was adopted unevenly because a technical correction also carried papal authority into divided Christian states. His confessional politics were more troubling. He did not plan the St Bartholomew massacre, but he celebrated its news with thanksgiving and commemorative imagery. He also financed failed expeditions against English rule in Ireland. Such actions cannot be reduced to education or peaceful restoration, and his expensive projects and fiscal policies left serious disorder in the Papal States.",
+            "sourceRefs": [
+              "n225-gregory-xiii-ce",
+              "n225-gregory-xiii-treccani"
+            ]
+          }
+        ]
+      },
+      "actions": [
+        {
+          "text": "Promulgated the Gregorian calendar in 1582, removing ten days from the initial transition and changing the treatment of century leap years.",
+          "sourceRefs": [
+            "n225-gregory-xiii-ce",
+            "n225-gregory-xiii-treccani"
+          ]
+        },
+        {
+          "text": "Funded colleges and seminaries, including the Roman College and institutions for German, English, Greek, and Maronite clergy.",
+          "sourceRefs": [
+            "n225-gregory-xiii-ce",
+            "n225-gregory-xiii-treccani"
+          ]
+        },
+        {
+          "text": "Supported Jesuit missions and received the Japanese embassy in 1585, widening Rome’s international religious networks.",
+          "sourceRefs": [
+            "n225-gregory-xiii-ce",
+            "n225-gregory-xiii-treccani"
+          ]
+        },
+        {
+          "text": "Celebrated the news of the St Bartholomew massacre and backed armed ventures in Ireland, participating in coercive confessional politics.",
+          "sourceRefs": [
+            "n225-gregory-xiii-ce",
+            "n225-gregory-xiii-treccani"
+          ]
+        },
+        {
+          "text": "Issued authoritative editions of canon law and the Roman Martyrology to support teaching and governance.",
+          "sourceRefs": [
+            "n225-gregory-xiii-ce",
+            "n225-gregory-xiii-treccani"
+          ]
+        }
+      ],
+      "context": {
+        "paragraphs": [
+          {
+            "text": "The struggle for religious allegiance was also a struggle over schools, books, diplomacy, and dynastic succession. Gregory regarded trained clergy as essential to Catholic survival in Protestant-ruled regions and expansion overseas. Yet the same international outlook encouraged schemes of invasion and political conversion. The calendar shows a different interaction of knowledge and power: astronomers could identify a correction, but governments had to accept a papal enactment before ordinary people changed their dates. Its gradual adoption reflects both the reform’s usefulness and the divisions of European Christianity.",
+            "sourceRefs": [
+              "n225-gregory-xiii-ce",
+              "n225-gregory-xiii-treccani"
+            ]
+          },
+          {
+            "text": "The ten-day correction was intended to restore the calendar’s seasonal alignment, which mattered especially for calculating Easter. College foundations pursued a parallel aim in personnel: creating priests equipped to sustain Catholic communities across linguistic and political borders.",
+            "sourceRefs": [
+              "n225-gregory-xiii-ce",
+              "n225-gregory-xiii-treccani"
+            ]
+          }
+        ]
+      },
+      "saintStatus": {
+        "status": "no-positive-claim",
+        "label": "",
+        "recognition": "No positive saint or beatification claim was found in the consulted person-specific biography. This is a research finding, not a universal proof that no local cult ever existed.",
+        "recognitionDate": null,
+        "beatificationDate": null,
+        "sourceRefs": [
+          "n225-gregory-xiii-ce",
+          "n225-gregory-xiii-treccani"
+        ]
+      },
+      "antipopeReview": {
+        "status": "reviewed-none",
+        "claimantNames": [],
+        "note": "The person-specific biography was checked for a competing papal claimant; no named rival claimant was identified.",
+        "sourceRefs": [
+          "n225-gregory-xiii-ce",
+          "n225-gregory-xiii-treccani"
+        ]
+      },
+      "researchNotes": [
+        {
+          "text": "CE erroneously dates calendar introduction 1578; the actual enactment and initial change were 1582.",
+          "sourceRefs": [
+            "n225-gregory-xiii-ce",
+            "n225-gregory-xiii-treccani"
+          ]
+        },
+        {
+          "text": "No evidence of prior papal planning of the massacre; the subsequent celebration is nevertheless documented and not excused as an unverified misunderstanding.",
+          "sourceRefs": [
+            "n225-gregory-xiii-ce",
+            "n225-gregory-xiii-treccani"
+          ]
+        }
+      ],
+      "review": {
+        "coverage": "substantive",
+        "sourcesRead": [
+          "n225-gregory-xiii-ce",
+          "n225-gregory-xiii-treccani"
+        ],
+        "openIssues": [],
+        "fieldsChecked": [
+          "biography",
+          "actions",
+          "context",
+          "birthDate",
+          "recognition",
+          "claimants"
+        ]
+      }
+    },
+    {
+      "personId": "pope-sixtus-v",
+      "papalName": "Sixtus V",
+      "alternateNames": [
+        "Felice Peretti",
+        "Cardinal Montalto"
+      ],
+      "birthDate": {
+        "label": "13 December 1521",
+        "precision": "date",
+        "sourceRefs": [
+          "n225-sixtus-v-ce"
+        ],
+        "note": "Exact date given by the historical biography."
+      },
+      "summary": {
+        "text": "Sixtus V gave papal government a more durable administrative structure and remade the physical connections of Rome. His fifteen congregations, streets, aqueduct, library, and obelisks projected an energetic governing vision. The same forcefulness appeared in a harsh campaign against banditry and heavy fiscal demands. A flawed Bible edition also shows the limits of personal authority when applied to scholarly work.",
+        "sourceRefs": [
+          "n225-sixtus-v-ce",
+          "n225-sixtus-v-curia"
+        ]
+      },
+      "biography": {
+        "paragraphs": [
+          {
+            "text": "Felice Peretti rose from modest circumstances through the Franciscans as a preacher, superior, and inquisitor. His severity brought friction with Venice before he became a bishop and cardinal. Elected in 1585, he moved quickly against the armed bands and aristocratic protection networks that had undermined order in the Papal States. The campaign restored security through severe punishments and executions, not merely through better administration.",
+            "sourceRefs": [
+              "n225-sixtus-v-ce",
+              "n225-sixtus-v-curia"
+            ]
+          },
+          {
+            "text": "His financial policy accumulated a large reserve while taxes and the sale of offices placed burdens on society. He used resources for an extraordinary building program. New streets connected major pilgrimage destinations; the Acqua Felice brought water; the Vatican Library received a new home; and the raising of obelisks made ancient monuments markers in a Christian urban landscape. These works changed how residents and pilgrims moved through Rome.",
+            "sourceRefs": [
+              "n225-sixtus-v-ce",
+              "n225-sixtus-v-curia"
+            ]
+          },
+          {
+            "text": "In 1588 Immensa aeterni Dei organized central business into fifteen standing congregations, covering ecclesiastical and temporal responsibilities while reserving final authority to the pope. Sixtus also fixed the College of Cardinals at seventy. His personal supervision of a Vulgate edition proved less successful: the 1590 text contained problems and was replaced under Clement VIII. The contrast reveals that administrative decisiveness could establish durable institutions without guaranteeing textual accuracy.",
+            "sourceRefs": [
+              "n225-sixtus-v-ce",
+              "n225-sixtus-v-curia"
+            ]
+          }
+        ]
+      },
+      "actions": [
+        {
+          "text": "Organized fifteen permanent congregations in 1588, giving the Roman Curia a structure that endured in revised forms for centuries.",
+          "sourceRefs": [
+            "n225-sixtus-v-ce",
+            "n225-sixtus-v-curia"
+          ]
+        },
+        {
+          "text": "Fixed the College of Cardinals at seventy, defining its composition until the twentieth century.",
+          "sourceRefs": [
+            "n225-sixtus-v-ce",
+            "n225-sixtus-v-curia"
+          ]
+        },
+        {
+          "text": "Built roads, the Acqua Felice, and library facilities and raised major obelisks, reshaping Rome’s infrastructure and pilgrimage geography.",
+          "sourceRefs": [
+            "n225-sixtus-v-ce",
+            "n225-sixtus-v-curia"
+          ]
+        },
+        {
+          "text": "Suppressed banditry through a harsh punitive campaign and rebuilt the treasury through burdensome fiscal measures.",
+          "sourceRefs": [
+            "n225-sixtus-v-ce",
+            "n225-sixtus-v-curia"
+          ]
+        },
+        {
+          "text": "Promoted the 1590 Vulgate edition, whose defects required later withdrawal and correction.",
+          "sourceRefs": [
+            "n225-sixtus-v-ce",
+            "n225-sixtus-v-curia"
+          ]
+        }
+      ],
+      "context": {
+        "paragraphs": [
+          {
+            "text": "Sixtus governed both a church and an Italian territorial state. Roads, food supply, taxation, policing, censorship, and episcopal administration consequently belonged to one papal government, even when their demands differed. Special congregations made that government more systematic but also concentrated authority. His urban monuments gave that system a visible language, converting ancient Roman forms into signs of Christian rule. The costs of fiscal accumulation and punitive order must be considered alongside the impressive structures that visitors can still see.",
+            "sourceRefs": [
+              "n225-sixtus-v-ce",
+              "n225-sixtus-v-curia"
+            ]
+          },
+          {
+            "text": "Pilgrimage connected the two tasks. A city welcoming large numbers of visitors needed water, roads and security, while its churches and obelisks made the experience a public statement of Roman authority. Those practical and symbolic aims explain the close relationship between his administration and building program.",
+            "sourceRefs": [
+              "n225-sixtus-v-ce",
+              "n225-sixtus-v-curia"
+            ]
+          }
+        ]
+      },
+      "saintStatus": {
+        "status": "no-positive-claim",
+        "label": "",
+        "recognition": "No positive saint or beatification claim was found in the consulted person-specific biography. This is a research finding, not a universal proof that no local cult ever existed.",
+        "recognitionDate": null,
+        "beatificationDate": null,
+        "sourceRefs": [
+          "n225-sixtus-v-ce",
+          "n225-sixtus-v-curia"
+        ]
+      },
+      "antipopeReview": {
+        "status": "reviewed-none",
+        "claimantNames": [],
+        "note": "The person-specific biography was checked for a competing papal claimant; no named rival claimant was identified.",
+        "sourceRefs": [
+          "n225-sixtus-v-ce",
+          "n225-sixtus-v-curia"
+        ]
+      },
+      "researchNotes": [
+        {
+          "text": "The exact date of Immensa aeterni Dei is 22 January 1588 in official institutional history; CE’s 11 February is not retained.",
+          "sourceRefs": [
+            "n225-sixtus-v-ce",
+            "n225-sixtus-v-curia"
+          ]
+        },
+        {
+          "text": "The tale of pretending frailty and throwing away crutches at election is a discredited legend.",
+          "sourceRefs": [
+            "n225-sixtus-v-ce",
+            "n225-sixtus-v-curia"
+          ]
+        }
+      ],
+      "review": {
+        "coverage": "substantive",
+        "sourcesRead": [
+          "n225-sixtus-v-ce",
+          "n225-sixtus-v-curia"
+        ],
+        "openIssues": [],
+        "fieldsChecked": [
+          "biography",
+          "actions",
+          "context",
+          "birthDate",
+          "recognition",
+          "claimants"
+        ]
+      }
+    },
+    {
+      "personId": "pope-urban-vii",
+      "papalName": "Urban VII",
+      "alternateNames": [
+        "Giambattista Castagna"
+      ],
+      "birthDate": {
+        "label": "4 August 1521",
+        "precision": "date",
+        "sourceRefs": [
+          "n225-urban-vii-ce",
+          "n225-urban-vii-treccani"
+        ],
+        "note": "Exact date confirmed in both biographies."
+      },
+      "summary": {
+        "text": "Urban VII’s thirteen-day pontificate was short enough to prevent a coronation, but it followed decades of diplomatic and episcopal work. His first measures targeted hunger, employment, court luxury, and administration. He rejected family advancement and left his property for poor women’s dowries. His brief rule therefore offers more to learn than a record for brevity.",
+        "sourceRefs": [
+          "n225-urban-vii-ce",
+          "n225-urban-vii-treccani"
+        ]
+      },
+      "biography": {
+        "paragraphs": [
+          {
+            "text": "Giambattista Castagna trained in civil and canon law and became archbishop of Rossano. He participated in the final sessions of Trent and served as nuncio in Spain and Venice. His mission to the Cologne peace conference placed him within the conflict between Philip II and the rebellious Netherlands. These experiences made him a practiced negotiator and administrator long before his election in 1590.",
+            "sourceRefs": [
+              "n225-urban-vii-ce",
+              "n225-urban-vii-treccani"
+            ]
+          },
+          {
+            "text": "His first papal initiatives responded to social pressure at Rome. He ordered a register of the poor, subsidized bread so larger loaves could be sold more cheaply, and directed the continuation of public works to provide employment. He also appointed cardinals to reform the Datary, an office concerned with benefices and dispensations, and sought to reduce court display.",
+            "sourceRefs": [
+              "n225-urban-vii-ce",
+              "n225-urban-vii-treccani"
+            ]
+          },
+          {
+            "text": "Urban opposed the routine enrichment and promotion of papal relatives. Illness struck almost immediately, and he died before his coronation. His bequest for dowries continued his charitable intentions after the government itself had ended. It is impossible to measure how his proposed reforms would have developed, but the surviving acts establish an immediate concern for relief and administrative change.",
+            "sourceRefs": [
+              "n225-urban-vii-ce",
+              "n225-urban-vii-treccani"
+            ]
+          }
+        ]
+      },
+      "actions": [
+        {
+          "text": "Subsidized bread and registered the poor, directing papal resources toward hunger relief.",
+          "sourceRefs": [
+            "n225-urban-vii-ce",
+            "n225-urban-vii-treccani"
+          ]
+        },
+        {
+          "text": "Continued public works to provide employment and began reform of the Datary.",
+          "sourceRefs": [
+            "n225-urban-vii-ce",
+            "n225-urban-vii-treccani"
+          ]
+        },
+        {
+          "text": "Rejected advancement for relatives and bequeathed his private property for dowries for poor women.",
+          "sourceRefs": [
+            "n225-urban-vii-ce",
+            "n225-urban-vii-treccani"
+          ]
+        }
+      ],
+      "context": {
+        "paragraphs": [
+          {
+            "text": "Sixtus V had left impressive buildings and a treasury accumulated through demanding fiscal measures. Urban’s initial relief suggested a different emphasis, but his death prevented a sustained change of course. The brief pontificate also shows why the biography of a pope should include earlier service: Castagna had already spent years confronting conciliar reform, Spanish power, and the Netherlands conflict. Election made that experience available to the papacy for only thirteen days.",
+            "sourceRefs": [
+              "n225-urban-vii-ce",
+              "n225-urban-vii-treccani"
+            ]
+          },
+          {
+            "text": "Bread subsidies and paid construction work answered immediate needs rather than merely announcing an attitude of benevolence. The intended reform of the Datary also reached into the routine distribution of ecclesiastical income and privileges, one of the mechanisms through which a short reign could still affect many people.",
+            "sourceRefs": [
+              "n225-urban-vii-ce",
+              "n225-urban-vii-treccani"
+            ]
+          }
+        ]
+      },
+      "saintStatus": {
+        "status": "no-positive-claim",
+        "label": "",
+        "recognition": "No positive saint or beatification claim was found in the consulted person-specific biography. This is a research finding, not a universal proof that no local cult ever existed.",
+        "recognitionDate": null,
+        "beatificationDate": null,
+        "sourceRefs": [
+          "n225-urban-vii-ce",
+          "n225-urban-vii-treccani"
+        ]
+      },
+      "antipopeReview": {
+        "status": "reviewed-none",
+        "claimantNames": [],
+        "note": "The person-specific biography was checked for a competing papal claimant; no named rival claimant was identified.",
+        "sourceRefs": [
+          "n225-urban-vii-ce",
+          "n225-urban-vii-treccani"
+        ]
+      },
+      "researchNotes": [],
+      "review": {
+        "coverage": "substantive",
+        "sourcesRead": [
+          "n225-urban-vii-ce",
+          "n225-urban-vii-treccani"
+        ],
+        "openIssues": [],
+        "fieldsChecked": [
+          "biography",
+          "actions",
+          "context",
+          "birthDate",
+          "recognition",
+          "claimants"
+        ]
+      }
+    },
+    {
+      "personId": "pope-gregory-xiv",
+      "papalName": "Gregory XIV",
+      "alternateNames": [
+        "Niccolò Sfondrati"
+      ],
+      "birthDate": {
+        "label": "11 February 1535",
+        "precision": "date",
+        "sourceRefs": [
+          "n225-gregory-xiv-ce"
+        ],
+        "note": "Exact date supplied by the opened biography."
+      },
+      "summary": {
+        "text": "Gregory XIV threw papal resources behind the Catholic League against Henry of Navarre, extending France’s succession struggle through subsidies, soldiers, and ecclesiastical penalties. His ten-month reign also supported care for the sick, continued revision of liturgical books, and ordered the release of enslaved Indigenous people in the Philippines. These different actions reveal the geographical reach and contradictions of papal government.",
+        "sourceRefs": [
+          "n225-gregory-xiv-ce"
+        ]
+      },
+      "biography": {
+        "paragraphs": [
+          {
+            "text": "Niccolò Sfondrati, son of a Milanese senator who later became a cardinal, studied law and served as bishop of Cremona. He attended Trent and was associated with Charles Borromeo and Philip Neri. Elected in December 1590, he inherited a papacy closely involved in the French Wars of Religion and dependent on an unstable European political balance.",
+            "sourceRefs": [
+              "n225-gregory-xiv-ce"
+            ]
+          },
+          {
+            "text": "He supported the League against the Protestant Henry of Navarre, whom succession law otherwise placed in line for the French crown. In 1591 he renewed penalties against Henry’s supporters, sent money to Paris, and dispatched troops under his nephew Ercole. This was direct participation in a civil and dynastic war, not merely a statement of Catholic teaching.",
+            "sourceRefs": [
+              "n225-gregory-xiv-ce"
+            ]
+          },
+          {
+            "text": "His other acts included recognizing the community founded by Camillus de Lellis as a religious order devoted to the sick. He ordered reparation for wrongs done to Indigenous people in the Philippines and the liberation of those held as slaves. He also appointed commissions to correct the Sixtine Bible and continue Breviary revision. Illness and death in 1591 prevented a longer government.",
+            "sourceRefs": [
+              "n225-gregory-xiv-ce"
+            ]
+          }
+        ]
+      },
+      "actions": [
+        {
+          "text": "Financed and sent troops to the French League and demanded abandonment of Henry of Navarre.",
+          "sourceRefs": [
+            "n225-gregory-xiv-ce"
+          ]
+        },
+        {
+          "text": "Approved the Camillian community’s religious status, supporting an institution devoted to the care of the sick.",
+          "sourceRefs": [
+            "n225-gregory-xiv-ce"
+          ]
+        },
+        {
+          "text": "Ordered restitution and the release of enslaved Indigenous people in the Philippines under threat of excommunication.",
+          "sourceRefs": [
+            "n225-gregory-xiv-ce"
+          ]
+        },
+        {
+          "text": "Established commissions for correction of the Sixtine Bible and continued liturgical revision.",
+          "sourceRefs": [
+            "n225-gregory-xiv-ce"
+          ]
+        }
+      ],
+      "context": {
+        "paragraphs": [
+          {
+            "text": "Henry’s eventual acceptance as king depended on the relationship between hereditary right and Catholic identity. Gregory treated Protestant kingship as intolerable and aligned papal force with the League and Spanish interests; Clement VIII would later choose accommodation after Henry’s conversion. The Philippine decree addressed another political reality: evangelization operated within colonial conquest, where Indigenous enslavement and restitution were urgent questions. Its promulgation records a papal demand, not proof that colonial authorities universally obeyed it.",
+            "sourceRefs": [
+              "n225-gregory-xiv-ce"
+            ]
+          },
+          {
+            "text": "Trent also remained a practical program rather than a completed event. Revision of the Bible and liturgical books, episcopal government at Cremona and recognition of an order serving sick people show how papal policy could range from international warfare to texts and care institutions within the same brief reign.",
+            "sourceRefs": [
+              "n225-gregory-xiv-ce"
+            ]
+          }
+        ]
+      },
+      "saintStatus": {
+        "status": "no-positive-claim",
+        "label": "",
+        "recognition": "No positive saint or beatification claim was found in the consulted person-specific biography. This is a research finding, not a universal proof that no local cult ever existed.",
+        "recognitionDate": null,
+        "beatificationDate": null,
+        "sourceRefs": [
+          "n225-gregory-xiv-ce"
+        ]
+      },
+      "antipopeReview": {
+        "status": "reviewed-none",
+        "claimantNames": [],
+        "note": "The person-specific biography was checked for a competing papal claimant; no named rival claimant was identified.",
+        "sourceRefs": [
+          "n225-gregory-xiv-ce"
+        ]
+      },
+      "researchNotes": [
+        {
+          "text": "The Philippine decree’s enforcement is not established merely by its publication.",
+          "sourceRefs": [
+            "n225-gregory-xiv-ce"
+          ]
+        },
+        {
+          "text": "No full papal approval of every League military act is inferred from the general subsidy and troop policy.",
+          "sourceRefs": [
+            "n225-gregory-xiv-ce"
+          ]
+        }
+      ],
+      "review": {
+        "coverage": "substantive",
+        "sourcesRead": [
+          "n225-gregory-xiv-ce"
+        ],
+        "openIssues": [],
+        "fieldsChecked": [
+          "biography",
+          "actions",
+          "context",
+          "birthDate",
+          "recognition",
+          "claimants"
+        ]
+      }
+    },
+    {
+      "personId": "pope-innocent-ix",
+      "papalName": "Innocent IX",
+      "alternateNames": [
+        "Giovanni Antonio Facchinetti"
+      ],
+      "birthDate": {
+        "label": "22 July 1519",
+        "precision": "date",
+        "sourceRefs": [
+          "n225-innocent-ix-ce"
+        ],
+        "note": "Exact date supplied by the opened biography."
+      },
+      "summary": {
+        "text": "Innocent IX’s two months as pope followed a long career in law, episcopal government, and diplomacy. As nuncio in Venice he had helped negotiate the alliance that fought at Lepanto. As pope he continued support for the French League and tried to protect church property and organize a financial reserve. His death cut short measures rooted in decades of administrative experience.",
+        "sourceRefs": [
+          "n225-innocent-ix-ce"
+        ]
+      },
+      "biography": {
+        "paragraphs": [
+          {
+            "text": "Giovanni Antonio Facchinetti studied law in Bologna and entered the service of senior churchmen, including Alessandro Farnese. He became bishop of Nicastro, participated in Trent, and served as nuncio to Venice. In that post he helped negotiate cooperation among Venice, Spain, and the papacy against the Ottomans, a diplomatic contribution to the coalition that fought at Lepanto in 1571.",
+            "sourceRefs": [
+              "n225-innocent-ix-ce"
+            ]
+          },
+          {
+            "text": "Later appointed patriarch of Jerusalem and cardinal, he took an important share of administration during Gregory XIV’s illness. His election in 1591 therefore placed an experienced official in charge, rather than an untried figure. Spanish support for his candidacy also influenced the conditions under which he inherited the French crisis.",
+            "sourceRefs": [
+              "n225-innocent-ix-ce"
+            ]
+          },
+          {
+            "text": "During the short pontificate he maintained support for the League against Henry IV, prohibited alienation of ecclesiastical property, and announced plans for a reserve against exceptional expenses. These intentions did not all become durable reforms before his death. His surviving writings on theology and government also show interests beyond diplomacy, though a short reign does not permit a long list of completed papal achievements.",
+            "sourceRefs": [
+              "n225-innocent-ix-ce"
+            ]
+          }
+        ]
+      },
+      "actions": [
+        {
+          "text": "As nuncio in Venice, helped negotiate the Holy League that fought at Lepanto.",
+          "sourceRefs": [
+            "n225-innocent-ix-ce"
+          ]
+        },
+        {
+          "text": "Continued support for the French League during the succession struggle against Henry IV.",
+          "sourceRefs": [
+            "n225-innocent-ix-ce"
+          ]
+        },
+        {
+          "text": "Protected ecclesiastical property from alienation and proposed a reserve fund for extraordinary expenses.",
+          "sourceRefs": [
+            "n225-innocent-ix-ce"
+          ]
+        }
+      ],
+      "context": {
+        "paragraphs": [
+          {
+            "text": "The papacy faced the cost of international religious warfare while also needing a stable territorial administration. Innocent’s financial plans responded to that connection: armies and subsidies could consume resources meant to sustain the church’s government. His Venetian service had required balancing partners whose commercial and strategic interests differed. The French crisis posed another balance, between Spanish influence and the possibility of recognizing a Bourbon king. Death prevented Innocent from taking the later course chosen by Clement VIII.",
+            "sourceRefs": [
+              "n225-innocent-ix-ce"
+            ]
+          },
+          {
+            "text": "Trent and the Holy League had trained him in two forms of cooperation: the long work of church reform and the negotiation of an alliance for a particular war. Those earlier tasks explain both the administrative competence expected of him and the confessional commitments he brought into office.",
+            "sourceRefs": [
+              "n225-innocent-ix-ce"
+            ]
+          }
+        ]
+      },
+      "saintStatus": {
+        "status": "no-positive-claim",
+        "label": "",
+        "recognition": "No positive saint or beatification claim was found in the consulted person-specific biography. This is a research finding, not a universal proof that no local cult ever existed.",
+        "recognitionDate": null,
+        "beatificationDate": null,
+        "sourceRefs": [
+          "n225-innocent-ix-ce"
+        ]
+      },
+      "antipopeReview": {
+        "status": "reviewed-none",
+        "claimantNames": [],
+        "note": "The person-specific biography was checked for a competing papal claimant; no named rival claimant was identified.",
+        "sourceRefs": [
+          "n225-innocent-ix-ce"
+        ]
+      },
+      "researchNotes": [],
+      "review": {
+        "coverage": "substantive",
+        "sourcesRead": [
+          "n225-innocent-ix-ce"
+        ],
+        "openIssues": [],
+        "fieldsChecked": [
+          "biography",
+          "actions",
+          "context",
+          "birthDate",
+          "recognition",
+          "claimants"
+        ]
+      }
+    },
+    {
+      "personId": "pope-clement-viii",
+      "papalName": "Clement VIII",
+      "alternateNames": [
+        "Ippolito Aldobrandini"
+      ],
+      "birthDate": {
+        "label": "24 February 1536",
+        "precision": "date",
+        "sourceRefs": [
+          "n225-clement-viii-birth-treccani"
+        ],
+        "note": "Modern individual biography explicitly gives this date; the older biography’s March date is superseded."
+      },
+      "summary": {
+        "text": "Clement VIII recognized Henry IV after his conversion and helped restore a balance that reduced Spanish predominance over Rome. He also brought Ferrara under direct papal rule, supported a new Bible edition, and received the bishops associated with the Union of Brest. His government combined pastoral discipline and diplomacy with punitive justice, including the execution of Giordano Bruno.",
+        "sourceRefs": [
+          "n225-clement-viii-ce",
+          "n225-clement-viii-brest"
+        ]
+      },
+      "biography": {
+        "paragraphs": [
+          {
+            "text": "Ippolito Aldobrandini trained in law and rose through Roman judicial offices before serving as cardinal and diplomat in Poland. Elected in 1592, he visited Rome’s churches and institutions and pressed the implementation of post-Tridentine discipline. He promoted education and issued revised liturgical and biblical texts, including the corrected Vulgate that replaced Sixtus V’s problematic edition.",
+            "sourceRefs": [
+              "n225-clement-viii-ce",
+              "n225-clement-viii-brest"
+            ]
+          },
+          {
+            "text": "His major diplomatic decision was to absolve Henry IV in 1595 after the king’s conversion to Catholicism. This broke with the earlier policy of unqualified support for the League and weakened Spain’s ability to determine French succession through Rome. Clement then mediated the peace of Vervins and, after the Este succession failed, incorporated Ferrara into the directly governed Papal States in 1598.",
+            "sourceRefs": [
+              "n225-clement-viii-ce",
+              "n225-clement-viii-brest"
+            ]
+          },
+          {
+            "text": "He received Ruthenian representatives in 1595 before the Union of Brest was proclaimed in 1596, recognizing communion with Rome while retaining eastern liturgy and hierarchy. The union also deepened divisions among Christians who did not all accept it. His treatment of dissent within Italy was severe: Giordano Bruno was handed to secular authority and burned in 1600 after an inquisitorial trial. Clement’s involvement in the dispute over grace between Jesuits and Dominicans ended without a definitive settlement, showing that enforcement and theological adjudication did not always produce the same kind of closure.",
+            "sourceRefs": [
+              "n225-clement-viii-ce",
+              "n225-clement-viii-brest",
+              "n225-clement-viii-birth-treccani"
+            ]
+          }
+        ]
+      },
+      "actions": [
+        {
+          "text": "Absolved Henry IV in 1595 and supported the peace of Vervins, helping change the political balance between France, Spain, and Rome.",
+          "sourceRefs": [
+            "n225-clement-viii-ce",
+            "n225-clement-viii-brest"
+          ]
+        },
+        {
+          "text": "Brought Ferrara under direct papal government after the Este succession crisis.",
+          "sourceRefs": [
+            "n225-clement-viii-ce",
+            "n225-clement-viii-brest"
+          ]
+        },
+        {
+          "text": "Supported revised biblical and liturgical books, giving the church a corrected Vulgate and updated ceremonial texts.",
+          "sourceRefs": [
+            "n225-clement-viii-ce",
+            "n225-clement-viii-brest"
+          ]
+        },
+        {
+          "text": "Received the Ruthenian bishops associated with Brest, establishing communion while recognizing their eastern tradition.",
+          "sourceRefs": [
+            "n225-clement-viii-ce",
+            "n225-clement-viii-brest"
+          ]
+        },
+        {
+          "text": "Permitted the punitive outcome of Bruno’s trial, ending in his execution for heresy in 1600.",
+          "sourceRefs": [
+            "n225-clement-viii-ce",
+            "n225-clement-viii-brest",
+            "n225-clement-viii-birth-treccani"
+          ]
+        }
+      ],
+      "context": {
+        "paragraphs": [
+          {
+            "text": "Clement’s France policy distinguished Catholic identity from automatic support for Spain’s preferred political outcome. That diplomatic flexibility did not imply religious liberty in the Papal States, where inquisitorial and secular authority could act together against heresy. Brest presents another form of authority: some eastern bishops sought Roman communion without becoming Latin, while opponents saw the arrangement as a rupture within their own church. These cases explain why the pontificate must be studied through particular decisions rather than a single label of severity or moderation.",
+            "sourceRefs": [
+              "n225-clement-viii-ce",
+              "n225-clement-viii-brest"
+            ]
+          },
+          {
+            "text": "The revised Vulgate offered a particularly practical form of continuity: the Bible used in teaching, controversy and worship needed a dependable authorized text after the difficulties of the Sixtine edition. That work gave the pontificate consequences in daily religious practice as well as high diplomacy.",
+            "sourceRefs": [
+              "n225-clement-viii-ce",
+              "n225-clement-viii-brest",
+              "n225-clement-viii-birth-treccani"
+            ]
+          }
+        ]
+      },
+      "saintStatus": {
+        "status": "no-positive-claim",
+        "label": "",
+        "recognition": "No positive saint or beatification claim was found in the consulted person-specific biography. This is a research finding, not a universal proof that no local cult ever existed.",
+        "recognitionDate": null,
+        "beatificationDate": null,
+        "sourceRefs": [
+          "n225-clement-viii-ce",
+          "n225-clement-viii-brest"
+        ]
+      },
+      "antipopeReview": {
+        "status": "reviewed-none",
+        "claimantNames": [],
+        "note": "The person-specific biography was checked for a competing papal claimant; no named rival claimant was identified.",
+        "sourceRefs": [
+          "n225-clement-viii-ce",
+          "n225-clement-viii-brest"
+        ]
+      },
+      "researchNotes": [
+        {
+          "text": "CE’s 1595 Synod of Brest wording conflates the Roman agreement with the 1596 proclamation; official anniversary letter clarifies the sequence.",
+          "sourceRefs": [
+            "n225-clement-viii-ce",
+            "n225-clement-viii-brest"
+          ]
+        },
+        {
+          "text": "CE dates a Vulgate edition 1598; initial Clementine edition 1592 is treated as part of the correction rather than limiting publication to 1598.",
+          "sourceRefs": [
+            "n225-clement-viii-ce",
+            "n225-clement-viii-brest"
+          ]
+        }
+      ],
+      "review": {
+        "coverage": "substantive",
+        "sourcesRead": [
+          "n225-clement-viii-ce",
+          "n225-clement-viii-brest",
+          "n225-clement-viii-birth-treccani"
+        ],
+        "openIssues": [],
+        "fieldsChecked": [
+          "biography",
+          "actions",
+          "context",
+          "birthDate",
+          "recognition",
+          "claimants"
+        ]
+      }
+    },
+    {
+      "personId": "pope-leo-xi",
+      "papalName": "Leo XI",
+      "alternateNames": [
+        "Alessandro Ottaviano de’ Medici"
+      ],
+      "birthDate": {
+        "label": "1535–1536",
+        "precision": "range",
+        "sourceRefs": [
+          "n225-leo-xi-ce",
+          "n225-leo-xi-birth-treccani"
+        ],
+        "note": "The historical encyclopedia gives 1535; the modern scholarly biography gives 2 June 1536. The conflicting years are retained as a range."
+      },
+      "summary": {
+        "text": "Leo XI’s twenty-seven-day papacy followed a long diplomatic and pastoral career. As Alessandro de’ Medici he represented Tuscany at Rome, governed Florence, and worked with Henry IV after the king’s reconciliation with the church. Illness prevented an extended papal program, but his refusal to give a grandnephew a cardinal’s hat resisted a common expectation of family advancement.",
+        "sourceRefs": [
+          "n225-leo-xi-ce"
+        ]
+      },
+      "biography": {
+        "paragraphs": [
+          {
+            "text": "Alessandro Ottaviano de’ Medici came from the Florentine family connected with earlier popes, but his own career developed through diplomacy and episcopal government. He spent years as Tuscan ambassador at Rome, became bishop of Pistoia and archbishop of Florence, and was made cardinal. His friendship with Philip Neri influenced his religious life.",
+            "sourceRefs": [
+              "n225-leo-xi-ce"
+            ]
+          },
+          {
+            "text": "As Clement VIII’s legate in France from 1596 he helped consolidate Catholic institutions after Henry IV’s conversion and reconciliation with Rome. That experience made him acceptable to the French interest in the conclave of 1605, while Spanish representatives resisted his election. His selection therefore reflected a wider contest over the balance of Catholic powers.",
+            "sourceRefs": [
+              "n225-leo-xi-ce"
+            ]
+          },
+          {
+            "text": "He took the name Leo XI on 1 April 1605 and fell ill soon after the coronation. During the illness he refused pressure to make a beloved grandnephew cardinal, even when the request came through his confessor. He died on 27 April. His brief pontificate offers little legislative record, but the refusal is a concrete choice about how a pope used office at the moment when relatives expected a lasting family benefit.",
+            "sourceRefs": [
+              "n225-leo-xi-ce"
+            ]
+          }
+        ]
+      },
+      "actions": [
+        {
+          "text": "As legate in France, worked to consolidate Catholic life after Henry IV’s reconciliation with Rome.",
+          "sourceRefs": [
+            "n225-leo-xi-ce"
+          ]
+        },
+        {
+          "text": "Refused to create his grandnephew cardinal despite pressure during his final illness.",
+          "sourceRefs": [
+            "n225-leo-xi-ce"
+          ]
+        }
+      ],
+      "context": {
+        "paragraphs": [
+          {
+            "text": "A conclave could turn a candidate’s earlier diplomacy into an argument for or against him. Leo’s French connections had made him useful after the Wars of Religion but objectionable to Spain’s party at Rome. Family promotion was another political expectation: a short pontificate could still create permanent wealth and influence for relatives. His refusal therefore matters even though illness left almost no time for an independent program of government.",
+            "sourceRefs": [
+              "n225-leo-xi-ce"
+            ]
+          },
+          {
+            "text": "The same man had already exercised years of episcopal and diplomatic responsibility, so an assessment based only on decrees issued during April 1605 would miss most of his public life. His earlier service connects this tiny pontificate to the wider settlement after the French religious wars.",
+            "sourceRefs": [
+              "n225-leo-xi-ce",
+              "n225-leo-xi-birth-treccani"
+            ]
+          }
+        ]
+      },
+      "saintStatus": {
+        "status": "no-positive-claim",
+        "label": "",
+        "recognition": "No positive saint or beatification claim was found in the consulted person-specific biography. This is a research finding, not a universal proof that no local cult ever existed.",
+        "recognitionDate": null,
+        "beatificationDate": null,
+        "sourceRefs": [
+          "n225-leo-xi-ce"
+        ]
+      },
+      "antipopeReview": {
+        "status": "reviewed-none",
+        "claimantNames": [],
+        "note": "The person-specific biography was checked for a competing papal claimant; no named rival claimant was identified.",
+        "sourceRefs": [
+          "n225-leo-xi-ce"
+        ]
+      },
+      "researchNotes": [
+        {
+          "text": "Birth year remains a conflict between the opened individual biographies: 1535 in the Catholic Encyclopedia and 1536 in Treccani. The present review therefore preserves the range rather than selecting an exact day.",
+          "sourceRefs": [
+            "n225-leo-xi-ce",
+            "n225-leo-xi-birth-treccani"
+          ]
+        }
+      ],
+      "review": {
+        "coverage": "substantive",
+        "sourcesRead": [
+          "n225-leo-xi-ce",
+          "n225-leo-xi-birth-treccani"
+        ],
+        "openIssues": [],
+        "fieldsChecked": [
+          "biography",
+          "actions",
+          "context",
+          "birthDate",
+          "recognition",
+          "claimants"
+        ]
+      }
+    },
+    {
+      "personId": "pope-paul-v",
+      "papalName": "Paul V",
+      "alternateNames": [
+        "Camillo Borghese"
+      ],
+      "birthDate": {
+        "label": "17 September 1550",
+        "precision": "date",
+        "sourceRefs": [
+          "n225-paul-v-ce"
+        ],
+        "note": "Exact date supplied by the historical biography."
+      },
+      "summary": {
+        "text": "Paul V defended the church’s jurisdiction with the determination of a canon lawyer. His interdict against Venice exposed the limits of that policy when most local clergy followed the republic. He also issued the Roman Ritual, completed major work at St Peter’s, and enriched the Borghese family. Under him, the 1616 condemnation of heliocentrism placed a consequential restriction on Galileo’s advocacy.",
+        "sourceRefs": [
+          "n225-paul-v-ce",
+          "n225-paul-v-galileo",
+          "n225-liturgy-directory"
+        ]
+      },
+      "biography": {
+        "paragraphs": [
+          {
+            "text": "Camillo Borghese studied law and served in Roman offices before his election in 1605. He insisted on episcopal residence even for bishops conducting curial business at Rome. His legal understanding of papal rights shaped a conflict with Venice over laws restricting ecclesiastical property and the republic’s imprisonment of clerics accused of crimes.",
+            "sourceRefs": [
+              "n225-paul-v-ce",
+              "n225-paul-v-galileo",
+              "n225-liturgy-directory"
+            ]
+          },
+          {
+            "text": "In 1606 he imposed an interdict. Venice refused to yield, and most clergy continued services; religious orders that obeyed the papal prohibition were expelled. Mediation produced a compromise in 1607 without a straightforward Venetian surrender. Paul similarly rejected James I’s allegiance oath because it required statements incompatible with papal claims, placing English Catholics between royal demands and Roman instructions.",
+            "sourceRefs": [
+              "n225-paul-v-ce",
+              "n225-paul-v-galileo",
+              "n225-liturgy-directory"
+            ]
+          },
+          {
+            "text": "His government promulgated the Roman Ritual in 1614 and completed the façade and other work at St Peter’s. Borghese relatives gained immense advantages through office, property, and artistic patronage. In 1616 the Holy Office and Index restricted heliocentric teaching; Galileo then received a cordial audience with Paul. Personal favor did not cancel the institutional prohibition, which became crucial background to the later trial under Urban VIII.",
+            "sourceRefs": [
+              "n225-paul-v-ce",
+              "n225-paul-v-galileo",
+              "n225-liturgy-directory"
+            ]
+          }
+        ]
+      },
+      "actions": [
+        {
+          "text": "Imposed the Venetian interdict in 1606 and accepted a negotiated settlement after local resistance.",
+          "sourceRefs": [
+            "n225-paul-v-ce",
+            "n225-paul-v-galileo",
+            "n225-liturgy-directory"
+          ]
+        },
+        {
+          "text": "Rejected the English allegiance oath, arguing that civil loyalty could not require denial of papal authority.",
+          "sourceRefs": [
+            "n225-paul-v-ce",
+            "n225-paul-v-galileo",
+            "n225-liturgy-directory"
+          ]
+        },
+        {
+          "text": "Promulgated the Roman Ritual in 1614, supplying an authoritative guide for sacraments and pastoral rites.",
+          "sourceRefs": [
+            "n225-paul-v-ce",
+            "n225-paul-v-galileo",
+            "n225-liturgy-directory"
+          ]
+        },
+        {
+          "text": "Completed major works at St Peter’s while promoting Borghese family wealth and patronage.",
+          "sourceRefs": [
+            "n225-paul-v-ce",
+            "n225-paul-v-galileo",
+            "n225-liturgy-directory"
+          ]
+        },
+        {
+          "text": "Presided over the 1616 restrictions on heliocentrism, despite personally reassuring Galileo afterward.",
+          "sourceRefs": [
+            "n225-paul-v-ce",
+            "n225-paul-v-galileo",
+            "n225-liturgy-directory"
+          ]
+        }
+      ],
+      "context": {
+        "paragraphs": [
+          {
+            "text": "Venice treated clerics accused of crimes and property within its territory as matters of civil government. Paul regarded exemptions and papal jurisdiction as rights he could not surrender. Their clash became a European argument about church and state, conducted through books as well as diplomatic pressure. Galileo’s case involved a different boundary: who could decide how scriptural interpretation related to a disputed natural theory. The distinction between 1616 censorship and 1633 trial is essential to understanding the pope’s actual responsibility.",
+            "sourceRefs": [
+              "n225-paul-v-ce",
+              "n225-paul-v-galileo",
+              "n225-liturgy-directory"
+            ]
+          },
+          {
+            "text": "The Roman Ritual supplied a contrasting form of authority, guiding recurring pastoral actions such as administering sacraments. It shows how Paul’s government worked simultaneously through confrontation over jurisdiction and practical standardization of religious life.",
+            "sourceRefs": [
+              "n225-paul-v-ce",
+              "n225-paul-v-galileo",
+              "n225-liturgy-directory"
+            ]
+          }
+        ]
+      },
+      "saintStatus": {
+        "status": "no-positive-claim",
+        "label": "",
+        "recognition": "No positive saint or beatification claim was found in the consulted person-specific biography. This is a research finding, not a universal proof that no local cult ever existed.",
+        "recognitionDate": null,
+        "beatificationDate": null,
+        "sourceRefs": [
+          "n225-paul-v-ce",
+          "n225-paul-v-galileo",
+          "n225-liturgy-directory"
+        ]
+      },
+      "antipopeReview": {
+        "status": "reviewed-none",
+        "claimantNames": [],
+        "note": "The person-specific biography was checked for a competing papal claimant; no named rival claimant was identified.",
+        "sourceRefs": [
+          "n225-paul-v-ce",
+          "n225-paul-v-galileo",
+          "n225-liturgy-directory"
+        ]
+      },
+      "researchNotes": [
+        {
+          "text": "CE’s 22 March 1607 ending date for Venice is not repeated as settled; the compromise is described at year precision.",
+          "sourceRefs": [
+            "n225-paul-v-ce",
+            "n225-paul-v-galileo",
+            "n225-liturgy-directory"
+          ]
+        },
+        {
+          "text": "Do not assign the 1633 sentence against Galileo to Paul V.",
+          "sourceRefs": [
+            "n225-paul-v-ce",
+            "n225-paul-v-galileo",
+            "n225-liturgy-directory"
+          ]
+        }
+      ],
+      "review": {
+        "coverage": "substantive",
+        "sourcesRead": [
+          "n225-paul-v-ce",
+          "n225-paul-v-galileo",
+          "n225-liturgy-directory"
+        ],
+        "openIssues": [],
+        "fieldsChecked": [
+          "biography",
+          "actions",
+          "context",
+          "birthDate",
+          "recognition",
+          "claimants"
+        ]
+      }
+    },
+    {
+      "personId": "pope-gregory-xv",
+      "papalName": "Gregory XV",
+      "alternateNames": [
+        "Alessandro Ludovisi"
+      ],
+      "birthDate": {
+        "label": "January 1554",
+        "precision": "range",
+        "sourceRefs": [
+          "n225-gregory-xv-ce"
+        ],
+        "note": "The opened reference gives 9 or 15 January; retain month/year rather than selecting an unsupported day."
+      },
+      "summary": {
+        "text": "Gregory XV’s short reign produced durable changes in papal elections and missionary government. He formalized secret voting procedures and established Propaganda Fide as a permanent congregation. He also backed Catholic gains in the early Thirty Years’ War and promoted major religious founders as saints. These institutional achievements depended heavily on his energetic nephew Ludovico, whose family power remained a conspicuous feature of the government.",
+        "sourceRefs": [
+          "n225-gregory-xv-ce",
+          "n225-gregory-xv-missions"
+        ]
+      },
+      "biography": {
+        "paragraphs": [
+          {
+            "text": "Alessandro Ludovisi trained under Jesuits and studied law before becoming a Roman judge, archbishop of Bologna, and diplomat. Elected in 1621 in poor health, he quickly made his young nephew Ludovico a cardinal and central collaborator. The nephew’s abilities helped sustain an active pontificate, but they also served the accumulation of Ludovisi wealth and influence.",
+            "sourceRefs": [
+              "n225-gregory-xv-ce",
+              "n225-gregory-xv-missions"
+            ]
+          },
+          {
+            "text": "Gregory’s election legislation of 1621 and 1622 regulated scrutiny, compromise, and election by acclamation, with secret voting as the normal method. It sought to reduce the pressure of faction and court politics within a conclave. His other enduring institutional decision was the creation in 1622 of Propaganda Fide, giving missions a standing Roman authority rather than occasional committees.",
+            "sourceRefs": [
+              "n225-gregory-xv-ce",
+              "n225-gregory-xv-missions"
+            ]
+          },
+          {
+            "text": "His wartime support had tangible political and cultural results. He subsidized Emperor Ferdinand II and favored the transfer of the Palatine electoral dignity from the Protestant Frederick V to the Catholic Maximilian of Bavaria. After Heidelberg’s capture, Maximilian presented its Palatine Library to Gregory. In 1623 Leo Allatius transported the manuscripts to Rome, where they entered the Vatican Library. Scholarship, military victory and the redistribution of power were directly connected.",
+            "sourceRefs": [
+              "n225-gregory-xv-ce"
+            ]
+          },
+          {
+            "text": "He supported Catholic rulers in the early Thirty Years’ War and used canonizations to recognize figures associated with missionary and religious renewal, including Ignatius Loyola, Francis Xavier, Teresa of Ávila, and Philip Neri. The new missionary congregation attempted to coordinate work across different languages and jurisdictions, but its universal ambitions still operated in a world of European trade, colonization, and rival royal patronages. Gregory died in 1623, leaving Urban VIII to consolidate it.",
+            "sourceRefs": [
+              "n225-gregory-xv-ce",
+              "n225-gregory-xv-missions"
+            ]
+          }
+        ]
+      },
+      "actions": [
+        {
+          "text": "Regulated papal elections in 1621–1622, making secret scrutiny the normal voting procedure.",
+          "sourceRefs": [
+            "n225-gregory-xv-ce",
+            "n225-gregory-xv-missions"
+          ]
+        },
+        {
+          "text": "Establishment of Propaganda Fide in 1622 gave missionary government a permanent central institution.",
+          "sourceRefs": [
+            "n225-gregory-xv-ce",
+            "n225-gregory-xv-missions"
+          ]
+        },
+        {
+          "text": "Canonized major figures of Catholic renewal in 1622, strengthening the public recognition of new religious and missionary traditions.",
+          "sourceRefs": [
+            "n225-gregory-xv-ce",
+            "n225-gregory-xv-missions"
+          ]
+        },
+        {
+          "text": "Subsidized Ferdinand II and supported the transfer of the Palatine electoral dignity to Maximilian of Bavaria; received Heidelberg’s Palatine Library as a consequence of Catholic military success.",
+          "sourceRefs": [
+            "n225-gregory-xv-ce"
+          ]
+        }
+      ],
+      "context": {
+        "paragraphs": [
+          {
+            "text": "Missionaries did not enter an empty map. They worked among existing religions and Christian churches, under local rulers and within colonial systems that claimed authority over church appointments. Propaganda Fide sought a wider Roman coordination, but the creation of an office did not remove those conflicts. At the same time, the Thirty Years’ War encouraged a confessional understanding of political victory. Gregory’s election rules addressed a related problem at Rome: the papacy wanted a universal religious mandate while its selection remained vulnerable to dynastic and state pressure.",
+            "sourceRefs": [
+              "n225-gregory-xv-ce",
+              "n225-gregory-xv-missions"
+            ]
+          },
+          {
+            "text": "The Palatine Library’s journey makes these connections concrete: a celebrated center of Protestant learning became a Vatican collection after military conquest and a dynastic transfer. Cultural preservation and the dispossession of a defeated community could be part of the same event.",
+            "sourceRefs": [
+              "n225-gregory-xv-ce"
+            ]
+          }
+        ]
+      },
+      "saintStatus": {
+        "status": "no-positive-claim",
+        "label": "",
+        "recognition": "No positive saint or beatification claim was found in the consulted person-specific biography. This is a research finding, not a universal proof that no local cult ever existed.",
+        "recognitionDate": null,
+        "beatificationDate": null,
+        "sourceRefs": [
+          "n225-gregory-xv-ce",
+          "n225-gregory-xv-missions"
+        ]
+      },
+      "antipopeReview": {
+        "status": "reviewed-none",
+        "claimantNames": [],
+        "note": "The person-specific biography was checked for a competing papal claimant; no named rival claimant was identified.",
+        "sourceRefs": [
+          "n225-gregory-xv-ce",
+          "n225-gregory-xv-missions"
+        ]
+      },
+      "researchNotes": [
+        {
+          "text": "Do not present the 1910 article’s claim that its election regulations remain unchanged as current: later papal legislation altered the system.",
+          "sourceRefs": [
+            "n225-gregory-xv-ce",
+            "n225-gregory-xv-missions"
+          ]
+        }
+      ],
+      "review": {
+        "coverage": "substantive",
+        "sourcesRead": [
+          "n225-gregory-xv-ce",
+          "n225-gregory-xv-missions"
+        ],
+        "openIssues": [],
+        "fieldsChecked": [
+          "biography",
+          "actions",
+          "context",
+          "birthDate",
+          "recognition",
+          "claimants"
+        ]
+      }
+    },
+    {
+      "personId": "pope-urban-viii",
+      "papalName": "Urban VIII",
+      "alternateNames": [
+        "Maffeo Barberini"
+      ],
+      "birthDate": {
+        "label": "April 1568",
+        "precision": "range",
+        "sourceRefs": [
+          "n225-urban-viii-ce"
+        ],
+        "note": "The opened full biography gives April 1568 without a day; no exact day has been inferred."
+      },
+      "summary": {
+        "text": "Urban VIII made Barberini Rome a capital of Baroque art while concentrating extraordinary wealth and offices in his family. A former diplomat and poet, he supported missions, tightened control over saint cults and governed during the Thirty Years War. His pontificate also carried responsibility for Galileo’s condemnation and the costly first War of Castro, revealing the consequences of combining religious authority, Italian statecraft and dynastic ambition.",
+        "sourceRefs": [
+          "n225-urban-viii-ce",
+          "n225-urban-viii-galileo-jubilee",
+          "n225-galileo-1992-jpii"
+        ]
+      },
+      "biography": {
+        "paragraphs": [
+          {
+            "text": "Maffeo Barberini grew up between Florence and Rome, studied with the Jesuits and completed a law doctorate at Pisa. His diplomatic service in France brought him into Henry IV’s circle and helped win him a cardinalate. As bishop of Spoleto he held a synod and developed seminaries; he later served as papal legate in Bologna. Elected in 1623, he brought substantial administrative experience and an established interest in poetry and learned culture to the papacy.",
+            "sourceRefs": [
+              "n225-urban-viii-ce",
+              "n225-urban-viii-galileo-jubilee",
+              "n225-galileo-1992-jpii"
+            ]
+          },
+          {
+            "text": "Urban’s patronage helped shape the Rome visitors see today. Bernini’s great bronze canopy over Saint Peter’s altar, the Barberini palace and library, and the papal residence at Castel Gandolfo belonged to this world of artistic display. Public expenditure also supported armaments and fortifications. Meanwhile his nephews Francesco, Antonio and Taddeo received offices, titles and immense resources. Artistic achievement and the enrichment of the ruling family drew upon the same machinery of papal revenue and power.",
+            "sourceRefs": [
+              "n225-urban-viii-ce",
+              "n225-urban-viii-galileo-jubilee",
+              "n225-galileo-1992-jpii"
+            ]
+          },
+          {
+            "text": "His religious government combined missionary expansion with stronger central supervision. The Collegium Urbanum trained missionaries, while measures controlling unauthorized images, miracles and public veneration made recognition of saints more firmly a Roman responsibility. The darker exercise of that authority came in the renewed prosecution of Galileo in 1633. Urban ordered the proceeding that condemned Galileo’s defense of a moving Earth. Later papal reassessment acknowledged the theologians’ error in treating their interpretation of Scripture as determining a scientific question.",
+            "sourceRefs": [
+              "n225-urban-viii-ce",
+              "n225-urban-viii-galileo-jubilee",
+              "n225-galileo-1992-jpii"
+            ]
+          },
+          {
+            "text": "The Castro conflict brought the costs of family politics into the open. After commercial restrictions undermined Duke Odoardo Farnese’s ability to service his debts, papal forces occupied Castro; excommunication and wider Italian intervention followed. The peace of 1644 restored the duke’s territory after an expensive and unsuccessful war. Urban died that year, leaving a monumental artistic legacy together with strained finances and a powerful, deeply controversial family.",
+            "sourceRefs": [
+              "n225-urban-viii-ce",
+              "n225-urban-viii-galileo-jubilee",
+              "n225-galileo-1992-jpii"
+            ]
+          }
+        ]
+      },
+      "actions": [
+        {
+          "text": "Founded the Collegium Urbanum in 1627 and supported the missionary congregation, creating a Roman training base for clergy sent beyond Europe.",
+          "sourceRefs": [
+            "n225-urban-viii-ce",
+            "n225-urban-viii-galileo-jubilee",
+            "n225-galileo-1992-jpii"
+          ]
+        },
+        {
+          "text": "Restricted public cult of people who had not received ecclesiastical recognition, helping establish the procedures through which Rome controlled beatification and canonization.",
+          "sourceRefs": [
+            "n225-urban-viii-ce",
+            "n225-urban-viii-galileo-jubilee",
+            "n225-galileo-1992-jpii"
+          ]
+        },
+        {
+          "text": "Ordered the renewed Galileo proceedings in 1633. The resulting condemnation made a scientific dispute subject to coercive ecclesiastical judgment.",
+          "sourceRefs": [
+            "n225-urban-viii-ce",
+            "n225-urban-viii-galileo-jubilee",
+            "n225-galileo-1992-jpii"
+          ]
+        },
+        {
+          "text": "Prohibited enslavement of Indigenous people in Paraguay, Brazil and the West Indies in 1639. This geographically directed intervention should not be confused with a universal abolition of slavery.",
+          "sourceRefs": [
+            "n225-urban-viii-ce",
+            "n225-urban-viii-galileo-jubilee",
+            "n225-galileo-1992-jpii"
+          ]
+        },
+        {
+          "text": "Backed Barberini patronage and the occupation of Castro, joining major artistic commissions to family advancement and a war that burdened papal finances.",
+          "sourceRefs": [
+            "n225-urban-viii-ce",
+            "n225-urban-viii-galileo-jubilee",
+            "n225-galileo-1992-jpii"
+          ]
+        }
+      ],
+      "context": {
+        "paragraphs": [
+          {
+            "text": "The Thirty Years War fractured the idea that Catholic rulers would necessarily act together. France opposed Habsburg power and supported Protestant military partners, while Rome feared both Protestant advance and the dominance of a single Catholic dynasty in Italy. Urban refused several proposed anti-Spanish alliances and urged France to stop subsidizing Sweden, but also resisted being absorbed into the emperor’s political program. His diplomacy therefore requires attention to competing Catholic states as well as religious allegiance.",
+            "sourceRefs": [
+              "n225-urban-viii-ce",
+              "n225-urban-viii-galileo-jubilee",
+              "n225-galileo-1992-jpii"
+            ]
+          },
+          {
+            "text": "The Galileo affair arose within a culture in which biblical interpretation, natural philosophy and political authority overlapped. Its consequences were concrete: a church tribunal condemned an account of nature and imposed obedience. Rome’s simultaneous investment in scholarship and missions does not remove that responsibility. Together with Castro and Barberini nepotism, the episode shows how the pope’s roles as spiritual judge, patron and territorial prince could reinforce one another or collide.",
+            "sourceRefs": [
+              "n225-urban-viii-ce",
+              "n225-urban-viii-galileo-jubilee",
+              "n225-galileo-1992-jpii"
+            ]
+          }
+        ]
+      },
+      "saintStatus": {
+        "status": "no-positive-claim",
+        "label": "",
+        "recognition": "No positive saint or beatification claim was found in the consulted person-specific biography. This is a research finding, not a universal proof that no local cult ever existed.",
+        "recognitionDate": null,
+        "beatificationDate": null,
+        "sourceRefs": [
+          "n225-urban-viii-ce",
+          "n225-urban-viii-galileo-jubilee",
+          "n225-galileo-1992-jpii"
+        ]
+      },
+      "antipopeReview": {
+        "status": "reviewed-none",
+        "claimantNames": [],
+        "note": "The person-specific biography was checked for a competing papal claimant; no named rival claimant was identified.",
+        "sourceRefs": [
+          "n225-urban-viii-ce",
+          "n225-urban-viii-galileo-jubilee",
+          "n225-galileo-1992-jpii"
+        ]
+      },
+      "researchNotes": [
+        {
+          "text": "The full biography’s claim that religious welfare was Urban’s sole political motive is an apologetic assessment, not an independently established fact. Its statement that Urbino was ceded in 1626 is not used as the date of final incorporation. The 1639 decree is kept within its stated Indigenous and geographical scope.",
+          "sourceRefs": [
+            "n225-urban-viii-ce",
+            "n225-urban-viii-galileo-jubilee",
+            "n225-galileo-1992-jpii"
+          ]
+        }
+      ],
+      "review": {
+        "coverage": "substantive",
+        "sourcesRead": [
+          "n225-urban-viii-ce",
+          "n225-urban-viii-galileo-jubilee",
+          "n225-galileo-1992-jpii"
+        ],
+        "openIssues": [],
+        "fieldsChecked": [
+          "biography",
+          "actions",
+          "context",
+          "birthDate",
+          "recognition",
+          "claimants"
+        ]
+      }
+    },
+    {
+      "personId": "pope-innocent-x",
+      "papalName": "Innocent X",
+      "alternateNames": [
+        "Giovanni Battista Pamphili",
+        "Giambattista Pamfili"
+      ],
+      "birthDate": {
+        "label": "6–7 May 1574",
+        "precision": "range",
+        "sourceRefs": [
+          "n225-innocent-x-ce",
+          "n225-innocent-x-treccani"
+        ],
+        "note": "The older individual biography gives 6 May; the modern scholarly biography gives 7 May. The adjacent-day conflict is preserved."
+      },
+      "summary": {
+        "text": "Innocent X governed as a lawyer determined to defend papal jurisdiction, but his reign exposed Rome’s reduced influence over European politics. He protested the Peace of Westphalia, condemned five propositions associated with Jansenism and destroyed the city of Castro. At home the Pamphili family acquired wealth and transformed Piazza Navona, while his sister-in-law Olimpia Maidalchini became an influential and controversial figure in papal government.",
+        "sourceRefs": [
+          "n225-innocent-x-ce",
+          "n225-innocent-x-treccani"
+        ]
+      },
+      "biography": {
+        "paragraphs": [
+          {
+            "text": "Giovanni Battista Pamphili trained in law in Rome and built a career in papal courts and diplomacy. He served in Naples and Madrid and became a cardinal under Urban VIII. His Spanish connections mattered in the divided conclave of 1644, but he emerged as a compromise choice after the long Barberini pontificate. His legal formation remained visible in a government preoccupied with rights, procedures and institutional obedience.",
+            "sourceRefs": [
+              "n225-innocent-x-ce",
+              "n225-innocent-x-treccani"
+            ]
+          },
+          {
+            "text": "Innocent opened proceedings against Urban’s nephews over their handling of public money. The Barberini fled to France, and pressure from Cardinal Mazarin eventually forced an accommodation. Meanwhile Innocent advanced his own family. His sister-in-law Olimpia Maidalchini exercised patronage and access to the pope, although her influence rose and fell rather than remaining unlimited. The surviving evidence supports her political importance; sexual accusations surrounding the relationship should not be treated as established biography.",
+            "sourceRefs": [
+              "n225-innocent-x-ce",
+              "n225-innocent-x-treccani"
+            ]
+          },
+          {
+            "text": "The struggle over Castro resumed under Innocent. Following the murder of the bishop appointed to the city, he held the Farnese duke responsible, sent troops and ordered the city destroyed. Its bishopric was transferred to Acquapendente. This was a severe exercise of territorial power, far beyond a disagreement about doctrine. In Rome, the Pamphili redevelopment of Piazza Navona, including Bernini’s Four Rivers fountain, gave conspicuous artistic form to the family’s new position.",
+            "sourceRefs": [
+              "n225-innocent-x-ce",
+              "n225-innocent-x-treccani"
+            ]
+          },
+          {
+            "text": "In religious policy Innocent issued Cum occasione in 1653, condemning five propositions attributed to Cornelius Jansen’s theology. The decree did not end the controversy: critics disputed whether the condemned positions really represented Jansen’s text and meaning. Abroad, Innocent’s protest against Westphalia defended Catholic ecclesiastical rights but could not reverse a settlement negotiated by the powers. His final years thus combined strong claims to authority with repeated demonstrations of its practical limits.",
+            "sourceRefs": [
+              "n225-innocent-x-ce",
+              "n225-innocent-x-treccani"
+            ]
+          }
+        ]
+      },
+      "actions": [
+        {
+          "text": "Condemned five propositions in Cum occasione in 1653, beginning a prolonged argument over grace, Jansen’s writings and the authority of doctrinal judgments.",
+          "sourceRefs": [
+            "n225-innocent-x-ce",
+            "n225-innocent-x-treccani"
+          ]
+        },
+        {
+          "text": "Protested the religious provisions of the Peace of Westphalia in Zelo domus Dei, a document dated 1648 whose publication was delayed; the settlement nevertheless remained in force.",
+          "sourceRefs": [
+            "n225-innocent-x-ce",
+            "n225-innocent-x-treccani"
+          ]
+        },
+        {
+          "text": "Ordered the destruction of Castro after renewed conflict with the Farnese, extinguishing the city as a center of the duchy and moving its episcopal seat.",
+          "sourceRefs": [
+            "n225-innocent-x-ce",
+            "n225-innocent-x-treccani"
+          ]
+        },
+        {
+          "text": "Investigated the Barberini administration while promoting Pamphili family power and major commissions around Piazza Navona.",
+          "sourceRefs": [
+            "n225-innocent-x-ce",
+            "n225-innocent-x-treccani"
+          ]
+        }
+      ],
+      "context": {
+        "paragraphs": [
+          {
+            "text": "Westphalia ended the Thirty Years War in the Empire without accepting the pope as final arbiter of the religious settlement. Catholic rulers themselves accepted compromises Rome opposed. Innocent’s formal protest therefore marks a change in the relationship between papal authority and European diplomacy: legal objections could preserve a claim without securing obedience. Similar limitations appeared in his inability to determine the outcome of conflict in the British Isles or to overcome French protection of the Barberini.",
+            "sourceRefs": [
+              "n225-innocent-x-ce",
+              "n225-innocent-x-treccani"
+            ]
+          },
+          {
+            "text": "Jansenism was more than a dispute between rival religious orders. It involved the relationship between divine grace and human freedom, the standards expected of Christian life, and whether a pope could authoritatively determine the intended meaning of a particular author. Those questions outlasted Innocent. Within the Papal States, meanwhile, law, coercion, family patronage and public art remained closely connected, as the contrasting examples of Castro and Piazza Navona show.",
+            "sourceRefs": [
+              "n225-innocent-x-ce",
+              "n225-innocent-x-treccani"
+            ]
+          }
+        ]
+      },
+      "saintStatus": {
+        "status": "no-positive-claim",
+        "label": "",
+        "recognition": "No positive saint or beatification claim was found in the consulted person-specific biography. This is a research finding, not a universal proof that no local cult ever existed.",
+        "recognitionDate": null,
+        "beatificationDate": null,
+        "sourceRefs": [
+          "n225-innocent-x-ce",
+          "n225-innocent-x-treccani"
+        ]
+      },
+      "antipopeReview": {
+        "status": "reviewed-none",
+        "claimantNames": [],
+        "note": "The person-specific biography was checked for a competing papal claimant; no named rival claimant was identified.",
+        "sourceRefs": [
+          "n225-innocent-x-ce",
+          "n225-innocent-x-treccani"
+        ]
+      },
+      "researchNotes": [
+        {
+          "text": "The modern biography confirms the political influence of Olimpia Maidalchini while complicating the image of uninterrupted domination. Unsupported sexual allegations are not repeated. The document Zelo domus Dei is dated 26 November 1648; delayed publication is distinguished from its documentary date.",
+          "sourceRefs": [
+            "n225-innocent-x-ce",
+            "n225-innocent-x-treccani"
+          ]
+        },
+        {
+          "text": "The opened biographies differ by one day for birth (6 versus 7 May 1574). Treccani identifies the legal doctorate with the Sapienza; the public biography does not conflate that university degree with earlier Roman College study.",
+          "sourceRefs": [
+            "n225-innocent-x-ce",
+            "n225-innocent-x-treccani"
+          ]
+        }
+      ],
+      "review": {
+        "coverage": "substantive",
+        "sourcesRead": [
+          "n225-innocent-x-ce",
+          "n225-innocent-x-treccani"
+        ],
+        "openIssues": [],
+        "fieldsChecked": [
+          "biography",
+          "actions",
+          "context",
+          "birthDate",
+          "recognition",
+          "claimants"
+        ]
+      }
+    },
+    {
+      "personId": "pope-alexander-vii",
+      "papalName": "Alexander VII",
+      "alternateNames": [
+        "Fabio Chigi"
+      ],
+      "birthDate": {
+        "label": "13 February 1599",
+        "precision": "date",
+        "sourceRefs": [
+          "n225-alexander-vii-ce"
+        ],
+        "note": "Explicit birth date in the opened individual biography."
+      },
+      "summary": {
+        "text": "Alexander VII joined experienced diplomacy and literary interests to one of Rome’s most ambitious programs of Baroque building. Bernini’s colonnade at Saint Peter’s belongs to his reign, as do plague controls and an important ruling allowing Chinese ceremonies understood as civic. His resistance to French pressure and Jansenism produced lasting disputes, while his initial refusal to advance relatives gave way to renewed Chigi family power.",
+        "sourceRefs": [
+          "n225-alexander-vii-ce",
+          "n225-alexander-vii-treccani",
+          "n225-alexander-vii-gastaldi"
+        ]
+      },
+      "biography": {
+        "paragraphs": [
+          {
+            "text": "Fabio Chigi was educated at home in Siena after childhood illness and went on to advanced university study. His career took him through Ferrara, the inquisitorial office in Malta and the nunciature at Cologne. As papal envoy at Münster he defended Roman interests during the negotiations ending the Thirty Years War. Innocent X later made him secretary of state and a cardinal, so his election in 1655 placed an experienced participant in European diplomacy at the head of the Church.",
+            "sourceRefs": [
+              "n225-alexander-vii-ce",
+              "n225-alexander-vii-treccani",
+              "n225-alexander-vii-gastaldi"
+            ]
+          },
+          {
+            "text": "Alexander initially kept his relatives away from Rome, raising expectations that the machinery of nepotism might be dismantled. In 1656 he reversed course and brought family members into the administration. Their enrichment and influence compromised that early promise. His personal learned interests remained important, but they coexisted with a court whose government and distribution of resources increasingly depended on Chigi connections.",
+            "sourceRefs": [
+              "n225-alexander-vii-ce",
+              "n225-alexander-vii-treccani",
+              "n225-alexander-vii-gastaldi"
+            ]
+          },
+          {
+            "text": "His relationship with France deteriorated through disputes over diplomatic privileges and papal independence. The clash involving the French ambassador Créqui led to French occupation of Avignon and the settlement of Pisa in 1664. Alexander could assert his legal position but could not match Louis XIV’s coercive power. In a different register, his welcome to Queen Christina of Sweden after her conversion made Rome a setting for a celebrated Catholic and cultural encounter.",
+            "sourceRefs": [
+              "n225-alexander-vii-ce",
+              "n225-alexander-vii-treccani",
+              "n225-alexander-vii-gastaldi"
+            ]
+          },
+          {
+            "text": "Alexander’s architectural patronage reshaped Saint Peter’s and its approaches, most famously through Bernini’s colonnade and Scala Regia. His government also responded to the plague of 1656–57 by delegating authority to a health administration that controlled entry, inspection and isolation. These practical interventions belong beside the monuments: the same papal city was a ceremonial capital, a densely inhabited community vulnerable to epidemic disease and a state requiring daily administration.",
+            "sourceRefs": [
+              "n225-alexander-vii-ce",
+              "n225-alexander-vii-treccani",
+              "n225-alexander-vii-gastaldi"
+            ]
+          }
+        ]
+      },
+      "actions": [
+        {
+          "text": "Commissioned Bernini’s colonnade at Saint Peter’s and other major Roman works, giving architectural form to papal ceremony and public space.",
+          "sourceRefs": [
+            "n225-alexander-vii-ce",
+            "n225-alexander-vii-treccani",
+            "n225-alexander-vii-gastaldi"
+          ]
+        },
+        {
+          "text": "Organized Rome’s plague defense through the health congregation and Girolamo Gastaldi, using inspection, health passes, restricted access and isolation.",
+          "sourceRefs": [
+            "n225-alexander-vii-ce",
+            "n225-alexander-vii-treccani",
+            "n225-alexander-vii-gastaldi"
+          ]
+        },
+        {
+          "text": "Confirmed the condemnation of Jansen’s positions in 1656 and imposed a clerical subscription formula in 1665, escalating conflict over the Church’s authority to judge an author’s meaning.",
+          "sourceRefs": [
+            "n225-alexander-vii-ce",
+            "n225-alexander-vii-treccani",
+            "n225-alexander-vii-gastaldi"
+          ]
+        },
+        {
+          "text": "Allowed Chinese Christian participation in specified ceremonies in 1656 when understood as civic rather than religious, adopting a more permissive interpretation than Innocent X.",
+          "sourceRefs": [
+            "n225-alexander-vii-ce",
+            "n225-alexander-vii-treccani",
+            "n225-alexander-vii-gastaldi"
+          ]
+        }
+      ],
+      "context": {
+        "paragraphs": [
+          {
+            "text": "Alexander had seen at Münster how European powers could settle religious and territorial questions without accepting Rome’s preferred outcome. The humiliating French confrontation during his papacy made that imbalance visible again. At the same time, confessional allegiance retained great symbolic force: Christina’s conversion and arrival in Rome were celebrated in a continent divided between Catholic and Protestant states.",
+            "sourceRefs": [
+              "n225-alexander-vii-ce",
+              "n225-alexander-vii-treccani",
+              "n225-alexander-vii-gastaldi"
+            ]
+          },
+          {
+            "text": "The Chinese Rites dispute asked how far Christian converts could continue inherited ceremonies honoring ancestors and Confucius. Alexander’s distinction between civic respect and religious worship offered a conditional accommodation rather than a final resolution. In France, Jansenist resistance raised a related question about the scope of Roman judgment, although the subject was entirely different. His pontificate shows a centralizing Church wrestling with the interpretation of texts, cultures and authority across several continents.",
+            "sourceRefs": [
+              "n225-alexander-vii-ce",
+              "n225-alexander-vii-treccani",
+              "n225-alexander-vii-gastaldi"
+            ]
+          }
+        ]
+      },
+      "saintStatus": {
+        "status": "no-positive-claim",
+        "label": "",
+        "recognition": "No positive saint or beatification claim was found in the consulted person-specific biography. This is a research finding, not a universal proof that no local cult ever existed.",
+        "recognitionDate": null,
+        "beatificationDate": null,
+        "sourceRefs": [
+          "n225-alexander-vii-ce",
+          "n225-alexander-vii-treccani",
+          "n225-alexander-vii-gastaldi"
+        ]
+      },
+      "antipopeReview": {
+        "status": "reviewed-none",
+        "claimantNames": [],
+        "note": "The person-specific biography was checked for a competing papal claimant; no named rival claimant was identified.",
+        "sourceRefs": [
+          "n225-alexander-vii-ce",
+          "n225-alexander-vii-treccani",
+          "n225-alexander-vii-gastaldi"
+        ]
+      },
+      "researchNotes": [
+        {
+          "text": "Ad sanctam beati Petri Sedem belongs to 1656, and the subscription constitution Regiminis apostolici to 1665. The older biography conflates them. The modern plague biography supplies administrative details without attributing modern germ theory to the seventeenth-century authorities.",
+          "sourceRefs": [
+            "n225-alexander-vii-ce",
+            "n225-alexander-vii-treccani",
+            "n225-alexander-vii-gastaldi"
+          ]
+        }
+      ],
+      "review": {
+        "coverage": "substantive",
+        "sourcesRead": [
+          "n225-alexander-vii-ce",
+          "n225-alexander-vii-treccani",
+          "n225-alexander-vii-gastaldi"
+        ],
+        "openIssues": [],
+        "fieldsChecked": [
+          "biography",
+          "actions",
+          "context",
+          "birthDate",
+          "recognition",
+          "claimants"
+        ]
+      }
+    },
+    {
+      "personId": "pope-clement-ix",
+      "papalName": "Clement IX",
+      "alternateNames": [
+        "Giulio Rospigliosi"
+      ],
+      "birthDate": {
+        "label": "27 January 1600",
+        "precision": "date",
+        "sourceRefs": [
+          "n225-clement-ix-treccani"
+        ],
+        "note": "The archival account distinguishes birth on 27 January from baptism on 28 January; the older encyclopedia uses the baptismal day as the birth date."
+      },
+      "summary": {
+        "text": "Clement IX was an experienced diplomat and man of letters whose short papacy sought accommodation after years of confrontation. His charitable activity and relief measures won affection in Rome; his negotiations eased the French Jansenist dispute and helped normalize Portuguese church government. Yet family appointments continued, and his efforts to organize assistance for Venetian Crete failed to prevent the fall of Candia in 1669.",
+        "sourceRefs": [
+          "n225-clement-ix-ce",
+          "n225-clement-ix-treccani"
+        ]
+      },
+      "biography": {
+        "paragraphs": [
+          {
+            "text": "Giulio Rospigliosi studied in Rome and Pisa before entering the papal administration. His literary interests made him at home in the Barberini cultural world: he wrote the libretto of Sant’Alessio, an important early Roman opera. His career also required the less theatrical arts of diplomacy. Service as nuncio in Spain gave him experience of a monarchy confronting war, fiscal strain and the Portuguese struggle for independence.",
+            "sourceRefs": [
+              "n225-clement-ix-ce",
+              "n225-clement-ix-treccani"
+            ]
+          },
+          {
+            "text": "Alexander VII made Rospigliosi secretary of state and a cardinal. Elected pope in 1667, he inherited the disputes with France that he had helped administer. His manner was more conciliatory than his predecessor’s. The compromise remembered as the Clementine Peace temporarily calmed the conflict over the subscription formula demanded from clergy suspected of Jansenism. It restored working relations without resolving all the disagreements underneath them.",
+            "sourceRefs": [
+              "n225-clement-ix-ce",
+              "n225-clement-ix-treccani"
+            ]
+          },
+          {
+            "text": "In Rome he became known for hearing confessions, visiting hospitals and providing alms. Measures affecting grain and the milling tax offered relief in a city vulnerable to high food prices. His approachable reputation should not erase family government: his brother and nephews received military, administrative and cardinalatial positions and substantial financial benefits. Personal generosity and the continued distribution of office through kinship were both features of the reign.",
+            "sourceRefs": [
+              "n225-clement-ix-ce",
+              "n225-clement-ix-treccani"
+            ]
+          },
+          {
+            "text": "Clement helped settle Portuguese ecclesiastical affairs after independence and worked for peace between France and Spain. He also sent material support to Venice for the defense of Crete, attempting to turn diplomacy into a common response to Ottoman pressure. Candia nevertheless fell in 1669. He died later that year, leaving a short pontificate distinguished by negotiation and charity rather than a durable settlement of Europe’s political or religious conflicts.",
+            "sourceRefs": [
+              "n225-clement-ix-ce",
+              "n225-clement-ix-treccani"
+            ]
+          }
+        ]
+      },
+      "actions": [
+        {
+          "text": "Accepted a compromise over the French Jansenist subscription dispute, producing the temporary Clementine Peace rather than a final doctrinal reconciliation.",
+          "sourceRefs": [
+            "n225-clement-ix-ce",
+            "n225-clement-ix-treccani"
+          ]
+        },
+        {
+          "text": "Provided grain-related relief and extensive charitable assistance in Rome, where food supply and poverty remained immediate problems of government.",
+          "sourceRefs": [
+            "n225-clement-ix-ce",
+            "n225-clement-ix-treccani"
+          ]
+        },
+        {
+          "text": "Reorganized Portuguese church government after independence from Spain, addressing the ecclesiastical consequences of a prolonged political rupture.",
+          "sourceRefs": [
+            "n225-clement-ix-ce",
+            "n225-clement-ix-treccani"
+          ]
+        },
+        {
+          "text": "Supported peace negotiations between France and Spain while supplying aid for the unsuccessful Venetian defense of Crete.",
+          "sourceRefs": [
+            "n225-clement-ix-ce",
+            "n225-clement-ix-treccani"
+          ]
+        }
+      ],
+      "context": {
+        "paragraphs": [
+          {
+            "text": "The French dispute concerned both theology and obedience. Rome had condemned propositions associated with Jansen, while some clergy distinguished accepting the doctrinal condemnation from accepting Rome’s judgment that those propositions accurately represented his book. Clement’s compromise allowed institutional peace even though participants did not necessarily understand their agreement in the same way. That unresolved distinction helps explain why later popes faced renewed conflict.",
+            "sourceRefs": [
+              "n225-clement-ix-ce",
+              "n225-clement-ix-treccani"
+            ]
+          },
+          {
+            "text": "Across Europe, papal diplomacy competed with the interests of powerful monarchies. France and Spain could make peace for their own reasons, while Christian states did not automatically unite against Ottoman expansion. Crete’s fall exposed the limits of exhortation and subsidies. At home, charity and adjustments to food taxation could ease hardship, but they did not by themselves transform the fiscal and social structures of the Papal States.",
+            "sourceRefs": [
+              "n225-clement-ix-ce",
+              "n225-clement-ix-treccani"
+            ]
+          }
+        ]
+      },
+      "saintStatus": {
+        "status": "no-positive-claim",
+        "label": "",
+        "recognition": "No positive saint or beatification claim was found in the consulted person-specific biography. This is a research finding, not a universal proof that no local cult ever existed.",
+        "recognitionDate": null,
+        "beatificationDate": null,
+        "sourceRefs": [
+          "n225-clement-ix-ce",
+          "n225-clement-ix-treccani"
+        ]
+      },
+      "antipopeReview": {
+        "status": "reviewed-none",
+        "claimantNames": [],
+        "note": "The person-specific biography was checked for a competing papal claimant; no named rival claimant was identified.",
+        "sourceRefs": [
+          "n225-clement-ix-ce",
+          "n225-clement-ix-treccani"
+        ]
+      },
+      "researchNotes": [
+        {
+          "text": "Modern research qualifies the older claim that Clement did almost nothing for relatives. No causal assertion that grief over Candia killed him is repeated. The works attribution is limited to the documented Sant’Alessio libretto.",
+          "sourceRefs": [
+            "n225-clement-ix-ce",
+            "n225-clement-ix-treccani"
+          ]
+        }
+      ],
+      "review": {
+        "coverage": "substantive",
+        "sourcesRead": [
+          "n225-clement-ix-ce",
+          "n225-clement-ix-treccani"
+        ],
+        "openIssues": [],
+        "fieldsChecked": [
+          "biography",
+          "actions",
+          "context",
+          "birthDate",
+          "recognition",
+          "claimants"
+        ]
+      }
+    },
+    {
+      "personId": "pope-clement-x",
+      "papalName": "Clement X",
+      "alternateNames": [
+        "Emilio Altieri"
+      ],
+      "birthDate": {
+        "label": "13 July 1590",
+        "precision": "date",
+        "sourceRefs": [
+          "n225-clement-x-ce"
+        ],
+        "note": "Explicit birth date in the opened individual biography."
+      },
+      "summary": {
+        "text": "Clement X reached the papacy after decades of administrative service and governed with extensive help from Cardinal Paluzzo Paluzzi Altieri. His reign continued major canonizations, including Rose of Lima, while disputes over royal control of church revenues sharpened in France. Beneath his reputation as an elderly compromise pope lay continuing work on clerical jurisdiction, religious discipline and the pressures of governing a territorial state.",
+        "sourceRefs": [
+          "n225-clement-x-ce",
+          "n225-clement-x-treccani",
+          "n225-rose-lima-causes"
+        ]
+      },
+      "biography": {
+        "paragraphs": [
+          {
+            "text": "Emilio Altieri belonged to an old Roman family and spent most of his long life in papal service before becoming a cardinal. His assignments ranged from protecting the Ravenna region against flooding to serving as nuncio in Naples after the upheavals associated with Masaniello. In Rome he worked in the Congregation of Bishops and Regulars, bringing knowledge of diocesan administration and religious orders to the center of church government.",
+            "sourceRefs": [
+              "n225-clement-x-ce",
+              "n225-clement-x-treccani",
+              "n225-rose-lima-causes"
+            ]
+          },
+          {
+            "text": "Clement IX raised him to the cardinalate shortly before dying. The ensuing conclave struggled for months to find agreement among family factions and representatives of the European powers. Altieri emerged as a compromise in 1670 when he was nearly eighty. He took Clement’s name in gratitude to his predecessor. His age encouraged reliance on experienced ministers, but his career meant he was already deeply familiar with the institutions they managed.",
+            "sourceRefs": [
+              "n225-clement-x-ce",
+              "n225-clement-x-treccani",
+              "n225-rose-lima-causes"
+            ]
+          },
+          {
+            "text": "The continuation of the Altieri family became intertwined with government. Through adoption and marriage arrangements, the Paluzzi family assumed the Altieri name. Cardinal Paluzzo Paluzzi Altieri received the position of cardinal nephew and increasing responsibility for state business. This was a constructed family alliance rather than simply a blood nephew’s promotion, and it illustrates the adaptability of papal nepotism.",
+            "sourceRefs": [
+              "n225-clement-x-ce",
+              "n225-clement-x-treccani",
+              "n225-rose-lima-causes"
+            ]
+          },
+          {
+            "text": "Clement’s religious acts included the canonization of Rose of Lima in 1671, together with figures such as Francis Borgia and Cajetan, and the beatification of Pius V. Relations with France became more difficult as Louis XIV pressed claims over the revenues and appointments of vacant dioceses. Clement also financed Polish resistance to Ottoman attacks. These concerns continued into the next pontificate, making his reign a stage in longer conflicts rather than an isolated interlude.",
+            "sourceRefs": [
+              "n225-clement-x-ce",
+              "n225-clement-x-treccani",
+              "n225-rose-lima-causes"
+            ]
+          }
+        ]
+      },
+      "actions": [
+        {
+          "text": "Canonized Rose of Lima in 1671, marking the recognition of the first canonized saint born in the Americas, alongside several major figures of Catholic reform.",
+          "sourceRefs": [
+            "n225-clement-x-ce",
+            "n225-clement-x-treccani",
+            "n225-rose-lima-causes"
+          ]
+        },
+        {
+          "text": "Regulated the relationship between religious orders and diocesan bishops in 1670, asserting ecclesiastical authority over disputes in which the French crown claimed a role.",
+          "sourceRefs": [
+            "n225-clement-x-ce",
+            "n225-clement-x-treccani",
+            "n225-rose-lima-causes"
+          ]
+        },
+        {
+          "text": "Required scrutiny of relics and their certificates in 1672, addressing forgery and the commercialization of supposed evidence of authenticity.",
+          "sourceRefs": [
+            "n225-clement-x-ce",
+            "n225-clement-x-treccani",
+            "n225-rose-lima-causes"
+          ]
+        },
+        {
+          "text": "Challenged French expansion of the régale and provided financial assistance to Poland against Ottoman forces.",
+          "sourceRefs": [
+            "n225-clement-x-ce",
+            "n225-clement-x-treccani",
+            "n225-rose-lima-causes"
+          ]
+        }
+      ],
+      "context": {
+        "paragraphs": [
+          {
+            "text": "The régale combined money with authority: a king could claim revenues from a vacant bishopric and rights affecting appointments until a new bishop took possession. Louis XIV’s attempt to extend those claims made church-state conflict part of ordinary diocesan administration. What appeared to be a technical question could determine who governed clergy, who controlled income and how far Rome could protect local ecclesiastical rights.",
+            "sourceRefs": [
+              "n225-clement-x-ce",
+              "n225-clement-x-treccani",
+              "n225-rose-lima-causes"
+            ]
+          },
+          {
+            "text": "Canonizations connected this predominantly Italian papal court with a wider Catholic world. Rose of Lima’s recognition linked Rome to a society shaped by Spanish colonial rule, while the celebration of religious founders reinforced the institutions of Catholic reform. At the same time, long-serving administrators and adopted family connections remained central to the Papal States. Global religious reach did not dissolve the local structures through which the pope governed.",
+            "sourceRefs": [
+              "n225-clement-x-ce",
+              "n225-clement-x-treccani",
+              "n225-rose-lima-causes"
+            ]
+          }
+        ]
+      },
+      "saintStatus": {
+        "status": "no-positive-claim",
+        "label": "",
+        "recognition": "No positive saint or beatification claim was found in the consulted person-specific biography. This is a research finding, not a universal proof that no local cult ever existed.",
+        "recognitionDate": null,
+        "beatificationDate": null,
+        "sourceRefs": [
+          "n225-clement-x-ce",
+          "n225-clement-x-treccani",
+          "n225-rose-lima-causes"
+        ]
+      },
+      "antipopeReview": {
+        "status": "reviewed-none",
+        "claimantNames": [],
+        "note": "The person-specific biography was checked for a competing papal claimant; no named rival claimant was identified.",
+        "sourceRefs": [
+          "n225-clement-x-ce",
+          "n225-clement-x-treccani",
+          "n225-rose-lima-causes"
+        ]
+      },
+      "researchNotes": [
+        {
+          "text": "The pope was 79 at election, approaching his eightieth birthday. The earlier encyclopedia attributes both Saint Peter’s fountains and the bridge angels too broadly to this reign; those architectural claims are omitted. The official Rose entry verifies her recognition, not Clement’s own recognition status.",
+          "sourceRefs": [
+            "n225-clement-x-ce",
+            "n225-clement-x-treccani",
+            "n225-rose-lima-causes"
+          ]
+        }
+      ],
+      "review": {
+        "coverage": "substantive",
+        "sourcesRead": [
+          "n225-clement-x-ce",
+          "n225-clement-x-treccani",
+          "n225-rose-lima-causes"
+        ],
+        "openIssues": [],
+        "fieldsChecked": [
+          "biography",
+          "actions",
+          "context",
+          "birthDate",
+          "recognition",
+          "claimants"
+        ]
+      }
+    },
+    {
+      "personId": "pope-innocent-xi",
+      "papalName": "Innocent XI",
+      "alternateNames": [
+        "Benedetto Odescalchi"
+      ],
+      "birthDate": {
+        "label": "16 May 1611",
+        "precision": "date",
+        "sourceRefs": [
+          "n225-innocent-xi-ce"
+        ],
+        "note": "Explicit birth date in the opened individual biography."
+      },
+      "summary": {
+        "text": "Innocent XI pursued financial restraint and resisted Louis XIV’s expansion of royal control over the Church. His reign joined opposition to nepotism, strict moral regulation and the condemnation of Quietism with substantial support for the coalition that relieved Vienna in 1683. Beatified in 1956, he remains a consequential example of a reforming pope whose defense of ecclesiastical independence was inseparable from European power politics.",
+        "sourceRefs": [
+          "n225-innocent-xi-ce",
+          "n225-innocent-xi-beatification"
+        ]
+      },
+      "biography": {
+        "paragraphs": [
+          {
+            "text": "Benedetto Odescalchi studied with the Jesuits in Como and trained in law in Rome and Naples. His early career involved finance and provincial administration rather than a life spent only in theological study. As papal legate at Ferrara he organized assistance during famine; as bishop of Novara he became known for support of the poor and sick. After returning to Rome he participated in the congregations that conducted central church business.",
+            "sourceRefs": [
+              "n225-innocent-xi-ce",
+              "n225-innocent-xi-beatification"
+            ]
+          },
+          {
+            "text": "French opposition helped block his candidacy in an earlier conclave, but he was elected in 1676 despite Louis XIV’s reservations. He cut expenditure, practiced personal austerity and discouraged the enrichment of papal relatives. These policies improved the fiscal position he inherited. They also encountered resistance from people whose offices, incomes and influence depended on established curial arrangements, so reform involved more than the pope setting a private example.",
+            "sourceRefs": [
+              "n225-innocent-xi-ce",
+              "n225-innocent-xi-beatification"
+            ]
+          },
+          {
+            "text": "The conflict with France concerned the extension of the régale and the Four Articles adopted by the French clergy in 1682, which limited papal claims in favor of royal and national ecclesiastical authority. Innocent withheld confirmation from episcopal nominees associated with the assembly. Disputes over the French ambassador’s protected quarter in Rome and the succession to Cologne’s archbishopric brought armed pressure and international strategy into the quarrel.",
+            "sourceRefs": [
+              "n225-innocent-xi-ce",
+              "n225-innocent-xi-beatification"
+            ]
+          },
+          {
+            "text": "Innocent also worked to unite and finance resistance to Ottoman expansion. The relief of Vienna in 1683 and subsequent coalition warfare were central achievements of his diplomacy, although the fighting was carried out by rulers and armies with their own ambitions. Within Catholic life he condemned lax moral propositions and, in 1687, the teachings associated with Miguel de Molinos’s Quietism. His reputation for personal holiness eventually led Pius XII to beatify him in 1956.",
+            "sourceRefs": [
+              "n225-innocent-xi-ce",
+              "n225-innocent-xi-beatification"
+            ]
+          }
+        ]
+      },
+      "actions": [
+        {
+          "text": "Reduced court expenditure and restrained nepotistic distributions, improving papal finances and challenging entrenched interests in the Curia.",
+          "sourceRefs": [
+            "n225-innocent-xi-ce",
+            "n225-innocent-xi-beatification"
+          ]
+        },
+        {
+          "text": "Rejected the French Four Articles of 1682 and withheld episcopal confirmation, using canonical authority to resist Louis XIV’s control of the Church.",
+          "sourceRefs": [
+            "n225-innocent-xi-ce",
+            "n225-innocent-xi-beatification"
+          ]
+        },
+        {
+          "text": "Helped finance and organize cooperation against Ottoman forces, supporting the coalition associated with the relief of Vienna and subsequent campaigns in Hungary.",
+          "sourceRefs": [
+            "n225-innocent-xi-ce",
+            "n225-innocent-xi-beatification"
+          ]
+        },
+        {
+          "text": "Condemned moral propositions judged too permissive in 1679 and Quietist propositions in 1687, extending reform to teaching, spiritual direction and personal conduct.",
+          "sourceRefs": [
+            "n225-innocent-xi-ce",
+            "n225-innocent-xi-beatification"
+          ]
+        }
+      ],
+      "context": {
+        "paragraphs": [
+          {
+            "text": "Louis XIV’s monarchy claimed broad authority over Catholic institutions while presenting itself as a defender of the faith. The conflict with Innocent therefore cannot be reduced to Catholicism against its opponents: it was a struggle inside Catholic Europe over the independence and government of the Church. Embassy asylum in Rome and the Cologne election show how legal privileges could become instruments of international power.",
+            "sourceRefs": [
+              "n225-innocent-xi-ce",
+              "n225-innocent-xi-beatification"
+            ]
+          },
+          {
+            "text": "The Ottoman advance toward Vienna encouraged cooperation among the emperor, the Polish monarchy and other states, but alliances remained difficult because Catholic powers also fought one another. Innocent’s subsidies and diplomacy helped sustain the coalition without giving him command of its armies. At home, his attack on excess and his regulation of spiritual teaching reflected a demanding vision of reform whose consequences affected court society, confessors and ordinary believers alike.",
+            "sourceRefs": [
+              "n225-innocent-xi-ce",
+              "n225-innocent-xi-beatification"
+            ]
+          }
+        ]
+      },
+      "saintStatus": {
+        "status": "blessed",
+        "label": "Blessed",
+        "recognition": "Beatified by Pius XII on 7 October 1956; verified in the pope’s contemporary radiomessage.",
+        "recognitionDate": "1956-10-07",
+        "beatificationDate": "1956-10-07",
+        "sourceRefs": [
+          "n225-innocent-xi-beatification"
+        ]
+      },
+      "antipopeReview": {
+        "status": "reviewed-none",
+        "claimantNames": [],
+        "note": "The person-specific biography was checked for a competing papal claimant; no named rival claimant was identified.",
+        "sourceRefs": [
+          "n225-innocent-xi-ce",
+          "n225-innocent-xi-beatification"
+        ]
+      },
+      "researchNotes": [
+        {
+          "text": "The 1910 biography predates the 1956 beatification and cannot establish present recognition. Its statement that his brother succeeded him at Novara is not repeated. Opposition to French coercion is not recast as a general modern doctrine of religious liberty.",
+          "sourceRefs": [
+            "n225-innocent-xi-ce",
+            "n225-innocent-xi-beatification"
+          ]
+        }
+      ],
+      "review": {
+        "coverage": "substantive",
+        "sourcesRead": [
+          "n225-innocent-xi-ce",
+          "n225-innocent-xi-beatification"
+        ],
+        "openIssues": [],
+        "fieldsChecked": [
+          "biography",
+          "actions",
+          "context",
+          "birthDate",
+          "recognition",
+          "claimants"
+        ]
+      }
+    },
+    {
+      "personId": "pope-alexander-viii",
+      "papalName": "Alexander VIII",
+      "alternateNames": [
+        "Pietro Ottoboni"
+      ],
+      "birthDate": {
+        "label": "22 April 1610",
+        "precision": "date",
+        "sourceRefs": [
+          "n225-alexander-viii-treccani"
+        ],
+        "note": "The modern individual biography supplies the day omitted by the older encyclopedia."
+      },
+      "summary": {
+        "text": "Alexander VIII combined legal learning and diplomatic flexibility with a conspicuous revival of papal nepotism. During his short reign he reopened negotiations with Louis XIV, recovered Avignon and strengthened the Vatican Library through Queen Christina’s collection. Yet he continued to reject the French Gallican Articles. His generosity in tax relief sat beside lavish advancement of relatives, reversing much of Innocent XI’s example of restraint.",
+        "sourceRefs": [
+          "n225-alexander-viii-ce",
+          "n225-alexander-viii-treccani"
+        ]
+      },
+      "biography": {
+        "paragraphs": [
+          {
+            "text": "Pietro Ottoboni came from a Venetian family closely involved in the republic’s administration. Legal study and service in Rome prepared him for provincial governorships and a long career in the Roman Rota. Innocent X made him a cardinal, and he later became bishop of Brescia. His episcopate included repression of religious groups in Val Camonica: leaders were arrested, tried and forced to recant. His learning therefore supported an exacting conception of ecclesiastical order.",
+            "sourceRefs": [
+              "n225-alexander-viii-ce",
+              "n225-alexander-viii-treccani"
+            ]
+          },
+          {
+            "text": "Back in Rome, Ottoboni held the influential office of datary and participated in the doctrinal and political disputes of successive pontificates. His legal expertise helped make him a credible candidate in 1689. Elected late in life, he inherited Innocent XI’s bitter confrontation with France but tried to restore negotiation. Louis XIV returned Avignon and gave up the contested privileges of the French ambassador’s quarter in Rome.",
+            "sourceRefs": [
+              "n225-alexander-viii-ce",
+              "n225-alexander-viii-treccani"
+            ]
+          },
+          {
+            "text": "These gestures did not settle the underlying dispute over the French Church. Alexander continued to resist the Four Articles of 1682 and the royal arrangements connected with them. A condemnation prepared during his reign was published as he approached death in 1691. The combination of negotiation and doctrinal firmness is more revealing than a simple description of him as either pro-French or anti-French.",
+            "sourceRefs": [
+              "n225-alexander-viii-ce",
+              "n225-alexander-viii-treccani"
+            ]
+          },
+          {
+            "text": "Within the Papal States he reduced taxes and assisted people facing economic hardship, but also restored offices and revenues that benefited his relations. Ottoboni family advancement became one of the defining features of a pontificate lasting only about sixteen months. He subsidized Venetian warfare against the Ottomans and bought Queen Christina’s books and manuscripts for the Vatican Library. These acts left durable cultural and political effects despite the brevity of his reign.",
+            "sourceRefs": [
+              "n225-alexander-viii-ce",
+              "n225-alexander-viii-treccani"
+            ]
+          }
+        ]
+      },
+      "actions": [
+        {
+          "text": "Resumed negotiations with Louis XIV, securing the return of Avignon and the abandonment of the French embassy’s disputed asylum privileges.",
+          "sourceRefs": [
+            "n225-alexander-viii-ce",
+            "n225-alexander-viii-treccani"
+          ]
+        },
+        {
+          "text": "Maintained opposition to the Four Articles of 1682; their condemnation was published at the end of his life, demonstrating the limits of the diplomatic thaw.",
+          "sourceRefs": [
+            "n225-alexander-viii-ce",
+            "n225-alexander-viii-treccani"
+          ]
+        },
+        {
+          "text": "Acquired Queen Christina’s library for the Vatican, preserving an important collection of books and manuscripts within a major scholarly institution.",
+          "sourceRefs": [
+            "n225-alexander-viii-ce",
+            "n225-alexander-viii-treccani"
+          ]
+        },
+        {
+          "text": "Reduced taxes while restoring benefits for his relatives, joining popular relief to a costly revival of family patronage.",
+          "sourceRefs": [
+            "n225-alexander-viii-ce",
+            "n225-alexander-viii-treccani"
+          ]
+        }
+      ],
+      "context": {
+        "paragraphs": [
+          {
+            "text": "The quarrel with Louis XIV was both ecclesiastical and international. France’s king wanted influence over bishops and a national understanding of church authority, while Rome feared that prolonged refusal to confirm appointments would deepen separation. Alexander sought room for a settlement without surrendering principle. Avignon and diplomatic immunity were bargaining issues, but they could not alone resolve the distribution of authority inside the French Church.",
+            "sourceRefs": [
+              "n225-alexander-viii-ce",
+              "n225-alexander-viii-treccani"
+            ]
+          },
+          {
+            "text": "His return to family enrichment also explains the reform that followed under Innocent XII. Nepotism supplied trusted agents and advanced a dynasty whose power depended on a single lifetime in office, but it diverted resources and undermined confidence in papal government. Alexander’s tax relief and cultural collecting show other uses of those same resources. His short reign makes the competing priorities unusually easy to see.",
+            "sourceRefs": [
+              "n225-alexander-viii-ce",
+              "n225-alexander-viii-treccani"
+            ]
+          }
+        ]
+      },
+      "saintStatus": {
+        "status": "no-positive-claim",
+        "label": "",
+        "recognition": "No positive saint or beatification claim was found in the consulted person-specific biography. This is a research finding, not a universal proof that no local cult ever existed.",
+        "recognitionDate": null,
+        "beatificationDate": null,
+        "sourceRefs": [
+          "n225-alexander-viii-ce",
+          "n225-alexander-viii-treccani"
+        ]
+      },
+      "antipopeReview": {
+        "status": "reviewed-none",
+        "claimantNames": [],
+        "note": "The person-specific biography was checked for a competing papal claimant; no named rival claimant was identified.",
+        "sourceRefs": [
+          "n225-alexander-viii-ce",
+          "n225-alexander-viii-treccani"
+        ]
+      },
+      "researchNotes": [
+        {
+          "text": "The modern biography corrects the older account’s degree and governorship details. Its January 1691 publication of Inter multiplices is distinguished from the document’s earlier preparation. Existing official roster dates are retained; no replacement election chronology is introduced.",
+          "sourceRefs": [
+            "n225-alexander-viii-ce",
+            "n225-alexander-viii-treccani"
+          ]
+        }
+      ],
+      "review": {
+        "coverage": "substantive",
+        "sourcesRead": [
+          "n225-alexander-viii-ce",
+          "n225-alexander-viii-treccani"
+        ],
+        "openIssues": [],
+        "fieldsChecked": [
+          "biography",
+          "actions",
+          "context",
+          "birthDate",
+          "recognition",
+          "claimants"
+        ]
+      }
+    },
+    {
+      "personId": "pope-innocent-xii",
+      "papalName": "Innocent XII",
+      "alternateNames": [
+        "Antonio Pignatelli"
+      ],
+      "birthDate": {
+        "label": "13 March 1615",
+        "precision": "date",
+        "sourceRefs": [
+          "n225-innocent-xii-ce"
+        ],
+        "note": "Explicit birth date in the opened individual biography."
+      },
+      "summary": {
+        "text": "Innocent XII made resistance to nepotism an institutional rule rather than only a personal example. He restricted benefits for papal relatives, supported charitable institutions and worked to improve the administration of justice. A pragmatic settlement restored confirmation of French bishops after years of conflict with Louis XIV. His reign also faced disputes over spiritual teaching and the succession crisis that would soon transform Europe.",
+        "sourceRefs": [
+          "n225-innocent-xii-ce",
+          "n225-innocent-xii-treccani"
+        ]
+      },
+      "biography": {
+        "paragraphs": [
+          {
+            "text": "Antonio Pignatelli entered the Curia as a young man and accumulated experience across the papal world: Urbino, Malta and Perugia, followed by diplomatic assignments in Tuscany, Poland and Vienna. He later held major episcopal responsibilities in Italy. The long conclave of 1691 ended by choosing him as a compromise between factions whose preferred candidates could not win sufficient support.",
+            "sourceRefs": [
+              "n225-innocent-xii-ce",
+              "n225-innocent-xii-treccani"
+            ]
+          },
+          {
+            "text": "His most consequential measure was Romanum decet Pontificem in 1692. It restricted the distribution of resources to papal relatives and allowed no more than one kinsman to be made a cardinal. The reform attacked a system that had repeatedly diverted public and ecclesiastical income into a pope’s family. Its importance lay in attempting to bind future rulers as well as governing Innocent’s own household.",
+            "sourceRefs": [
+              "n225-innocent-xii-ce",
+              "n225-innocent-xii-treccani"
+            ]
+          },
+          {
+            "text": "Innocent extended charitable provision and completed the great courthouse at Montecitorio, the Curia Innocenziana. Part of the Lateran became a major institution for people in need. These projects combined assistance with the administrative habits of a territorial ruler. Poor relief could include coercive proposals to confine beggars; resistance helped turn the hospice toward a more conventional institution for young and elderly people. His reputation for charity belongs beside this more complex social history.",
+            "sourceRefs": [
+              "n225-innocent-xii-ce",
+              "n225-innocent-xii-treccani"
+            ]
+          },
+          {
+            "text": "In France he chose accommodation. The settlement of 1692–93 allowed the confirmation of bishops after assurances that eased the dispute over the Gallican declaration, without settling every question about royal rights. He also condemned twenty-three propositions from Fénelon’s Maximes des saints in 1699. Near the end of his life, the childless Spanish king’s succession placed Rome inside a crisis that papal diplomacy could not contain.",
+            "sourceRefs": [
+              "n225-innocent-xii-ce",
+              "n225-innocent-xii-treccani"
+            ]
+          }
+        ]
+      },
+      "actions": [
+        {
+          "text": "Issued Romanum decet Pontificem in 1692, limiting nepotistic grants and papal relatives’ access to the cardinalate; the measure became a landmark in the reform of papal government.",
+          "sourceRefs": [
+            "n225-innocent-xii-ce",
+            "n225-innocent-xii-treccani"
+          ]
+        },
+        {
+          "text": "Expanded charitable institutions and completed the Curia Innocenziana, bringing assistance and the administration of justice into major public foundations.",
+          "sourceRefs": [
+            "n225-innocent-xii-ce",
+            "n225-innocent-xii-treccani"
+          ]
+        },
+        {
+          "text": "Restored confirmation of French episcopal appointments through a negotiated settlement, ending an immediate institutional deadlock without eliminating the broader régale dispute.",
+          "sourceRefs": [
+            "n225-innocent-xii-ce",
+            "n225-innocent-xii-treccani"
+          ]
+        },
+        {
+          "text": "Condemned propositions from Fénelon’s Maximes des saints in 1699, intervening in controversy over pure love, prayer and the boundaries of acceptable spiritual teaching.",
+          "sourceRefs": [
+            "n225-innocent-xii-ce",
+            "n225-innocent-xii-treccani"
+          ]
+        }
+      ],
+      "context": {
+        "paragraphs": [
+          {
+            "text": "Innocent inherited two different kinds of reform problem. At home, the financial and political power of papal families weakened confidence in government. Abroad, the French monarchy’s claims over church appointments and income had left dioceses caught between royal nomination and papal confirmation. Restrictions on nepotism and a negotiated episcopal settlement addressed these problems through rules and compromise rather than through the same method.",
+            "sourceRefs": [
+              "n225-innocent-xii-ce",
+              "n225-innocent-xii-treccani"
+            ]
+          },
+          {
+            "text": "The succession to the Spanish monarchy linked a European crown to an empire extending across the Americas and Asia. Rome’s advice and recognition decisions therefore had consequences far beyond Italy, but the pope was only one actor among dynasties prepared to fight over the inheritance. Meanwhile, the Fénelon controversy showed that apparently interior questions about prayer could draw in bishops, the French court and Roman tribunals. Spiritual discipline and state politics remained closely connected.",
+            "sourceRefs": [
+              "n225-innocent-xii-ce",
+              "n225-innocent-xii-treccani"
+            ]
+          }
+        ]
+      },
+      "saintStatus": {
+        "status": "no-positive-claim",
+        "label": "",
+        "recognition": "No positive saint or beatification claim was found in the consulted person-specific biography. This is a research finding, not a universal proof that no local cult ever existed.",
+        "recognitionDate": null,
+        "beatificationDate": null,
+        "sourceRefs": [
+          "n225-innocent-xii-ce",
+          "n225-innocent-xii-treccani"
+        ]
+      },
+      "antipopeReview": {
+        "status": "reviewed-none",
+        "claimantNames": [],
+        "note": "The person-specific biography was checked for a competing papal claimant; no named rival claimant was identified.",
+        "sourceRefs": [
+          "n225-innocent-xii-ce",
+          "n225-innocent-xii-treccani"
+        ]
+      },
+      "researchNotes": [
+        {
+          "text": "The French settlement is not described as a formal repeal of the Four Articles. The older claim that one ambassador’s arrogance chiefly caused papal succession advice and then the war is not repeated. Specific cardinalate and archiepiscopal dates that conflict across reference accounts are omitted.",
+          "sourceRefs": [
+            "n225-innocent-xii-ce",
+            "n225-innocent-xii-treccani"
+          ]
+        }
+      ],
+      "review": {
+        "coverage": "substantive",
+        "sourcesRead": [
+          "n225-innocent-xii-ce",
+          "n225-innocent-xii-treccani"
+        ],
+        "openIssues": [],
+        "fieldsChecked": [
+          "biography",
+          "actions",
+          "context",
+          "birthDate",
+          "recognition",
+          "claimants"
+        ]
+      }
+    },
+    {
+      "personId": "pope-clement-xi",
+      "papalName": "Clement XI",
+      "alternateNames": [
+        "Giovanni Francesco Albani",
+        "Gianfrancesco Albani"
+      ],
+      "birthDate": {
+        "label": "22–23 July 1649",
+        "precision": "range",
+        "sourceRefs": [
+          "n225-clement-xi-treccani",
+          "n225-clement-xi-ce"
+        ],
+        "note": "The modern biography gives 22 or 23 July; the older biography selects 23 July. The narrow documented conflict is preserved rather than inventing certainty."
+      },
+      "summary": {
+        "text": "Clement XI brought classical learning and long curial experience to a papacy unsettled by the War of the Spanish Succession. He patronized manuscripts, antiquities and astronomy, but his diplomatic plans could not protect the Papal States from military pressure. His condemnations of Jansenist propositions and Chinese rites expanded Roman supervision while provoking resistance among French clergy, missionaries and the Chinese imperial government.",
+        "sourceRefs": [
+          "n225-clement-xi-ce",
+          "n225-clement-xi-treccani",
+          "n225-clement-xi-ricci-rites-ce",
+          "n225-clement-xi-unigenitus-ce",
+          "n225-clement-xi-observatory-meridian"
+        ]
+      },
+      "biography": {
+        "paragraphs": [
+          {
+            "text": "Giovanni Francesco Albani studied at the Roman College and developed an early reputation as a translator from Greek into Latin. He entered the learned circle around Queen Christina of Sweden and combined literary interests with legal training. Provincial government and years as secretary of papal briefs placed him close to successive popes. Before his election he helped prepare Innocent XII’s decree against nepotism, an experience that linked his scholarship to practical institutional reform.",
+            "sourceRefs": [
+              "n225-clement-xi-ce",
+              "n225-clement-xi-treccani",
+              "n225-clement-xi-ricci-rites-ce",
+              "n225-clement-xi-unigenitus-ce",
+              "n225-clement-xi-observatory-meridian"
+            ]
+          },
+          {
+            "text": "His election in 1700 coincided with the death of Charles II of Spain. The disputed inheritance drew Bourbon and Habsburg claimants into war and made papal neutrality difficult to sustain. Imperial troops invaded the Papal States; under military pressure Clement accepted an agreement in 1709 recognizing the Habsburg claimant Charles. The concession then damaged relations with the rival Bourbon monarchy. Papal claims over territories and ecclesiastical rights could not compensate for a lack of military and diplomatic strength.",
+            "sourceRefs": [
+              "n225-clement-xi-ce",
+              "n225-clement-xi-treccani",
+              "n225-clement-xi-ricci-rites-ce",
+              "n225-clement-xi-unigenitus-ce",
+              "n225-clement-xi-observatory-meridian"
+            ]
+          },
+          {
+            "text": "In France, Clement’s Unigenitus of 1713 condemned 101 propositions taken from Pasquier Quesnel’s devotional reflections. The dispute extended beyond grace to Scripture, ecclesiastical discipline and the authority of the Church. Louis XIV supported the condemnation, but important clergy resisted; after his death, opponents appealed to a general council. Clement answered with further censures. A measure intended to impose unity instead became a defining source of division.",
+            "sourceRefs": [
+              "n225-clement-xi-ce",
+              "n225-clement-xi-treccani",
+              "n225-clement-xi-ricci-rites-ce",
+              "n225-clement-xi-unigenitus-ce",
+              "n225-clement-xi-observatory-meridian"
+            ]
+          },
+          {
+            "text": "In China he upheld restrictive judgments on ancestral and Confucian ceremonies and on certain terms used for God. His legate Charles-Thomas Maillard de Tournon clashed with the Kangxi emperor, and Ex illa die in 1715 demanded missionary obedience to Rome’s decisions. A second legation attempted to manage the crisis. Alongside these conflicts, Clement supported the Vatican Library’s eastern manuscripts and Bianchini’s meridian in Santa Maria degli Angeli, preserving an enduring legacy of learning.",
+            "sourceRefs": [
+              "n225-clement-xi-ce",
+              "n225-clement-xi-treccani",
+              "n225-clement-xi-ricci-rites-ce",
+              "n225-clement-xi-unigenitus-ce",
+              "n225-clement-xi-observatory-meridian"
+            ]
+          }
+        ]
+      },
+      "actions": [
+        {
+          "text": "Accepted the 1709 agreement imposed after imperial invasion, recognizing the Habsburg claimant to Spain and exposing the weakness of papal territorial neutrality.",
+          "sourceRefs": [
+            "n225-clement-xi-ce",
+            "n225-clement-xi-treccani",
+            "n225-clement-xi-ricci-rites-ce",
+            "n225-clement-xi-unigenitus-ce",
+            "n225-clement-xi-observatory-meridian"
+          ]
+        },
+        {
+          "text": "Issued Unigenitus in 1713, condemning 101 propositions from Quesnel; opposition and appeals to a council turned the decree into a long conflict over ecclesiastical authority.",
+          "sourceRefs": [
+            "n225-clement-xi-ce",
+            "n225-clement-xi-treccani",
+            "n225-clement-xi-ricci-rites-ce",
+            "n225-clement-xi-unigenitus-ce",
+            "n225-clement-xi-observatory-meridian"
+          ]
+        },
+        {
+          "text": "Enforced the restrictive Chinese Rites decisions through legates and Ex illa die, requiring missionaries to observe rules that collided with imperial expectations and converts’ family obligations.",
+          "sourceRefs": [
+            "n225-clement-xi-ce",
+            "n225-clement-xi-treccani",
+            "n225-clement-xi-ricci-rites-ce",
+            "n225-clement-xi-unigenitus-ce",
+            "n225-clement-xi-observatory-meridian"
+          ]
+        },
+        {
+          "text": "Supported eastern manuscript collecting and commissioned Bianchini’s meridian, an instrument using the Sun’s passage to mark local noon and support astronomical observation.",
+          "sourceRefs": [
+            "n225-clement-xi-ce",
+            "n225-clement-xi-treccani",
+            "n225-clement-xi-ricci-rites-ce",
+            "n225-clement-xi-unigenitus-ce",
+            "n225-clement-xi-observatory-meridian"
+          ]
+        }
+      ],
+      "context": {
+        "paragraphs": [
+          {
+            "text": "The Spanish succession concerned far more than which prince would occupy a European throne. The Spanish monarchy governed an extensive overseas empire, while its Italian possessions drew the conflict directly toward Rome. Clement tried to speak as a common religious authority, but the rival Catholic powers treated the Papal States as territory within a strategic contest. His forced concession and the resulting Bourbon retaliation demonstrate the gap between universal claims and the resources of a comparatively small state.",
+            "sourceRefs": [
+              "n225-clement-xi-ce",
+              "n225-clement-xi-treccani",
+              "n225-clement-xi-ricci-rites-ce",
+              "n225-clement-xi-unigenitus-ce",
+              "n225-clement-xi-observatory-meridian"
+            ]
+          },
+          {
+            "text": "The Chinese Rites controversy asked who could determine the meaning of local ceremonies. Some missionaries understood honors to ancestors and Confucius as civic or familial; others judged them incompatible with Christianity. For Chinese converts, refusal could disrupt obligations to kin and public office. The Kangxi emperor also rejected Rome’s attempt to adjudicate Chinese custom from abroad. Thus the papal decisions affected ordinary social belonging as well as missionary discipline, and exposed the limits of central supervision across cultural distance.",
+            "sourceRefs": [
+              "n225-clement-xi-ce",
+              "n225-clement-xi-treccani",
+              "n225-clement-xi-ricci-rites-ce",
+              "n225-clement-xi-unigenitus-ce",
+              "n225-clement-xi-observatory-meridian"
+            ]
+          }
+        ]
+      },
+      "saintStatus": {
+        "status": "no-positive-claim",
+        "label": "",
+        "recognition": "No positive saint or beatification claim was found in the consulted person-specific biography. This is a research finding, not a universal proof that no local cult ever existed.",
+        "recognitionDate": null,
+        "beatificationDate": null,
+        "sourceRefs": [
+          "n225-clement-xi-ce",
+          "n225-clement-xi-treccani",
+          "n225-clement-xi-ricci-rites-ce",
+          "n225-clement-xi-unigenitus-ce",
+          "n225-clement-xi-observatory-meridian"
+        ]
+      },
+      "antipopeReview": {
+        "status": "reviewed-none",
+        "claimantNames": [],
+        "note": "The person-specific biography was checked for a competing papal claimant; no named rival claimant was identified.",
+        "sourceRefs": [
+          "n225-clement-xi-ce",
+          "n225-clement-xi-treccani",
+          "n225-clement-xi-ricci-rites-ce",
+          "n225-clement-xi-unigenitus-ce",
+          "n225-clement-xi-observatory-meridian"
+        ]
+      },
+      "researchNotes": [
+        {
+          "text": "Descriptions of Clement as saintly in older prose do not establish formal saint recognition. The general biography gives a different September day for Unigenitus from the dedicated article; public text gives 1713. Chinese imperial and missionary actions after Clement’s death are not assigned to him.",
+          "sourceRefs": [
+            "n225-clement-xi-ce",
+            "n225-clement-xi-treccani",
+            "n225-clement-xi-ricci-rites-ce",
+            "n225-clement-xi-unigenitus-ce",
+            "n225-clement-xi-observatory-meridian"
+          ]
+        }
+      ],
+      "review": {
+        "coverage": "substantive",
+        "sourcesRead": [
+          "n225-clement-xi-ce",
+          "n225-clement-xi-treccani",
+          "n225-clement-xi-ricci-rites-ce",
+          "n225-clement-xi-unigenitus-ce",
+          "n225-clement-xi-observatory-meridian"
+        ],
+        "openIssues": [],
+        "fieldsChecked": [
+          "biography",
+          "actions",
+          "context",
+          "birthDate",
+          "recognition",
+          "claimants"
+        ]
+      }
+    }
+  ]
+}

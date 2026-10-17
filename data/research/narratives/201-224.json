@@ -1,0 +1,3846 @@
+{
+  "reviewedAt": "2026-10-17",
+  "scope": {
+    "firstOrder": 201,
+    "lastOrder": 224
+  },
+  "sources": [
+    {
+      "key": "n201-gregory-xi-ce",
+      "title": "Pope Gregory XI",
+      "url": "https://www.newadvent.org/cathen/06799a.htm",
+      "kind": "supplementary-catholic",
+      "author": "Michael Ott",
+      "publication": "The Catholic Encyclopedia (1907–1912), Robert Appleton Company",
+      "retrievedAt": "2026-10-17",
+      "passage": "Opening biography and paragraphs on the Visconti war, Florence interdict, Catherine of Siena, return to Rome, Cesena and Wyclif.",
+      "access": {
+        "method": "web-open",
+        "verified": true
+      },
+      "notes": "Historical Catholic Encyclopedia articles carry local ecclesiastical approval, not Vatican endorsement; their evaluative language and chronology require cross-checking."
+    },
+    {
+      "key": "n201-gregory-xi-treccani",
+      "title": "Gregorio XI",
+      "url": "https://www.treccani.it/enciclopedia/gregorio-xi_(Enciclopedia-dei-Papi)/",
+      "kind": "scholarly-reference",
+      "author": "Michel Hayez",
+      "publication": "Enciclopedia dei Papi, Treccani (2000)",
+      "retrievedAt": "2026-10-17",
+      "passage": "Biographical opening, family benefices and Perugia training; election and ordination; sections on Naples, Charles IV and financial resistance.",
+      "access": {
+        "method": "web-open",
+        "verified": true
+      },
+      "notes": "Modern scholarly interpretation; not an official Vatican classification."
+    },
+    {
+      "key": "n201-urban-vi-ce",
+      "title": "Pope Urban VI",
+      "url": "https://www.newadvent.org/cathen/15216a.htm",
+      "kind": "supplementary-catholic",
+      "author": "William Mulder",
+      "publication": "The Catholic Encyclopedia (1907–1912), Robert Appleton Company",
+      "retrievedAt": "2026-10-17",
+      "passage": "Election and rival election narrative; concluding sections on Joanna of Naples, Charles of Durazzo, Nocera, imprisoned cardinals and jubilee policy.",
+      "access": {
+        "method": "web-open",
+        "verified": true
+      },
+      "notes": "Historical Catholic Encyclopedia articles carry local ecclesiastical approval, not Vatican endorsement; their evaluative language and chronology require cross-checking."
+    },
+    {
+      "key": "n201-urban-vi-treccani",
+      "title": "Urbano VI",
+      "url": "https://www.treccani.it/enciclopedia/urbano-vi_(Enciclopedia-dei-Papi)/",
+      "kind": "scholarly-reference",
+      "author": "Ivana Ait",
+      "publication": "Enciclopedia dei Papi, Treccani (2000)",
+      "retrievedAt": "2026-10-17",
+      "passage": "Opening career and birth-date evidence; competing interpretations of the conclave; sections on Naples, military recovery and papal taxation.",
+      "access": {
+        "method": "web-open",
+        "verified": true
+      },
+      "notes": "Modern scholarly interpretation; not an official Vatican classification."
+    },
+    {
+      "key": "n201-boniface-ix-ce",
+      "title": "Pope Boniface IX",
+      "url": "https://www.newadvent.org/cathen/02670a.htm",
+      "kind": "supplementary-catholic",
+      "author": "Thomas Oestereich",
+      "publication": "The Catholic Encyclopedia (1907–1912), Robert Appleton Company",
+      "retrievedAt": "2026-10-17",
+      "passage": "Opening account of Ladislaus, papal control of Rome, refusal of abdication and jubilees; financial-policy discussion requires reading alongside modern scholarship.",
+      "access": {
+        "method": "web-open",
+        "verified": true
+      },
+      "notes": "Historical Catholic Encyclopedia articles carry local ecclesiastical approval, not Vatican endorsement; their evaluative language and chronology require cross-checking."
+    },
+    {
+      "key": "n201-boniface-ix-treccani",
+      "title": "Bonifacio IX",
+      "url": "https://www.treccani.it/enciclopedia/bonifacio-ix_(Enciclopedia-dei-Papi)/",
+      "kind": "scholarly-reference",
+      "author": "Arnold Esch",
+      "publication": "Enciclopedia dei Papi, Treccani (2000)",
+      "retrievedAt": "2026-10-17",
+      "passage": "Opening biography and analysis of divided obediences; Naples, Roman municipal government, regional warfare and the papal financial apparatus.",
+      "access": {
+        "method": "web-open",
+        "verified": true
+      },
+      "notes": "Modern scholarly interpretation; not an official Vatican classification."
+    },
+    {
+      "key": "n201-innocent-vii-ce",
+      "title": "Innocent VII — ce",
+      "url": "https://www.newadvent.org/cathen/08019a.htm",
+      "kind": "supplementary-catholic",
+      "author": "Michael Ott",
+      "publication": "The Catholic Encyclopedia (1907–1912)",
+      "retrievedAt": "2026-10-17",
+      "passage": "Opening legal and financial career; election pledge; Ladislaus’s mediation and Roman constitutional agreements; murder of delegates by Ludovico and exile at Viterbo; return and confrontation with Naples.",
+      "access": {
+        "method": "web-open",
+        "verified": true
+      },
+      "notes": "Historical local imprimatur does not constitute Vatican endorsement; modern biographical corrections are noted."
+    },
+    {
+      "key": "n201-innocent-vii-treccani",
+      "title": "Innocent VII — treccani",
+      "url": "https://www.treccani.it/enciclopedia/innocenzo-vii_(Enciclopedia-dei-Papi)/",
+      "kind": "scholarly-reference",
+      "author": "Amedeo De Vincentiis",
+      "publication": "Enciclopedia dei Papi, Treccani (2000)",
+      "retrievedAt": "2026-10-17",
+      "passage": "Opening legal and financial career; election pledge; Ladislaus’s mediation and Roman constitutional agreements; murder of delegates by Ludovico and exile at Viterbo; return and confrontation with Naples.",
+      "access": {
+        "method": "web-open",
+        "verified": true
+      },
+      "notes": "Modern scholarly biographical reference."
+    },
+    {
+      "key": "n201-gregory-xii-ce",
+      "title": "Gregory XII — ce",
+      "url": "https://www.newadvent.org/cathen/07001a.htm",
+      "kind": "supplementary-catholic",
+      "author": "Michael Ott",
+      "publication": "The Catholic Encyclopedia (1907–1912)",
+      "retrievedAt": "2026-10-17",
+      "passage": "Opening Venetian career and uncertain birth chronology; election oath, failed Savona meeting, Pisa’s rival election; Constance authorization and resignation of 4 July 1415.",
+      "access": {
+        "method": "web-open",
+        "verified": true
+      },
+      "notes": "Historical local imprimatur does not constitute Vatican endorsement; modern biographical corrections are noted."
+    },
+    {
+      "key": "n201-gregory-xii-treccani",
+      "title": "Gregory XII — treccani",
+      "url": "https://www.treccani.it/enciclopedia/gregorio-xii_(Enciclopedia-dei-Papi)/",
+      "kind": "scholarly-reference",
+      "author": "Gherardo Ortalli",
+      "publication": "Enciclopedia dei Papi, Treccani (2000)",
+      "retrievedAt": "2026-10-17",
+      "passage": "Opening Venetian career and uncertain birth chronology; election oath, failed Savona meeting, Pisa’s rival election; Constance authorization and resignation of 4 July 1415.",
+      "access": {
+        "method": "web-open",
+        "verified": true
+      },
+      "notes": "Modern scholarly biographical reference."
+    },
+    {
+      "key": "n201-martin-v-ce",
+      "title": "Martin V — ce",
+      "url": "https://www.newadvent.org/cathen/09725a.htm",
+      "kind": "supplementary-catholic",
+      "author": "Michael Ott",
+      "publication": "The Catholic Encyclopedia (1907–1912)",
+      "retrievedAt": "2026-10-17",
+      "passage": "Early Colonna career and Pisan obedience; extraordinary Constance electoral body; return to Rome and territorial reconstruction; council policy and surviving schismatic claimants.",
+      "access": {
+        "method": "web-open",
+        "verified": true
+      },
+      "notes": "Historical local imprimatur does not constitute Vatican endorsement; modern biographical corrections are noted."
+    },
+    {
+      "key": "n201-martin-v-treccani",
+      "title": "Martin V — treccani",
+      "url": "https://www.treccani.it/enciclopedia/martino-v_(Enciclopedia-dei-Papi)/",
+      "kind": "scholarly-reference",
+      "author": "Concetta Bianca",
+      "publication": "Enciclopedia dei Papi, Treccani (2000)",
+      "retrievedAt": "2026-10-17",
+      "passage": "Early Colonna career and Pisan obedience; extraordinary Constance electoral body; return to Rome and territorial reconstruction; council policy and surviving schismatic claimants.",
+      "access": {
+        "method": "web-open",
+        "verified": true
+      },
+      "notes": "Modern scholarly biographical reference."
+    },
+    {
+      "key": "n201-eugene-iv-ce",
+      "title": "Eugene IV — ce",
+      "url": "https://www.newadvent.org/cathen/05601a.htm",
+      "kind": "supplementary-catholic",
+      "author": "James F. Loughlin",
+      "publication": "The Catholic Encyclopedia (1907–1912)",
+      "retrievedAt": "2026-10-17",
+      "passage": "Venetian religious career; Basel dissolution and reversal, exile in Florence, Ferrara–Florence union, Felix V’s election, Alfonso of Aragon and military pressure in Italy.",
+      "access": {
+        "method": "web-open",
+        "verified": true
+      },
+      "notes": "Historical local imprimatur does not constitute Vatican endorsement; modern biographical corrections are noted."
+    },
+    {
+      "key": "n201-eugene-iv-treccani",
+      "title": "Eugene IV — treccani",
+      "url": "https://www.treccani.it/enciclopedia/eugenio-iv_(Enciclopedia-dei-Papi)/",
+      "kind": "scholarly-reference",
+      "author": "Denys Hay",
+      "publication": "Enciclopedia dei Papi, Treccani (2000)",
+      "retrievedAt": "2026-10-17",
+      "passage": "Venetian religious career; Basel dissolution and reversal, exile in Florence, Ferrara–Florence union, Felix V’s election, Alfonso of Aragon and military pressure in Italy.",
+      "access": {
+        "method": "web-open",
+        "verified": true
+      },
+      "notes": "Modern scholarly biographical reference."
+    },
+    {
+      "key": "n201-eugene-iv-sicut-dudum",
+      "title": "Sicut dudum",
+      "url": "https://www.papalencyclicals.net/eugene04/eugene04sicut.htm",
+      "kind": "primary-text",
+      "author": "Eugene IV",
+      "publication": "13 January 1435; translation reproduced from Joel S. Panzer, The Popes and Slavery (1996), citing Raynaldus’s Annales",
+      "retrievedAt": "2026-10-17",
+      "passage": "Sections 1–4: kidnapping and broken baptismal promises in the Canary Islands; restoration of liberty and property within fifteen days; excommunication for continuing enslavement.",
+      "access": {
+        "method": "web-open",
+        "verified": true
+      },
+      "notes": "A private Catholic document repository, not a Vatican-hosted edition. The text addresses specific Canary Island captives, not a modern universal emancipation statute."
+    },
+    {
+      "key": "n201-nicholas-v-romanus",
+      "title": "Romanus pontifex",
+      "url": "https://www.papalencyclicals.net/nichol05/romanus-pontifex.htm",
+      "kind": "primary-text",
+      "author": "Nicholas V",
+      "publication": "8 January 1455; English text from Frances Gardiner Davenport, European Treaties (Carnegie Institution,1917),pp20–26",
+      "retrievedAt": "2026-10-17",
+      "passage": "English Translation: account of people taken by force from Guinea; operative clause reiterating authorization to conquer and reduce designated non-Christian peoples to perpetual slavery; Portuguese monopoly provisions.",
+      "access": {
+        "method": "web-open",
+        "verified": true
+      },
+      "notes": "Read the actual grant rather than treating a later defense of evangelization as an account of what the document authorized."
+    },
+    {
+      "key": "n201-discovery-statement",
+      "title": "Joint Statement on the Doctrine of Discovery",
+      "url": "https://press.vatican.va/content/salastampa/en/bollettino/pubblico/2023/03/30/230330b.html",
+      "kind": "official-vatican",
+      "author": "Dicasteries for Culture and Education and for Promoting Integral Human Development",
+      "publication": "Holy See Press Office,30 March2023",
+      "retrievedAt": "2026-10-17",
+      "passage": "Paragraphs 5–8 name Dum diversas, Romanus pontifex and Inter caetera; acknowledge inadequate respect for Indigenous rights; repudiate the doctrine of discovery; cite Paul III’s Sublimis Deus.",
+      "access": {
+        "method": "web-open",
+        "verified": true
+      },
+      "notes": "Modern official interpretation distinguishes political grants from expressions of Catholic faith without denying historical failings."
+    },
+    {
+      "key": "n201-nicholas-v-ce",
+      "title": "Nicholas V — Catholic Encyclopedia",
+      "url": "https://www.newadvent.org/cathen/11058a.htm",
+      "kind": "supplementary-catholic",
+      "author": "Thomas Scannell",
+      "publication": "The Catholic Encyclopedia (1907–1912)",
+      "retrievedAt": "2026-10-17",
+      "passage": "Opening Parentucelli/Albergati career; translation and library patronage; Rome rebuilding, Vienna concordat, Felix V’s submission, Porcari conspiracy and Constantinople’s fall.",
+      "access": {
+        "method": "web-open",
+        "verified": true
+      },
+      "notes": "Historical local imprimatur; dated judgments are not adopted as facts."
+    },
+    {
+      "key": "n201-nicholas-v-treccani",
+      "title": "Nicholas V — Enciclopedia dei Papi",
+      "url": "https://www.treccani.it/enciclopedia/niccolo-v_(Enciclopedia-dei-Papi)/",
+      "kind": "scholarly-reference",
+      "author": "Massimo Miglio",
+      "publication": "Treccani (2000)",
+      "retrievedAt": "2026-10-17",
+      "passage": "Opening Parentucelli/Albergati career; translation and library patronage; Rome rebuilding, Vienna concordat, Felix V’s submission, Porcari conspiracy and Constantinople’s fall.",
+      "access": {
+        "method": "web-open",
+        "verified": true
+      },
+      "notes": ""
+    },
+    {
+      "key": "n201-callixtus-iii-ce",
+      "title": "Callixtus III — Catholic Encyclopedia",
+      "url": "https://www.newadvent.org/cathen/03187a.htm",
+      "kind": "supplementary-catholic",
+      "author": "James MacCaffrey",
+      "publication": "The Catholic Encyclopedia (1907–1912)",
+      "retrievedAt": "2026-10-17",
+      "passage": "Legal career in Aragon, Clement VIII’s resignation and Naples negotiations; crusade organization, Belgrade, Borgia relatives and Joan of Arc’s retrial.",
+      "access": {
+        "method": "web-open",
+        "verified": true
+      },
+      "notes": "Historical local imprimatur; dated judgments are not adopted as facts."
+    },
+    {
+      "key": "n201-callixtus-iii-treccani",
+      "title": "Callixtus III — Enciclopedia dei Papi",
+      "url": "https://www.treccani.it/enciclopedia/callisto-iii_(Enciclopedia-dei-Papi)/",
+      "kind": "scholarly-reference",
+      "author": "Michael E. Mallett",
+      "publication": "Treccani (2000)",
+      "retrievedAt": "2026-10-17",
+      "passage": "Legal career in Aragon, Clement VIII’s resignation and Naples negotiations; crusade organization, Belgrade, Borgia relatives and Joan of Arc’s retrial.",
+      "access": {
+        "method": "web-open",
+        "verified": true
+      },
+      "notes": ""
+    },
+    {
+      "key": "n201-pius-ii-ce",
+      "title": "Pius II — Catholic Encyclopedia",
+      "url": "https://www.newadvent.org/cathen/12126c.htm",
+      "kind": "supplementary-catholic",
+      "author": "Nicholas Weber",
+      "publication": "The Catholic Encyclopedia (1907–1912)",
+      "retrievedAt": "2026-10-17",
+      "passage": "Opening Piccolomini literary career and conciliar allegiance; imperial service, Mantua crusade congress, Execrabilis, Italian/ French diplomacy, Pienza, Commentaries and death at Ancona.",
+      "access": {
+        "method": "web-open",
+        "verified": true
+      },
+      "notes": "Historical local imprimatur; dated judgments are not adopted as facts."
+    },
+    {
+      "key": "n201-pius-ii-treccani",
+      "title": "Pius II — Enciclopedia dei Papi",
+      "url": "https://www.treccani.it/enciclopedia/pio-ii_(Enciclopedia-dei-Papi)/",
+      "kind": "scholarly-reference",
+      "author": "Marco Pellegrini",
+      "publication": "Treccani (2000)",
+      "retrievedAt": "2026-10-17",
+      "passage": "Opening Piccolomini literary career and conciliar allegiance; imperial service, Mantua crusade congress, Execrabilis, Italian/ French diplomacy, Pienza, Commentaries and death at Ancona.",
+      "access": {
+        "method": "web-open",
+        "verified": true
+      },
+      "notes": ""
+    },
+    {
+      "key": "n201-holy-office-history",
+      "title": "To promote and safeguard the faith: history of the Holy Office",
+      "url": "https://www.vatican.va/roman_curia/congregations/cfaith/storia/documents/rc_con_cfaith_storia_20150319_promuovere-custodire-fede_en.html",
+      "kind": "official-vatican",
+      "author": "Congregation for the Doctrine of the Faith",
+      "publication": "Historical primary text or institutional publication",
+      "retrievedAt": "2026-10-17",
+      "passage": "Origin and Development of the Holy Office: Sixtus IV’s 1478 concession; Paul III’s six-cardinal commission; confirmation and jurisdiction under Julius III, Paul IV and Pius IV; later curial and Index reforms.",
+      "access": {
+        "method": "web-open",
+        "verified": true
+      },
+      "notes": "Institutional history with an apologetic preface; use its documented acts without adopting its evaluative framing. Its Paul III foundation date needs checking against the original constitution."
+    },
+    {
+      "key": "n201-innocent-viii-summis",
+      "title": "Summis desiderantes affectibus — translated bull",
+      "url": "https://sourcebooks.fordham.edu/source/witches1.asp",
+      "kind": "primary-text",
+      "author": "Innocent VIII; translation in Fordham Internet Medieval Sourcebook",
+      "publication": "Historical primary text or institutional publication",
+      "retrievedAt": "2026-10-17",
+      "passage": "Section “Innocent VIII: BULL Summis desiderantes, Dec.5 th,1484”: allegations of witchcraft, named inquisitors, removal of jurisdictional objections, powers of correction, imprisonment and punishment.",
+      "access": {
+        "method": "web-open",
+        "verified": true
+      },
+      "notes": "Primary papal text reproduced by an academic sourcebook. Allegations in the document are beliefs and accusations, not proof that magic occurred."
+    },
+    {
+      "key": "n201-alexander-vi-inter",
+      "title": "Inter caetera",
+      "url": "https://www.papalencyclicals.net/alex06/alex06inter.htm",
+      "kind": "primary-text",
+      "author": "Alexander VI",
+      "publication": "Historical primary text or institutional publication",
+      "retrievedAt": "2026-10-17",
+      "passage": "4 May 1493: grant of lands to Castile and León beyond the demarcation line, safeguard for existing Christian princes, missionary obligations and exclusion of unauthorized competitors.",
+      "access": {
+        "method": "web-open",
+        "verified": true
+      },
+      "notes": "Private Catholic repository of the papal text. The grant is distinct from the subsequent 1494 Treaty of Tordesillas."
+    },
+    {
+      "key": "n201-alexander-vi-jubilee",
+      "title": "1500 Anno Santo e Rinascimento",
+      "url": "https://www.vatican.va/content/dam/wss/jubilee_2000/pilgrim/documents/ju_gp_05052000-6_it.html",
+      "kind": "official-vatican-publication",
+      "author": "Mario Sensi",
+      "publication": "Historical primary text or institutional publication",
+      "retrievedAt": "2026-10-17",
+      "passage": "Middle section on Savonarola: preaching restrictions,1497 excommunication, Florentine politics and execution on 23 May 1498; final section on 1500 jubilee preparations.",
+      "access": {
+        "method": "web-open",
+        "verified": true
+      },
+      "notes": "Historical Jubilee feature, not a doctrinal ruling. Other passages contain apparent errors about Tordesillas’s date and the artist of the Borgia rooms; those assertions are not used. Savonarola chronology is cross-checked with Treccani."
+    },
+    {
+      "key": "n201-paul-ii-ce",
+      "title": "Paul II — Catholic Encyclopedia",
+      "url": "https://www.newadvent.org/cathen/11578a.htm",
+      "kind": "supplementary-catholic",
+      "author": "Nicholas Weber",
+      "publication": "The Catholic Encyclopedia (1907–1912)",
+      "retrievedAt": "2026-10-17",
+      "passage": "Barbo’s Venetian family and curial formation; election capitulation, ceremonial monarchy, abbreviators and Roman Academy; printing, jubilee and Ottoman aid.",
+      "access": {
+        "method": "web-open",
+        "verified": true
+      },
+      "notes": "Historical local imprimatur; polemical or apologetic judgments require independent evaluation."
+    },
+    {
+      "key": "n201-paul-ii-treccani",
+      "title": "Paul II — Enciclopedia dei Papi",
+      "url": "https://www.treccani.it/enciclopedia/paolo-ii_(Enciclopedia-dei-Papi)/",
+      "kind": "scholarly-reference",
+      "author": "Anna Modigliani",
+      "publication": "Treccani, Enciclopedia dei Papi (2000)",
+      "retrievedAt": "2026-10-17",
+      "passage": "Barbo’s Venetian family and curial formation; election capitulation, ceremonial monarchy, abbreviators and Roman Academy; printing, jubilee and Ottoman aid.",
+      "access": {
+        "method": "web-open",
+        "verified": true
+      },
+      "notes": ""
+    },
+    {
+      "key": "n201-sixtus-iv-ce",
+      "title": "Sixtus IV — Catholic Encyclopedia",
+      "url": "https://www.newadvent.org/cathen/14032b.htm",
+      "kind": "supplementary-catholic",
+      "author": "Richard Urban Butler",
+      "publication": "The Catholic Encyclopedia (1907–1912)",
+      "retrievedAt": "2026-10-17",
+      "passage": "Franciscan scholarly career; Riario/della Rovere networks; Pazzi conspiracy and Florence war; urban works, Sistine Chapel and library patronage. Treccani specifically distinguishes Girolamo from Raffaele Riario.",
+      "access": {
+        "method": "web-open",
+        "verified": true
+      },
+      "notes": "Historical local imprimatur; polemical or apologetic judgments require independent evaluation."
+    },
+    {
+      "key": "n201-sixtus-iv-treccani",
+      "title": "Sixtus IV — Enciclopedia dei Papi",
+      "url": "https://www.treccani.it/enciclopedia/sisto-iv_(Enciclopedia-dei-Papi)/",
+      "kind": "scholarly-reference",
+      "author": "Giuseppe Lombardi",
+      "publication": "Treccani, Enciclopedia dei Papi (2000)",
+      "retrievedAt": "2026-10-17",
+      "passage": "Franciscan scholarly career; Riario/della Rovere networks; Pazzi conspiracy and Florence war; urban works, Sistine Chapel and library patronage. Treccani specifically distinguishes Girolamo from Raffaele Riario.",
+      "access": {
+        "method": "web-open",
+        "verified": true
+      },
+      "notes": ""
+    },
+    {
+      "key": "n201-innocent-viii-ce",
+      "title": "Innocent VIII — Catholic Encyclopedia",
+      "url": "https://www.newadvent.org/cathen/08019b.htm",
+      "kind": "supplementary-catholic",
+      "author": "Nicholas Weber",
+      "publication": "The Catholic Encyclopedia (1907–1912)",
+      "retrievedAt": "2026-10-17",
+      "passage": "Cibo’s Genoese/Neapolitan career and family; Giuliano della Rovere’s patronage; Naples conflict, Prince Cem’s captivity, finances and religious repression.",
+      "access": {
+        "method": "web-open",
+        "verified": true
+      },
+      "notes": "Historical local imprimatur; polemical or apologetic judgments require independent evaluation."
+    },
+    {
+      "key": "n201-innocent-viii-treccani",
+      "title": "Innocent VIII — Enciclopedia dei Papi",
+      "url": "https://www.treccani.it/enciclopedia/innocenzo-viii_(Enciclopedia-dei-Papi)/",
+      "kind": "scholarly-reference",
+      "author": "Marco Pellegrini",
+      "publication": "Treccani, Enciclopedia dei Papi (2000)",
+      "retrievedAt": "2026-10-17",
+      "passage": "Cibo’s Genoese/Neapolitan career and family; Giuliano della Rovere’s patronage; Naples conflict, Prince Cem’s captivity, finances and religious repression.",
+      "access": {
+        "method": "web-open",
+        "verified": true
+      },
+      "notes": ""
+    },
+    {
+      "key": "n201-alexander-vi-ce",
+      "title": "Alexander VI — Catholic Encyclopedia",
+      "url": "https://www.newadvent.org/cathen/01289a.htm",
+      "kind": "supplementary-catholic",
+      "author": "James F. Loughlin",
+      "publication": "The Catholic Encyclopedia (1907–1912)",
+      "retrievedAt": "2026-10-17",
+      "passage": "Borja family and vice-chancellorship;1492 election, children and Italian alliances; French invasions, Cesare’s territorial campaigns, Savonarola and reform plans; colonial grants and 1500 jubilee.",
+      "access": {
+        "method": "web-open",
+        "verified": true
+      },
+      "notes": "Historical local imprimatur; polemical or apologetic judgments require independent evaluation."
+    },
+    {
+      "key": "n201-alexander-vi-treccani",
+      "title": "Alexander VI — Enciclopedia dei Papi",
+      "url": "https://www.treccani.it/enciclopedia/alessandro-vi_(Enciclopedia-dei-Papi)/",
+      "kind": "scholarly-reference",
+      "author": "Giovanni Battista Picotti and Matteo Sanfilippo",
+      "publication": "Treccani, Enciclopedia dei Papi (2000)",
+      "retrievedAt": "2026-10-17",
+      "passage": "Borja family and vice-chancellorship;1492 election, children and Italian alliances; French invasions, Cesare’s territorial campaigns, Savonarola and reform plans; colonial grants and 1500 jubilee.",
+      "access": {
+        "method": "web-open",
+        "verified": true
+      },
+      "notes": ""
+    },
+    {
+      "key": "n201-pius-iii-ce",
+      "title": "Pius III — Catholic Encyclopedia",
+      "url": "https://www.newadvent.org/cathen/12128a.htm",
+      "kind": "supplementary-catholic",
+      "author": "James F. Loughlin",
+      "publication": "The Catholic Encyclopedia (1907–1912)",
+      "retrievedAt": "2026-10-17",
+      "passage": "Piccolomini education, German missions and cardinalate; factional standoff in 1503, election, peace/reform declarations, ordination and rapid death.",
+      "access": {
+        "method": "web-open",
+        "verified": true
+      },
+      "notes": "Historical local imprimatur; polemical or apologetic judgments require independent evaluation."
+    },
+    {
+      "key": "n201-pius-iii-treccani",
+      "title": "Pius III — Enciclopedia dei Papi",
+      "url": "https://www.treccani.it/enciclopedia/pio-iii_(Enciclopedia-dei-Papi)/",
+      "kind": "scholarly-reference",
+      "author": "Matteo Sanfilippo",
+      "publication": "Treccani, Enciclopedia dei Papi (2000)",
+      "retrievedAt": "2026-10-17",
+      "passage": "Piccolomini education, German missions and cardinalate; factional standoff in 1503, election, peace/reform declarations, ordination and rapid death.",
+      "access": {
+        "method": "web-open",
+        "verified": true
+      },
+      "notes": ""
+    },
+    {
+      "key": "n201-julius-ii-ce",
+      "title": "Julius II — Catholic Encyclopedia",
+      "url": "https://www.newadvent.org/cathen/08562a.htm",
+      "kind": "supplementary-catholic",
+      "author": "Michael Ott",
+      "publication": "The Catholic Encyclopedia (1907–1912)",
+      "retrievedAt": "2026-10-17",
+      "passage": "Della Rovere benefices and French connections; territorial recovery, Cambrai/Holy League, Pisa challenge and Fifth Lateran; St Peter’s, Michelangelo, Raphael, city justice and food supply.",
+      "access": {
+        "method": "web-open",
+        "verified": true
+      },
+      "notes": "Historical local imprimatur; polemical or apologetic judgments require independent evaluation."
+    },
+    {
+      "key": "n201-julius-ii-treccani",
+      "title": "Julius II — Enciclopedia dei Papi",
+      "url": "https://www.treccani.it/enciclopedia/giulio-ii_(Enciclopedia-dei-Papi)/",
+      "kind": "scholarly-reference",
+      "author": "Alessandro Pastore",
+      "publication": "Treccani, Enciclopedia dei Papi (2000)",
+      "retrievedAt": "2026-10-17",
+      "passage": "Della Rovere benefices and French connections; territorial recovery, Cambrai/Holy League, Pisa challenge and Fifth Lateran; St Peter’s, Michelangelo, Raphael, city justice and food supply.",
+      "access": {
+        "method": "web-open",
+        "verified": true
+      },
+      "notes": ""
+    },
+    {
+      "key": "n201-leo-x-ce",
+      "title": "Pope Leo X",
+      "url": "https://www.newadvent.org/cathen/09162a.htm",
+      "kind": "supplementary-catholic",
+      "author": "Klemens Löffler",
+      "publication": "The Catholic Encyclopedia, Robert Appleton Company",
+      "retrievedAt": "2026-10-17",
+      "passage": "Opening life and education; art patronage; paragraphs on Bologna concordat, Lateran reform, Urbino, cardinal conspiracy, imperial election, indulgence finance and Luther.",
+      "access": {
+        "method": "web-open",
+        "verified": true
+      },
+      "notes": "Historical Catholic reference with local ecclesiastical approval; evaluative language and factual errors require cross-checking."
+    },
+    {
+      "key": "n201-leo-x-treccani",
+      "title": "Leone X",
+      "url": "https://www.treccani.it/enciclopedia/leone-x_(Enciclopedia-dei-Papi)/",
+      "kind": "scholarly-reference",
+      "author": "Marco Pellegrini",
+      "publication": "Enciclopedia dei Papi, Treccani (2000)",
+      "retrievedAt": "2026-10-17",
+      "passage": "Opening birth and childhood benefices; paragraphs 271–298 on imperial alliance, papal finance, Luther, Exsurge Domine and excommunication, and military aims in Italy.",
+      "access": {
+        "method": "web-open",
+        "verified": true
+      },
+      "notes": "Modern historical scholarship."
+    },
+    {
+      "key": "n201-adrian-vi-ce",
+      "title": "Pope Adrian VI",
+      "url": "https://www.newadvent.org/cathen/01159b.htm",
+      "kind": "supplementary-catholic",
+      "author": "James F. Loughlin",
+      "publication": "The Catholic Encyclopedia, Robert Appleton Company",
+      "retrievedAt": "2026-10-17",
+      "passage": "Entire biography: Utrecht birth, Leuven career, Charles V, Spanish offices, papal election, attempted reform, German mission and death. Its October date for Rhodes is erroneous.",
+      "access": {
+        "method": "web-open",
+        "verified": true
+      },
+      "notes": "Historical Catholic reference with local ecclesiastical approval; evaluative language and factual errors require cross-checking."
+    },
+    {
+      "key": "n201-adrian-vi-treccani",
+      "title": "Adriano VI",
+      "url": "https://www.treccani.it/enciclopedia/adriano-vi_(Enciclopedia-dei-Papi)/",
+      "kind": "scholarly-reference",
+      "author": "Mario Rosa",
+      "publication": "Enciclopedia dei Papi, Treccani (2000)",
+      "retrievedAt": "2026-10-17",
+      "passage": "Opening academic and Spanish career; reform paragraphs 59–66; Nuremberg instructions and Erasmus 67–85; Rhodes, failed neutrality and final alliance 86–96.",
+      "access": {
+        "method": "web-open",
+        "verified": true
+      },
+      "notes": "Modern historical scholarship."
+    },
+    {
+      "key": "n201-clement-vii-ce",
+      "title": "Pope Clement VII",
+      "url": "https://www.newadvent.org/cathen/04024a.htm",
+      "kind": "supplementary-catholic",
+      "author": "Herbert Thurston",
+      "publication": "The Catholic Encyclopedia, Robert Appleton Company",
+      "retrievedAt": "2026-10-17",
+      "passage": "Full biographical narrative, career, pontifical actions and contemporary politics.",
+      "access": {
+        "method": "web-open",
+        "verified": true
+      },
+      "notes": "Historical interpretation requires contextual reading; original summaries use corroborated facts."
+    },
+    {
+      "key": "n201-clement-vii-treccani",
+      "title": "Clement VII",
+      "url": "https://www.treccani.it/enciclopedia/clemente-vii_(Enciclopedia-dei-Papi)/",
+      "kind": "scholarly-reference",
+      "author": "Adriano Prosperi",
+      "publication": "Enciclopedia dei Papi, Treccani (2000)",
+      "retrievedAt": "2026-10-17",
+      "passage": "Opening documented birth; Medici offices and patronage; League of Cognac and sack; paragraphs 264–303 on Florence, German council proposals, Catherine of Aragon and Henry VIII.",
+      "access": {
+        "method": "web-open",
+        "verified": true
+      },
+      "notes": "Historical interpretation requires contextual reading; original summaries use corroborated facts."
+    },
+    {
+      "key": "n201-paul-iii-ce",
+      "title": "Pope Paul III",
+      "url": "https://www.newadvent.org/cathen/11579a.htm",
+      "kind": "supplementary-catholic",
+      "author": "James F. Loughlin",
+      "publication": "The Catholic Encyclopedia, Robert Appleton Company",
+      "retrievedAt": "2026-10-17",
+      "passage": "Full biographical narrative, career, pontifical actions and contemporary politics.",
+      "access": {
+        "method": "web-open",
+        "verified": true
+      },
+      "notes": "Historical interpretation requires contextual reading; original summaries use corroborated facts."
+    },
+    {
+      "key": "n201-paul-iii-treccani",
+      "title": "Paul III",
+      "url": "https://www.treccani.it/enciclopedia/paolo-iii_(Enciclopedia-dei-Papi)/",
+      "kind": "scholarly-reference",
+      "author": "Gino Benzoni",
+      "publication": "Enciclopedia dei Papi, Treccani (2000)",
+      "retrievedAt": "2026-10-17",
+      "passage": "Birth and rise paragraphs 32–60; reform and family interests 165–180; Council of Trent and transfer 198–217. Modern account corrects an overly celebratory older biography.",
+      "access": {
+        "method": "web-open",
+        "verified": true
+      },
+      "notes": "Historical interpretation requires contextual reading; original summaries use corroborated facts."
+    },
+    {
+      "key": "n201-paul-iii-sublimis",
+      "title": "Sublimis Deus",
+      "url": "https://www.papalencyclicals.net/paul03/p3subli.htm",
+      "kind": "primary-text",
+      "author": "Paul III",
+      "publication": "Historical papal text reproduced by Papal Encyclicals Online",
+      "retrievedAt": "2026-10-17",
+      "passage": "Concluding declarations: Indigenous peoples are fully human, retain liberty and property outside Christianity, may not be enslaved, and should be evangelized through preaching and example.",
+      "access": {
+        "method": "web-open",
+        "verified": true
+      },
+      "notes": "Private repository reproduces an English translation; its date heading differs from commonly cited June dating, so public copy uses 1537 only."
+    },
+    {
+      "key": "n201-julius-iii-ce",
+      "title": "Pope Julius III",
+      "url": "https://www.newadvent.org/cathen/08564a.htm",
+      "kind": "supplementary-catholic",
+      "author": "Michael Ott",
+      "publication": "The Catholic Encyclopedia, Robert Appleton Company",
+      "retrievedAt": "2026-10-17",
+      "passage": "Full biographical narrative, career, pontifical actions and contemporary politics.",
+      "access": {
+        "method": "web-open",
+        "verified": true
+      },
+      "notes": "Historical interpretation requires contextual reading; original summaries use corroborated facts."
+    },
+    {
+      "key": "n201-julius-iii-treccani",
+      "title": "Julius III",
+      "url": "https://www.treccani.it/enciclopedia/giulio-iii_(Enciclopedia-dei-Papi)/",
+      "kind": "scholarly-reference",
+      "author": "Giampiero Brunelli",
+      "publication": "Enciclopedia dei Papi, Treccani (2000)",
+      "retrievedAt": "2026-10-17",
+      "passage": "Opening career and Trent presidency; paragraphs 90–122 on Parma war, Protestant delegations, suspension of Trent, mediation, and English reunion.",
+      "access": {
+        "method": "web-open",
+        "verified": true
+      },
+      "notes": "Historical interpretation requires contextual reading; original summaries use corroborated facts."
+    },
+    {
+      "key": "n201-marcellus-ii-ce",
+      "title": "Pope Marcellus II",
+      "url": "https://www.newadvent.org/cathen/09641a.htm",
+      "kind": "supplementary-catholic",
+      "author": "Michael Ott",
+      "publication": "The Catholic Encyclopedia, Robert Appleton Company",
+      "retrievedAt": "2026-10-17",
+      "passage": "Full biographical narrative, career, pontifical actions and contemporary politics.",
+      "access": {
+        "method": "web-open",
+        "verified": true
+      },
+      "notes": "Historical interpretation requires contextual reading; original summaries use corroborated facts."
+    },
+    {
+      "key": "n201-marcellus-ii-treccani",
+      "title": "Marcellus II",
+      "url": "https://www.treccani.it/enciclopedia/marcello-ii_(Enciclopedia-dei-Papi)/",
+      "kind": "scholarly-reference",
+      "author": "Giampiero Brunelli",
+      "publication": "Enciclopedia dei Papi, Treccani (2000)",
+      "retrievedAt": "2026-10-17",
+      "passage": "Birth and education 33–43; Trent theology and council governance 74–112; library and printing 121–124; election, reforms, grain supply and death 125–138.",
+      "access": {
+        "method": "web-open",
+        "verified": true
+      },
+      "notes": "Historical interpretation requires contextual reading; original summaries use corroborated facts."
+    },
+    {
+      "key": "n201-paul-iv-ce",
+      "title": "Pope Paul IV",
+      "url": "https://www.newadvent.org/cathen/11581a.htm",
+      "kind": "supplementary-catholic",
+      "author": "James F. Loughlin",
+      "publication": "The Catholic Encyclopedia (1911), Robert Appleton Company",
+      "retrievedAt": "2026-10-17",
+      "passage": "Entire biography: family, education, earlier offices, pontificate, government and contemporary conflicts.",
+      "access": {
+        "method": "web-open",
+        "verified": true
+      },
+      "notes": "Historical locally approved Catholic reference. Apologetic judgments and omissions are checked against modern scholarship."
+    },
+    {
+      "key": "n201-paul-iv-treccani",
+      "title": "Paul IV",
+      "url": "https://www.treccani.it/enciclopedia/paolo-iv_(Enciclopedia-dei-Papi)/",
+      "kind": "scholarly-reference",
+      "author": "Alberto Aubert",
+      "publication": "Enciclopedia dei Papi, Treccani (2000)",
+      "retrievedAt": "2026-10-17",
+      "passage": "Birth and Theatine foundation; paragraphs 103–123 on inquisitorial authority, ghetto and Ancona; 144–162 on war and Morone; 187–200 on the Roman Index and nephews.",
+      "access": {
+        "method": "web-open",
+        "verified": true
+      },
+      "notes": "Original historical synthesis; claims limited to passages actually consulted."
+    },
+    {
+      "key": "n201-paul-iv-ghetto",
+      "title": "Ghetto",
+      "url": "https://www.treccani.it/enciclopedia/ghetto_(Enciclopedia-delle-scienze-sociali)/",
+      "kind": "scholarly-reference",
+      "author": "Ariel Toaff",
+      "publication": "Enciclopedia delle scienze sociali, Treccani (1994)",
+      "retrievedAt": "2026-10-17",
+      "passage": "Section “Precedenti storici e origine del termine”, especially paragraphs on Venice 1516 and Cum nimis absurdum in 1555: compulsory Jewish residence in papal cities and the unhealthy segregated Roman district.",
+      "access": {
+        "method": "web-open",
+        "verified": true
+      },
+      "notes": "Used for the specific institution and coercive character of the Roman ghetto, without adopting the entry’s broadest generalizations about medieval coexistence."
+    },
+    {
+      "key": "n201-pius-iv-ce",
+      "title": "Pope Pius IV",
+      "url": "https://www.newadvent.org/cathen/12129a.htm",
+      "kind": "supplementary-catholic",
+      "author": "James F. Loughlin",
+      "publication": "The Catholic Encyclopedia (1911), Robert Appleton Company",
+      "retrievedAt": "2026-10-17",
+      "passage": "Entire biography: family, education, earlier offices, pontificate, government and contemporary conflicts.",
+      "access": {
+        "method": "web-open",
+        "verified": true
+      },
+      "notes": "Historical locally approved Catholic reference. Apologetic judgments and omissions are checked against modern scholarship."
+    },
+    {
+      "key": "n201-pius-iv-treccani",
+      "title": "Pius IV",
+      "url": "https://www.treccani.it/enciclopedia/pio-iv_(Enciclopedia-dei-Papi)/",
+      "kind": "scholarly-reference",
+      "author": "Flavio Rurale",
+      "publication": "Enciclopedia dei Papi, Treccani (2000)",
+      "retrievedAt": "2026-10-17",
+      "passage": "Opening birth and Milanese family; 124–159 on nepotism, Carafa prosecutions and partial moderation; 160–190 on council negotiations, episcopal residence, Morone, conclusion and implementation.",
+      "access": {
+        "method": "web-open",
+        "verified": true
+      },
+      "notes": "Original historical synthesis; claims limited to passages actually consulted."
+    },
+    {
+      "key": "n201-pius-iv-trent-confirmation",
+      "title": "Confirmation of the Council of Trent",
+      "url": "https://www.ewtn.com/catholicism/library/petition--bull-of-confirmation-1504",
+      "kind": "primary-text",
+      "author": "Pius IV",
+      "publication": "EWTN Library, reproducing a TAN Books translation",
+      "retrievedAt": "2026-10-17",
+      "passage": "Petition and papal response of 26 January 1564; Benedictus Deus paragraphs confirming all three periods of Trent, ordering enforcement, requesting rulers’ aid and reserving authoritative interpretation to Rome.",
+      "access": {
+        "method": "web-open",
+        "verified": true
+      },
+      "notes": "Primary papal text reproduced by an independent Catholic publisher; not a Vatican-hosted edition."
+    },
+    {
+      "key": "n201-martin-v-garnier",
+      "title": "Benedetto XIV antipapa",
+      "url": "https://www.treccani.it/enciclopedia/benedetto-xiv-antipapa/",
+      "kind": "scholarly-reference",
+      "publication": "Treccani, Enciclopedia on line",
+      "retrievedAt": "2026-10-17",
+      "passage": "Entire short entry: Bernard Garnier, sacristan at Rodez, elected by Jean Carrier on 12 November 1425; very limited authority. Its assertion of early death differs from later archival research.",
+      "access": {
+        "method": "web-open",
+        "verified": true
+      },
+      "notes": "Useful evidence for Garnier’s identity and election, not a basis for precise death chronology."
+    },
+    {
+      "key": "n201-martin-v-claimants",
+      "title": "Clement VIII, Antipope",
+      "url": "https://www.encyclopedia.com/religion/encyclopedias-almanacs-transcripts-and-maps/clement-viii-antipope",
+      "kind": "supplementary-catholic",
+      "author": "P. M. Savage",
+      "publication": "New Catholic Encyclopedia, reproduced by Encyclopedia.com",
+      "retrievedAt": "2026-10-17",
+      "passage": "Biographical paragraphs on Clement’s 1423 election, Carrier’s rejection and election of Garnier in 1425; explicit qualification that only some secondary works make Carrier himself a later Benedict XIV; Alfonso V’s negotiations and Clement’s abdication in July 1429.",
+      "access": {
+        "method": "web-open",
+        "verified": true
+      },
+      "notes": "The entry contains a plainly inconsistent 1365 doctorate date for a person born circa 1370; do not use that detail. Its qualification of Carrier’s supposed papacy is retained rather than flattening the two Benedict XIV identities into equal certainty."
+    }
+  ],
+  "profiles": [
+    {
+      "personId": "pope-gregory-xi",
+      "papalName": "Gregory XI",
+      "alternateNames": [
+        "Pierre Roger de Beaufort"
+      ],
+      "birthDate": {
+        "label": "Circa 1330",
+        "precision": "circa",
+        "sourceRefs": [
+          "n201-gregory-xi-treccani"
+        ],
+        "note": "The consulted biographies support an approximate year, not an exact birthday."
+      },
+      "summary": {
+        "text": "Gregory XI brought the papal court back from Avignon to Rome in 1377. His return, encouraged by Catherine of Siena, did not settle the wars and resentments surrounding papal government in Italy. Florence’s revolt and brutal warfare shadowed the move; the Western Schism began after his death.",
+        "sourceRefs": [
+          "n201-gregory-xi-ce"
+        ]
+      },
+      "biography": {
+        "paragraphs": [
+          {
+            "text": "Pierre Roger grew up within the powerful family of Clement VI. Ecclesiastical benefices and an exceptionally early cardinalate financed his education; legal study at Perugia helped form a pope accustomed to canonists, petitions and dynastic negotiation. His election at Avignon continued a French-dominated curial world, even as governing the Church required a renewed presence in Italy.",
+            "sourceRefs": [
+              "n201-gregory-xi-treccani"
+            ]
+          },
+          {
+            "text": "The conflict with Bernabò Visconti and Florence made that return hazardous. Gregory imposed an interdict on Florence and employed military force while Catherine sought reconciliation. He entered Rome in January 1377, but violence at Cesena under Cardinal Robert of Geneva intensified hostility. Disturbances drove him temporarily to Anagni. The move ended the Avignon residence without repairing the political relationships that would fracture in 1378.",
+            "sourceRefs": [
+              "n201-gregory-xi-ce",
+              "n201-gregory-xi-treccani"
+            ]
+          }
+        ]
+      },
+      "actions": [
+        {
+          "text": "Returned the papal court to Rome, restoring its residence near the apostolic shrines after decades at Avignon.",
+          "sourceRefs": [
+            "n201-gregory-xi-ce"
+          ]
+        },
+        {
+          "text": "Condemned propositions associated with John Wyclif in 1377, extending his government into disputes over doctrine and ecclesiastical authority.",
+          "sourceRefs": [
+            "n201-gregory-xi-ce"
+          ]
+        }
+      ],
+      "context": {
+        "paragraphs": [
+          {
+            "text": "Gregory’s diplomacy extended beyond the French–Italian problem. In southern Italy he mediated between the Angevin court of Joanna of Naples and the rulers of Sicily, combining marriage negotiations, feudal obligations and ecclesiastical privileges. Emperor Charles IV supported him against the Visconti, yet German clergy resisted papal taxation. These pressures explain why returning to Rome was more than a spiritual gesture: the papacy also had to sustain revenue, govern territories and negotiate with rulers whose interests differed sharply.",
+            "sourceRefs": [
+              "n201-gregory-xi-treccani"
+            ]
+          }
+        ]
+      },
+      "saintStatus": {
+        "status": "no-positive-claim",
+        "label": "",
+        "recognition": "No positive canonization or beatification claim was established in the consulted person-specific biographies.",
+        "recognitionDate": null,
+        "beatificationDate": null,
+        "sourceRefs": [
+          "n201-gregory-xi-ce",
+          "n201-gregory-xi-treccani"
+        ]
+      },
+      "antipopeReview": {
+        "status": "reviewed-none",
+        "claimantNames": [],
+        "note": "Checked the named biographies for competing papal claims during this pontificate; later claimants are not moved backward into this reign.",
+        "sourceRefs": [
+          "n201-gregory-xi-ce",
+          "n201-gregory-xi-treccani"
+        ]
+      },
+      "researchNotes": [
+        {
+          "text": "Treccani gives birth around 1330 and Rosiers-d’Égletons; the older encyclopedia gives 1331 and Maumont. Preserve reviewed birthplace geometry and flag the conflict for central reconciliation.",
+          "sourceRefs": [
+            "n201-gregory-xi-ce",
+            "n201-gregory-xi-treccani"
+          ]
+        },
+        {
+          "text": "The encyclopedia gives death on 27 March 1378; the official roster’s 26 March remains the sequence authority. Robert of Geneva became Clement VII only after Gregory’s death.",
+          "sourceRefs": [
+            "n201-gregory-xi-ce",
+            "n201-gregory-xi-treccani"
+          ]
+        }
+      ],
+      "review": {
+        "coverage": "substantive",
+        "sourcesRead": [
+          "n201-gregory-xi-ce",
+          "n201-gregory-xi-treccani"
+        ],
+        "openIssues": [],
+        "fieldsChecked": [
+          "biography",
+          "actions",
+          "context",
+          "birthDate",
+          "recognition",
+          "claimants"
+        ]
+      }
+    },
+    {
+      "personId": "pope-urban-vi",
+      "papalName": "Urban VI",
+      "alternateNames": [
+        "Bartolomeo Prignano"
+      ],
+      "birthDate": {
+        "label": "Circa 1318",
+        "precision": "circa",
+        "sourceRefs": [
+          "n201-urban-vi-treccani"
+        ],
+        "note": "The consulted biographies support an approximate year, not an exact birthday."
+      },
+      "summary": {
+        "text": "Urban VI’s election in Rome was followed within months by a rival election and the Western Schism. A skilled administrator before becoming pope, he pursued reform with a confrontational style that alienated cardinals. His struggle with the Avignon obedience became entangled with the succession to Naples and violence against his own opponents.",
+        "sourceRefs": [
+          "n201-urban-vi-ce"
+        ]
+      },
+      "biography": {
+        "paragraphs": [
+          {
+            "text": "Bartolomeo Prignano studied canon law, served in the Neapolitan Church and became an experienced official of the Avignon chancery. His reputation for ability and personal rigor made him an attractive candidate outside the College of Cardinals. The first conclave held in Rome after the return from Avignon took place amid intense popular demands for a Roman or Italian pope.",
+            "sourceRefs": [
+              "n201-urban-vi-treccani"
+            ]
+          },
+          {
+            "text": "Cardinals initially recognized him, then challenged the election’s freedom and chose Robert of Geneva as Clement VII at Fondi. Urban maintained his own legitimacy. Later he replaced Joanna of Naples with Charles of Durazzo, but their alliance collapsed. During the ensuing struggle he imprisoned cardinals accused of plotting against him; torture and killings gravely damaged his government. His pontificate ended without reconciliation.",
+            "sourceRefs": [
+              "n201-urban-vi-ce",
+              "n201-urban-vi-treccani"
+            ]
+          }
+        ]
+      },
+      "actions": [
+        {
+          "text": "Created new cardinals to sustain the Roman obedience after the rival election, institutionalizing a divided Church.",
+          "sourceRefs": [
+            "n201-urban-vi-ce"
+          ]
+        },
+        {
+          "text": "Planned a jubilee for 1390; the celebration would take place under his successor.",
+          "sourceRefs": [
+            "n201-urban-vi-ce"
+          ]
+        }
+      ],
+      "context": {
+        "paragraphs": [
+          {
+            "text": "The dispute was not simply a quarrel between two personalities. Legal testimony about the conclave, the cardinals’ conception of their own authority, Roman civic pressure and princely alliances all shaped the crisis. Joanna’s shifting position and Charles of Durazzo’s ambitions made Naples an immediate security problem. Military defense and territorial recovery consumed money while papal taxation provoked resistance. Urban’s rigidity intensified these institutional and financial pressures, damaging the alliances on which the Roman obedience depended.",
+            "sourceRefs": [
+              "n201-urban-vi-treccani"
+            ]
+          }
+        ]
+      },
+      "saintStatus": {
+        "status": "no-positive-claim",
+        "label": "",
+        "recognition": "No positive canonization or beatification claim was established in the consulted person-specific biographies.",
+        "recognitionDate": null,
+        "beatificationDate": null,
+        "sourceRefs": [
+          "n201-urban-vi-ce",
+          "n201-urban-vi-treccani"
+        ]
+      },
+      "antipopeReview": {
+        "status": "reviewed-linked",
+        "claimantNames": [
+          "Clement VII (Robert of Geneva)"
+        ],
+        "note": "Checked the named biographies for competing papal claims during this pontificate; later claimants are not moved backward into this reign.",
+        "sourceRefs": [
+          "n201-urban-vi-ce",
+          "n201-urban-vi-treccani"
+        ]
+      },
+      "researchNotes": [
+        {
+          "text": "Birth around 1318 is inferred partly from reported age at election. Treccani discusses competing local birthplace claims; existing reviewed geometry is unchanged.",
+          "sourceRefs": [
+            "n201-urban-vi-ce",
+            "n201-urban-vi-treccani"
+          ]
+        },
+        {
+          "text": "Claims that the conspirators planned to burn Urban, or that he was poisoned, should not be treated as established facts.",
+          "sourceRefs": [
+            "n201-urban-vi-ce",
+            "n201-urban-vi-treccani"
+          ]
+        }
+      ],
+      "review": {
+        "coverage": "substantive",
+        "sourcesRead": [
+          "n201-urban-vi-ce",
+          "n201-urban-vi-treccani"
+        ],
+        "openIssues": [],
+        "fieldsChecked": [
+          "biography",
+          "actions",
+          "context",
+          "birthDate",
+          "recognition",
+          "claimants"
+        ]
+      }
+    },
+    {
+      "personId": "pope-boniface-ix",
+      "papalName": "Boniface IX",
+      "alternateNames": [
+        "Pietro Tomacelli",
+        "Perrino Tomacelli"
+      ],
+      "birthDate": {
+        "label": "Circa 1350",
+        "precision": "circa",
+        "sourceRefs": [
+          "n201-boniface-ix-treccani"
+        ],
+        "note": "The consulted biographies support an approximate year, not an exact birthday."
+      },
+      "summary": {
+        "text": "Boniface IX strengthened the Roman papacy during the Western Schism but did not restore Church unity. He supported Ladislaus in Naples, recovered influence in the Papal States and ended much of Rome’s municipal independence. Pilgrimages and papal revenues sustained his government while rival obediences and pressure for mutual resignation persisted.",
+        "sourceRefs": [
+          "n201-boniface-ix-ce"
+        ]
+      },
+      "biography": {
+        "paragraphs": [
+          {
+            "text": "Pietro Tomacelli, from a Neapolitan noble family, rose through Urban VI’s cardinal appointments before his own election. His more conciliatory personal manner contrasted with Urban’s, but he defended the same Roman succession. He inherited a depleted chancery, scattered records and weak finances, alongside territories where communes, nobles and mercenary companies limited papal power.",
+            "sourceRefs": [
+              "n201-boniface-ix-treccani"
+            ]
+          },
+          {
+            "text": "Boniface backed Ladislaus against the Angevin claimant favored by Avignon and gradually rebuilt his position around Rome. He reinforced strategic strongholds and secured expanded authority over the city in 1398. Clement VII’s death did not end the schism: the Avignon cardinals chose Benedict XIII. Boniface rejected calls to resign together with his rival. The jubilee of 1400 nevertheless brought large numbers of pilgrims, including visitors from outside his regular obedience.",
+            "sourceRefs": [
+              "n201-boniface-ix-ce",
+              "n201-boniface-ix-treccani"
+            ]
+          }
+        ]
+      },
+      "actions": [
+        {
+          "text": "Supported Ladislaus’s coronation and campaigns, tying the Roman obedience to the Neapolitan succession struggle.",
+          "sourceRefs": [
+            "n201-boniface-ix-ce"
+          ]
+        },
+        {
+          "text": "Consolidated papal government in Rome and celebrated the 1400 jubilee despite plague and political insecurity.",
+          "sourceRefs": [
+            "n201-boniface-ix-ce"
+          ]
+        }
+      ],
+      "context": {
+        "paragraphs": [
+          {
+            "text": "The schism divided income as well as allegiance. The obediences had porous boundaries: bishops, cities and rulers could follow different claimants or exploit neutrality. Around Rome, rival-supported commanders and local lords obstructed communication and taxation. Boniface’s efforts to rebuild territorial power therefore depended on negotiation, military spending and revenues from ecclesiastical offices. Political recovery helped stabilize his own obedience but made surrendering the office less attractive, frustrating proposals that both claimants should step aside.",
+            "sourceRefs": [
+              "n201-boniface-ix-treccani"
+            ]
+          }
+        ]
+      },
+      "saintStatus": {
+        "status": "no-positive-claim",
+        "label": "",
+        "recognition": "No positive canonization or beatification claim was established in the consulted person-specific biographies.",
+        "recognitionDate": null,
+        "beatificationDate": null,
+        "sourceRefs": [
+          "n201-boniface-ix-ce",
+          "n201-boniface-ix-treccani"
+        ]
+      },
+      "antipopeReview": {
+        "status": "reviewed-linked",
+        "claimantNames": [
+          "Clement VII (Robert of Geneva)",
+          "Benedict XIII (Pedro de Luna)"
+        ],
+        "note": "Checked the named biographies for competing papal claims during this pontificate; later claimants are not moved backward into this reign.",
+        "sourceRefs": [
+          "n201-boniface-ix-ce",
+          "n201-boniface-ix-treccani"
+        ]
+      },
+      "researchNotes": [
+        {
+          "text": "The New Advent general list incorrectly places the Pisan John XXIII alongside Boniface IX; that claim began in 1410, after this pontificate. Person-specific chronological evidence takes priority.",
+          "sourceRefs": [
+            "n201-boniface-ix-ce",
+            "n201-boniface-ix-treccani"
+          ]
+        },
+        {
+          "text": "The older encyclopedia’s jubilee date 1396 is problematic; use the separately documented 1400 celebration here and retain roster dates unchanged.",
+          "sourceRefs": [
+            "n201-boniface-ix-ce",
+            "n201-boniface-ix-treccani"
+          ]
+        }
+      ],
+      "review": {
+        "coverage": "substantive",
+        "sourcesRead": [
+          "n201-boniface-ix-ce",
+          "n201-boniface-ix-treccani"
+        ],
+        "openIssues": [],
+        "fieldsChecked": [
+          "biography",
+          "actions",
+          "context",
+          "birthDate",
+          "recognition",
+          "claimants"
+        ]
+      }
+    },
+    {
+      "personId": "pope-innocent-vii",
+      "papalName": "Innocent VII",
+      "alternateNames": [
+        "Cosmato dei Migliorati",
+        "Cosimo de’ Migliorati"
+      ],
+      "birthDate": {
+        "label": "1336",
+        "precision": "year",
+        "sourceRefs": [
+          "n201-innocent-vii-treccani"
+        ],
+        "note": "Date evidence and disagreements are recorded in research notes."
+      },
+      "summary": {
+        "text": "Innocent VII inherited a divided Church and a capital in revolt. His legal and financial experience did not free him from dependence on King Ladislaus of Naples. The murder of Roman delegates by his nephew provoked flight to Viterbo, leaving plans for a council and reconciliation with the Avignon obedience unrealized.",
+        "sourceRefs": [
+          "n201-innocent-vii-ce"
+        ]
+      },
+      "biography": {
+        "paragraphs": [
+          {
+            "text": "Cosmato dei Migliorati began his career in the clergy of Sulmona and became a canon-law doctor, papal financial official and diplomat. Service as collector of English revenues and appointments at Ravenna and Bologna placed him inside the government of the Roman obedience. As cardinal he negotiated among northern Italian powers before being elected in 1404, after promising to work for an end to the schism.",
+            "sourceRefs": [
+              "n201-innocent-vii-treccani"
+            ]
+          },
+          {
+            "text": "Ladislaus initially helped arbitrate between the new pope and Rome’s competing factions. The settlement divided civic appointments and jurisdiction, but it did not remove the king’s territorial ambitions. In 1405 Ludovico Migliorati seized and killed members of a Roman delegation. The ensuing uprising drove Innocent and his court to Viterbo; papal apartments and archives were attacked. He returned in 1406 and challenged Ladislaus, but died before resolving the schism.",
+            "sourceRefs": [
+              "n201-innocent-vii-ce",
+              "n201-innocent-vii-treccani"
+            ]
+          }
+        ]
+      },
+      "actions": [
+        {
+          "text": "Proposed a general council after pledging to seek unity, but Roman upheaval prevented the plan from producing a settlement.",
+          "sourceRefs": [
+            "n201-innocent-vii-ce"
+          ]
+        },
+        {
+          "text": "Excommunicated Ladislaus after the king’s intervention became a threat to papal control rather than protection.",
+          "sourceRefs": [
+            "n201-innocent-vii-ce"
+          ]
+        }
+      ],
+      "context": {
+        "paragraphs": [
+          {
+            "text": "Colonna and Orsini competition intersected with the war between Ladislaus and the Angevin claimant to Naples. Rome’s communal government also contested who should guard bridges, choose officials and administer justice. Innocent therefore confronted a constitutional struggle inside the city as well as a Church divided between Rome and Benedict XIII. The assassination of delegates transformed negotiable disputes into a crisis of trust, while Ladislaus could present himself as mediator and exploit the resulting weakness.",
+            "sourceRefs": [
+              "n201-innocent-vii-treccani"
+            ]
+          }
+        ]
+      },
+      "saintStatus": {
+        "status": "no-positive-claim",
+        "label": "",
+        "recognition": "No positive saint or beatification claim was established in the consulted person-specific biographies.",
+        "recognitionDate": null,
+        "beatificationDate": null,
+        "sourceRefs": [
+          "n201-innocent-vii-ce",
+          "n201-innocent-vii-treccani"
+        ]
+      },
+      "antipopeReview": {
+        "status": "reviewed-linked",
+        "claimantNames": [
+          "Benedict XIII (Pedro de Luna)"
+        ],
+        "note": "Reviewed the pontificate’s rival obediences and distinguished contemporary claimants from later rival elections.",
+        "sourceRefs": [
+          "n201-innocent-vii-ce",
+          "n201-innocent-vii-treccani"
+        ]
+      },
+      "researchNotes": [
+        {
+          "text": "Treccani corrects the older account’s humble-family description and provides a more documented early career.",
+          "sourceRefs": [
+            "n201-innocent-vii-ce",
+            "n201-innocent-vii-treccani"
+          ]
+        },
+        {
+          "text": "New Advent calls Ludovico a cardinal; modern Treccani describes the armed nephew’s role without supporting that title. Do not repeat the cardinal claim.",
+          "sourceRefs": [
+            "n201-innocent-vii-ce",
+            "n201-innocent-vii-treccani"
+          ]
+        }
+      ],
+      "review": {
+        "coverage": "substantive",
+        "sourcesRead": [
+          "n201-innocent-vii-ce",
+          "n201-innocent-vii-treccani"
+        ],
+        "openIssues": [],
+        "fieldsChecked": [
+          "biography",
+          "actions",
+          "context",
+          "birthDate",
+          "recognition",
+          "claimants"
+        ]
+      }
+    },
+    {
+      "personId": "pope-gregory-xii",
+      "papalName": "Gregory XII",
+      "alternateNames": [
+        "Angelo Correr",
+        "Angelo Corrario"
+      ],
+      "birthDate": {
+        "label": "Circa 1335",
+        "precision": "circa",
+        "sourceRefs": [
+          "n201-gregory-xii-treccani"
+        ],
+        "note": "Date evidence and disagreements are recorded in research notes."
+      },
+      "summary": {
+        "text": "Gregory XII became pope with a promise to resign if that would reunite the Church. Negotiations failed, and the Council of Pisa’s rival election added a third obedience. His eventual resignation through representatives at Constance in 1415 provided a decisive step toward ending the Western Schism and electing Martin V.",
+        "sourceRefs": [
+          "n201-gregory-xii-ce"
+        ]
+      },
+      "biography": {
+        "paragraphs": [
+          {
+            "text": "Angelo Correr’s career was rooted in Venice. A theologian associated with Bologna, he became bishop of Castello and later titular Latin patriarch of Constantinople. Venetian support, fiscal responsibilities and curial service connected him to the Roman obedience. Elected in 1406, he publicly renewed the cardinals’ pledge to surrender the office if his rival also resigned and a united election could follow.",
+            "sourceRefs": [
+              "n201-gregory-xii-treccani"
+            ]
+          },
+          {
+            "text": "The proposed meeting with Benedict XIII at Savona collapsed amid distrust, family influence and political obstruction. Gregory’s creation of new cardinals intensified the rupture with dissident members of his own college. Pisa declared both rivals deposed and elected Alexander V in 1409, but neither accepted its judgment. At Constance, Gregory’s representatives formally authorized the council’s continuation and presented his resignation. He retained an honored ecclesiastical position and died before Martin V’s election.",
+            "sourceRefs": [
+              "n201-gregory-xii-ce",
+              "n201-gregory-xii-treccani"
+            ]
+          }
+        ]
+      },
+      "actions": [
+        {
+          "text": "Negotiated, unsuccessfully, for mutual resignation with Benedict XIII; the failure helped drive cardinals toward Pisa.",
+          "sourceRefs": [
+            "n201-gregory-xii-ce"
+          ]
+        },
+        {
+          "text": "Authorized action at Constance and resigned on 4 July 1415, removing the Roman claim without requiring his acceptance of deposition.",
+          "sourceRefs": [
+            "n201-gregory-xii-ce"
+          ]
+        }
+      ],
+      "context": {
+        "paragraphs": [
+          {
+            "text": "The schism made a bishop’s allegiance, revenue and jurisdiction depend on competing papal appointments. Correr had experienced those administrative pressures long before election. His Venetian kin supplied a trusted governing network, but their promotion also undermined confidence that he would sacrifice office for unity. Ladislaus feared a settlement favorable to France and the Angevin cause. Constance ultimately combined princely pressure, conciliar procedure and voluntary resignation rather than solving the crisis through a simple agreement between two men.",
+            "sourceRefs": [
+              "n201-gregory-xii-treccani"
+            ]
+          }
+        ]
+      },
+      "saintStatus": {
+        "status": "no-positive-claim",
+        "label": "",
+        "recognition": "No positive saint or beatification claim was established in the consulted person-specific biographies.",
+        "recognitionDate": null,
+        "beatificationDate": null,
+        "sourceRefs": [
+          "n201-gregory-xii-ce",
+          "n201-gregory-xii-treccani"
+        ]
+      },
+      "antipopeReview": {
+        "status": "reviewed-linked",
+        "claimantNames": [
+          "Benedict XIII (Pedro de Luna)",
+          "Alexander V (Pietro Filargo)",
+          "John XXIII (Baldassare Cossa)"
+        ],
+        "note": "Reviewed the pontificate’s rival obediences and distinguished contemporary claimants from later rival elections.",
+        "sourceRefs": [
+          "n201-gregory-xii-ce",
+          "n201-gregory-xii-treccani"
+        ]
+      },
+      "researchNotes": [
+        {
+          "text": "Birth chronology is disputed: older encyclopedia circa 1327; Treccani explains the conventional circa 1335 and a proposal near 1345. No exact birthday is asserted.",
+          "sourceRefs": [
+            "n201-gregory-xii-ce",
+            "n201-gregory-xii-treccani"
+          ]
+        },
+        {
+          "text": "The older phrase “died in the odour of sanctity” is not evidence of a completed canonization or beatification.",
+          "sourceRefs": [
+            "n201-gregory-xii-ce",
+            "n201-gregory-xii-treccani"
+          ]
+        }
+      ],
+      "review": {
+        "coverage": "substantive",
+        "sourcesRead": [
+          "n201-gregory-xii-ce",
+          "n201-gregory-xii-treccani"
+        ],
+        "openIssues": [],
+        "fieldsChecked": [
+          "biography",
+          "actions",
+          "context",
+          "birthDate",
+          "recognition",
+          "claimants"
+        ]
+      }
+    },
+    {
+      "personId": "pope-martin-v",
+      "papalName": "Martin V",
+      "alternateNames": [
+        "Oddone Colonna"
+      ],
+      "birthDate": {
+        "label": "1369–1370",
+        "precision": "range",
+        "sourceRefs": [
+          "n201-martin-v-treccani"
+        ],
+        "note": "Date evidence and disagreements are recorded in research notes."
+      },
+      "summary": {
+        "text": "Martin V’s election at Constance restored a widely recognized papacy after decades of Western Schism. His work then turned to rebuilding Rome, recovering the Papal States and restoring central government. Those successes did not fulfill every demand for reform, and disputes over the authority and frequency of general councils remained unresolved.",
+        "sourceRefs": [
+          "n201-martin-v-ce"
+        ]
+      },
+      "biography": {
+        "paragraphs": [
+          {
+            "text": "Oddone Colonna belonged to a powerful Roman family and trained for a curial career in law and administration. His earlier allegiance was not straightforward: he abandoned Gregory XII for Pisa and participated in the elections of Alexander V and John XXIII. At Constance, an extraordinary electorate joined cardinals with representatives of the council’s nations. His election in 1417 brought together groups that had long recognized different popes.",
+            "sourceRefs": [
+              "n201-martin-v-treccani"
+            ]
+          },
+          {
+            "text": "Martin refused invitations to settle in Germany or return to Avignon. Negotiations with Joanna of Naples and Italian military leaders made his journey to Rome possible in 1420. He repaired churches, public buildings and infrastructure while rebuilding papal territorial authority. Colonna relatives became central to government. He called the council that moved from Pavia to Siena and arranged another at Basel, but resisted treating conciliar government as a standing authority over the pope.",
+            "sourceRefs": [
+              "n201-martin-v-ce",
+              "n201-martin-v-treccani"
+            ]
+          }
+        ]
+      },
+      "actions": [
+        {
+          "text": "Reestablished the papal court in Rome and sponsored reconstruction after prolonged political disruption.",
+          "sourceRefs": [
+            "n201-martin-v-ce"
+          ]
+        },
+        {
+          "text": "Convened Pavia–Siena and provided for Basel, while limiting the conciliar movement’s claim to govern the papacy.",
+          "sourceRefs": [
+            "n201-martin-v-ce"
+          ]
+        }
+      ],
+      "context": {
+        "paragraphs": [
+          {
+            "text": "Constance’s solution depended on an electoral compromise, not simply the victory of the old Roman party. Martin’s own previous Pisan allegiance illustrates how tangled the schism had become. The decree Frequens called for recurring councils, while rulers and reformers expected changes in appointments, taxation and discipline. Meanwhile, Rome required security and supplies, and autonomous cities or commanders controlled much of central Italy. Rebuilding papal authority thus advanced unity but also strengthened the centralized government that conciliar reformers wished to restrain.",
+            "sourceRefs": [
+              "n201-martin-v-treccani"
+            ]
+          }
+        ]
+      },
+      "saintStatus": {
+        "status": "no-positive-claim",
+        "label": "",
+        "recognition": "No positive saint or beatification claim was established in the consulted person-specific biographies.",
+        "recognitionDate": null,
+        "beatificationDate": null,
+        "sourceRefs": [
+          "n201-martin-v-ce",
+          "n201-martin-v-treccani"
+        ]
+      },
+      "antipopeReview": {
+        "status": "reviewed-disputed",
+        "claimantNames": [
+          "Benedict XIII (Pedro de Luna)",
+          "Clement VIII (Gil Sánchez Muñoz)",
+          "Benedict XIV (Bernard Garnier)",
+          "Benedict XIV (Jean Carrier)"
+        ],
+        "note": "Benedict XIII continued after Constance; Clement VIII was elected in 1423 and resigned in 1429. Jean Carrier elected Bernard Garnier as Benedict XIV in 1425. Carrier’s own later claim to the same name is reported in some secondary works but is less securely established; retain that distinction in claimant presentation.",
+        "sourceRefs": [
+          "n201-martin-v-ce",
+          "n201-martin-v-treccani",
+          "n201-martin-v-garnier",
+          "n201-martin-v-claimants"
+        ]
+      },
+      "researchNotes": [
+        {
+          "text": "The birth range derives from the age specified in a 1391 document; the older encyclopedia’s 1368 and internally inconsistent election-age statement are not followed.",
+          "sourceRefs": [
+            "n201-martin-v-ce",
+            "n201-martin-v-treccani"
+          ]
+        },
+        {
+          "text": "The residual Avignon succession is not a simple, fully documented chain of pontificates. Garnier’s election is attested; the later claim attributed to Carrier is qualified in the New Catholic Encyclopedia. Do not supply a precise death or abdication date from generic claimant lists. These minor claims did not restore a broad rival obedience.",
+          "sourceRefs": [
+            "n201-martin-v-garnier",
+            "n201-martin-v-claimants"
+          ]
+        }
+      ],
+      "review": {
+        "coverage": "substantive",
+        "sourcesRead": [
+          "n201-martin-v-ce",
+          "n201-martin-v-treccani",
+          "n201-martin-v-garnier",
+          "n201-martin-v-claimants"
+        ],
+        "openIssues": [],
+        "fieldsChecked": [
+          "biography",
+          "actions",
+          "context",
+          "birthDate",
+          "recognition",
+          "claimants"
+        ]
+      }
+    },
+    {
+      "personId": "pope-eugene-iv",
+      "papalName": "Eugene IV",
+      "alternateNames": [
+        "Gabriele Condulmer"
+      ],
+      "birthDate": {
+        "label": "1383",
+        "precision": "year",
+        "sourceRefs": [
+          "n201-eugene-iv-treccani"
+        ],
+        "note": "Date evidence and disagreements are recorded in research notes."
+      },
+      "summary": {
+        "text": "Eugene IV faced a challenge to papal authority from the Council of Basel while pursuing reunion with the Eastern Churches. Driven from Rome, he governed for years from Florence. The union proclaimed there in 1439 raised his standing, but did not produce lasting Greek acceptance; Basel’s dissidents elected the rival Felix V.",
+        "sourceRefs": [
+          "n201-eugene-iv-ce"
+        ]
+      },
+      "biography": {
+        "paragraphs": [
+          {
+            "text": "Gabriele Condulmer came from a Venetian family connected to Gregory XII. He joined the religious community of San Giorgio in Alga before becoming bishop, cardinal and papal administrator. Earlier divided appointments had already exposed him to the practical consequences of schism. Once elected, he confronted both the Colonna network inherited from Martin V and a council summoned under the settlement reached at Constance.",
+            "sourceRefs": [
+              "n201-eugene-iv-treccani"
+            ]
+          },
+          {
+            "text": "His attempt to dissolve Basel backfired, forcing temporary recognition of the assembly. A Roman uprising sent him into exile in 1434. The conflict revived when negotiations with the Greeks moved to his council at Ferrara and then Florence. Emperor John VIII and eastern bishops signed a union agreement, while Basel deposed Eugene and chose Amadeus of Savoy as Felix V. Eugene’s later diplomatic recovery narrowed his rival’s support without erasing the deeper disagreements.",
+            "sourceRefs": [
+              "n201-eugene-iv-ce",
+              "n201-eugene-iv-treccani"
+            ]
+          }
+        ]
+      },
+      "actions": [
+        {
+          "text": "Transferred conciliar negotiations to Ferrara and Florence, making reunion with Eastern Christians a central papal initiative.",
+          "sourceRefs": [
+            "n201-eugene-iv-ce"
+          ]
+        },
+        {
+          "text": "Worked for military resistance to Ottoman expansion; the crusading coalition suffered a severe defeat at Varna in 1444.",
+          "sourceRefs": [
+            "n201-eugene-iv-ce"
+          ]
+        },
+        {
+          "text": "In Sicut dudum (1435), ordered the release without payment of Canary Islanders taken into slavery and threatened excommunication. The measure addressed concrete kidnapping and broken promises of safety, rather than abolishing all forms of slavery everywhere.",
+          "sourceRefs": [
+            "n201-eugene-iv-sicut-dudum"
+          ]
+        }
+      ],
+      "context": {
+        "paragraphs": [
+          {
+            "text": "Byzantine negotiations took place under Ottoman military pressure, while the Latin Church remained divided over whether a general council could bind or depose its pope. The choice of venue therefore affected both theological dialogue and institutional legitimacy. In Italy, Eugene also had to deal with Alfonso of Aragon’s conquest of Naples and Francesco Sforza’s ambitions along the routes bordering papal territory. Success at Florence strengthened his diplomatic position, but reception of the union depended on Eastern communities beyond the negotiating delegation.",
+            "sourceRefs": [
+              "n201-eugene-iv-treccani"
+            ]
+          }
+        ]
+      },
+      "saintStatus": {
+        "status": "no-positive-claim",
+        "label": "",
+        "recognition": "No positive saint or beatification claim was established in the consulted person-specific biographies.",
+        "recognitionDate": null,
+        "beatificationDate": null,
+        "sourceRefs": [
+          "n201-eugene-iv-ce",
+          "n201-eugene-iv-treccani"
+        ]
+      },
+      "antipopeReview": {
+        "status": "reviewed-linked",
+        "claimantNames": [
+          "Felix V (Amadeus VIII of Savoy)"
+        ],
+        "note": "Reviewed the pontificate’s rival obediences and distinguished contemporary claimants from later rival elections.",
+        "sourceRefs": [
+          "n201-eugene-iv-ce",
+          "n201-eugene-iv-treccani"
+        ]
+      },
+      "researchNotes": [
+        {
+          "text": "Use the official roster’s election date rather than the older encyclopedia’s 4 March. Do not equate the 1439 decree with durable reunion.",
+          "sourceRefs": [
+            "n201-eugene-iv-ce",
+            "n201-eugene-iv-treccani"
+          ]
+        },
+        {
+          "text": "Some secondary lists extend a supposed Benedict XIV claim by Jean Carrier into the early 1430 s, potentially overlapping this reign. The New Catholic Encyclopedia qualifies the underlying identification; it is not treated here as another securely documented election alongside Felix V. Root’s claimant catalogue should preserve the distinction.",
+          "sourceRefs": [
+            "n201-martin-v-claimants"
+          ]
+        }
+      ],
+      "review": {
+        "coverage": "substantive",
+        "sourcesRead": [
+          "n201-eugene-iv-ce",
+          "n201-eugene-iv-treccani",
+          "n201-eugene-iv-sicut-dudum",
+          "n201-martin-v-claimants"
+        ],
+        "openIssues": [],
+        "fieldsChecked": [
+          "biography",
+          "actions",
+          "context",
+          "birthDate",
+          "recognition",
+          "claimants"
+        ]
+      }
+    },
+    {
+      "personId": "pope-nicholas-v",
+      "papalName": "Nicholas V",
+      "alternateNames": [
+        "Tommaso Parentucelli"
+      ],
+      "birthDate": {
+        "label": "15 November 1397",
+        "precision": "date",
+        "sourceRefs": [
+          "n201-nicholas-v-treccani"
+        ],
+        "note": "Day, month and year are supported by the opened biography."
+      },
+      "summary": {
+        "text": "Nicholas V made the papacy a major patron of Renaissance learning, collecting manuscripts, supporting translations and rebuilding Rome. His government also faced republican opposition and the fall of Constantinople. Alongside those cultural achievements, his grants to Portugal authorized conquest and enslavement, leaving a deeply consequential colonial legacy.",
+        "sourceRefs": [
+          "n201-nicholas-v-ce"
+        ]
+      },
+      "biography": {
+        "paragraphs": [
+          {
+            "text": "Tommaso Parentucelli’s learning developed through study, paid tutoring and long service in Cardinal Niccolò Albergati’s household. Managing that household joined practical administration to encounters with scholars and libraries. Diplomatic journeys and the Council of Florence widened his experience of European politics and Greek learning. He took the papal name Nicholas in gratitude to his patron, bringing a book collector’s interests into the government of the Church.",
+            "sourceRefs": [
+              "n201-nicholas-v-treccani"
+            ]
+          },
+          {
+            "text": "As pope he encouraged Greek-to-Latin translations and assembled the collection associated with the Vatican Library’s development. Building projects and the restoration of Rome’s water supply made renewal visible. The settlement with Felix V ended the Basel schism, but Stefano Porcari’s republican conspiracy exposed continuing opposition in Rome. Constantinople’s capture in 1453 frustrated hopes that ecclesiastical union and western assistance could preserve the Byzantine capital.",
+            "sourceRefs": [
+              "n201-nicholas-v-ce"
+            ]
+          }
+        ]
+      },
+      "actions": [
+        {
+          "text": "Supported the Vatican’s manuscript collection and classical translations, strengthening Rome as a center of scholarship.",
+          "sourceRefs": [
+            "n201-nicholas-v-ce"
+          ]
+        },
+        {
+          "text": "Negotiated the Vienna concordat and secured Felix V’s submission, consolidating papal authority after conciliar conflict.",
+          "sourceRefs": [
+            "n201-nicholas-v-ce"
+          ]
+        },
+        {
+          "text": "Romanus pontifex (1455) reaffirmed Portugal’s privileges in African expansion, including authority to subdue designated non-Christian peoples and enslave them. Missionary language and commercial monopoly were joined to coercive conquest in the text itself.",
+          "sourceRefs": [
+            "n201-nicholas-v-romanus"
+          ]
+        }
+      ],
+      "context": {
+        "paragraphs": [
+          {
+            "text": "Nicholas’s scholar-diplomat formation helps explain his belief that learning, monumental buildings and public order could reinforce the papacy together. His network joined Bologna’s ecclesiastical administration, Florentine humanism and international diplomacy. Yet papal renewal also required bargains with secular rulers. The eastern crisis, Roman republican resistance and Portuguese expansion tested the reach of a universal religious authority whose decisions also supported territorial power and commercial privilege.",
+            "sourceRefs": [
+              "n201-nicholas-v-treccani"
+            ]
+          },
+          {
+            "text": "In 2023 the Holy See acknowledged that these grants failed adequately to reflect Indigenous peoples’ equal dignity and rights, while distinguishing their political setting from Catholic teaching.",
+            "sourceRefs": [
+              "n201-discovery-statement"
+            ]
+          }
+        ]
+      },
+      "saintStatus": {
+        "status": "no-positive-claim",
+        "label": "",
+        "recognition": "No positive saint or beatification claim was established in the consulted person-specific biographies.",
+        "recognitionDate": null,
+        "beatificationDate": null,
+        "sourceRefs": [
+          "n201-nicholas-v-ce",
+          "n201-nicholas-v-treccani",
+          "n201-nicholas-v-romanus",
+          "n201-discovery-statement"
+        ]
+      },
+      "antipopeReview": {
+        "status": "reviewed-linked",
+        "claimantNames": [
+          "Felix V (Amadeus VIII of Savoy)"
+        ],
+        "note": "Checked the period for competing papal claims; former schismatic service is distinguished from a rival during this pontificate.",
+        "sourceRefs": [
+          "n201-nicholas-v-ce",
+          "n201-nicholas-v-treccani",
+          "n201-nicholas-v-romanus",
+          "n201-discovery-statement"
+        ]
+      },
+      "researchNotes": [
+        {
+          "text": "Treccani considers the recorded birthday highly probable and rejects a Pisa birthplace tradition; reviewed geometry remains unchanged.",
+          "sourceRefs": [
+            "n201-nicholas-v-ce",
+            "n201-nicholas-v-treccani",
+            "n201-nicholas-v-romanus",
+            "n201-discovery-statement"
+          ]
+        },
+        {
+          "text": "The older encyclopedia’s praise omits the damaging colonial grants; the primary bull and 2023 Vatican acknowledgment are therefore included.",
+          "sourceRefs": [
+            "n201-nicholas-v-ce",
+            "n201-nicholas-v-treccani",
+            "n201-nicholas-v-romanus",
+            "n201-discovery-statement"
+          ]
+        }
+      ],
+      "review": {
+        "coverage": "substantive",
+        "sourcesRead": [
+          "n201-nicholas-v-ce",
+          "n201-nicholas-v-treccani",
+          "n201-nicholas-v-romanus",
+          "n201-discovery-statement"
+        ],
+        "openIssues": [],
+        "fieldsChecked": [
+          "biography",
+          "actions",
+          "context",
+          "birthDate",
+          "recognition",
+          "claimants"
+        ]
+      }
+    },
+    {
+      "personId": "pope-callixtus-iii",
+      "papalName": "Callixtus III",
+      "alternateNames": [
+        "Alonso de Borja",
+        "Alfonso Borgia"
+      ],
+      "birthDate": {
+        "label": "31 December 1378",
+        "precision": "date",
+        "sourceRefs": [
+          "n201-callixtus-iii-treccani"
+        ],
+        "note": "Day, month and year are supported by the opened biography."
+      },
+      "summary": {
+        "text": "Callixtus III devoted much of his short pontificate to resisting Ottoman expansion after Constantinople’s fall. His appeals helped support the defense of Belgrade in 1456, though European rulers resisted a common campaign. He also authorized Joan of Arc’s rehabilitation proceedings and advanced the Borja family whose influence would shape later papal politics.",
+        "sourceRefs": [
+          "n201-callixtus-iii-ce"
+        ]
+      },
+      "biography": {
+        "paragraphs": [
+          {
+            "text": "Alonso Borja trained in civil and canon law at Lleida and entered the service of the Aragonese monarchy. His early connections included Benedict XIII’s obedience, but he helped negotiate Clement VIII’s resignation and Aragon’s accommodation with Martin V. As Alfonso V’s adviser he worked on royal diplomacy, justice and the settlement of Naples before becoming cardinal and settling in Rome.",
+            "sourceRefs": [
+              "n201-callixtus-iii-treccani"
+            ]
+          },
+          {
+            "text": "Elected at an advanced age, Callixtus treated the Ottoman advance as an urgent shared danger. Legates, preaching, taxation and prayer supported military preparations. John Hunyadi, John of Capistrano and papal representatives helped sustain resistance at Belgrade. The victory did not produce the broad coalition he wanted. His promotion of nephews, especially Rodrigo Borja, and conflict over the Neapolitan succession showed how family security and Italian politics competed with his international program.",
+            "sourceRefs": [
+              "n201-callixtus-iii-ce"
+            ]
+          }
+        ]
+      },
+      "actions": [
+        {
+          "text": "Mobilized funds, preaching and prayer for resistance to the Ottomans, including the 1456 defense of Belgrade.",
+          "sourceRefs": [
+            "n201-callixtus-iii-ce"
+          ]
+        },
+        {
+          "text": "Directed renewed judicial examination of Joan of Arc’s condemnation, leading to its annulment rather than a medieval canonization.",
+          "sourceRefs": [
+            "n201-callixtus-iii-ce"
+          ]
+        }
+      ],
+      "context": {
+        "paragraphs": [
+          {
+            "text": "Callixtus had learned politics at Alfonso V’s court, but becoming pope changed the interests he was expected to defend. Aragonese claims in Naples intersected with the papacy’s own feudal claims and with its need for military partners. Elsewhere, rulers and clergy resisted crusading taxes or feared advantages for their rivals. His reliance on trusted Borja relatives also gave his government a Spanish family base in Rome, creating both administrative support and lasting resentment. That tension helps explain why enthusiasm for Belgrade did not become sustained European cooperation.",
+            "sourceRefs": [
+              "n201-callixtus-iii-treccani"
+            ]
+          }
+        ]
+      },
+      "saintStatus": {
+        "status": "no-positive-claim",
+        "label": "",
+        "recognition": "No positive saint or beatification claim was established in the consulted person-specific biographies.",
+        "recognitionDate": null,
+        "beatificationDate": null,
+        "sourceRefs": [
+          "n201-callixtus-iii-ce",
+          "n201-callixtus-iii-treccani"
+        ]
+      },
+      "antipopeReview": {
+        "status": "reviewed-none",
+        "claimantNames": [],
+        "note": "Checked the period for competing papal claims; former schismatic service is distinguished from a rival during this pontificate.",
+        "sourceRefs": [
+          "n201-callixtus-iii-ce",
+          "n201-callixtus-iii-treccani"
+        ]
+      },
+      "researchNotes": [
+        {
+          "text": "Joan’s 1456 rehabilitation annulled her conviction; it did not canonize her.",
+          "sourceRefs": [
+            "n201-callixtus-iii-ce",
+            "n201-callixtus-iii-treccani"
+          ]
+        },
+        {
+          "text": "His earlier role in ending a residual schism does not mean a rival pope confronted him during his own reign.",
+          "sourceRefs": [
+            "n201-callixtus-iii-ce",
+            "n201-callixtus-iii-treccani"
+          ]
+        }
+      ],
+      "review": {
+        "coverage": "substantive",
+        "sourcesRead": [
+          "n201-callixtus-iii-ce",
+          "n201-callixtus-iii-treccani"
+        ],
+        "openIssues": [],
+        "fieldsChecked": [
+          "biography",
+          "actions",
+          "context",
+          "birthDate",
+          "recognition",
+          "claimants"
+        ]
+      }
+    },
+    {
+      "personId": "pope-pius-ii",
+      "papalName": "Pius II",
+      "alternateNames": [
+        "Enea Silvio Piccolomini",
+        "Aeneas Silvius Piccolomini"
+      ],
+      "birthDate": {
+        "label": "18 October 1405",
+        "precision": "date",
+        "sourceRefs": [
+          "n201-pius-ii-treccani"
+        ],
+        "note": "Day, month and year are supported by the opened biography."
+      },
+      "summary": {
+        "text": "Pius II was a humanist writer and diplomat whose life crossed the great disputes of his age. Once a supporter of conciliar opposition to the papacy, he later defended papal authority. His crusading project foundered on European rivalries, and he died at Ancona while trying to lead the expedition himself.",
+        "sourceRefs": [
+          "n201-pius-ii-ce"
+        ]
+      },
+      "biography": {
+        "paragraphs": [
+          {
+            "text": "Enea Silvio Piccolomini grew up in a noble family living in reduced circumstances near Siena. Classical literature appealed to him more than legal study. Service as a secretary took him to Basel, where he sided with opponents of Eugene IV and became involved with Felix V’s cause. His literary gifts and diplomatic adaptability later brought employment at Frederick III’s imperial court and eventual reconciliation with Rome.",
+            "sourceRefs": [
+              "n201-pius-ii-treccani"
+            ]
+          },
+          {
+            "text": "As pope he summoned rulers to Mantua to organize resistance to Ottoman power, but promises of men and money repeatedly failed. Execrabilis rejected appeals from a pope to a future council, reversing the direction of his earlier advocacy. He developed his native Corsignano as Pienza and continued writing the Commentaries. His final journey to Ancona sought to turn personal commitment into military participation, but illness overtook him before the projected campaign.",
+            "sourceRefs": [
+              "n201-pius-ii-ce"
+            ]
+          }
+        ]
+      },
+      "actions": [
+        {
+          "text": "Convened the Mantua congress for an anti-Ottoman coalition, exposing the gap between common religious language and competing state interests.",
+          "sourceRefs": [
+            "n201-pius-ii-ce"
+          ]
+        },
+        {
+          "text": "Issued Execrabilis and retracted earlier conciliar positions, making his intellectual reversal part of papal policy.",
+          "sourceRefs": [
+            "n201-pius-ii-ce"
+          ]
+        }
+      ],
+      "context": {
+        "paragraphs": [
+          {
+            "text": "His support for Ferrante in Naples conflicted with French Angevin ambitions and complicated negotiations with Louis XI over the Pragmatic Sanction of Bourges. That measure concerned appointments and revenues as well as the authority of councils. French promises of repeal therefore became leverage in Italian diplomacy rather than a clean restoration of papal control. Within the Empire, princely rivalries and disputes over crusading taxation similarly limited Frederick III’s usefulness. Pius’s international project repeatedly encountered rulers unwilling to subordinate immediate interests to a general campaign.",
+            "sourceRefs": [
+              "n201-pius-ii-treccani"
+            ]
+          }
+        ]
+      },
+      "saintStatus": {
+        "status": "no-positive-claim",
+        "label": "",
+        "recognition": "No positive saint or beatification claim was established in the consulted person-specific biographies.",
+        "recognitionDate": null,
+        "beatificationDate": null,
+        "sourceRefs": [
+          "n201-pius-ii-ce",
+          "n201-pius-ii-treccani"
+        ]
+      },
+      "antipopeReview": {
+        "status": "reviewed-none",
+        "claimantNames": [],
+        "note": "Checked the period for competing papal claims; former schismatic service is distinguished from a rival during this pontificate.",
+        "sourceRefs": [
+          "n201-pius-ii-ce",
+          "n201-pius-ii-treccani"
+        ]
+      },
+      "researchNotes": [
+        {
+          "text": "Distinguish his pre-papal service to Felix V from claimant relationships during his own reign.",
+          "sourceRefs": [
+            "n201-pius-ii-ce",
+            "n201-pius-ii-treccani"
+          ]
+        },
+        {
+          "text": "Accounts of his youthful affairs are supported, but moralizing rhetoric from the older biography is not reproduced.",
+          "sourceRefs": [
+            "n201-pius-ii-ce",
+            "n201-pius-ii-treccani"
+          ]
+        }
+      ],
+      "review": {
+        "coverage": "substantive",
+        "sourcesRead": [
+          "n201-pius-ii-ce",
+          "n201-pius-ii-treccani"
+        ],
+        "openIssues": [],
+        "fieldsChecked": [
+          "biography",
+          "actions",
+          "context",
+          "birthDate",
+          "recognition",
+          "claimants"
+        ]
+      }
+    },
+    {
+      "personId": "pope-paul-ii",
+      "papalName": "Paul II",
+      "alternateNames": [
+        "Pietro Barbo"
+      ],
+      "birthDate": {
+        "label": "23 February 1417",
+        "precision": "date",
+        "sourceRefs": [
+          "n201-paul-ii-treccani"
+        ],
+        "note": "See source-specific chronology qualifications in research notes."
+      },
+      "summary": {
+        "text": "Paul II combined a taste for magnificent ceremony with a determined defense of papal authority. His confrontation with curial writers and the Roman Academy made him a target of hostile biographies. Yet collecting antiquities, supporting printing and caring for Rome’s poor also belonged to his government, alongside conflict with Bohemia and Ottoman expansion.",
+        "sourceRefs": [
+          "n201-paul-ii-ce"
+        ]
+      },
+      "biography": {
+        "paragraphs": [
+          {
+            "text": "Pietro Barbo was born into Venice’s governing elite and initially prepared for commerce. His uncle Eugene IV redirected him toward an ecclesiastical career, opening access to education, benefices and the cardinalate. Relations with other curial leaders were competitive, and his election in 1464 marked a deliberate break with Pius II’s circle. The cardinals sought to limit papal freedom through an election agreement; Barbo instead asserted a strong monarchical office.",
+            "sourceRefs": [
+              "n201-paul-ii-treccani"
+            ]
+          },
+          {
+            "text": "His rule made that claim visible through vestments, ceremonial imagery and the palace beside San Marco. Abolishing the college of abbreviators deprived curial writers of positions, while arrests associated with the Roman Academy deepened resentment. Platina’s subsequent portrait was shaped by personal conflict. Paul nevertheless protected universities and printing, collected ancient objects and organized relief. His planned jubilee cycle and support for resistance to Ottoman attacks linked Roman government to wider Christian concerns.",
+            "sourceRefs": [
+              "n201-paul-ii-ce",
+              "n201-paul-ii-treccani"
+            ]
+          }
+        ]
+      },
+      "actions": [
+        {
+          "text": "Set the jubilee interval at twenty-five years in 1470, establishing the rhythm followed by later ordinary holy years.",
+          "sourceRefs": [
+            "n201-paul-ii-ce"
+          ]
+        },
+        {
+          "text": "Reorganized curial offices and confronted the Roman Academy, using coercion in a conflict over patronage, ideas and papal control.",
+          "sourceRefs": [
+            "n201-paul-ii-ce"
+          ]
+        }
+      ],
+      "context": {
+        "paragraphs": [
+          {
+            "text": "Ceremony was a form of political communication in a Church still debating the limits of papal power. The cardinals’ electoral demands showed that conciliar-era questions had not disappeared. Barbo’s use of the tiara, public imagery and favored advisers answered those challenges by presenting a sovereign pope rather than a ruler dependent on his college. At the same time, relationships with Venice and other Italian states remained uneasy: a Venetian pope did not simply advance Venetian policy, and ecclesiastical appointments could pit him against his native republic.",
+            "sourceRefs": [
+              "n201-paul-ii-treccani"
+            ]
+          }
+        ]
+      },
+      "saintStatus": {
+        "status": "no-positive-claim",
+        "label": "",
+        "recognition": "No positive canonization or beatification claim was established in the consulted person-specific biographies.",
+        "recognitionDate": null,
+        "beatificationDate": null,
+        "sourceRefs": [
+          "n201-paul-ii-ce",
+          "n201-paul-ii-treccani"
+        ]
+      },
+      "antipopeReview": {
+        "status": "reviewed-none",
+        "claimantNames": [],
+        "note": "Reviewed the biographies for a rival election; hostile councils and threats of deposition are not automatically classified as antipopes.",
+        "sourceRefs": [
+          "n201-paul-ii-ce",
+          "n201-paul-ii-treccani"
+        ]
+      },
+      "researchNotes": [
+        {
+          "text": "Personal accusations in hostile humanist accounts require scrutiny; opposition to particular curial organizations should not be generalized into opposition to all learning.",
+          "sourceRefs": [
+            "n201-paul-ii-ce",
+            "n201-paul-ii-treccani"
+          ]
+        }
+      ],
+      "review": {
+        "coverage": "substantive",
+        "sourcesRead": [
+          "n201-paul-ii-ce",
+          "n201-paul-ii-treccani"
+        ],
+        "openIssues": [],
+        "fieldsChecked": [
+          "biography",
+          "actions",
+          "context",
+          "birthDate",
+          "recognition",
+          "claimants"
+        ]
+      }
+    },
+    {
+      "personId": "pope-sixtus-iv",
+      "papalName": "Sixtus IV",
+      "alternateNames": [
+        "Francesco della Rovere"
+      ],
+      "birthDate": {
+        "label": "21 July 1414",
+        "precision": "date",
+        "sourceRefs": [
+          "n201-sixtus-iv-treccani"
+        ],
+        "note": "See source-specific chronology qualifications in research notes."
+      },
+      "summary": {
+        "text": "Sixtus IV joined major artistic and urban projects to an aggressively dynastic papacy. The Sistine Chapel and expansion of the Vatican Library transformed Rome, while advancement of relatives drew him into wars and the Pazzi conspiracy against the Medici. His rule also authorized the institution that became the Spanish Inquisition.",
+        "sourceRefs": [
+          "n201-sixtus-iv-ce"
+        ]
+      },
+      "biography": {
+        "paragraphs": [
+          {
+            "text": "Francesco della Rovere entered the Franciscan world as a child, pursued philosophical and theological study, and became a respected teacher and minister general. His writings engaged disputes about Christ’s blood and the Immaculate Conception. Promotion to the cardinalate placed this scholar inside a competitive political court. Once pope, he used relatives from several branches of his family as military, territorial and curial agents.",
+            "sourceRefs": [
+              "n201-sixtus-iv-treccani"
+            ]
+          },
+          {
+            "text": "Those networks shaped policy toward Florence. Disputes over Imola, banking, alum revenues and appointments hardened into support for the attempt to overthrow Medici power. Giuliano de’ Medici was killed in 1478; Lorenzo survived. Papal censures and war followed. Meanwhile Sixtus rebuilt churches and bridges, promoted the 1475 jubilee and brought leading painters to the Sistine Chapel. Cultural patronage and coercive state-building were simultaneous parts of his government, rather than separate phases.",
+            "sourceRefs": [
+              "n201-sixtus-iv-ce",
+              "n201-sixtus-iv-treccani"
+            ]
+          }
+        ]
+      },
+      "actions": [
+        {
+          "text": "Built the Sistine Chapel and strengthened the Vatican Library, making Rome a leading center of artistic and scholarly patronage.",
+          "sourceRefs": [
+            "n201-sixtus-iv-ce"
+          ]
+        },
+        {
+          "text": "Used ecclesiastical censures and military alliances in the struggle with Florence and the subsequent war around Ferrara.",
+          "sourceRefs": [
+            "n201-sixtus-iv-ce"
+          ]
+        },
+        {
+          "text": "In 1478 authorized the Spanish monarchs’ inquisitorial initiative, connecting papal jurisdiction with royal investigation and punishment of suspected religious deviation among converts.",
+          "sourceRefs": [
+            "n201-holy-office-history"
+          ]
+        }
+      ],
+      "context": {
+        "paragraphs": [
+          {
+            "text": "The papacy operated within an Italian system of family lordships, banking interests and rapidly changing alliances. Girolamo Riario’s territorial ambitions and the rivalry between papal and Medici financial networks made political opposition intensely personal. The conspiracy’s exact planning remains contested, but papal support for a change of government cannot be erased. Florence’s retaliation against churchmen then supplied a jurisdictional argument for sanctions. The resulting wars damaged the wider cooperation Sixtus also sought against Ottoman expansion.",
+            "sourceRefs": [
+              "n201-sixtus-iv-treccani"
+            ]
+          }
+        ]
+      },
+      "saintStatus": {
+        "status": "no-positive-claim",
+        "label": "",
+        "recognition": "No positive canonization or beatification claim was established in the consulted person-specific biographies.",
+        "recognitionDate": null,
+        "beatificationDate": null,
+        "sourceRefs": [
+          "n201-sixtus-iv-ce",
+          "n201-sixtus-iv-treccani"
+        ]
+      },
+      "antipopeReview": {
+        "status": "reviewed-none",
+        "claimantNames": [],
+        "note": "Reviewed the biographies for a rival election; hostile councils and threats of deposition are not automatically classified as antipopes.",
+        "sourceRefs": [
+          "n201-sixtus-iv-ce",
+          "n201-sixtus-iv-treccani"
+        ]
+      },
+      "researchNotes": [
+        {
+          "text": "The older encyclopedia wrongly identifies Cardinal Raffaele Riario as the conspiracy’s planner; Treccani names Girolamo and says Raffaele was wrongly suspected.",
+          "sourceRefs": [
+            "n201-sixtus-iv-ce",
+            "n201-sixtus-iv-treccani"
+          ]
+        },
+        {
+          "text": "Do not convert evidence of papal support for overthrowing the Medici into an unqualified claim that Sixtus expressly ordered assassination.",
+          "sourceRefs": [
+            "n201-sixtus-iv-ce",
+            "n201-sixtus-iv-treccani"
+          ]
+        }
+      ],
+      "review": {
+        "coverage": "substantive",
+        "sourcesRead": [
+          "n201-sixtus-iv-ce",
+          "n201-sixtus-iv-treccani",
+          "n201-holy-office-history"
+        ],
+        "openIssues": [],
+        "fieldsChecked": [
+          "biography",
+          "actions",
+          "context",
+          "birthDate",
+          "recognition",
+          "claimants"
+        ]
+      }
+    },
+    {
+      "personId": "pope-innocent-viii",
+      "papalName": "Innocent VIII",
+      "alternateNames": [
+        "Giovanni Battista Cibo",
+        "Giovanni Battista Cybo"
+      ],
+      "birthDate": {
+        "label": "1432",
+        "precision": "year",
+        "sourceRefs": [
+          "n201-innocent-viii-treccani"
+        ],
+        "note": "See source-specific chronology qualifications in research notes."
+      },
+      "summary": {
+        "text": "Innocent VIII governed a papacy strained by Italian rivalries and weak finances. His court held the Ottoman prince Cem as a diplomatic hostage while attempts at a common crusade failed. Family alliances and the sale of offices strengthened particular interests, and his authorization of witchcraft prosecutions contributed to a dangerous tradition of religious coercion.",
+        "sourceRefs": [
+          "n201-innocent-viii-ce"
+        ]
+      },
+      "biography": {
+        "paragraphs": [
+          {
+            "text": "Giovanni Battista Cibo grew up amid Genoese and Neapolitan court connections. Before entering the clergy he fathered children whom he acknowledged. Ecclesiastical advancement followed service to Cardinal Calandrini and the patronage of Giuliano della Rovere. His appointments and election were embedded in competition between curial factions, rather than the emergence of an independent reforming program.",
+            "sourceRefs": [
+              "n201-innocent-viii-treccani"
+            ]
+          },
+          {
+            "text": "Conflict with Ferrante of Naples undermined plans for cooperation against the Ottomans. Bringing Cem, Sultan Bayezid II’s brother and rival, to Rome gave Innocent a bargaining instrument but also made the papal household a place of princely captivity. A 1490 congress did not deliver the promised military coalition. At home, financial need encouraged the creation and sale of offices. He also restricted Pico della Mirandola’s proposed disputation and supported action against groups regarded as heretical.",
+            "sourceRefs": [
+              "n201-innocent-viii-ce",
+              "n201-innocent-viii-treccani"
+            ]
+          }
+        ]
+      },
+      "actions": [
+        {
+          "text": "Brought Cem into papal custody, using his contested Ottoman succession as leverage in diplomacy.",
+          "sourceRefs": [
+            "n201-innocent-viii-ce"
+          ]
+        },
+        {
+          "text": "Created saleable offices to meet financial pressures, reinforcing the dependence of government on purchased curial positions.",
+          "sourceRefs": [
+            "n201-innocent-viii-ce"
+          ]
+        },
+        {
+          "text": "Summis desiderantes affectibus (1484) confirmed inquisitors’ authority to imprison and punish people accused of witchcraft. It accepted destructive allegations as a reason for prosecution; those accusations must not be presented as evidence that witchcraft was real.",
+          "sourceRefs": [
+            "n201-innocent-viii-summis"
+          ]
+        }
+      ],
+      "context": {
+        "paragraphs": [
+          {
+            "text": "Cem’s confinement exposed the distance between crusading rhetoric and practical diplomacy. The Knights of Rhodes, France, Hungary, Naples and Venice all recognized his value as a hostage. Innocent acquired custody through concessions to influential partners, while Bayezid paid for his brother’s maintenance and sought assurances against his release. The pope could threaten an expedition but could not rely on princes to undertake one. The same fractured international system limited his freedom when Ferrante threatened Rome.",
+            "sourceRefs": [
+              "n201-innocent-viii-treccani"
+            ]
+          }
+        ]
+      },
+      "saintStatus": {
+        "status": "no-positive-claim",
+        "label": "",
+        "recognition": "No positive canonization or beatification claim was established in the consulted person-specific biographies.",
+        "recognitionDate": null,
+        "beatificationDate": null,
+        "sourceRefs": [
+          "n201-innocent-viii-ce",
+          "n201-innocent-viii-treccani"
+        ]
+      },
+      "antipopeReview": {
+        "status": "reviewed-none",
+        "claimantNames": [],
+        "note": "Reviewed the biographies for a rival election; hostile councils and threats of deposition are not automatically classified as antipopes.",
+        "sourceRefs": [
+          "n201-innocent-viii-ce",
+          "n201-innocent-viii-treccani"
+        ]
+      },
+      "researchNotes": [
+        {
+          "text": "The older encyclopedia misdates Granada’s fall; no 1491 date is repeated here.",
+          "sourceRefs": [
+            "n201-innocent-viii-ce",
+            "n201-innocent-viii-treccani"
+          ]
+        },
+        {
+          "text": "Sensational stories about Innocent’s death or purported blood transfusions are not supported by the sources used and are not included.",
+          "sourceRefs": [
+            "n201-innocent-viii-ce",
+            "n201-innocent-viii-treccani"
+          ]
+        }
+      ],
+      "review": {
+        "coverage": "substantive",
+        "sourcesRead": [
+          "n201-innocent-viii-ce",
+          "n201-innocent-viii-treccani",
+          "n201-innocent-viii-summis"
+        ],
+        "openIssues": [],
+        "fieldsChecked": [
+          "biography",
+          "actions",
+          "context",
+          "birthDate",
+          "recognition",
+          "claimants"
+        ]
+      }
+    },
+    {
+      "personId": "pope-alexander-vi",
+      "papalName": "Alexander VI",
+      "alternateNames": [
+        "Rodrigo de Borja",
+        "Rodrigo Borgia"
+      ],
+      "birthDate": {
+        "label": "Circa 1431",
+        "precision": "circa",
+        "sourceRefs": [
+          "n201-alexander-vi-treccani"
+        ],
+        "note": "See source-specific chronology qualifications in research notes."
+      },
+      "summary": {
+        "text": "Alexander VI made Borgia family advancement inseparable from papal politics. An experienced curial administrator, he maneuvered through French invasions and backed Cesare Borgia’s campaigns. His nepotism, sexual relationships and corrupt patronage damaged the Church’s reputation. His colonial grants and conflict with Savonarola also gave the pontificate consequences far beyond Rome.",
+        "sourceRefs": [
+          "n201-alexander-vi-ce"
+        ]
+      },
+      "biography": {
+        "paragraphs": [
+          {
+            "text": "Rodrigo Borja benefited from his uncle Callixtus III’s patronage and accumulated benefices and wealth as vice-chancellor. His long curial career brought legal expertise and relationships across successive pontificates. His children and intimate relationships were documented, even though hostile storytelling later added unsupported scandals. The 1492 election involved factional bargaining and promises of lucrative rewards, making reform difficult from the beginning.",
+            "sourceRefs": [
+              "n201-alexander-vi-treccani"
+            ]
+          },
+          {
+            "text": "Once pope, Alexander shifted among Milanese, Neapolitan, French and Spanish connections as threats changed. Charles VIII’s invasion reached Rome in 1494. Later, Cesare abandoned the cardinalate and used French support, papal appointments and military force to build a dominion in central Italy. Lucrezia’s marriages likewise served changing alliances. Plans to reform the curia after his son Giovanni’s murder were not carried through, while the 1500 jubilee displayed the papacy’s continuing ability to attract pilgrims.",
+            "sourceRefs": [
+              "n201-alexander-vi-ce",
+              "n201-alexander-vi-treccani"
+            ]
+          }
+        ]
+      },
+      "actions": [
+        {
+          "text": "Used appointments, dynastic marriages and papal resources to advance his family and support Cesare’s territorial expansion.",
+          "sourceRefs": [
+            "n201-alexander-vi-ce"
+          ]
+        },
+        {
+          "text": "Organized the 1500 jubilee and improved approaches to the Vatican, linking pilgrimage to the visibility of papal Rome.",
+          "sourceRefs": [
+            "n201-alexander-vi-ce"
+          ]
+        },
+        {
+          "text": "Inter caetera (1493) purported to grant Castile and León dominion over lands beyond a demarcation line while requiring evangelization. Indigenous sovereignty was not treated on equal terms with Christian rulers’ claims.",
+          "sourceRefs": [
+            "n201-alexander-vi-inter"
+          ]
+        }
+      ],
+      "context": {
+        "paragraphs": [
+          {
+            "text": "Calls for reform became particularly forceful in Savonarola’s Florence, where preaching against curial corruption also supported a political alignment favorable to France. Alexander restricted the friar’s preaching and excommunicated him in 1497; the conflict culminated in prosecution and execution in 1498. Religious obedience, city factions and international alliances intersected. The case shows why the pontificate cannot be explained solely as private scandal: papal spiritual sanctions operated inside struggles over public government and the credibility of the Church itself.",
+            "sourceRefs": [
+              "n201-alexander-vi-jubilee",
+              "n201-alexander-vi-treccani"
+            ]
+          },
+          {
+            "text": "The Holy See’s 2023 statement acknowledged that such grants inadequately reflected Indigenous peoples’ equal dignity and rights and repudiated the later doctrine of discovery.",
+            "sourceRefs": [
+              "n201-discovery-statement"
+            ]
+          }
+        ]
+      },
+      "saintStatus": {
+        "status": "no-positive-claim",
+        "label": "",
+        "recognition": "No positive canonization or beatification claim was established in the consulted person-specific biographies.",
+        "recognitionDate": null,
+        "beatificationDate": null,
+        "sourceRefs": [
+          "n201-alexander-vi-ce",
+          "n201-alexander-vi-treccani"
+        ]
+      },
+      "antipopeReview": {
+        "status": "reviewed-none",
+        "claimantNames": [],
+        "note": "Reviewed the biographies for a rival election; hostile councils and threats of deposition are not automatically classified as antipopes.",
+        "sourceRefs": [
+          "n201-alexander-vi-ce",
+          "n201-alexander-vi-treccani"
+        ]
+      },
+      "researchNotes": [
+        {
+          "text": "Treccani places birth between 1430 and 1432, probably 1 January 1431; use circa 1431 rather than asserting an unqualified exact birthday.",
+          "sourceRefs": [
+            "n201-alexander-vi-ce",
+            "n201-alexander-vi-treccani"
+          ]
+        },
+        {
+          "text": "Documented family misconduct is distinguished from unproven poisoning, incest and lurid banquet stories.",
+          "sourceRefs": [
+            "n201-alexander-vi-ce",
+            "n201-alexander-vi-treccani"
+          ]
+        },
+        {
+          "text": "Inter caetera in 1493 is not the 1494 Treaty of Tordesillas; the Vatican Jubilee feature conflates these elsewhere.",
+          "sourceRefs": [
+            "n201-alexander-vi-ce",
+            "n201-alexander-vi-treccani"
+          ]
+        }
+      ],
+      "review": {
+        "coverage": "substantive",
+        "sourcesRead": [
+          "n201-alexander-vi-ce",
+          "n201-alexander-vi-treccani",
+          "n201-alexander-vi-jubilee",
+          "n201-alexander-vi-inter",
+          "n201-discovery-statement"
+        ],
+        "openIssues": [],
+        "fieldsChecked": [
+          "biography",
+          "actions",
+          "context",
+          "birthDate",
+          "recognition",
+          "claimants"
+        ]
+      }
+    },
+    {
+      "personId": "pope-pius-iii",
+      "papalName": "Pius III",
+      "alternateNames": [
+        "Francesco Todeschini-Piccolomini"
+      ],
+      "birthDate": {
+        "label": "9 May 1439",
+        "precision": "date",
+        "sourceRefs": [
+          "n201-pius-iii-treccani"
+        ],
+        "note": "See source-specific chronology qualifications in research notes."
+      },
+      "summary": {
+        "text": "Pius III’s twenty-six-day pontificate was a brief pause between the Borgia and della Rovere governments. A diplomat with strong German connections, he was chosen when stronger factions could not agree. He spoke of peace and reform, but serious illness and death prevented his intentions from becoming a sustained program.",
+        "sourceRefs": [
+          "n201-pius-iii-ce"
+        ]
+      },
+      "biography": {
+        "paragraphs": [
+          {
+            "text": "Francesco Todeschini-Piccolomini owed his education and early advancement to his uncle Pius II, whose family name he adopted. Legal and humanist training, administration of Siena and legations made him an experienced cardinal rather than a newcomer in 1503. His contacts with German rulers and churchmen, knowledge of the language and patronage of books distinguished a career often overshadowed by his few weeks as pope.",
+            "sourceRefs": [
+              "n201-pius-iii-treccani"
+            ]
+          },
+          {
+            "text": "Alexander VI’s death left Rome crowded by armed interests and exposed the weakness of Cesare Borgia’s position. France and Spain favored different candidates, while Giuliano della Rovere opposed the French cardinal d’Amboise. Piccolomini emerged as an acceptable compromise. Elected while still in lower orders, he received priestly and episcopal ordination before coronation. His health failed within weeks, leaving another conclave to decide the direction of papal government.",
+            "sourceRefs": [
+              "n201-pius-iii-ce",
+              "n201-pius-iii-treccani"
+            ]
+          }
+        ]
+      },
+      "actions": [
+        {
+          "text": "Announced peace and Church reform as priorities, but died before a general reform council could be implemented.",
+          "sourceRefs": [
+            "n201-pius-iii-ce"
+          ]
+        },
+        {
+          "text": "His earlier German legations sustained diplomatic channels between the papacy, imperial authorities and regional churches.",
+          "sourceRefs": [
+            "n201-pius-iii-ce"
+          ]
+        }
+      ],
+      "context": {
+        "paragraphs": [
+          {
+            "text": "The transition of 1503 was shaped by armies as well as ballots. Cesare Borgia’s troops, the Roman baronial families and nearby French and Spanish forces all constrained the cardinals. Election agreements again promised conciliar reform, but participants also wanted immediate security and a pope acceptable to opposing factions. Piccolomini’s reputation and poor health made him a compromise figure whose selection postponed, rather than resolved, the contest. His death returned the cardinals to those unresolved military and diplomatic pressures within a few weeks.",
+            "sourceRefs": [
+              "n201-pius-iii-treccani"
+            ]
+          }
+        ]
+      },
+      "saintStatus": {
+        "status": "no-positive-claim",
+        "label": "",
+        "recognition": "No positive canonization or beatification claim was established in the consulted person-specific biographies.",
+        "recognitionDate": null,
+        "beatificationDate": null,
+        "sourceRefs": [
+          "n201-pius-iii-ce",
+          "n201-pius-iii-treccani"
+        ]
+      },
+      "antipopeReview": {
+        "status": "reviewed-none",
+        "claimantNames": [],
+        "note": "Reviewed the biographies for a rival election; hostile councils and threats of deposition are not automatically classified as antipopes.",
+        "sourceRefs": [
+          "n201-pius-iii-ce",
+          "n201-pius-iii-treccani"
+        ]
+      },
+      "researchNotes": [
+        {
+          "text": "Treccani gives 9 May 1439; the older encyclopedia gives 29 May. Birthplace traditions also differ between Siena and Sarteano; reviewed geometry is retained.",
+          "sourceRefs": [
+            "n201-pius-iii-ce",
+            "n201-pius-iii-treccani"
+          ]
+        },
+        {
+          "text": "Do not portray proposed reforms as completed achievements, or repeat unsupported allegations that he fathered numerous children.",
+          "sourceRefs": [
+            "n201-pius-iii-ce",
+            "n201-pius-iii-treccani"
+          ]
+        }
+      ],
+      "review": {
+        "coverage": "substantive",
+        "sourcesRead": [
+          "n201-pius-iii-ce",
+          "n201-pius-iii-treccani"
+        ],
+        "openIssues": [],
+        "fieldsChecked": [
+          "biography",
+          "actions",
+          "context",
+          "birthDate",
+          "recognition",
+          "claimants"
+        ]
+      }
+    },
+    {
+      "personId": "pope-julius-ii",
+      "papalName": "Julius II",
+      "alternateNames": [
+        "Giuliano della Rovere"
+      ],
+      "birthDate": {
+        "label": "5 December 1443",
+        "precision": "date",
+        "sourceRefs": [
+          "n201-julius-ii-treccani"
+        ],
+        "note": "See source-specific chronology qualifications in research notes."
+      },
+      "summary": {
+        "text": "Julius II rebuilt papal territorial power through campaigns and changing alliances while commissioning some of Rome’s most famous art. He began the new St Peter’s and employed Michelangelo and Raphael. His confrontations with Venice and France brought another conciliar challenge, answered by the Fifth Lateran Council, amid continuing demands for reform.",
+        "sourceRefs": [
+          "n201-julius-ii-ce"
+        ]
+      },
+      "biography": {
+        "paragraphs": [
+          {
+            "text": "Giuliano della Rovere rose through the patronage of his uncle Sixtus IV, accumulating bishoprics, revenues and diplomatic responsibilities. French connections and the fortress at Ostia became crucial when he opposed Alexander VI. His earlier support for French intervention contrasts with his later effort to drive French forces from Italy. The same cardinal who benefited from family advancement eventually made restoration of the Papal States a central papal objective.",
+            "sourceRefs": [
+              "n201-julius-ii-treccani"
+            ]
+          },
+          {
+            "text": "As pope he recovered Perugia and Bologna, confronted Venetian expansion and joined the League of Cambrai before reversing course against France. Dissident cardinals’ assembly at Pisa challenged his authority but produced no lasting rival pope. Julius convened the Fifth Lateran Council. War and patronage proceeded together: Bramante planned St Peter’s, Michelangelo painted the Sistine ceiling, and Raphael decorated the papal apartments, giving an enduring visual form to an unusually militant pontificate.",
+            "sourceRefs": [
+              "n201-julius-ii-ce",
+              "n201-julius-ii-treccani"
+            ]
+          }
+        ]
+      },
+      "actions": [
+        {
+          "text": "Recovered strategic cities and fortresses for papal government through campaigns, negotiation and shifting military coalitions.",
+          "sourceRefs": [
+            "n201-julius-ii-ce"
+          ]
+        },
+        {
+          "text": "Opened the rebuilding of St Peter’s and sponsored Michelangelo and Raphael, transforming the Vatican’s architectural and artistic setting.",
+          "sourceRefs": [
+            "n201-julius-ii-ce"
+          ]
+        },
+        {
+          "text": "Convened the Fifth Lateran Council against a dissident conciliar initiative and in response to demands for ecclesiastical reform.",
+          "sourceRefs": [
+            "n201-julius-ii-ce"
+          ]
+        }
+      ],
+      "context": {
+        "paragraphs": [
+          {
+            "text": "Monumental Rome was also an administrative project. New streets, a proposed justice complex and the movement of governmental functions toward the Vatican linked urban form to sovereignty. Funding St Peter’s required appeals to rulers, assigned revenues and indulgence contributions, while grain supply, patrols and fortified places supported everyday order. These demands connected the pope’s artistic ambitions to fiscal and military government. The resulting grandeur cannot be separated from the institutions and resources that made it possible.",
+            "sourceRefs": [
+              "n201-julius-ii-treccani"
+            ]
+          }
+        ]
+      },
+      "saintStatus": {
+        "status": "no-positive-claim",
+        "label": "",
+        "recognition": "No positive canonization or beatification claim was established in the consulted person-specific biographies.",
+        "recognitionDate": null,
+        "beatificationDate": null,
+        "sourceRefs": [
+          "n201-julius-ii-ce",
+          "n201-julius-ii-treccani"
+        ]
+      },
+      "antipopeReview": {
+        "status": "reviewed-none",
+        "claimantNames": [],
+        "note": "Reviewed the biographies for a rival election; hostile councils and threats of deposition are not automatically classified as antipopes.",
+        "sourceRefs": [
+          "n201-julius-ii-ce",
+          "n201-julius-ii-treccani"
+        ]
+      },
+      "researchNotes": [
+        {
+          "text": "The older encyclopedia calls him free of nepotism, a judgment inconsistent with family advancement documented in modern scholarship; do not adopt it.",
+          "sourceRefs": [
+            "n201-julius-ii-ce",
+            "n201-julius-ii-treccani"
+          ]
+        },
+        {
+          "text": "The French won the battlefield at Ravenna in 1512 despite Gaston de Foix’s death; subsequent withdrawal must not be described as a French defeat there, as the older encyclopedia does.",
+          "sourceRefs": [
+            "n201-julius-ii-ce",
+            "n201-julius-ii-treccani"
+          ]
+        },
+        {
+          "text": "The Pisa assembly of 1511 is distinct from Pisa’s 1409 election of Alexander V.",
+          "sourceRefs": [
+            "n201-julius-ii-ce",
+            "n201-julius-ii-treccani"
+          ]
+        }
+      ],
+      "review": {
+        "coverage": "substantive",
+        "sourcesRead": [
+          "n201-julius-ii-ce",
+          "n201-julius-ii-treccani"
+        ],
+        "openIssues": [],
+        "fieldsChecked": [
+          "biography",
+          "actions",
+          "context",
+          "birthDate",
+          "recognition",
+          "claimants"
+        ]
+      }
+    },
+    {
+      "personId": "pope-leo-x",
+      "papalName": "Leo X",
+      "alternateNames": [
+        "Giovanni de’ Medici"
+      ],
+      "birthDate": {
+        "label": "11 December 1475",
+        "precision": "date",
+        "sourceRefs": [
+          "n201-leo-x-ce",
+          "n201-leo-x-treccani"
+        ],
+        "note": "Birth date stated in both consulted biographies."
+      },
+      "summary": {
+        "text": "Leo X brought the culture and dynastic ambitions of the Medici to the papacy. His support for Raphael and the rebuilding of St Peter’s accompanied expensive warfare and a troubled system of church finance. During his reign, Martin Luther’s attack on indulgence preaching developed into a challenge to papal authority. Leo condemned Luther’s teachings and excommunicated him, while reform measures within the Church remained poorly enforced.",
+        "sourceRefs": [
+          "n201-leo-x-ce",
+          "n201-leo-x-treccani"
+        ]
+      },
+      "biography": {
+        "paragraphs": [
+          {
+            "text": "The son of Lorenzo de’ Medici, Giovanni grew up among Florence’s leading humanist teachers. His father arranged church revenues for him in childhood, and he became a cardinal at thirteen, although the appointment remained secret for three years. The family’s expulsion from Florence in 1494 brought exile and travel rather than an uninterrupted rise to power. Elected pope in 1513, he maintained an elaborate court and commissioned major works by Raphael and his workshop.",
+            "sourceRefs": [
+              "n201-leo-x-ce",
+              "n201-leo-x-treccani"
+            ]
+          },
+          {
+            "text": "Leo continued the Fifth Lateran Council and reached the 1516 Concordat of Bologna with Francis I. It replaced the French Pragmatic Sanction while giving the king extensive powers to nominate bishops and abbots. Meanwhile, money from an indulgence campaign helped finance St Peter’s and repay the debts associated with Albert of Brandenburg’s ecclesiastical appointments. Luther’s protest in 1517 exposed the connection between religious teaching, revenues and accumulated church offices. After negotiations and delays, Exsurge Domine condemned forty-one propositions in 1520; excommunication followed in January 1521. Leo died that December, without resolving the widening rupture.",
+            "sourceRefs": [
+              "n201-leo-x-ce",
+              "n201-leo-x-treccani"
+            ]
+          }
+        ]
+      },
+      "actions": [
+        {
+          "text": "Concluded the Concordat of Bologna, strengthening the crown’s control over appointments in the French Church while reasserting papal authority against conciliar restrictions.",
+          "sourceRefs": [
+            "n201-leo-x-ce"
+          ]
+        },
+        {
+          "text": "Continued the Fifth Lateran Council, whose disciplinary decrees did not overcome pluralism, patronage and abuses of church revenue.",
+          "sourceRefs": [
+            "n201-leo-x-ce"
+          ]
+        },
+        {
+          "text": "Condemned forty-one Lutheran propositions in Exsurge Domine and subsequently excommunicated Luther, turning an unresolved controversy into a formal breach.",
+          "sourceRefs": [
+            "n201-leo-x-treccani"
+          ]
+        },
+        {
+          "text": "Supported Raphael’s Vatican projects and St Peter’s construction, while campaigns to secure Urbino for his nephew added to papal financial pressures.",
+          "sourceRefs": [
+            "n201-leo-x-ce"
+          ]
+        }
+      ],
+      "context": {
+        "paragraphs": [
+          {
+            "text": "Leo’s response to reform developed within the struggle between Francis I and Charles V. Before Charles’s imperial election, Leo hesitated to alienate Frederick of Saxony, who protected Luther and might influence the succession. After 1519, the combined Habsburg holdings in Spain, Naples and the Empire threatened papal freedom of action. Yet suppressing Luther and recovering territories in northern Italy encouraged Leo to ally with Charles in 1521. Religious policy, Medici interests and the military balance were therefore closely connected; blaming the Reformation solely on one indulgence preacher misses the institutions that made the crisis so difficult to contain.",
+            "sourceRefs": [
+              "n201-leo-x-ce",
+              "n201-leo-x-treccani"
+            ]
+          }
+        ]
+      },
+      "saintStatus": {
+        "status": "no-positive-claim",
+        "label": "",
+        "recognition": "The consulted biographies establish no canonization or beatification of this pope; this review does not infer a negative judgment from the absence of a title.",
+        "recognitionDate": null,
+        "beatificationDate": null,
+        "sourceRefs": [
+          "n201-leo-x-ce",
+          "n201-leo-x-treccani"
+        ]
+      },
+      "antipopeReview": {
+        "status": "reviewed-none",
+        "claimantNames": [],
+        "note": "The consulted accounts describe religious and political opposition but no separately elected rival pope during this pontificate.",
+        "sourceRefs": [
+          "n201-leo-x-ce",
+          "n201-leo-x-treccani"
+        ]
+      },
+      "researchNotes": [
+        {
+          "text": "Do not repeat the alleged “fable of Christ” remark or poisoning stories as facts. The Catholic Encyclopedia rejects these accusations. No conclusion about Luther’s entire theology is inferred from a list of condemned propositions.",
+          "sourceRefs": [
+            "n201-leo-x-ce"
+          ]
+        }
+      ],
+      "review": {
+        "coverage": "substantive",
+        "sourcesRead": [
+          "n201-leo-x-ce",
+          "n201-leo-x-treccani"
+        ],
+        "openIssues": [],
+        "fieldsChecked": [
+          "biography",
+          "actions",
+          "context",
+          "birthDate",
+          "recognition",
+          "claimants"
+        ]
+      }
+    },
+    {
+      "personId": "pope-adrian-vi",
+      "papalName": "Adrian VI",
+      "alternateNames": [
+        "Adriaan Florensz",
+        "Adrian of Utrecht"
+      ],
+      "birthDate": {
+        "label": "2 March 1459",
+        "precision": "date",
+        "sourceRefs": [
+          "n201-adrian-vi-ce",
+          "n201-adrian-vi-treccani"
+        ],
+        "note": "Birth date stated in both consulted biographies."
+      },
+      "summary": {
+        "text": "Adrian VI was a university theologian and former tutor of Charles V who became pope while serving in Spain. He tried to reduce court spending and correct abuses in church administration. His instructions to the Diet of Nuremberg acknowledged corruption in Rome while demanding action against Luther. His short reign shows both the urgency of reform and the resistance created by entrenched offices, divided rulers and war.",
+        "sourceRefs": [
+          "n201-adrian-vi-ce",
+          "n201-adrian-vi-treccani"
+        ]
+      },
+      "biography": {
+        "paragraphs": [
+          {
+            "text": "Born in Utrecht to a craftsman’s family, Adrian studied at Leuven and became a respected professor of theology and university administrator. His career changed when he became tutor to the future Charles V. Service in Spain brought the bishopric of Tortosa, responsibility within the Inquisition, a cardinalate and the regency during the revolt of the Comuneros. He was absent when the cardinals elected him in January 1522 and did not reach Rome until August.",
+            "sourceRefs": [
+              "n201-adrian-vi-ce",
+              "n201-adrian-vi-treccani"
+            ]
+          },
+          {
+            "text": "Adrian reduced his household expenses, reviewed privileges and appointments, and sought to remove unsuitable officials. Reforming offices that had been purchased proved especially difficult because compensation threatened an already depleted treasury. At Nuremberg his nuncio, Francesco Chieregati, presented a striking admission that abuses had spread from the Roman court through the Church. Adrian promised correction but also demanded enforcement of the Edict of Worms against Luther. The German estates instead pressed for a council and voiced their own grievances. His attempts to reconcile Europe’s rulers likewise failed, and he died in September 1523 with much of his programme unfinished.",
+            "sourceRefs": [
+              "n201-adrian-vi-ce",
+              "n201-adrian-vi-treccani"
+            ]
+          }
+        ]
+      },
+      "actions": [
+        {
+          "text": "Attempted curial retrenchment and tighter standards for benefices, confronting the financial and legal interests attached to purchased offices.",
+          "sourceRefs": [
+            "n201-adrian-vi-treccani"
+          ]
+        },
+        {
+          "text": "Sent Chieregati to Nuremberg with instructions acknowledging Roman abuses and seeking both reform and repression of Lutheran teaching.",
+          "sourceRefs": [
+            "n201-adrian-vi-treccani"
+          ]
+        },
+        {
+          "text": "Called for a truce among Christian rulers and funds against Ottoman expansion, before abandoning neutrality and joining an anti-French league in August 1523.",
+          "sourceRefs": [
+            "n201-adrian-vi-treccani"
+          ]
+        }
+      ],
+      "context": {
+        "paragraphs": [
+          {
+            "text": "Adrian faced overlapping crises rather than a single reform question. Francis I and Charles V competed over Italy while Ottoman forces captured Rhodes in December 1522. Appeals for common defence repeatedly collided with territorial ambitions. Although Charles had been his pupil, Adrian initially resisted becoming an imperial instrument; his late alliance with the emperor followed growing fear of a French invasion. In Rome, austerity antagonized courtiers accustomed to Leo X’s patronage, and his dependence on northern advisers deepened his isolation. Reform required changing systems of revenue and political cooperation, not simply replacing a lavish court with a frugal one.",
+            "sourceRefs": [
+              "n201-adrian-vi-ce",
+              "n201-adrian-vi-treccani"
+            ]
+          }
+        ]
+      },
+      "saintStatus": {
+        "status": "no-positive-claim",
+        "label": "",
+        "recognition": "The consulted biographies establish no canonization or beatification of this pope; this review does not infer a negative judgment from the absence of a title.",
+        "recognitionDate": null,
+        "beatificationDate": null,
+        "sourceRefs": [
+          "n201-adrian-vi-ce",
+          "n201-adrian-vi-treccani"
+        ]
+      },
+      "antipopeReview": {
+        "status": "reviewed-none",
+        "claimantNames": [],
+        "note": "The consulted accounts describe religious and political opposition but no separately elected rival pope during this pontificate.",
+        "sourceRefs": [
+          "n201-adrian-vi-ce",
+          "n201-adrian-vi-treccani"
+        ]
+      },
+      "researchNotes": [
+        {
+          "text": "The Catholic Encyclopedia places Rhodes’s fall on 24 October; Treccani gives 21 December 1522. Public copy uses December only. Its strongly apologetic judgment of Adrian and description of his admission as exaggerated are not adopted.",
+          "sourceRefs": [
+            "n201-adrian-vi-ce",
+            "n201-adrian-vi-treccani"
+          ]
+        }
+      ],
+      "review": {
+        "coverage": "substantive",
+        "sourcesRead": [
+          "n201-adrian-vi-ce",
+          "n201-adrian-vi-treccani"
+        ],
+        "openIssues": [],
+        "fieldsChecked": [
+          "biography",
+          "actions",
+          "context",
+          "birthDate",
+          "recognition",
+          "claimants"
+        ]
+      }
+    },
+    {
+      "personId": "pope-clement-vii",
+      "papalName": "Clement VII",
+      "alternateNames": [
+        "Giulio de’ Medici"
+      ],
+      "birthDate": {
+        "label": "26 May 1478",
+        "precision": "date",
+        "sourceRefs": [
+          "n201-clement-vii-ce",
+          "n201-clement-vii-treccani"
+        ],
+        "note": "Date supported by the consulted biographical opening."
+      },
+      "summary": {
+        "text": "Clement VII’s pontificate was shaken by the sack of Rome and the English break with papal authority. A powerful Medici adviser before his election, he tried to preserve room for the papacy between France and the Habsburg Empire. His changing alliances ended in captivity in 1527. Reconciliation with Charles V restored Medici power in Florence, but neither the German religious crisis nor Henry VIII’s marriage dispute was resolved.",
+        "sourceRefs": [
+          "n201-clement-vii-ce",
+          "n201-clement-vii-treccani"
+        ]
+      },
+      "biography": {
+        "paragraphs": [
+          {
+            "text": "Giulio de’ Medici was born after his father’s murder in the Pazzi conspiracy and grew up under Lorenzo de’ Medici’s protection. His cousin Leo X made him a cardinal and relied heavily on his diplomatic advice. He accumulated numerous church offices and revenues, and he became pope in 1523 after Adrian VI’s death. His experience in negotiation did not free him from the danger created by foreign armies competing for Italy.",
+            "sourceRefs": [
+              "n201-clement-vii-ce",
+              "n201-clement-vii-treccani"
+            ]
+          },
+          {
+            "text": "After the French defeat at Pavia, Clement joined the League of Cognac against Charles V. Imperial troops, poorly paid and increasingly beyond effective control, sacked Rome in May 1527; Clement took refuge in Castel Sant’Angelo and remained a prisoner for months. He later reconciled with Charles and crowned him at Bologna in 1530. Meanwhile Henry VIII sought an annulment of his marriage to Catherine of Aragon. Clement’s delays and attempted procedural compromises ended with Rome upholding the marriage in 1534, as English legislation dismantled papal jurisdiction. His support for religious reform included approving the Capuchin movement, but a general council remained unassembled.",
+            "sourceRefs": [
+              "n201-clement-vii-ce",
+              "n201-clement-vii-treccani"
+            ]
+          }
+        ]
+      },
+      "actions": [
+        {
+          "text": "Joined the League of Cognac to resist imperial predominance in Italy, a policy followed by invasion, the sack of Rome and papal captivity.",
+          "sourceRefs": [
+            "n201-clement-vii-ce"
+          ]
+        },
+        {
+          "text": "Reconciled with Charles V and crowned him emperor at Bologna, while securing the return of Medici government in Florence.",
+          "sourceRefs": [
+            "n201-clement-vii-ce",
+            "n201-clement-vii-treccani"
+          ]
+        },
+        {
+          "text": "Recalled Henry VIII’s marriage case to Rome and upheld the marriage with Catherine, defending papal adjudication as England rejected its authority.",
+          "sourceRefs": [
+            "n201-clement-vii-ce",
+            "n201-clement-vii-treccani"
+          ]
+        }
+      ],
+      "context": {
+        "paragraphs": [
+          {
+            "text": "Catherine was Charles V’s aunt, so the English case intersected directly with the emperor on whom Clement increasingly depended. Yet the dispute also concerned the validity of an earlier papal dispensation and the right to hear appeals, not simply a choice between two rulers. In Germany, Charles urged a council while Clement feared both renewed conciliar challenges and French opposition. His insistence on favourable conditions postponed action as Protestant institutions became more firmly established. The ruin of Rome and the restoration of his family in Florence narrowed the choices available to a pope already governing amid war.",
+            "sourceRefs": [
+              "n201-clement-vii-ce",
+              "n201-clement-vii-treccani"
+            ]
+          }
+        ]
+      },
+      "saintStatus": {
+        "status": "no-positive-claim",
+        "label": "",
+        "recognition": "No canonization or beatification of this pope is established in the consulted life and recognition material; absence of a saint title is not itself proof of a negative status.",
+        "recognitionDate": null,
+        "beatificationDate": null,
+        "sourceRefs": [
+          "n201-clement-vii-ce",
+          "n201-clement-vii-treccani"
+        ]
+      },
+      "antipopeReview": {
+        "status": "reviewed-none",
+        "claimantNames": [],
+        "note": "Contemporary opposition, election politics and threats of schism were checked; these accounts establish no separately elected rival pope during this reign.",
+        "sourceRefs": [
+          "n201-clement-vii-ce",
+          "n201-clement-vii-treccani"
+        ]
+      },
+      "researchNotes": [
+        {
+          "text": "Do not confuse this pope with the Avignon claimant Clement VII of the Western Schism. The relationship of Giulio to Alessandro de’ Medici is disputed, so no paternity claim is presented as established.",
+          "sourceRefs": [
+            "n201-clement-vii-treccani"
+          ]
+        }
+      ],
+      "review": {
+        "coverage": "substantive",
+        "sourcesRead": [
+          "n201-clement-vii-ce",
+          "n201-clement-vii-treccani"
+        ],
+        "openIssues": [],
+        "fieldsChecked": [
+          "biography",
+          "actions",
+          "context",
+          "birthDate",
+          "recognition",
+          "claimants"
+        ]
+      }
+    },
+    {
+      "personId": "pope-paul-iii",
+      "papalName": "Paul III",
+      "alternateNames": [
+        "Alessandro Farnese"
+      ],
+      "birthDate": {
+        "label": "28 February 1468",
+        "precision": "date",
+        "sourceRefs": [
+          "n201-paul-iii-ce",
+          "n201-paul-iii-treccani"
+        ],
+        "note": "Treccani gives 28 February 1468; the older Catholic Encyclopedia gives 29 February. Prefer the modern researched entry."
+      },
+      "summary": {
+        "text": "Paul III opened the Council of Trent and helped give Catholic reform durable institutions. He approved the Society of Jesus and established the Roman Inquisition. His reign also exposed the tensions between reform, coercion and family power: he promoted young grandsons and created a duchy for his son. In Sublimis Deus he affirmed Indigenous peoples’ liberty and property against claims that conquest or non-Christian belief justified their enslavement.",
+        "sourceRefs": [
+          "n201-paul-iii-ce",
+          "n201-paul-iii-treccani"
+        ]
+      },
+      "biography": {
+        "paragraphs": [
+          {
+            "text": "Alessandro Farnese rose within the patronage networks of Renaissance Rome and became a cardinal under Alexander VI. His humanist education, diplomatic skill and long experience made him an influential figure across several pontificates. He had children before his later priestly career, and his family remained central to his decisions as pope. Elected in 1534, he combined the appointment of reform-minded cardinals with conspicuous advancement of his own grandsons.",
+            "sourceRefs": [
+              "n201-paul-iii-ce",
+              "n201-paul-iii-treccani"
+            ]
+          },
+          {
+            "text": "Paul commissioned examinations of abuses and supported new religious communities, formally approving the Jesuits in 1540. After earlier attempts at Mantua and Vicenza failed, the Council of Trent finally opened in December 1545. It addressed doctrine and discipline together, including Scripture, original sin and justification. A disease outbreak and mounting political conflict led to its transfer to Bologna in 1547. Paul also created a permanent cardinal commission for the Roman Inquisition in 1542. These measures strengthened Catholic organization, but they did not eliminate disagreements over reform or the use of repression.",
+            "sourceRefs": [
+              "n201-paul-iii-ce",
+              "n201-paul-iii-treccani"
+            ]
+          },
+          {
+            "text": "In 1537, Sublimis Deus rejected the argument that Indigenous peoples could be treated as creatures without human capacities. It defended their freedom and possessions even outside Christianity, and prescribed persuasion and Christian example in evangelization. This declaration is significant without implying that colonial exploitation ended or that every papal policy concerning enslavement was consistent.",
+            "sourceRefs": [
+              "n201-paul-iii-sublimis",
+              "n201-discovery-statement"
+            ]
+          }
+        ]
+      },
+      "actions": [
+        {
+          "text": "Convened the Council of Trent, beginning the sustained doctrinal and disciplinary work that later popes would complete.",
+          "sourceRefs": [
+            "n201-paul-iii-ce",
+            "n201-paul-iii-treccani"
+          ]
+        },
+        {
+          "text": "Approved the Society of Jesus, supporting an organization devoted to education, missions and service under papal direction.",
+          "sourceRefs": [
+            "n201-paul-iii-treccani"
+          ]
+        },
+        {
+          "text": "Established the Roman Inquisition in 1542, making investigation and prosecution of heresy a permanent central responsibility.",
+          "sourceRefs": [
+            "n201-holy-office-history"
+          ]
+        },
+        {
+          "text": "Issued Sublimis Deus against the enslavement and dispossession of Indigenous peoples, defending their human capacity and rights regardless of conversion.",
+          "sourceRefs": [
+            "n201-paul-iii-sublimis"
+          ]
+        },
+        {
+          "text": "Created Parma and Piacenza as a duchy for Pier Luigi Farnese, entangling papal government with his family’s territorial ambitions.",
+          "sourceRefs": [
+            "n201-paul-iii-ce"
+          ]
+        }
+      ],
+      "context": {
+        "paragraphs": [
+          {
+            "text": "Charles V wanted religious settlement to reinforce imperial unity; Paul insisted that the Church itself determine doctrine. Their cooperation against the Schmalkaldic League did not remove that disagreement. At the same time, France opposed imperial predominance and disrupted plans for a council. Farnese ambitions further strained relations: Pier Luigi’s assassination and imperial occupation of Piacenza sharpened the dispute between pope and emperor. Trent emerged from this unstable combination of ecclesiastical renewal, territorial rivalry and the collapse of attempts at negotiated religious reunion.",
+            "sourceRefs": [
+              "n201-paul-iii-ce",
+              "n201-paul-iii-treccani"
+            ]
+          }
+        ]
+      },
+      "saintStatus": {
+        "status": "no-positive-claim",
+        "label": "",
+        "recognition": "No canonization or beatification of this pope is established in the consulted life and recognition material; absence of a saint title is not itself proof of a negative status.",
+        "recognitionDate": null,
+        "beatificationDate": null,
+        "sourceRefs": [
+          "n201-paul-iii-ce",
+          "n201-paul-iii-treccani"
+        ]
+      },
+      "antipopeReview": {
+        "status": "reviewed-none",
+        "claimantNames": [],
+        "note": "Contemporary opposition, election politics and threats of schism were checked; these accounts establish no separately elected rival pope during this reign.",
+        "sourceRefs": [
+          "n201-paul-iii-ce",
+          "n201-paul-iii-treccani"
+        ]
+      },
+      "researchNotes": [
+        {
+          "text": "Birth date follows Treccani’s 28 February rather than the Catholic Encyclopedia’s 29 February. Existing birthplace geometry is retained. The older claim that his faults injured only himself is contradicted by the documented political consequences of nepotism.",
+          "sourceRefs": [
+            "n201-paul-iii-ce",
+            "n201-paul-iii-treccani"
+          ]
+        }
+      ],
+      "review": {
+        "coverage": "substantive",
+        "sourcesRead": [
+          "n201-paul-iii-ce",
+          "n201-paul-iii-treccani",
+          "n201-paul-iii-sublimis",
+          "n201-discovery-statement",
+          "n201-holy-office-history"
+        ],
+        "openIssues": [],
+        "fieldsChecked": [
+          "biography",
+          "actions",
+          "context",
+          "birthDate",
+          "recognition",
+          "claimants"
+        ]
+      }
+    },
+    {
+      "personId": "pope-julius-iii",
+      "papalName": "Julius III",
+      "alternateNames": [
+        "Giovanni Maria Ciocchi del Monte"
+      ],
+      "birthDate": {
+        "label": "10 September 1487",
+        "precision": "date",
+        "sourceRefs": [
+          "n201-julius-iii-ce",
+          "n201-julius-iii-treccani"
+        ],
+        "note": "Date supported by the consulted biographical opening."
+      },
+      "summary": {
+        "text": "Julius III resumed the Council of Trent and helped restore England’s communion with Rome under Mary I. A trained lawyer and former council president, he understood the machinery of church government. Yet war over Parma disrupted the council, and his promotion of relatives and an unqualified young favourite undermined reform. His pontificate combined important institutional work with the continuing habits of Renaissance patronage.",
+        "sourceRefs": [
+          "n201-julius-iii-ce",
+          "n201-julius-iii-treccani"
+        ]
+      },
+      "biography": {
+        "paragraphs": [
+          {
+            "text": "Giovanni Maria del Monte studied law, inherited episcopal offices from his uncle and served as a papal governor. During the sack of Rome he was held as a hostage and narrowly escaped death. Paul III made him a cardinal and appointed him one of the presidents of Trent, where he defended papal authority amid disputes over doctrine, reform and the emperor’s influence. A long, divided conclave elected him in 1550.",
+            "sourceRefs": [
+              "n201-julius-iii-ce",
+              "n201-julius-iii-treccani"
+            ]
+          },
+          {
+            "text": "Julius reopened Trent in 1551. The council worked on the Eucharist, penance and anointing of the sick, and Protestant representatives appeared, although their conditions for participation remained unresolved. Renewed warfare in Germany forced suspension in 1552. His own war against Ottavio Farnese over Parma also alienated France and discouraged French participation. In his later years, Julius encouraged the Jesuits and the German College, supported Reginald Pole’s mission to England and pursued diplomatic mediation. The lavish Villa Giulia and the cardinalate granted to the young Innocenzo del Monte stood beside these initiatives as visible examples of privileged patronage.",
+            "sourceRefs": [
+              "n201-julius-iii-ce",
+              "n201-julius-iii-treccani"
+            ]
+          }
+        ]
+      },
+      "actions": [
+        {
+          "text": "Reopened Trent in 1551, allowing further sacramental decrees before military events again interrupted proceedings.",
+          "sourceRefs": [
+            "n201-julius-iii-ce",
+            "n201-julius-iii-treccani"
+          ]
+        },
+        {
+          "text": "Supported the German College in Rome to educate clergy for the religiously divided German lands.",
+          "sourceRefs": [
+            "n201-julius-iii-ce"
+          ]
+        },
+        {
+          "text": "Sent Cardinal Pole as legate for England’s reconciliation under Mary I, accepting practical accommodations over former church property.",
+          "sourceRefs": [
+            "n201-julius-iii-ce",
+            "n201-julius-iii-treccani"
+          ]
+        },
+        {
+          "text": "Elevated Innocenzo del Monte and rewarded relatives, damaging confidence in the reforming purposes of his pontificate.",
+          "sourceRefs": [
+            "n201-julius-iii-ce"
+          ]
+        }
+      ],
+      "context": {
+        "paragraphs": [
+          {
+            "text": "The Parma conflict illustrates why a council could not be insulated from European politics. Ottavio Farnese sought French help against imperial pressure; Julius fought beside Charles V, and Henry II withdrew French prelates from Trent. Meanwhile Maurice of Saxony’s revolt overturned the emperor’s position in Germany. England offered a contrasting opening after Mary’s accession, but Charles delayed Pole’s arrival while arranging her marriage to Philip. Reunion therefore depended on parliamentary interests, confiscated property and Habsburg strategy as well as religious conviction.",
+            "sourceRefs": [
+              "n201-julius-iii-ce",
+              "n201-julius-iii-treccani"
+            ]
+          }
+        ]
+      },
+      "saintStatus": {
+        "status": "no-positive-claim",
+        "label": "",
+        "recognition": "No canonization or beatification of this pope is established in the consulted life and recognition material; absence of a saint title is not itself proof of a negative status.",
+        "recognitionDate": null,
+        "beatificationDate": null,
+        "sourceRefs": [
+          "n201-julius-iii-ce",
+          "n201-julius-iii-treccani"
+        ]
+      },
+      "antipopeReview": {
+        "status": "reviewed-none",
+        "claimantNames": [],
+        "note": "Contemporary opposition, election politics and threats of schism were checked; these accounts establish no separately elected rival pope during this reign.",
+        "sourceRefs": [
+          "n201-julius-iii-ce",
+          "n201-julius-iii-treccani"
+        ]
+      },
+      "researchNotes": [
+        {
+          "text": "Distinguish documented promotion of an unsuitable favourite from unproved allegations about the nature of Julius’s sexual relationship with Innocenzo. No unsupported allegation is made.",
+          "sourceRefs": [
+            "n201-julius-iii-ce"
+          ]
+        }
+      ],
+      "review": {
+        "coverage": "substantive",
+        "sourcesRead": [
+          "n201-julius-iii-ce",
+          "n201-julius-iii-treccani"
+        ],
+        "openIssues": [],
+        "fieldsChecked": [
+          "biography",
+          "actions",
+          "context",
+          "birthDate",
+          "recognition",
+          "claimants"
+        ]
+      }
+    },
+    {
+      "personId": "pope-marcellus-ii",
+      "papalName": "Marcellus II",
+      "alternateNames": [
+        "Marcello Cervini"
+      ],
+      "birthDate": {
+        "label": "6 May 1501",
+        "precision": "date",
+        "sourceRefs": [
+          "n201-marcellus-ii-ce",
+          "n201-marcellus-ii-treccani"
+        ],
+        "note": "Date supported by the consulted biographical opening."
+      },
+      "summary": {
+        "text": "Marcellus II’s twenty-two-day pontificate left little time for legislation, but his earlier career helps explain the hopes surrounding his election. A scholar, Vatican librarian and leading president at Trent, he connected textual learning with church reform. He began a review of curial offices, adopted a restrained court style and attended to Rome’s food supply. His death ended these plans before they could become a lasting programme.",
+        "sourceRefs": [
+          "n201-marcellus-ii-ce",
+          "n201-marcellus-ii-treccani"
+        ]
+      },
+      "biography": {
+        "paragraphs": [
+          {
+            "text": "Marcello Cervini received an unusually broad education in languages, mathematics, astronomy and practical crafts. Service to the Farnese brought him into papal diplomacy and then the cardinalate. At Trent he helped organize debate and worked closely on the decrees concerning Scripture, original sin, justification and the sacraments. He defended papal authority, but also recognized that the council’s credibility required attention to reform.",
+            "sourceRefs": [
+              "n201-marcellus-ii-ce",
+              "n201-marcellus-ii-treccani"
+            ]
+          },
+          {
+            "text": "As Vatican librarian, Cervini encouraged the acquisition, cataloguing and publication of manuscripts. His interest in Greek Christian writings was both scholarly and religious: better access to early sources could inform Catholic teaching and controversy. Elected in April 1555, he retained his baptismal name. He called for a more austere court, ordered earlier reform proposals to be revised, and sought improvements in the Dataria, Rota and other offices. He also assembled a financial commission and dealt with grain provision for the poor. Already in fragile health, he died at the beginning of May, leaving intentions and preliminary decisions rather than completed institutional transformation.",
+            "sourceRefs": [
+              "n201-marcellus-ii-ce",
+              "n201-marcellus-ii-treccani"
+            ]
+          }
+        ]
+      },
+      "actions": [
+        {
+          "text": "Helped direct Trent’s first period and shape its theological deliberations before becoming pope.",
+          "sourceRefs": [
+            "n201-marcellus-ii-ce",
+            "n201-marcellus-ii-treccani"
+          ]
+        },
+        {
+          "text": "Expanded the Vatican Library’s collections and supported scholarly editions of Christian texts.",
+          "sourceRefs": [
+            "n201-marcellus-ii-ce",
+            "n201-marcellus-ii-treccani"
+          ]
+        },
+        {
+          "text": "Ordered renewed work on curial reform, reduced ceremonial display and addressed Rome’s finances and grain supply during his brief reign.",
+          "sourceRefs": [
+            "n201-marcellus-ii-treccani"
+          ]
+        }
+      ],
+      "context": {
+        "paragraphs": [
+          {
+            "text": "Cervini’s election followed frustration with Julius III’s nepotism, but reformers differed over how renewal should proceed. He preferred decisive action from Rome rather than an immediate reopening of the suspended council. His long conflict with Charles V’s advisers also showed that papal independence and reform could pull in different directions: an emperor seeking German religious unity might welcome concessions that Rome rejected. Marcellus’s scholarly reputation therefore belonged to an experienced administrator with firm ecclesiastical views, not a figure detached from the political and theological struggles of his time.",
+            "sourceRefs": [
+              "n201-marcellus-ii-ce",
+              "n201-marcellus-ii-treccani"
+            ]
+          }
+        ]
+      },
+      "saintStatus": {
+        "status": "no-positive-claim",
+        "label": "",
+        "recognition": "No canonization or beatification of this pope is established in the consulted life and recognition material; absence of a saint title is not itself proof of a negative status.",
+        "recognitionDate": null,
+        "beatificationDate": null,
+        "sourceRefs": [
+          "n201-marcellus-ii-ce",
+          "n201-marcellus-ii-treccani"
+        ]
+      },
+      "antipopeReview": {
+        "status": "reviewed-none",
+        "claimantNames": [],
+        "note": "Contemporary opposition, election politics and threats of schism were checked; these accounts establish no separately elected rival pope during this reign.",
+        "sourceRefs": [
+          "n201-marcellus-ii-ce",
+          "n201-marcellus-ii-treccani"
+        ]
+      },
+      "researchNotes": [
+        {
+          "text": "The Catholic Encyclopedia gives Montepulciano as birthplace and 6 May 1555 as death date. Treccani gives Montefano and the night of 30 April–1 May; preserve reviewed geometry and official roster chronology. Palestrina’s later Missa Papae Marcelli was not performed to secure this pope’s approval of polyphony.",
+          "sourceRefs": [
+            "n201-marcellus-ii-ce",
+            "n201-marcellus-ii-treccani"
+          ]
+        }
+      ],
+      "review": {
+        "coverage": "substantive",
+        "sourcesRead": [
+          "n201-marcellus-ii-ce",
+          "n201-marcellus-ii-treccani"
+        ],
+        "openIssues": [],
+        "fieldsChecked": [
+          "biography",
+          "actions",
+          "context",
+          "birthDate",
+          "recognition",
+          "claimants"
+        ]
+      }
+    },
+    {
+      "personId": "pope-paul-iv",
+      "papalName": "Paul IV",
+      "alternateNames": [
+        "Gian Pietro Carafa",
+        "Giovanni Pietro Caraffa"
+      ],
+      "birthDate": {
+        "label": "28 June 1476",
+        "precision": "date",
+        "sourceRefs": [
+          "n201-paul-iv-ce",
+          "n201-paul-iv-treccani"
+        ],
+        "note": "Birth date agrees in the consulted historical biographies."
+      },
+      "summary": {
+        "text": "Paul IV pursued reform through rigorous discipline and an enlarged Roman Inquisition. A cofounder of the Theatines, he regarded doctrinal compromise as a danger to the Church. His rule brought the imprisonment of Cardinal Morone, sweeping book prohibitions and the compulsory segregation of Rome’s Jews. His anti-Spanish war failed, and the relatives he had promoted became a source of scandal before he expelled them from court.",
+        "sourceRefs": [
+          "n201-paul-iv-ce",
+          "n201-paul-iv-treccani"
+        ]
+      },
+      "biography": {
+        "paragraphs": [
+          {
+            "text": "Carafa belonged to the Neapolitan nobility and entered church service under the protection of Cardinal Oliviero Carafa. As bishop of Chieti and a diplomat in England and Spain, he developed both a commitment to clerical reform and a lasting hostility to Spanish predominance. In 1524 he relinquished benefices to join Gaetano da Thiene in founding the Theatines, priests living under a strict common discipline. Paul III later made him a cardinal and entrusted him with major work on reform and the Inquisition.",
+            "sourceRefs": [
+              "n201-paul-iv-ce",
+              "n201-paul-iv-treccani"
+            ]
+          },
+          {
+            "text": "Elected pope in 1555, Carafa strengthened inquisitorial government rather than reopening Trent. He had Cardinal Giovanni Morone imprisoned on suspicion of heresy and challenged Reginald Pole, whose conciliatory approach he distrusted. His Roman Index of 1559 prohibited a wide range of writings, including works outside formal theology. His alliance with France against Philip II ended unsuccessfully after invasion of papal territory. Although he had advanced his nephew Carlo and other relatives, he eventually banished them after their misconduct and failed policies became undeniable.",
+            "sourceRefs": [
+              "n201-paul-iv-ce",
+              "n201-paul-iv-treccani"
+            ]
+          },
+          {
+            "text": "In 1555, Cum nimis absurdum imposed compulsory Jewish residence in segregated quarters in the Papal States. Rome’s community was confined beside the Tiber in a poor, unhealthy district. Restrictions on property, occupations and identifying dress deepened exclusion. The persecution of Portuguese converts accused of returning to Judaism at Ancona also brought arrests and executions. These were coercive religious policies with direct consequences for people’s livelihoods, freedom and lives.",
+            "sourceRefs": [
+              "n201-paul-iv-treccani",
+              "n201-paul-iv-ghetto"
+            ]
+          }
+        ]
+      },
+      "actions": [
+        {
+          "text": "Expanded the Roman Inquisition’s authority, using it against senior churchmen as well as other suspected dissenters.",
+          "sourceRefs": [
+            "n201-holy-office-history",
+            "n201-paul-iv-ce"
+          ]
+        },
+        {
+          "text": "Issued Cum nimis absurdum, imposing the Roman ghetto and severe restrictions on Jewish residents.",
+          "sourceRefs": [
+            "n201-paul-iv-ghetto",
+            "n201-paul-iv-treccani"
+          ]
+        },
+        {
+          "text": "Promulgated the first Roman Index of prohibited books, extending centralized censorship across European religious and literary culture.",
+          "sourceRefs": [
+            "n201-paul-iv-treccani"
+          ]
+        },
+        {
+          "text": "Promoted a French alliance and war against Spanish power in Italy; defeat damaged both papal independence and Carafa family ambitions.",
+          "sourceRefs": [
+            "n201-paul-iv-ce"
+          ]
+        }
+      ],
+      "context": {
+        "paragraphs": [
+          {
+            "text": "The Peace of Augsburg recognized a religious settlement in the Empire without granting the pope control over its terms. Paul’s resistance to Habsburg power therefore involved doctrine as well as Neapolitan and Italian politics. His conflict with Philip II demonstrated the limits of papal military resources, while his suspicion of Pole disrupted relations with Mary I’s Catholic restoration in England. At Rome, reform was increasingly enforced through prosecution and censorship. The popular attack on the Inquisition’s premises after his death revealed how deeply this style of government had alienated parts of the city.",
+            "sourceRefs": [
+              "n201-paul-iv-ce",
+              "n201-holy-office-history"
+            ]
+          }
+        ]
+      },
+      "saintStatus": {
+        "status": "no-positive-claim",
+        "label": "",
+        "recognition": "The historical lives and official material checked establish no positive claim of canonization or beatification for this pope; no absence of recognition is inferred from a missing title alone.",
+        "recognitionDate": null,
+        "beatificationDate": null,
+        "sourceRefs": [
+          "n201-paul-iv-ce",
+          "n201-paul-iv-treccani"
+        ]
+      },
+      "antipopeReview": {
+        "status": "reviewed-none",
+        "claimantNames": [],
+        "note": "The accounts of election, religious conflict and opposition establish no separately elected rival pope during this pontificate. Council fears and threats of schism are not treated as actual rival elections.",
+        "sourceRefs": [
+          "n201-paul-iv-ce",
+          "n201-paul-iv-treccani"
+        ]
+      },
+      "researchNotes": [
+        {
+          "text": "The older Catholic Encyclopedia omits the ghetto and Ancona persecution and strongly defends his anti-Spanish policy; those omissions and judgments are not adopted. Modern biography identifies birthplace as Capriglia; reviewed geometry remains unchanged.",
+          "sourceRefs": [
+            "n201-paul-iv-ce",
+            "n201-paul-iv-treccani"
+          ]
+        }
+      ],
+      "review": {
+        "coverage": "substantive",
+        "sourcesRead": [
+          "n201-paul-iv-ce",
+          "n201-paul-iv-treccani",
+          "n201-paul-iv-ghetto",
+          "n201-holy-office-history"
+        ],
+        "openIssues": [],
+        "fieldsChecked": [
+          "biography",
+          "actions",
+          "context",
+          "birthDate",
+          "recognition",
+          "claimants"
+        ]
+      }
+    },
+    {
+      "personId": "pope-pius-iv",
+      "papalName": "Pius IV",
+      "alternateNames": [
+        "Giovanni Angelo Medici"
+      ],
+      "birthDate": {
+        "label": "31 March 1499",
+        "precision": "date",
+        "sourceRefs": [
+          "n201-pius-iv-ce",
+          "n201-pius-iv-treccani"
+        ],
+        "note": "Birth date agrees in the consulted historical biographies."
+      },
+      "summary": {
+        "text": "Pius IV brought the Council of Trent to its conclusion and began turning its decrees into a programme of Catholic government. More willing to negotiate than Paul IV, he restored Cardinal Morone to influence and relied on his nephew Charles Borromeo. Yet his pontificate also continued family patronage and witnessed the politically charged execution of the Carafa brothers. His achievement was a workable settlement among deeply divided Catholic interests.",
+        "sourceRefs": [
+          "n201-pius-iv-ce",
+          "n201-pius-iv-treccani"
+        ]
+      },
+      "biography": {
+        "paragraphs": [
+          {
+            "text": "Giovanni Angelo Medici came from a Milanese family without an established kinship to the Medici of Florence. Trained in civil and canon law, he served as a governor in the Papal States and took part in military administration and diplomacy. Paul III made him a cardinal in 1549. His practical experience and ability to work with different interests helped his election after the long conclave that followed Paul IV’s death.",
+            "sourceRefs": [
+              "n201-pius-iv-ce",
+              "n201-pius-iv-treccani"
+            ]
+          },
+          {
+            "text": "Pius released Morone and others imprisoned under his predecessor, but proceeded against the Carafa family. Cardinal Carlo Carafa and his brother Giovanni were executed in 1561 after a process whose justice was later challenged. At the same time, Pius negotiated the reopening of Trent in January 1562. Debate over bishops’ residence, their authority and the reform of Rome threatened agreement. Morone’s diplomacy helped secure the council’s conclusion in December 1563. Pius confirmed its decrees in January 1564 and ordered their observance throughout the Church.",
+            "sourceRefs": [
+              "n201-pius-iv-ce",
+              "n201-pius-iv-treccani",
+              "n201-pius-iv-trent-confirmation"
+            ]
+          },
+          {
+            "text": "Implementation required more than publication. Pius instituted a congregation to oversee the council’s execution, required a profession of faith from relevant officeholders, urged bishops to reside in their dioceses and continued work on teaching and liturgical books. His confirmation reserved authoritative interpretation of the decrees to the Apostolic See. He also sponsored Roman building and printing projects, whose costs contributed to taxation and criticism of his government.",
+            "sourceRefs": [
+              "n201-pius-iv-ce",
+              "n201-pius-iv-treccani",
+              "n201-pius-iv-trent-confirmation"
+            ]
+          }
+        ]
+      },
+      "actions": [
+        {
+          "text": "Reopened Trent and confirmed the decrees of its three periods, giving the council a definitive conclusion after eighteen years of interruptions.",
+          "sourceRefs": [
+            "n201-pius-iv-trent-confirmation"
+          ]
+        },
+        {
+          "text": "Created machinery for implementing Trent, including the congregation overseeing its observance and a prescribed profession of faith.",
+          "sourceRefs": [
+            "n201-pius-iv-treccani"
+          ]
+        },
+        {
+          "text": "Restored Morone to freedom and responsibility, enabling a former inquisitorial prisoner to help secure the council’s final agreement.",
+          "sourceRefs": [
+            "n201-pius-iv-ce",
+            "n201-pius-iv-treccani"
+          ]
+        },
+        {
+          "text": "Prosecuted the Carafa brothers and allowed their execution; the later reversal of the sentence shows the controversy surrounding this exercise of papal justice.",
+          "sourceRefs": [
+            "n201-pius-iv-ce"
+          ]
+        }
+      ],
+      "context": {
+        "paragraphs": [
+          {
+            "text": "Philip II wanted clear continuity with earlier sessions; France and Emperor Ferdinand sought changes responsive to their own religious crises. Disputes over whether episcopal residence rested on divine law also raised the larger question of bishops’ authority in relation to the pope. Pius’s diplomatic flexibility and Morone’s negotiations kept these disagreements from destroying the assembly. Agreement did not restore Christian unity: it defined Catholic teaching and discipline more firmly. Nor did Charles Borromeo’s later reputation erase continued nepotism under his uncle, whose negotiations also secured revenues and privileges for relatives.",
+            "sourceRefs": [
+              "n201-pius-iv-ce",
+              "n201-pius-iv-treccani",
+              "n201-pius-iv-trent-confirmation"
+            ]
+          }
+        ]
+      },
+      "saintStatus": {
+        "status": "no-positive-claim",
+        "label": "",
+        "recognition": "The historical lives and official material checked establish no positive claim of canonization or beatification for this pope; no absence of recognition is inferred from a missing title alone.",
+        "recognitionDate": null,
+        "beatificationDate": null,
+        "sourceRefs": [
+          "n201-pius-iv-ce",
+          "n201-pius-iv-treccani"
+        ]
+      },
+      "antipopeReview": {
+        "status": "reviewed-none",
+        "claimantNames": [],
+        "note": "The accounts of election, religious conflict and opposition establish no separately elected rival pope during this pontificate. Council fears and threats of schism are not treated as actual rival elections.",
+        "sourceRefs": [
+          "n201-pius-iv-ce",
+          "n201-pius-iv-treccani"
+        ]
+      },
+      "researchNotes": [
+        {
+          "text": "The older biography presents the family as humble and largely excuses nepotism; modern research documents an established Milanese legal family and substantial benefits to relatives. Do not conflate Charles Borromeo’s canonization with recognition of Pius IV.",
+          "sourceRefs": [
+            "n201-pius-iv-ce",
+            "n201-pius-iv-treccani"
+          ]
+        }
+      ],
+      "review": {
+        "coverage": "substantive",
+        "sourcesRead": [
+          "n201-pius-iv-ce",
+          "n201-pius-iv-treccani",
+          "n201-pius-iv-trent-confirmation",
+          "n201-holy-office-history"
+        ],
+        "openIssues": [],
+        "fieldsChecked": [
+          "biography",
+          "actions",
+          "context",
+          "birthDate",
+          "recognition",
+          "claimants"
+        ]
+      }
+    }
+  ]
+}

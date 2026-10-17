@@ -1,0 +1,2752 @@
+{
+  "reviewedAt": "2026-10-17",
+  "scope": "Targeted birthplace review for clean place labels, town-level refinements and source disagreements.",
+  "sources": [
+    {
+      "id": "east-vatican-roster",
+      "title": "Pontiffs — official Vatican roster",
+      "url": "https://www.vatican.va/content/vatican/en/holy-father.html",
+      "section": "Birth column for each named pontiff",
+      "exactPassage": null,
+      "supportSummary": "Existing source 1 in prototype. Base inclusion and chronology; the Birth column is often a broad national or ethnic origin.",
+      "kind": "official-vatican",
+      "accessedAt": "2026-10-17",
+      "passage": "Existing source 1 in prototype. Base inclusion and chronology; the Birth column is often a broad national or ethnic origin.",
+      "retrievedAt": "2026-10-17"
+    },
+    {
+      "id": "east-evaristus-vn",
+      "title": "Sant’Evaristo, papa — 27 October saint calendar",
+      "url": "https://www.vaticannews.va/it/santo-del-giorno/10/27.html",
+      "section": "Sant’Evaristo, papa",
+      "exactPassage": "Greco di Antiochia ma nato a Betlemme",
+      "supportSummary": "Directly attributes birth at Bethlehem to Evaristus himself.",
+      "kind": "official-vatican-publication",
+      "accessedAt": "2026-10-17",
+      "passage": "Greco di Antiochia ma nato a Betlemme\nDirectly attributes birth at Bethlehem to Evaristus himself.",
+      "retrievedAt": "2026-10-17"
+    },
+    {
+      "id": "east-evaristus-treccani",
+      "title": "EVARISTO, santo",
+      "url": "https://www.treccani.it/enciclopedia/santo-evaristo_(Enciclopedia-dei-Papi)/",
+      "section": "Francesco Scorza Barcellona, Enciclopedia dei Papi (2000), paragraphs on Liber pontificalis",
+      "exactPassage": "E. sarebbe stato greco di nascita (\"natione Graecus\"), figlio di un giudeo di nome Giuda, di Betlemme.",
+      "supportSummary": "Treats these origins as uncheckable and probably historically unfounded; earliest Liber pontificalis form also has Antiochenus.",
+      "kind": "scholarly-secondary",
+      "accessedAt": "2026-10-17",
+      "passage": "E. sarebbe stato greco di nascita (\"natione Graecus\"), figlio di un giudeo di nome Giuda, di Betlemme.\nTreats these origins as uncheckable and probably historically unfounded; earliest Liber pontificalis form also has Antiochenus.",
+      "retrievedAt": "2026-10-17"
+    },
+    {
+      "id": "east-evaristus-ce",
+      "title": "Pope Saint Evaristus",
+      "url": "https://www.newadvent.org/cathen/05646a.htm",
+      "section": "Johann Peter Kirsch, Catholic Encyclopedia (1909), main article",
+      "exactPassage": "Evaristus came of a Hellenic family, and was the son of a Bethlehem Jew.",
+      "supportSummary": "Bethlehem belongs to father in this account, rather than necessarily pope. Earliest historical sources lack authentic biographical data.",
+      "kind": "historical-catholic-encyclopedia",
+      "accessedAt": "2026-10-17",
+      "passage": "Evaristus came of a Hellenic family, and was the son of a Bethlehem Jew.\nBethlehem belongs to father in this account, rather than necessarily pope. Earliest historical sources lack authentic biographical data.",
+      "retrievedAt": "2026-10-17",
+      "approval": "Historical Catholic Encyclopedia with local ecclesiastical approval; not a Vatican publication."
+    },
+    {
+      "id": "east-telesphorus-vn",
+      "title": "San Telesforo, papa e martire — 3 January saint calendar",
+      "url": "https://www.vaticannews.va/it/santo-del-giorno/01/03.html",
+      "section": "San Telesforo, papa e martire",
+      "exactPassage": "Nato in Calabria, di origine greca",
+      "supportSummary": "Explicitly distinguishes Calabria birthplace from Greek origin. No town named.",
+      "kind": "official-vatican-publication",
+      "accessedAt": "2026-10-17",
+      "passage": "Nato in Calabria, di origine greca\nExplicitly distinguishes Calabria birthplace from Greek origin. No town named.",
+      "retrievedAt": "2026-10-17"
+    },
+    {
+      "id": "east-greek-popes-vn",
+      "title": "La Grecia, un’antica terra di Papi",
+      "url": "https://www.vaticannews.va/it/papa/news/2021-12/viaggio-papa-francesco-grecia-papi-greci-origine-greca.html",
+      "section": "5 December 2021, Igino subsection",
+      "exactPassage": "Nato ad Atene",
+      "supportSummary": "Hyginus explicitly born Athens; Anterus, Sixtus II, Eusebius and Zosimus are described only by Greek origin.",
+      "kind": "official-vatican-publication",
+      "accessedAt": "2026-10-17",
+      "passage": "Hyginus subsection: Nato ad Atene\nHyginus explicitly born Athens; Anterus, Sixtus II, Eusebius and Zosimus are described only by Greek origin.",
+      "retrievedAt": "2026-10-17"
+    },
+    {
+      "id": "east-hyginus-treccani",
+      "title": "IGINO, santo",
+      "url": "https://www.treccani.it/enciclopedia/santo-igino_(Enciclopedia-dei-Papi)/",
+      "section": "Francesco Scorza Barcellona, Enciclopedia dei Papi (2000), Liber pontificalis paragraph",
+      "exactPassage": "I. sarebbe stato greco di nascita, originario di Atene",
+      "supportSummary": "Athens is a personal origin tradition in Liber pontificalis, which this article considers weakly supported.",
+      "kind": "scholarly-secondary",
+      "accessedAt": "2026-10-17",
+      "passage": "I. sarebbe stato greco di nascita, originario di Atene\nAthens is a personal origin tradition in Liber pontificalis, which this article considers weakly supported.",
+      "retrievedAt": "2026-10-17"
+    },
+    {
+      "id": "east-alexander-treccani",
+      "title": "ALESSANDRO I, santo",
+      "url": "https://www.treccani.it/enciclopedia/santo-alessandro-i_(Enciclopedia-dei-Papi)/",
+      "section": "Francesco Scorza Barcellona, Enciclopedia dei Papi (2000), Liber pontificalis paragraph",
+      "exactPassage": "A. sarebbe stato romano, figlio di Alessandro, originario della regione di \"Caput tauri\"",
+      "supportSummary": "Traditional Rome origin; Caput tauri tentatively associated with edge of Esquiline. Evidence does not warrant a birth-house or neighborhood point.",
+      "kind": "scholarly-secondary",
+      "accessedAt": "2026-10-17",
+      "passage": "A. sarebbe stato romano, figlio di Alessandro, originario della regione di \"Caput tauri\"\nTraditional Rome origin; Caput tauri tentatively associated with edge of Esquiline. Evidence does not warrant a birth-house or neighborhood point.",
+      "retrievedAt": "2026-10-17"
+    },
+    {
+      "id": "east-anicetus-treccani",
+      "title": "ANICETO, santo",
+      "url": "https://www.treccani.it/enciclopedia/santo-aniceto_(Enciclopedia-dei-Papi)/",
+      "section": "Francesco Scorza Barcellona, Enciclopedia dei Papi (2000), origin paragraph",
+      "exactPassage": "sarebbe stato siro, originario di Emesa, l’attuale Homs",
+      "supportSummary": "Explicitly identifies ancient Emesa with modern Homs, while noting origin rests on later Liber pontificalis testimony.",
+      "kind": "scholarly-secondary",
+      "accessedAt": "2026-10-17",
+      "passage": "sarebbe stato siro, originario di Emesa, l’attuale Homs\nExplicitly identifies ancient Emesa with modern Homs, while noting origin rests on later Liber pontificalis testimony.",
+      "retrievedAt": "2026-10-17"
+    },
+    {
+      "id": "east-eleutherius-treccani",
+      "title": "ELEUTERIO, santo",
+      "url": "https://www.treccani.it/enciclopedia/santo-eleuterio_(Enciclopedia-dei-Papi)/",
+      "section": "Francesco Scorza Barcellona, Enciclopedia dei Papi (2000), Liber pontificalis paragraph",
+      "exactPassage": "E. sarebbe stato greco, della città di Nicopoli (in Epiro), figlio di Abbondio.",
+      "supportSummary": "Supports the personal Nicopolis-in-Epirus tradition, with source criticism retained.",
+      "kind": "scholarly-secondary",
+      "accessedAt": "2026-10-17",
+      "passage": "E. sarebbe stato greco, della città di Nicopoli (in Epiro), figlio di Abbondio.\nSupports the personal Nicopolis-in-Epirus tradition, with source criticism retained.",
+      "retrievedAt": "2026-10-17"
+    },
+    {
+      "id": "east-eleutherius-ce",
+      "title": "Pope Saint Eleutherius",
+      "url": "https://www.newadvent.org/cathen/05378a.htm",
+      "section": "Johann Peter Kirsch, Catholic Encyclopedia (1909), opening paragraph",
+      "exactPassage": "The Liber Pontificalis says that he was a native of Nicopolis, Greece.",
+      "supportSummary": "Names Nicopolis directly as native place.",
+      "kind": "historical-catholic-encyclopedia",
+      "accessedAt": "2026-10-17",
+      "passage": "The Liber Pontificalis says that he was a native of Nicopolis, Greece.\nNames Nicopolis directly as native place.",
+      "retrievedAt": "2026-10-17",
+      "approval": "Historical Catholic Encyclopedia with local ecclesiastical approval; not a Vatican publication."
+    },
+    {
+      "id": "east-nicopolis-unesco",
+      "title": "Archaeological site of Nikopolis",
+      "url": "https://whc.unesco.org/en/tentativelists/5861/",
+      "section": "Greece submission of 16 January 2014; location heading",
+      "exactPassage": "Region of Epirus, Regional Unit of Preveza",
+      "supportSummary": "Disambiguates site in Greece from Nicopolis ad Istrum and other ancient namesakes.",
+      "kind": "official-geographic",
+      "accessedAt": "2026-10-17",
+      "passage": "Region of Epirus, Regional Unit of Preveza\nDisambiguates site in Greece from Nicopolis ad Istrum and other ancient namesakes.",
+      "retrievedAt": "2026-10-17"
+    },
+    {
+      "id": "east-nicopolis-pleiades",
+      "title": "Nicopolis — Pleiades place 531013, published GeoJSON",
+      "url": "https://raw.githubusercontent.com/ryanfb/pleiades-geojson/gh-pages/geojson/531013.geojson",
+      "section": "Representative point feature and title",
+      "exactPassage": "representative point",
+      "supportSummary": "Published Pleiades-derived coordinate [20.7360035,39.0157]; geographic reference, not birth house. Original record https://pleiades.stoa.org/places/531013.",
+      "kind": "geographic-gazetteer",
+      "accessedAt": "2026-10-17",
+      "passage": "representative point\nPublished Pleiades-derived coordinate [20.7360035,39.0157]; geographic reference, not birth house. Original record https://pleiades.stoa.org/places/531013.",
+      "retrievedAt": "2026-10-17",
+      "license": "CC BY 3.0 US",
+      "attribution": "Pleiades contributors, Ancient World Mapping Center and Institute for the Study of the Ancient World; representative points via Ryan Baumann’s export, used unchanged."
+    },
+    {
+      "id": "east-geonames",
+      "title": "GeoNames Gazetteer via cities.json 1.1.65",
+      "url": "https://www.geonames.org/datasources/",
+      "section": "Existing downloaded /workspace/research/geonames/package/cities.json",
+      "exactPassage": null,
+      "supportSummary": "Coordinates matched by exact city name and modern country; CC BY 4.0. Existing source 3 in prototype.",
+      "kind": "geographic-gazetteer",
+      "accessedAt": "2026-10-17",
+      "passage": "Coordinates matched by exact city name and modern country; CC BY 4.0. Existing source 3 in prototype.",
+      "retrievedAt": "2026-10-17",
+      "packageUrl": "https://www.npmjs.com/package/cities.json/v/1.1.65",
+      "license": "CC BY 4.0"
+    },
+    {
+      "id": "east-anterus-treccani",
+      "title": "ANTERO, santo",
+      "url": "https://www.treccani.it/enciclopedia/santo-antero_(Enciclopedia-dei-Papi)/",
+      "section": "Federico Fatti, Enciclopedia dei Papi (2000), opening",
+      "exactPassage": "Secondo il Liber pontificalis era di origine greca e suo padre si chiamava Romolo.",
+      "supportSummary": "Only Greek origin; no birth town established.",
+      "kind": "scholarly-secondary",
+      "accessedAt": "2026-10-17",
+      "passage": "Secondo il Liber pontificalis era di origine greca e suo padre si chiamava Romolo.\nOnly Greek origin; no birth town established.",
+      "retrievedAt": "2026-10-17"
+    },
+    {
+      "id": "east-anterus-municipality",
+      "title": "La Storia — Comune di Petilia Policastro",
+      "url": "https://www.comune.petiliapolicastro.kr.it/vivere-il-comune/territorio/la-storia/",
+      "section": "Historical account",
+      "exactPassage": "Si ipotizza che Papa Antero fosse nato a Petilia Policastro.",
+      "supportSummary": "Municipality labels birth at Petilia Policastro a hypothesis; also notes ancient Petelia was near present Strongoli.",
+      "kind": "official-local-publication",
+      "accessedAt": "2026-10-17",
+      "passage": "Si ipotizza che Papa Antero fosse nato a Petilia Policastro.\nMunicipality labels birth at Petilia Policastro a hypothesis; also notes ancient Petelia was near present Strongoli.",
+      "retrievedAt": "2026-10-17"
+    },
+    {
+      "id": "east-sixtus-ii-treccani",
+      "title": "SISTO II, santo",
+      "url": "https://www.treccani.it/enciclopedia/santo-sisto-ii_(Enciclopedia-dei-Papi)/",
+      "section": "Francesco Scorza Barcellona, Enciclopedia dei Papi (2000), Passio discussion",
+      "exactPassage": "S. vi è detto nativo di Atene, educato in quella città",
+      "supportSummary": "Athens attribution is part of later Passio vetus; article separates legendary narrative from contemporary evidence. Not adopted as a securely documented city.",
+      "kind": "scholarly-secondary",
+      "accessedAt": "2026-10-17",
+      "passage": "S. vi è detto nativo di Atene, educato in quella città\nAthens attribution is part of later Passio vetus; article separates legendary narrative from contemporary evidence. Not adopted as a securely documented city.",
+      "retrievedAt": "2026-10-17"
+    },
+    {
+      "id": "east-eusebius-treccani",
+      "title": "EUSEBIO, santo",
+      "url": "https://www.treccani.it/enciclopedia/santo-eusebio_(Enciclopedia-dei-Papi)/",
+      "section": "Angelo Di Berardino, Enciclopedia dei Papi (2000), origin paragraph",
+      "exactPassage": "Il Liber pontificalis dice che E. era di origine greca, nato da padre medico",
+      "supportSummary": "No town named; article allows plausibility of Greek origin but rejects other later elaborations.",
+      "kind": "scholarly-secondary",
+      "accessedAt": "2026-10-17",
+      "passage": "Il Liber pontificalis dice che E. era di origine greca, nato da padre medico\nNo town named; article allows plausibility of Greek origin but rejects other later elaborations.",
+      "retrievedAt": "2026-10-17"
+    },
+    {
+      "id": "east-zosimus-treccani",
+      "title": "ZOSIMO, santo",
+      "url": "https://www.treccani.it/enciclopedia/santo-zosimo_(Enciclopedia-dei-Papi)/",
+      "section": "Alessandra Pollastri, Enciclopedia dei Papi (2000), opening",
+      "exactPassage": "Il Liber pontificalis attesta che Z. era di origine greca e figlio di un certo Abramo",
+      "supportSummary": "No birthplace town stated; father’s name may suggest Jewish ancestry, not a location.",
+      "kind": "scholarly-secondary",
+      "accessedAt": "2026-10-17",
+      "passage": "Il Liber pontificalis attesta che Z. era di origine greca e figlio di un certo Abramo\nNo birthplace town stated; father’s name may suggest Jewish ancestry, not a location.",
+      "retrievedAt": "2026-10-17"
+    },
+    {
+      "id": "treccani-john-v",
+      "title": "Giovanni V — Enciclopedia dei Papi",
+      "author": "Luigi Andrea Berto",
+      "publisher": "Treccani",
+      "year": 2000,
+      "url": "https://www.treccani.it/enciclopedia/giovanni-v_(Enciclopedia-dei-Papi)/",
+      "exactPassage": "Di origine siriana, nacque in data imprecisata nella provincia di Antiochia.",
+      "paraphrase": "The birth location is the province of Antioch, not explicitly the city. His father's name is Ciriaco; flight from Syria is identified as a plausible hypothesis without source confirmation.",
+      "kind": "scholarly-secondary",
+      "passage": "Di origine siriana, nacque in data imprecisata nella provincia di Antiochia.\nThe birth location is the province of Antioch, not explicitly the city. His father's name is Ciriaco; flight from Syria is identified as a plausible hypothesis without source confirmation.",
+      "retrievedAt": "2026-10-17"
+    },
+    {
+      "id": "treccani-john-vi",
+      "title": "Giovanni VI — Enciclopedia dei Papi",
+      "author": "Luigi Andrea Berto",
+      "publisher": "Treccani",
+      "year": 2000,
+      "url": "https://www.treccani.it/enciclopedia/giovanni-vi_(Enciclopedia-dei-Papi)/",
+      "exactPassage": "Nacque in Grecia e la sua data di nascita è sconosciuta.",
+      "paraphrase": "Explicitly states birth in Greece but supplies no locality. This conflicts with the Ephesus birth location in Getty ULAN.",
+      "kind": "scholarly-secondary",
+      "passage": "Nacque in Grecia e la sua data di nascita è sconosciuta.\nExplicitly states birth in Greece but supplies no locality. This conflicts with the Ephesus birth location in Getty ULAN.",
+      "retrievedAt": "2026-10-17"
+    },
+    {
+      "id": "getty-john-vi",
+      "title": "John VI, Pope — Union List of Artist Names, record 500355747",
+      "publisher": "Getty Research Institute",
+      "url": "https://www.getty.edu/vow/ULANFullDisplay?find=500355747&nation=&prev_page=1&role=&subjectid=500355747",
+      "exactPassage": "Born: Ephesus (İzmir, Turkey) (deserted settlement)",
+      "paraphrase": "The authority record explicitly gives Ephesus as the birthplace and Greek as the preferred nationality. Its bibliography includes Britannica, Kelly and Walsh, and the New Catholic Encyclopedia, but does not attach an individual citation to the birth-place field.",
+      "kind": "scholarly-authority-record",
+      "passage": "Born: Ephesus (İzmir, Turkey) (deserted settlement)\nThe authority record explicitly gives Ephesus as the birthplace and Greek as the preferred nationality. Its bibliography includes Britannica, Kelly and Walsh, and the New Catholic Encyclopedia, but does not attach an individual citation to the birth-place field.",
+      "retrievedAt": "2026-10-17"
+    },
+    {
+      "id": "new-catholic-encyclopedia-john-vi",
+      "title": "John VI, Pope — New Catholic Encyclopedia",
+      "author": "H. G. J. Beck",
+      "publisher": "New Catholic Encyclopedia, republished at Encyclopedia.com",
+      "url": "https://www.encyclopedia.com/religion/encyclopedias-almanacs-transcripts-and-maps/john-vi-pope",
+      "exactPassage": "Of Greek descent",
+      "paraphrase": "The accessed biography gives Greek descent and his death at Rome but no birthplace. Do not claim this full article directly verifies Ephesus just because Getty cites it among its sources.",
+      "kind": "supplementary",
+      "passage": "Of Greek descent\nThe accessed biography gives Greek descent and his death at Rome but no birthplace. Do not claim this full article directly verifies Ephesus just because Getty cites it among its sources.",
+      "retrievedAt": "2026-10-17"
+    },
+    {
+      "id": "treccani-john-vii",
+      "title": "Giovanni VII — Enciclopedia dei Papi",
+      "author": "Luigi Andrea Berto",
+      "publisher": "Treccani",
+      "year": 2000,
+      "url": "https://www.treccani.it/enciclopedia/giovanni-vii_(Enciclopedia-dei-Papi)/",
+      "exactPassage": "Sappiamo che era originario della Grecia",
+      "paraphrase": "Gives Greek origin, mother Blatta, and father Plato, a Byzantine official responsible for the imperial palace at Rome. It does not name a birth town; father's work in Rome must not become the son's birth location.",
+      "kind": "scholarly-secondary",
+      "passage": "Sappiamo che era originario della Grecia\nGives Greek origin, mother Blatta, and father Plato, a Byzantine official responsible for the imperial palace at Rome. It does not name a birth town; father's work in Rome must not become the son's birth location.",
+      "retrievedAt": "2026-10-17"
+    },
+    {
+      "id": "getty-john-vii",
+      "title": "John VII, Pope — Union List of Artist Names, record 500320190",
+      "publisher": "Getty Research Institute",
+      "url": "https://www.getty.edu/vow/ULANFullDisplay?find=500320190&nation=&prev_page=1&role=&subjectid=500320190",
+      "exactPassage": "Born: Rossano (Cosenza province, Calabria, Italy) (inhabited place)",
+      "paraphrase": "Separately records a Rossano birthplace and Greek ancestry, with Calabrian, Byzantine, and Italian nationalities among its labels.",
+      "kind": "scholarly-authority-record",
+      "passage": "Born: Rossano (Cosenza province, Calabria, Italy) (inhabited place)\nSeparately records a Rossano birthplace and Greek ancestry, with Calabrian, Byzantine, and Italian nationalities among its labels.",
+      "retrievedAt": "2026-10-17"
+    },
+    {
+      "id": "newadvent-rossano",
+      "title": "Rossano — The Catholic Encyclopedia",
+      "author": "Umberto Benigni",
+      "publisher": "The Catholic Encyclopedia, transcribed by New Advent",
+      "year": 1912,
+      "url": "https://www.newadvent.org/cathen/13203a.htm",
+      "exactPassage": "Rossano was the birthplace of John VII",
+      "paraphrase": "The city entry explicitly names Pope John VII among the people born at Rossano. Its linked papal biography gives Greek origin without a town. The city entry separately misnumbers antipope John Philagathus, so the Rossano attribution should retain its own source reference rather than reproduce the surrounding list.",
+      "kind": "historical-catholic-encyclopedia",
+      "passage": "Rossano was the birthplace of John VII\nThe city entry explicitly names Pope John VII among the people born at Rossano. Its linked papal biography gives Greek origin without a town. The city entry separately misnumbers antipope John Philagathus, so the Rossano attribution should retain its own source reference rather than reproduce the surrounding list.",
+      "retrievedAt": "2026-10-17",
+      "approval": "Historical Catholic Encyclopedia with local ecclesiastical approval; not a Vatican publication."
+    },
+    {
+      "id": "vatican-john-vii",
+      "title": "Giovanni VII — La Santa Sede",
+      "publisher": "Holy See",
+      "url": "https://www.vatican.va/content/vatican/it/holy-father/giovanni-vii.html",
+      "exactPassage": "Nascita | Greco",
+      "paraphrase": "The roster supplies an ethnic designation rather than a locality. It does not identify the modern state of Greece as a documented birth country.",
+      "kind": "official-vatican",
+      "passage": "Nascita | Greco\nThe roster supplies an ethnic designation rather than a locality. It does not identify the modern state of Greece as a documented birth country.",
+      "retrievedAt": "2026-10-17"
+    },
+    {
+      "id": "treccani-sisinnius",
+      "title": "Sisinnio — Enciclopedia dei Papi",
+      "author": "Vera von Falkenhausen",
+      "publisher": "Treccani",
+      "year": 2000,
+      "url": "https://www.treccani.it/enciclopedia/sisinnio_(Enciclopedia-dei-Papi)/",
+      "exactPassage": "Il suo luogo di nascita è sconosciuto",
+      "paraphrase": "The Liber Pontificalis describes Syrian origin and a father named John, but Treccani explicitly says the birthplace is unknown. Syrian origin must remain distinct from a confirmed Syrian birth.",
+      "kind": "scholarly-secondary",
+      "passage": "Il suo luogo di nascita è sconosciuto\nThe Liber Pontificalis describes Syrian origin and a father named John, but Treccani explicitly says the birthplace is unknown. Syrian origin must remain distinct from a confirmed Syrian birth.",
+      "retrievedAt": "2026-10-17"
+    },
+    {
+      "id": "vatican-sisinnius",
+      "title": "Sisinnio — La Santa Sede",
+      "publisher": "Holy See",
+      "url": "https://www.vatican.va/content/vatican/it/holy-father/sisinnio.html",
+      "exactPassage": "Nascita | Siro",
+      "paraphrase": "Supplies Syrian identity without a town. The current page has a spelling error in its heading.",
+      "kind": "official-vatican",
+      "passage": "Nascita | Siro\nSupplies Syrian identity without a town. The current page has a spelling error in its heading.",
+      "retrievedAt": "2026-10-17"
+    },
+    {
+      "id": "treccani-constantine",
+      "title": "Costantino — Enciclopedia dei Papi",
+      "author": "David Miller",
+      "publisher": "Treccani",
+      "year": 2000,
+      "url": "https://www.treccani.it/enciclopedia/costantino_(Enciclopedia-dei-Papi)/",
+      "exactPassage": "Figlio di un Giovanni, proveniva da famiglia di origine siriana",
+      "paraphrase": "Documents Syrian family origin and a Roman clerical career, without a birth town. The proposed relationship to Sisinnius is explicitly speculative and cannot add geographic precision.",
+      "kind": "scholarly-secondary",
+      "passage": "Figlio di un Giovanni, proveniva da famiglia di origine siriana\nDocuments Syrian family origin and a Roman clerical career, without a birth town. The proposed relationship to Sisinnius is explicitly speculative and cannot add geographic precision.",
+      "retrievedAt": "2026-10-17"
+    },
+    {
+      "id": "vatican-constantine",
+      "title": "Costantino — La Santa Sede",
+      "publisher": "Holy See",
+      "url": "https://www.vatican.va/content/vatican/it/holy-father/costantino.html",
+      "exactPassage": "Nascita | Siro",
+      "paraphrase": "The roster supplies Syrian identity without a locality.",
+      "kind": "official-vatican",
+      "passage": "Nascita | Siro\nThe roster supplies Syrian identity without a locality.",
+      "retrievedAt": "2026-10-17"
+    },
+    {
+      "id": "treccani-gregory-iii",
+      "title": "Gregorio III, santo — Enciclopedia dei Papi",
+      "author": "Paolo Delogu",
+      "publisher": "Treccani",
+      "year": 2000,
+      "url": "https://www.treccani.it/enciclopedia/santo-gregorio-iii_(Enciclopedia-dei-Papi)/",
+      "exactPassage": "Di origine siriaca",
+      "paraphrase": "Describes Syrian origin and probable membership of an immigrant family; neither a birth date nor a birth town is supplied.",
+      "kind": "scholarly-secondary",
+      "passage": "Di origine siriaca\nDescribes Syrian origin and probable membership of an immigrant family; neither a birth date nor a birth town is supplied.",
+      "retrievedAt": "2026-10-17"
+    },
+    {
+      "id": "pbe-gregory-iii",
+      "title": "Gregorios 7 — Prosopography of the Byzantine Empire",
+      "publisher": "King's College London",
+      "url": "https://pbe.kcl.ac.uk/data/D31/F00.htm",
+      "exactPassage": "He was a native of Syria",
+      "paraphrase": "The scholarly prosopography labels Syria as birthplace and identifies his father as Ioannes, citing Liber Pontificalis 92.1. No town is supplied.",
+      "kind": "scholarly-secondary",
+      "passage": "He was a native of Syria\nThe scholarly prosopography labels Syria as birthplace and identifies his father as Ioannes, citing Liber Pontificalis 92.1. No town is supplied.",
+      "retrievedAt": "2026-10-17"
+    },
+    {
+      "id": "treccani-theodore-i",
+      "title": "Teodoro I — Enciclopedia dei Papi",
+      "author": "Eugenio Susi",
+      "publisher": "Treccani",
+      "year": 2000,
+      "url": "https://www.treccani.it/enciclopedia/teodoro-i_(Enciclopedia-dei-Papi)/",
+      "exactPassage": "da Gerusalemme, dove era nato",
+      "paraphrase": "The entry distinguishes Jerusalem birth and arrival at Rome from his father's episcopal position and his Greek identity.",
+      "kind": "scholarly-secondary",
+      "passage": "da Gerusalemme, dove era nato\nThe entry distinguishes Jerusalem birth and arrival at Rome from his father's episcopal position and his Greek identity.",
+      "retrievedAt": "2026-10-17"
+    },
+    {
+      "id": "vatican-theodore-i",
+      "title": "Teodoro I — La Santa Sede",
+      "publisher": "Holy See",
+      "url": "https://www.vatican.va/content/vatican/it/holy-father/teodoro-i.html",
+      "exactPassage": "Nascita | Gerusalemme",
+      "paraphrase": "The official roster explicitly identifies Jerusalem as the birth location.",
+      "kind": "official-vatican",
+      "passage": "Nascita | Gerusalemme\nThe official roster explicitly identifies Jerusalem as the birth location.",
+      "retrievedAt": "2026-10-17"
+    },
+    {
+      "id": "vaticannews-greek-popes",
+      "title": "La Grecia, un'antica terra di Papi",
+      "author": "Amedeo Lomonaco",
+      "publisher": "Vatican News",
+      "date": "2021-12-05",
+      "url": "https://www.vaticannews.va/it/papa/news/2021-12/viaggio-papa-francesco-grecia-papi-greci-origine-greca.html",
+      "exactPassage": "Nato in Grecia",
+      "paraphrase": "The John VI section explicitly gives Greece; the following John VII section says origin in Greece. This article contains an obvious error in John VI's election year, so use it for the stated geographic tradition, not its chronology.",
+      "quoteBudgetNote": "Only three words quoted here. Parent research also uses this same source for other popes; total quoted words across the combined deliverable must stay at most 25.",
+      "kind": "official-vatican-publication",
+      "passage": "John VI subsection: Nato in Grecia\nThe John VI section explicitly gives Greece; the following John VII section says origin in Greece. This article contains an obvious error in John VI's election year, so use it for the stated geographic tradition, not its chronology.",
+      "retrievedAt": "2026-10-17"
+    },
+    {
+      "id": "east-ephesus-pleiades",
+      "title": "Ephesus/Arsinoe(ia) — Pleiades place 599612, published GeoJSON",
+      "url": "https://raw.githubusercontent.com/ryanfb/pleiades-geojson/gh-pages/geojson/599612.geojson",
+      "section": "Representative point feature",
+      "exactPassage": "representative point",
+      "supportSummary": "Geographic reference [27.342402982,37.940164272] for ancient Ephesus, independent of the disputed biographical location.",
+      "kind": "geographic-gazetteer",
+      "accessedAt": "2026-10-17",
+      "passage": "representative point\nGeographic reference [27.342402982,37.940164272] for ancient Ephesus, independent of the disputed biographical location.",
+      "retrievedAt": "2026-10-17",
+      "license": "CC BY 3.0 US",
+      "attribution": "Pleiades contributors, Ancient World Mapping Center and Institute for the Study of the Ancient World; representative points via Ryan Baumann’s export, used unchanged."
+    },
+    {
+      "url": "https://www.vatican.va/content/john-paul-ii/es/letters/1999/documents/hf_jp-ii_let_19990923_bishop-bertelli.html",
+      "title": "John Paul II, letter to Bishop of Volterra, 23 September 1999",
+      "quote": "san Lino mártir, originario de Volterra según la antigua tradición",
+      "section": "paragraph 3",
+      "id": "bp-west-001",
+      "kind": "official-vatican",
+      "passage": "san Lino mártir, originario de Volterra según la antigua tradición",
+      "retrievedAt": "2026-10-17"
+    },
+    {
+      "url": "https://www.newadvent.org/cathen/09272b.htm",
+      "title": "Catholic Encyclopedia: Pope St. Linus (1910)",
+      "quote": "Linus's home was in Tuscany",
+      "section": null,
+      "id": "bp-west-002",
+      "kind": "historical-catholic-encyclopedia",
+      "passage": "Linus's home was in Tuscany",
+      "retrievedAt": "2026-10-17",
+      "approval": "Historical Catholic Encyclopedia with local ecclesiastical approval; not a Vatican publication."
+    },
+    {
+      "url": "https://www.vaticannews.va/pt/mundo/news/2026-09/foco-historia-grandes-civilizacoes-africanas-origem-cristianismo.html",
+      "title": "Vatican News: A origem do cristianismo na África, 18 September 2026",
+      "quote": "Nascido numa província romana, na atual Tunísia",
+      "section": "paragraph on São Vitor I",
+      "id": "bp-west-003",
+      "kind": "official-vatican-publication",
+      "passage": "Nascido numa província romana, na atual Tunísia",
+      "retrievedAt": "2026-10-17"
+    },
+    {
+      "url": "https://www.newadvent.org/cathen/15408a.htm",
+      "title": "Catholic Encyclopedia: Pope St. Victor I (1912)",
+      "quote": "The Liber Pontificalis makes him a native of Africa",
+      "section": null,
+      "id": "bp-west-004",
+      "kind": "historical-catholic-encyclopedia",
+      "passage": "The Liber Pontificalis makes him a native of Africa",
+      "retrievedAt": "2026-10-17",
+      "approval": "Historical Catholic Encyclopedia with local ecclesiastical approval; not a Vatican publication."
+    },
+    {
+      "url": "https://www.newadvent.org/cathen/10318a.htm",
+      "title": "Catholic Encyclopedia: Pope St. Miltiades (1911)",
+      "quote": "a native of Africa",
+      "section": null,
+      "id": "bp-west-005",
+      "kind": "historical-catholic-encyclopedia",
+      "passage": "a native of Africa",
+      "retrievedAt": "2026-10-17",
+      "approval": "Historical Catholic Encyclopedia with local ecclesiastical approval; not a Vatican publication."
+    },
+    {
+      "url": "https://www.treccani.it/enciclopedia/santo-celestino-i_(Enciclopedia-dei-Papi)/",
+      "title": "Franco Gori, Celestino I, Enciclopedia dei Papi (2000)",
+      "quote": "Il Liber pontificalis lo dice figlio di un certo Prisco e originario della Campania",
+      "section": null,
+      "id": "bp-west-006",
+      "kind": "scholarly-secondary",
+      "passage": "Il Liber pontificalis lo dice figlio di un certo Prisco e originario della Campania",
+      "retrievedAt": "2026-10-17"
+    },
+    {
+      "url": "https://www.newadvent.org/cathen/09154b.htm",
+      "title": "Catholic Encyclopedia: Pope St. Leo I (1910)",
+      "quote": "Place and date of birth unknown",
+      "section": null,
+      "id": "bp-west-007",
+      "kind": "historical-catholic-encyclopedia",
+      "passage": "Place and date of birth unknown",
+      "retrievedAt": "2026-10-17",
+      "approval": "Historical Catholic Encyclopedia with local ecclesiastical approval; not a Vatican publication."
+    },
+    {
+      "url": "https://www.vatican.va/content/vatican/en/holy-father/leone-i--magno.html",
+      "title": "Holy See: Leo I",
+      "quote": "Birth | Tuscia",
+      "section": null,
+      "id": "bp-west-008",
+      "kind": "official-vatican",
+      "passage": "Birth | Tuscia",
+      "retrievedAt": "2026-10-17"
+    },
+    {
+      "url": "https://www.treccani.it/enciclopedia/santo-ilaro_(Enciclopedia-dei-Papi)/",
+      "title": "Ilaro, Enciclopedia dei Papi (2000)",
+      "quote": "Nacque in Sardegna, da Crispino, in data sconosciuta",
+      "section": null,
+      "id": "bp-west-009",
+      "kind": "scholarly-secondary",
+      "passage": "Nacque in Sardegna, da Crispino, in data sconosciuta",
+      "retrievedAt": "2026-10-17"
+    },
+    {
+      "url": "https://www.newadvent.org/cathen/06406a.htm",
+      "title": "Catholic Encyclopedia: Pope St. Gelasius I (1909)",
+      "quote": "Others, however, interpreting natione Afer as \"African by birth\", explain Romanus natus as \"born a Roman citizen\".",
+      "section": null,
+      "id": "bp-west-010",
+      "kind": "historical-catholic-encyclopedia",
+      "passage": "Others, however, interpreting natione Afer as \"African by birth\", explain Romanus natus as \"born a Roman citizen\".",
+      "retrievedAt": "2026-10-17",
+      "approval": "Historical Catholic Encyclopedia with local ecclesiastical approval; not a Vatican publication."
+    },
+    {
+      "url": "https://www.treccani.it/enciclopedia/gelasio-i-papa-santo_(Dizionario-Biografico)/",
+      "title": "Raiko Brato, Gelasio I, DBI 52 (1999)",
+      "quote": "L'espressione può infatti alludere tanto a una sua origine propriamente romana",
+      "section": null,
+      "id": "bp-west-011",
+      "kind": "scholarly-secondary",
+      "passage": "L'espressione può infatti alludere tanto a una sua origine propriamente romana",
+      "retrievedAt": "2026-10-17"
+    },
+    {
+      "url": "https://www.vatican.va/content/vatican/en/holy-father/simmaco.html",
+      "title": "Holy See: Symmachus",
+      "quote": "Birth | Sardinia",
+      "section": null,
+      "id": "bp-west-012",
+      "kind": "official-vatican",
+      "passage": "Birth | Sardinia",
+      "retrievedAt": "2026-10-17"
+    },
+    {
+      "url": "https://www.chiesadioristano.it/blog/2020/07/17/barumini-il-messaggio-dellarcivescovo-agli-operatori-turistici/",
+      "title": "Archbishop Roberto Carboni, Oristano tourism message, 2020",
+      "quote": "papa Simmaco di Simaxis",
+      "section": null,
+      "id": "bp-west-013",
+      "kind": "supplementary",
+      "passage": "papa Simmaco di Simaxis",
+      "retrievedAt": "2026-10-17"
+    },
+    {
+      "url": "https://www.treccani.it/enciclopedia/ormisda-papa-santo_(Dizionario-Biografico)/",
+      "title": "Teresa Sardella, Ormisda, DBI 79 (2013)",
+      "quote": "Figlio di Giusto, nacque a Frosinone.",
+      "section": null,
+      "id": "bp-west-014",
+      "kind": "scholarly-secondary",
+      "passage": "Figlio di Giusto, nacque a Frosinone.",
+      "retrievedAt": "2026-10-17"
+    },
+    {
+      "url": "https://www.vatican.va/holy_father/archivio_papi/documents/elencopapi_it.html",
+      "title": "Holy See older chronological table",
+      "quote": "52 S. Ormisda",
+      "section": "birthplace column: Frosinone",
+      "id": "bp-west-015",
+      "kind": "official-vatican",
+      "passage": "52 S. Ormisda",
+      "retrievedAt": "2026-10-17"
+    },
+    {
+      "url": "https://www.treccani.it/enciclopedia/santo-giovanni-i_(Enciclopedia-dei-Papi)/",
+      "title": "Giovanni I, Enciclopedia dei Papi (2000)",
+      "quote": "Nato in Toscana, figlio di Costanzio",
+      "section": null,
+      "id": "bp-west-016",
+      "kind": "scholarly-secondary",
+      "passage": "Nato in Toscana, figlio di Costanzio",
+      "retrievedAt": "2026-10-17"
+    },
+    {
+      "url": "https://www.newadvent.org/cathen/02477b.htm",
+      "title": "Umberto Benigni, Benevento, Catholic Encyclopedia (1907)",
+      "quote": "Popes Felix IV, Victor III (Dauferio), and Gregory VIII (Alberto di Morra) who were natives of Benevento",
+      "section": "paragraph 4",
+      "id": "bp-west-017",
+      "kind": "historical-catholic-encyclopedia",
+      "passage": "Popes Felix IV, Victor III (Dauferio), and Gregory VIII (Alberto di Morra) who were natives of Benevento",
+      "retrievedAt": "2026-10-17",
+      "approval": "Historical Catholic Encyclopedia with local ecclesiastical approval; not a Vatican publication."
+    },
+    {
+      "url": "https://www.vatican.va/content/john-paul-ii/it/speeches/1990/july/documents/hf_jp-ii_spe_19900702_cittadinanza-benevento.html",
+      "title": "John Paul II, address to Benevento, 2 July 1990",
+      "quote": "Questa vostra terra ha dato i natali a tre Papi. Il primo, san Felice IV",
+      "section": "section 3",
+      "id": "bp-west-018",
+      "kind": "official-vatican",
+      "passage": "Questa vostra terra ha dato i natali a tre Papi. Il primo, san Felice IV",
+      "retrievedAt": "2026-10-17"
+    },
+    {
+      "url": "https://www.newadvent.org/cathen/02660c.htm",
+      "title": "Thomas Oestereich, Boniface IV, Catholic Encyclopedia (1907)",
+      "quote": "a Marsian from the province and town of Valeria",
+      "section": null,
+      "id": "bp-west-019",
+      "kind": "historical-catholic-encyclopedia",
+      "passage": "a Marsian from the province and town of Valeria",
+      "retrievedAt": "2026-10-17",
+      "approval": "Historical Catholic Encyclopedia with local ecclesiastical approval; not a Vatican publication."
+    },
+    {
+      "url": "https://www.treccani.it/enciclopedia/bonifacio-iv-papa-santo_(Dizionario-Biografico)/",
+      "title": "Paolo Bertolini, Bonifacio IV, DBI 12 (1971)",
+      "quote": "Marso della Valeria",
+      "section": null,
+      "id": "bp-west-020",
+      "kind": "scholarly-secondary",
+      "passage": "Marso della Valeria",
+      "retrievedAt": "2026-10-17"
+    },
+    {
+      "url": "https://www.newadvent.org/cathen/07452b.htm",
+      "title": "John Chapman, Honorius I, Catholic Encyclopedia (1910)",
+      "quote": "a Campanian",
+      "section": null,
+      "id": "bp-west-021",
+      "kind": "historical-catholic-encyclopedia",
+      "passage": "a Campanian",
+      "retrievedAt": "2026-10-17",
+      "approval": "Historical Catholic Encyclopedia with local ecclesiastical approval; not a Vatican publication."
+    },
+    {
+      "url": "https://www.treccani.it/enciclopedia/onorio-i_(Enciclopedia-dei-Papi)/",
+      "title": "Antonio Sennis, Onorio I, Enciclopedia dei Papi (2000)",
+      "quote": "Nativo della Campania",
+      "section": null,
+      "id": "bp-west-022",
+      "kind": "scholarly-secondary",
+      "passage": "Nativo della Campania",
+      "retrievedAt": "2026-10-17"
+    },
+    {
+      "url": "https://www.vatican.va/content/vatican/en/holy-father/gregorio-v.html",
+      "title": "Holy See: Gregory V",
+      "quote": "Birth | Saxony",
+      "id": "bp-west-023",
+      "kind": "official-vatican",
+      "passage": "Birth | Saxony",
+      "retrievedAt": "2026-10-17"
+    },
+    {
+      "url": "https://www.treccani.it/enciclopedia/gregorio-v_(Enciclopedia-dei-Papi)/",
+      "title": "Gregorio V, Enciclopedia dei Papi (2000)",
+      "quote": "Bruno fu educato nella scuola cattedrale di Worms",
+      "id": "bp-west-024",
+      "kind": "scholarly-secondary",
+      "passage": "Bruno fu educato nella scuola cattedrale di Worms",
+      "retrievedAt": "2026-10-17"
+    },
+    {
+      "url": "https://www.newadvent.org/cathen/14371a.htm",
+      "title": "Johann Peter Kirsch, Sylvester II, Catholic Encyclopedia (1912)",
+      "quote": "Born at or near Aurillac, Auvergne, France",
+      "section": null,
+      "id": "bp-west-025",
+      "kind": "historical-catholic-encyclopedia",
+      "passage": "Born at or near Aurillac, Auvergne, France",
+      "retrievedAt": "2026-10-17",
+      "approval": "Historical Catholic Encyclopedia with local ecclesiastical approval; not a Vatican publication."
+    },
+    {
+      "url": "https://www.newadvent.org/cathen/04017a.htm",
+      "title": "Pope Clement II, Catholic Encyclopedia (1908)",
+      "quote": "He was born in Saxony of noble parentage",
+      "id": "bp-west-026",
+      "kind": "historical-catholic-encyclopedia",
+      "passage": "He was born in Saxony of noble parentage",
+      "retrievedAt": "2026-10-17",
+      "approval": "Historical Catholic Encyclopedia with local ecclesiastical approval; not a Vatican publication."
+    },
+    {
+      "url": "https://www.treccani.it/enciclopedia/clemente-ii_(Enciclopedia-dei-Papi)/",
+      "title": "Clemente II, Enciclopedia dei Papi (2000)",
+      "quote": "Suidger (è questo il suo nome di battesimo) apparteneva a una famiglia dell'alta nobiltà sassone",
+      "id": "bp-west-027",
+      "kind": "scholarly-secondary",
+      "passage": "Suidger (è questo il suo nome di battesimo) apparteneva a una famiglia dell'alta nobiltà sassone",
+      "retrievedAt": "2026-10-17"
+    },
+    {
+      "url": "https://www.vatican.va/content/vatican/en/holy-father/damaso-ii.html",
+      "title": "Holy See: Damasus II",
+      "quote": "Birth | Tyrol",
+      "id": "bp-west-028",
+      "kind": "official-vatican",
+      "passage": "Birth | Tyrol",
+      "retrievedAt": "2026-10-17"
+    },
+    {
+      "url": "https://www.newadvent.org/cathen/04614a.htm",
+      "title": "Pope Damasus II, Catholic Encyclopedia (1908)",
+      "quote": "A native of Bavaria and the third German to be elevated to the See of Peter.",
+      "id": "bp-west-029",
+      "kind": "historical-catholic-encyclopedia",
+      "passage": "A native of Bavaria and the third German to be elevated to the See of Peter.",
+      "retrievedAt": "2026-10-17",
+      "approval": "Historical Catholic Encyclopedia with local ecclesiastical approval; not a Vatican publication."
+    },
+    {
+      "url": "https://www.treccani.it/enciclopedia/damaso-ii_(Enciclopedia-dei-Papi)/",
+      "title": "Damaso II, Enciclopedia dei Papi (2000)",
+      "quote": "Tirolese di origine",
+      "id": "bp-west-030",
+      "kind": "scholarly-secondary",
+      "passage": "Tirolese di origine",
+      "retrievedAt": "2026-10-17"
+    },
+    {
+      "url": "https://www.newadvent.org/cathen/09160c.htm",
+      "title": "Pope St. Leo IX, Catholic Encyclopedia (1910)",
+      "quote": "b. at Egisheim, near Colmar, on the borders of Alsace, 21 June, 1002",
+      "id": "bp-west-031",
+      "kind": "historical-catholic-encyclopedia",
+      "passage": "b. at Egisheim, near Colmar, on the borders of Alsace, 21 June, 1002",
+      "retrievedAt": "2026-10-17",
+      "approval": "Historical Catholic Encyclopedia with local ecclesiastical approval; not a Vatican publication."
+    },
+    {
+      "url": "https://www.treccani.it/enciclopedia/leone-ix-papa-santo/",
+      "title": "Treccani: Leone IX papa, santo",
+      "quote": "Al secolo Brunone dei conti di Egisheim-Dagsburg (Egisheim, Alsazia, 1002 - Roma 1054)",
+      "id": "bp-west-032",
+      "kind": "scholarly-secondary",
+      "passage": "Al secolo Brunone dei conti di Egisheim-Dagsburg (Egisheim, Alsazia, 1002 - Roma 1054)",
+      "retrievedAt": "2026-10-17"
+    },
+    {
+      "url": "https://www.newadvent.org/cathen/15409a.htm",
+      "title": "Pope Victor II, Catholic Encyclopedia (1912)",
+      "quote": "The papal catalogues make him a native of the Bavarian Nordgau, while most German sources designate Swabia as his birthplace.",
+      "id": "bp-west-033",
+      "kind": "historical-catholic-encyclopedia",
+      "passage": "The papal catalogues make him a native of the Bavarian Nordgau, while most German sources designate Swabia as his birthplace.",
+      "retrievedAt": "2026-10-17",
+      "approval": "Historical Catholic Encyclopedia with local ecclesiastical approval; not a Vatican publication."
+    },
+    {
+      "url": "https://www.treccani.it/enciclopedia/papa-vittore-ii_(Dizionario-Biografico)/",
+      "title": "Vittore II, Dizionario Biografico degli Italiani (2020)",
+      "quote": "Al secolo Gebhard, nacque in Svevia",
+      "id": "bp-west-034",
+      "kind": "scholarly-secondary",
+      "passage": "Al secolo Gebhard, nacque in Svevia",
+      "retrievedAt": "2026-10-17"
+    },
+    {
+      "url": "https://www.treccani.it/enciclopedia/papa-stefano-ix_(Dizionario-Biografico)/",
+      "title": "Stefano IX, Dizionario Biografico degli Italiani (2019)",
+      "quote": "nacque probabilmente nel secondo decennio dell’XI secolo nella diocesi di Liegi, in Lotaringia",
+      "id": "bp-west-035",
+      "kind": "scholarly-secondary",
+      "passage": "nacque probabilmente nel secondo decennio dell’XI secolo nella diocesi di Liegi, in Lotaringia",
+      "retrievedAt": "2026-10-17"
+    },
+    {
+      "url": "https://www.newadvent.org/cathen/11055a.htm",
+      "title": "Pope Nicholas II, Catholic Encyclopedia (1911)",
+      "quote": "Nicholas was born at Chevron, in what is now Savoy",
+      "id": "bp-west-036",
+      "kind": "historical-catholic-encyclopedia",
+      "passage": "Nicholas was born at Chevron, in what is now Savoy",
+      "retrievedAt": "2026-10-17",
+      "approval": "Historical Catholic Encyclopedia with local ecclesiastical approval; not a Vatican publication."
+    },
+    {
+      "url": "https://www.treccani.it/enciclopedia/niccolo-ii-papa/",
+      "title": "Treccani: Niccolò II papa",
+      "quote": "Francese (Chevron, Savoia, 980 circa - Firenze 1061), di nome Gerardo",
+      "id": "bp-west-037",
+      "kind": "scholarly-secondary",
+      "passage": "Francese (Chevron, Savoia, 980 circa - Firenze 1061), di nome Gerardo",
+      "retrievedAt": "2026-10-17"
+    },
+    {
+      "url": "https://www.treccani.it/enciclopedia/papa-niccolo-ii_(Dizionario-Biografico)/",
+      "title": "Niccolò II, Dizionario Biografico degli Italiani (2013)",
+      "quote": "veniva dalla Borgogna",
+      "id": "bp-west-038",
+      "kind": "scholarly-secondary",
+      "passage": "veniva dalla Borgogna",
+      "retrievedAt": "2026-10-17"
+    },
+    {
+      "title": "OpenStreetMap: Chevron hamlet, node 11766436919",
+      "url": "https://www.openstreetmap.org/node/11766436919",
+      "id": "bp-geo-chevron-savoy",
+      "version": 2,
+      "coordinatesAsPublished": "45.6746571, 6.3372568",
+      "tags": {
+        "name": "Chevron",
+        "place": "hamlet",
+        "ref:FR:FANTOIR": "73154B069"
+      },
+      "quote": "name | Chevron; place | hamlet",
+      "kind": "geographic-gazetteer",
+      "license": "Open Data Commons Open Database License (ODbL)",
+      "licenseUrl": "https://www.openstreetmap.org/copyright",
+      "passage": "name | Chevron; place | hamlet",
+      "retrievedAt": "2026-10-17"
+    },
+    {
+      "url": "https://www.vaticannews.va/it/chiesa/news/2020-06/papa-gregorio-vii-santo-sovana-anniversario-mille-anni-nascita.html",
+      "title": "Vatican News: Sovana celebrates Gregory VII, 2020",
+      "quote": "la sua città natale Sovana, nella provincia toscana di Grosseto",
+      "section": null,
+      "id": "bp-west-039",
+      "kind": "official-vatican-publication",
+      "passage": "la sua città natale Sovana, nella provincia toscana di Grosseto",
+      "retrievedAt": "2026-10-17"
+    },
+    {
+      "url": "https://www.treccani.it/enciclopedia/gregorio-vii-papa-santo_(Dizionario-Biografico)/",
+      "title": "Gregorio VII, Dizionario Biografico (2002)",
+      "quote": "nato forse a Soana (oggi Sovana, in provincia di Grosseto)",
+      "section": null,
+      "id": "bp-west-040",
+      "kind": "scholarly-secondary",
+      "passage": "nato forse a Soana (oggi Sovana, in provincia di Grosseto)",
+      "retrievedAt": "2026-10-17"
+    },
+    {
+      "title": "GeoNames: Sovana",
+      "url": "https://www.geonames.org/3166324/sovana.html",
+      "id": "bp-geo-sovana",
+      "featureClass": "P",
+      "featureCode": "PPL",
+      "coordinatesAsPublished": "42.65718, 11.64505",
+      "quote": "P PPL Populated place",
+      "administrativeHierarchy": [
+        "Italy",
+        "Tuscany",
+        "Provincia di Grosseto",
+        "Sorano",
+        "Sovana"
+      ],
+      "kind": "geographic-gazetteer",
+      "license": "CC BY (GeoNames; existing project package metadata identifies CC BY 4.0)",
+      "licenseUrl": "https://www.geonames.org/export/",
+      "passage": "P PPL Populated place",
+      "retrievedAt": "2026-10-17"
+    },
+    {
+      "url": "https://www.newadvent.org/cathen/03185a.htm",
+      "title": "Pope Callistus II, Catholic Encyclopedia (1908)",
+      "quote": "Guido, as he was called before his elevation to the papacy, was the son of Count William of Burgundy",
+      "id": "bp-west-041",
+      "kind": "historical-catholic-encyclopedia",
+      "passage": "Guido, as he was called before his elevation to the papacy, was the son of Count William of Burgundy",
+      "retrievedAt": "2026-10-17",
+      "approval": "Historical Catholic Encyclopedia with local ecclesiastical approval; not a Vatican publication."
+    },
+    {
+      "url": "https://www.treccani.it/enciclopedia/callisto-ii_(Enciclopedia-dei-Papi)/",
+      "title": "Callisto II, Enciclopedia dei Papi (2000)",
+      "quote": "Figlio di Guglielmo conte di Borgogna",
+      "id": "bp-west-042",
+      "kind": "scholarly-secondary",
+      "passage": "Figlio di Guglielmo conte di Borgogna",
+      "retrievedAt": "2026-10-17"
+    },
+    {
+      "url": "https://www.treccani.it/enciclopedia/papa-innocenzo-v_(Dizionario-Biografico)/",
+      "title": "Paolo Vian, Innocenzo V, DBI 62 (2004)",
+      "quote": "Pietro di Tarantasia nacque intorno al 1224 nella Tarantasia propriamente detta, nell'alta valle dell'Isère.",
+      "section": null,
+      "id": "bp-west-043",
+      "kind": "scholarly-secondary",
+      "passage": "Pietro di Tarantasia nacque intorno al 1224 nella Tarantasia propriamente detta, nell'alta valle dell'Isère.",
+      "retrievedAt": "2026-10-17"
+    },
+    {
+      "url": "https://www.newadvent.org/cathen/09724a.htm",
+      "title": "Michael Ott, Martin IV, Catholic Encyclopedia (1910)",
+      "quote": "Born at the castle of Montpensier in the old French province of Touraine",
+      "section": null,
+      "id": "bp-west-044",
+      "kind": "historical-catholic-encyclopedia",
+      "passage": "Born at the castle of Montpensier in the old French province of Touraine",
+      "retrievedAt": "2026-10-17",
+      "approval": "Historical Catholic Encyclopedia with local ecclesiastical approval; not a Vatican publication."
+    },
+    {
+      "url": "https://www.treccani.it/enciclopedia/papa-martino-iv_(Dizionario-Biografico)/",
+      "title": "Simonetta Cerrini, Martino IV, DBI 71 (2008)",
+      "quote": "Simon de Brie (o di Brion o di Mainpincien)",
+      "section": null,
+      "id": "bp-west-045",
+      "kind": "scholarly-secondary",
+      "passage": "Simon de Brie (o di Brion o di Mainpincien)",
+      "retrievedAt": "2026-10-17"
+    },
+    {
+      "url": "https://www.treccani.it/enciclopedia/papa-celestino-v_(Dizionario-Biografico)/",
+      "title": "Peter Herde, Celestino V, DBI 23 (1979)",
+      "quote": "non si è potuto stabilire con piena certezza il luogo di nascita",
+      "section": null,
+      "id": "bp-west-046",
+      "kind": "scholarly-secondary",
+      "passage": "non si è potuto stabilire con piena certezza il luogo di nascita",
+      "retrievedAt": "2026-10-17"
+    },
+    {
+      "url": "https://www.treccani.it/enciclopedia/benedetto-xiii_(Enciclopedia-dei-Papi)/",
+      "title": "Gaspare De Caro, Benedetto XIII, Enciclopedia dei Papi (2000)",
+      "quote": "Pierfrancesco Orsini nacque a Gravina",
+      "section": null,
+      "id": "bp-west-047",
+      "kind": "scholarly-secondary",
+      "passage": "Pierfrancesco Orsini nacque a Gravina",
+      "retrievedAt": "2026-10-17"
+    },
+    {
+      "url": "https://www.rainews.it/amp/tgr/puglia/video/2024/05/benedetto-xiii-lultimo-papa-del-sud--8f44d321-3eaa-4e6d-97a7-8e79fb74b8c1.html",
+      "title": "RAI Puglia: Benedetto XIII, 2024",
+      "quote": "Nato nel 1650 a Gravina in Puglia",
+      "section": null,
+      "id": "bp-west-048",
+      "kind": "supplementary",
+      "passage": "Nato nel 1650 a Gravina in Puglia",
+      "retrievedAt": "2026-10-17"
+    },
+    {
+      "url": "https://www.pas.va/en/magisterium/benedict-xv.html",
+      "title": "Pontifical Academy of Sciences: Benedict XV biography",
+      "quote": "was born in Genoa on 21 November 1854",
+      "section": null,
+      "id": "bp-west-049",
+      "kind": "official-vatican",
+      "passage": "was born in Genoa on 21 November 1854",
+      "retrievedAt": "2026-10-17"
+    },
+    {
+      "url": "https://www.vatican.va/content/vatican/it/holy-father/benedetto-xv.html",
+      "title": "Holy See Italian profile: Benedetto XV",
+      "quote": "Nascita | Genova",
+      "section": null,
+      "id": "bp-west-050",
+      "kind": "official-vatican",
+      "passage": "Nascita | Genova",
+      "retrievedAt": "2026-10-17"
+    }
+  ],
+  "people": [
+    {
+      "label": "Bethlehem",
+      "country": "Palestine",
+      "precision": "place",
+      "coordinates": [
+        35.20376,
+        31.70487
+      ],
+      "bounds": null,
+      "uncertainty": "",
+      "reasoning": "Select the official Vatican News account because it explicitly attributes birth in Bethlehem to the pope. This is a source-backed traditional locality, not a deduction from his father’s birthplace.",
+      "papalName": "Evaristus",
+      "sourceRefs": [
+        "east-evaristus-vn",
+        "east-geonames"
+      ],
+      "confidence": "official-publication-tradition-disputed",
+      "supportingPassage": "Greco di Antiochia ma nato a Betlemme",
+      "disagreements": [
+        {
+          "sourceRefs": [
+            "east-vatican-roster"
+          ],
+          "account": "Vatican roster gives Greece in Birth column."
+        },
+        {
+          "sourceRefs": [
+            "east-evaristus-treccani",
+            "east-evaristus-ce"
+          ],
+          "account": "Scholarly accounts attribute Bethlehem to father Judah, and Greek/Antiochene origin to Evaristus. Treccani regards the early biographical tradition as uncheckable."
+        }
+      ],
+      "origin": null,
+      "rejectedCandidates": [
+        {
+          "label": "Antakya (Antioch), Turkey",
+          "reason": "Earliest Liber pontificalis form has Antiochenus, but does not settle actual birth town against Vatican News Bethlehem account."
+        }
+      ],
+      "geonamesRecord": {
+        "name": "Bethlehem",
+        "lat": "31.70487",
+        "lng": "35.20376",
+        "country": "PS",
+        "admin1": "WE",
+        "admin2": "7870463"
+      },
+      "countryCode": "PS",
+      "coordinateSourceRefs": [
+        "east-geonames"
+      ],
+      "placeId": "place-ps-bethlehem",
+      "summary": "Evaristus came from Bethlehem. He succeeded Clement as Bishop of Rome."
+    },
+    {
+      "label": "Rome",
+      "country": "Italy",
+      "precision": "place",
+      "coordinates": [
+        12.51133,
+        41.89193
+      ],
+      "bounds": null,
+      "uncertainty": "",
+      "reasoning": "Retain city supported by Vatican roster and Roman tradition. Caput tauri does not warrant moving to a precise neighborhood.",
+      "papalName": "Alexander I",
+      "sourceRefs": [
+        "east-vatican-roster",
+        "east-alexander-treccani",
+        "east-geonames"
+      ],
+      "confidence": "roster-and-tradition",
+      "supportingPassage": " | A. sarebbe stato romano, figlio di Alessandro, originario della regione di \"Caput tauri\"",
+      "disagreements": [],
+      "origin": null,
+      "rejectedCandidates": [],
+      "geonamesRecord": {
+        "name": "Rome",
+        "lat": "41.89193",
+        "lng": "12.51133",
+        "country": "IT",
+        "admin1": "07",
+        "admin2": "RM"
+      },
+      "countryCode": "IT",
+      "coordinateSourceRefs": [
+        "east-geonames"
+      ],
+      "placeId": "place-it-rome",
+      "summary": "Alexander I came from Rome. He succeeded Evaristus as Bishop of Rome."
+    },
+    {
+      "label": "Calabria",
+      "country": "Italy",
+      "precision": "region",
+      "coordinates": null,
+      "bounds": [
+        [
+          15.5,
+          37.9
+        ],
+        [
+          17.3,
+          40.3
+        ]
+      ],
+      "uncertainty": "",
+      "reasoning": "Official Vatican News calendar directly says born in Calabria while separately describing Greek origin. Preserve regional geometry because no town is named.",
+      "papalName": "Telesphorus",
+      "sourceRefs": [
+        "east-telesphorus-vn"
+      ],
+      "confidence": "official-publication-regional-tradition",
+      "supportingPassage": "Nato in Calabria, di origine greca",
+      "disagreements": [
+        {
+          "sourceRefs": [
+            "east-vatican-roster",
+            "east-greek-popes-vn"
+          ],
+          "account": "Roster gives Greece; longer Vatican News article describes Greek origin without identifying a place of birth."
+        }
+      ],
+      "origin": null,
+      "rejectedCandidates": [
+        {
+          "label": "Terranova da Sibari, Italy",
+          "reason": "No sufficiently direct evidence from the selected authoritative full texts established the town; not adopted."
+        }
+      ],
+      "placeId": "region-calabria",
+      "coordinateSourceRefs": [],
+      "summary": "Telesphorus came from Calabria. He succeeded Sixtus I as Bishop of Rome."
+    },
+    {
+      "label": "Athens",
+      "country": "Greece",
+      "precision": "place",
+      "coordinates": [
+        23.72784,
+        37.98376
+      ],
+      "bounds": null,
+      "uncertainty": "",
+      "reasoning": "Official Vatican News explicitly says born Athens; Treccani confirms Athens is the personal origin tradition, rather than father or ethnicity alone.",
+      "papalName": "Hyginus",
+      "sourceRefs": [
+        "east-greek-popes-vn",
+        "east-hyginus-treccani",
+        "east-geonames"
+      ],
+      "confidence": "official-publication-tradition",
+      "supportingPassage": "Nato ad Atene | I. sarebbe stato greco di nascita, originario di Atene",
+      "disagreements": [
+        {
+          "sourceRefs": [
+            "east-hyginus-treccani"
+          ],
+          "account": "Treccani regards Liber pontificalis personal details as weakly supported; keep this assessment internally."
+        }
+      ],
+      "origin": null,
+      "rejectedCandidates": [],
+      "geonamesRecord": {
+        "name": "Athens",
+        "lat": "37.98376",
+        "lng": "23.72784",
+        "country": "GR",
+        "admin1": "ESYE31",
+        "admin2": "99"
+      },
+      "countryCode": "GR",
+      "coordinateSourceRefs": [
+        "east-geonames"
+      ],
+      "placeId": "place-gr-athens",
+      "summary": "Hyginus came from Athens. He succeeded Telesphorus as Bishop of Rome."
+    },
+    {
+      "label": "Homs",
+      "country": "Syria",
+      "precision": "place",
+      "coordinates": [
+        36.72559,
+        34.72405
+      ],
+      "bounds": null,
+      "uncertainty": "",
+      "reasoning": "Retain current city point. Treccani explicitly establishes Emesa equals present Homs, giving a direct scholarly source for the historical alias.",
+      "papalName": "Anicetus",
+      "sourceRefs": [
+        "east-vatican-roster",
+        "east-anicetus-treccani",
+        "east-geonames"
+      ],
+      "confidence": "roster-and-tradition",
+      "supportingPassage": " | sarebbe stato siro, originario di Emesa, l’attuale Homs",
+      "disagreements": [],
+      "origin": null,
+      "rejectedCandidates": [],
+      "geonamesRecord": {
+        "name": "Homs",
+        "lat": "34.72405",
+        "lng": "36.72559",
+        "country": "SY",
+        "admin1": "11",
+        "admin2": ""
+      },
+      "countryCode": "SY",
+      "coordinateSourceRefs": [
+        "east-geonames"
+      ],
+      "placeId": "place-sy-homs",
+      "summary": "Anicetus came from Homs. He succeeded Pius I as Bishop of Rome."
+    },
+    {
+      "label": "Nicopolis, Epirus",
+      "country": "Greece",
+      "precision": "place",
+      "coordinates": [
+        20.7360035,
+        39.0157
+      ],
+      "bounds": null,
+      "uncertainty": "",
+      "reasoning": "Use ancient site of Nicopolis near Preveza. Pleiades supplies the missing geographic reference point; this is distinct from named cities elsewhere.",
+      "papalName": "Eleutherius",
+      "sourceRefs": [
+        "east-vatican-roster",
+        "east-eleutherius-treccani",
+        "east-eleutherius-ce",
+        "east-nicopolis-unesco",
+        "east-nicopolis-pleiades"
+      ],
+      "confidence": "roster-and-tradition",
+      "supportingPassage": " | E. sarebbe stato greco, della città di Nicopoli (in Epiro), figlio di Abbondio. | The Liber Pontificalis says that he was a native of Nicopolis, Greece. | Region of Epirus, Regional Unit of Preveza",
+      "disagreements": [],
+      "origin": null,
+      "rejectedCandidates": [],
+      "placeId": "place-nicopolis-epirus",
+      "coordinateSourceRefs": [
+        "east-nicopolis-pleiades"
+      ],
+      "summary": "Eleutherius came from Nicopolis, Epirus. He succeeded Soterus as Bishop of Rome."
+    },
+    {
+      "label": "Greece",
+      "country": "Greece",
+      "precision": "region",
+      "coordinates": null,
+      "bounds": [
+        [
+          19.3,
+          34.8
+        ],
+        [
+          29.6,
+          41.8
+        ]
+      ],
+      "uncertainty": "",
+      "reasoning": "Retain plain roster region. Selected full historical biographies do not establish a town; no inference from ethnicity or father is used to create one.",
+      "papalName": "Anterus",
+      "sourceRefs": [
+        "east-vatican-roster",
+        "east-anterus-treccani"
+      ],
+      "confidence": "roster-region-only",
+      "supportingPassage": " | Secondo il Liber pontificalis era di origine greca e suo padre si chiamava Romolo.",
+      "disagreements": [
+        {
+          "sourceRefs": [
+            "east-anterus-municipality"
+          ],
+          "account": "Petilia Policastro municipality reports birthplace as a hypothesis, and distinguishes its modern town from ancient Petelia near Strongoli."
+        }
+      ],
+      "origin": null,
+      "rejectedCandidates": [
+        {
+          "label": "Strongoli (Petelia), Italy",
+          "reason": "Local tradition exists, but selected official Vatican and scholarly full texts do not establish it as his own birthplace."
+        }
+      ],
+      "placeId": "region-greece",
+      "coordinateSourceRefs": []
+    },
+    {
+      "label": "Greece",
+      "country": "Greece",
+      "precision": "region",
+      "coordinates": null,
+      "bounds": [
+        [
+          19.3,
+          34.8
+        ],
+        [
+          29.6,
+          41.8
+        ]
+      ],
+      "uncertainty": "",
+      "reasoning": "Retain plain roster region. More precise Athens claim occurs in later hagiography, which scholarship distinguishes from contemporary evidence.",
+      "papalName": "Sixtus II",
+      "sourceRefs": [
+        "east-vatican-roster",
+        "east-greek-popes-vn",
+        "east-sixtus-ii-treccani"
+      ],
+      "confidence": "roster-region-only",
+      "supportingPassage": " | S. vi è detto nativo di Atene, educato in quella città",
+      "disagreements": [],
+      "origin": null,
+      "rejectedCandidates": [
+        {
+          "label": "Athens, Greece",
+          "reason": "Explicit in later Passio, but not adopted as securely documented against current roster’s broad origin."
+        }
+      ],
+      "placeId": "region-greece",
+      "coordinateSourceRefs": [],
+      "summary": "Sixtus II came from Greece. He succeeded Stephen I as Bishop of Rome."
+    },
+    {
+      "label": "Greece",
+      "country": "Greece",
+      "precision": "region",
+      "coordinates": null,
+      "bounds": [
+        [
+          19.3,
+          34.8
+        ],
+        [
+          29.6,
+          41.8
+        ]
+      ],
+      "uncertainty": "",
+      "reasoning": "Retain plain roster region. Greek origin and father’s medical occupation do not identify a birthplace town.",
+      "papalName": "Eusebius",
+      "sourceRefs": [
+        "east-vatican-roster",
+        "east-greek-popes-vn",
+        "east-eusebius-treccani"
+      ],
+      "confidence": "roster-region-only",
+      "supportingPassage": " | Il Liber pontificalis dice che E. era di origine greca, nato da padre medico",
+      "disagreements": [],
+      "origin": null,
+      "rejectedCandidates": [
+        {
+          "label": "Cassano all’Ionio, Italy",
+          "reason": "Later local tradition encountered, but selected primary/official and scholarly full sources do not establish a birth town."
+        }
+      ],
+      "placeId": "region-greece",
+      "coordinateSourceRefs": [],
+      "summary": "Eusebius came from Greece. He succeeded Marcellus I as Bishop of Rome."
+    },
+    {
+      "label": "Greece",
+      "country": "Greece",
+      "precision": "region",
+      "coordinates": null,
+      "bounds": [
+        [
+          19.3,
+          34.8
+        ],
+        [
+          29.6,
+          41.8
+        ]
+      ],
+      "uncertainty": "",
+      "reasoning": "Retain plain roster region; no precise town established by selected full biographies. Do not treat father’s name Abraham as a birthplace clue.",
+      "papalName": "Zosimus",
+      "sourceRefs": [
+        "east-vatican-roster",
+        "east-greek-popes-vn",
+        "east-zosimus-treccani"
+      ],
+      "confidence": "roster-region-only",
+      "supportingPassage": " | Il Liber pontificalis attesta che Z. era di origine greca e figlio di un certo Abramo",
+      "disagreements": [],
+      "origin": null,
+      "rejectedCandidates": [
+        {
+          "label": "Mesoraca, Italy",
+          "reason": "Later Calabrian local tradition encountered, but no corroboration in selected full official/scholarly sources sufficient for adoption."
+        }
+      ],
+      "placeId": "region-greece",
+      "coordinateSourceRefs": [],
+      "summary": "Zosimus came from Greece. He succeeded Innocent I as Bishop of Rome."
+    },
+    {
+      "label": "Antioch province",
+      "country": "",
+      "historicalRegion": "Province of Antioch, historical Syria",
+      "precision": "region",
+      "coordinates": null,
+      "bounds": [
+        [
+          34.8,
+          34.5
+        ],
+        [
+          38.1,
+          37.8
+        ]
+      ],
+      "uncertainty": "",
+      "reasoning": "Documented birth province only; do not substitute its capital. Project bounds are an indicative Antioch-province envelope, not a researched historical frontier.",
+      "papalName": "John V",
+      "sourceRefs": [
+        "treccani-john-v"
+      ],
+      "confidence": "high for the region; no supported town",
+      "supportingPassage": "Di origine siriana, nacque in data imprecisata nella provincia di Antiochia.",
+      "disagreements": [],
+      "origin": {
+        "label": "Province of Antioch, historical Syria",
+        "evidenceType": "birthplace",
+        "sourceRefs": [
+          "treccani-john-v"
+        ]
+      },
+      "rejectedCandidates": [],
+      "placeId": "region-antioch-province",
+      "coordinateSourceRefs": [],
+      "summary": "John V came from Antioch province. He succeeded Benedict II as Bishop of Rome."
+    },
+    {
+      "label": "Ephesus",
+      "country": "Turkey",
+      "historicalRegion": "İzmir Province",
+      "precision": "place",
+      "coordinates": [
+        27.342402982,
+        37.940164272
+      ],
+      "bounds": null,
+      "uncertainty": "",
+      "reasoning": "Ephesus is a supported locality, not an inference from Greek ethnicity. Expose that sources disagree if adopting it. Getty lists general bibliography rather than a citation attached to this field; the accessed NCE article does not independently verify Ephesus.",
+      "papalName": "John VI",
+      "sourceRefs": [
+        "getty-john-vi",
+        "treccani-john-vi",
+        "new-catholic-encyclopedia-john-vi",
+        "vaticannews-greek-popes",
+        "east-ephesus-pleiades"
+      ],
+      "confidence": "medium; conflicting references",
+      "supportingPassage": "Born: Ephesus (İzmir, Turkey) (deserted settlement) | Nacque in Grecia e la sua data di nascita è sconosciuta. | Of Greek descent | Nato in Grecia",
+      "disagreements": [
+        {
+          "account": "Ephesus is a supported locality, not an inference from Greek ethnicity. Expose that sources disagree if adopting it. Getty lists general bibliography rather than a citation attached to this field; the accessed NCE article does not independently verify Ephesus.",
+          "sourceRefs": [
+            "getty-john-vi",
+            "treccani-john-vi",
+            "new-catholic-encyclopedia-john-vi",
+            "vaticannews-greek-popes"
+          ]
+        }
+      ],
+      "origin": {
+        "label": "İzmir Province",
+        "evidenceType": "reported birthplace",
+        "sourceRefs": [
+          "getty-john-vi",
+          "treccani-john-vi",
+          "new-catholic-encyclopedia-john-vi",
+          "vaticannews-greek-popes"
+        ]
+      },
+      "rejectedCandidates": [],
+      "placeId": "place-ephesus",
+      "coordinateSourceRefs": [
+        "east-ephesus-pleiades"
+      ],
+      "summary": "John VI came from Ephesus. He succeeded Sergius I as Bishop of Rome."
+    },
+    {
+      "label": "Rossano",
+      "country": "Italy",
+      "historicalRegion": "Calabria",
+      "precision": "place",
+      "coordinates": [
+        16.63447,
+        39.57622
+      ],
+      "bounds": null,
+      "uncertainty": "",
+      "reasoning": "Getty and the Catholic Encyclopedia city entry support Rossano. Vatican gives Greek identity, while Treccani/VaticanNews state Greece as origin. Keep Greek ancestry separate from the reported Italian birthplace; do not infer Rome from father's employment.",
+      "papalName": "John VII",
+      "sourceRefs": [
+        "getty-john-vii",
+        "newadvent-rossano",
+        "treccani-john-vii",
+        "vatican-john-vii",
+        "vaticannews-greek-popes",
+        "east-geonames"
+      ],
+      "confidence": "medium to high for reported locality",
+      "supportingPassage": "Born: Rossano (Cosenza province, Calabria, Italy) (inhabited place) | Rossano was the birthplace of John VII | Sappiamo che era originario della Grecia | Nascita | Greco",
+      "disagreements": [
+        {
+          "account": "Getty and the Catholic Encyclopedia city entry support Rossano. Vatican gives Greek identity, while Treccani/VaticanNews state Greece as origin. Keep Greek ancestry separate from the reported Italian birthplace; do not infer Rome from father's employment.",
+          "sourceRefs": [
+            "getty-john-vii",
+            "newadvent-rossano",
+            "treccani-john-vii",
+            "vatican-john-vii",
+            "vaticannews-greek-popes"
+          ]
+        }
+      ],
+      "origin": {
+        "label": "Calabria",
+        "evidenceType": "reported birthplace",
+        "sourceRefs": [
+          "getty-john-vii",
+          "newadvent-rossano",
+          "treccani-john-vii",
+          "vatican-john-vii",
+          "vaticannews-greek-popes"
+        ]
+      },
+      "rejectedCandidates": [],
+      "geonamesRecord": {
+        "name": "Rossano",
+        "lat": "39.57622",
+        "lng": "16.63447",
+        "country": "IT",
+        "admin1": "03",
+        "admin2": "CS"
+      },
+      "countryCode": "IT",
+      "coordinateSourceRefs": [
+        "east-geonames"
+      ],
+      "placeId": "place-it-rossano",
+      "summary": "John VII came from Rossano. He succeeded John VI as Bishop of Rome."
+    },
+    {
+      "label": "Birthplace unknown",
+      "country": "",
+      "historicalRegion": "Historical Syria",
+      "precision": "unknown",
+      "coordinates": null,
+      "bounds": null,
+      "uncertainty": "",
+      "reasoning": "If this field is strictly birthplace, display Unknown and keep Syria in an origin field. Treccani explicitly rules out knowledge of a birthplace. No town or modern country is established.",
+      "papalName": "Sisinnius",
+      "sourceRefs": [
+        "treccani-sisinnius",
+        "vatican-sisinnius"
+      ],
+      "confidence": "high for Syrian origin; birth location unknown",
+      "supportingPassage": "Il suo luogo di nascita è sconosciuto | Nascita | Siro",
+      "disagreements": [],
+      "origin": {
+        "label": "Historical Syria",
+        "evidenceType": "origin only",
+        "sourceRefs": [
+          "treccani-sisinnius",
+          "vatican-sisinnius"
+        ]
+      },
+      "rejectedCandidates": [
+        {
+          "label": "Syria",
+          "reason": "Origin/family identity is established, but a strict birthplace field must not turn ancestry into a birth location."
+        }
+      ],
+      "placeId": null,
+      "coordinateSourceRefs": [],
+      "summary": "Sisinnius was of Syrian origin. He succeeded John VII as Bishop of Rome."
+    },
+    {
+      "label": "Birthplace unknown",
+      "country": "",
+      "historicalRegion": "Historical Syria",
+      "precision": "unknown",
+      "coordinates": null,
+      "bounds": null,
+      "uncertainty": "",
+      "reasoning": "If this field is strictly birthplace, use Unknown. Roman clerical career, father's name, and speculative brotherhood with Sisinnius cannot identify a birth town.",
+      "papalName": "Constantine",
+      "sourceRefs": [
+        "treccani-constantine",
+        "vatican-constantine"
+      ],
+      "confidence": "high for Syrian family origin; no birth locality established",
+      "supportingPassage": "Figlio di un Giovanni, proveniva da famiglia di origine siriana | Nascita | Siro",
+      "disagreements": [],
+      "origin": {
+        "label": "Historical Syria",
+        "evidenceType": "family origin only",
+        "sourceRefs": [
+          "treccani-constantine",
+          "vatican-constantine"
+        ]
+      },
+      "rejectedCandidates": [
+        {
+          "label": "Syria",
+          "reason": "Origin/family identity is established, but a strict birthplace field must not turn ancestry into a birth location."
+        }
+      ],
+      "placeId": null,
+      "coordinateSourceRefs": [],
+      "summary": "Constantine was of Syrian origin. He succeeded Sisinnius as Bishop of Rome."
+    },
+    {
+      "label": "Syria",
+      "country": "",
+      "historicalRegion": "Historical Syria",
+      "precision": "region",
+      "coordinates": null,
+      "bounds": [
+        [
+          34.5,
+          31.7
+        ],
+        [
+          42.5,
+          37.6
+        ]
+      ],
+      "uncertainty": "",
+      "reasoning": "The PBE explicitly records Syria as birthplace, but the historical region should not silently be equated with the current Syrian state's borders.",
+      "papalName": "Gregory III",
+      "sourceRefs": [
+        "pbe-gregory-iii",
+        "treccani-gregory-iii"
+      ],
+      "confidence": "high for Syrian origin; no town established",
+      "supportingPassage": "He was a native of Syria | Di origine siriaca",
+      "disagreements": [],
+      "origin": {
+        "label": "Historical Syria",
+        "evidenceType": "regional birthplace",
+        "sourceRefs": [
+          "pbe-gregory-iii",
+          "treccani-gregory-iii"
+        ]
+      },
+      "rejectedCandidates": [],
+      "placeId": "region-syria",
+      "coordinateSourceRefs": [],
+      "summary": "Gregory III came from Syria. He succeeded Gregory II as Bishop of Rome."
+    },
+    {
+      "label": "Jerusalem",
+      "country": "Israel / Palestine",
+      "historicalRegion": "Historical Palestine",
+      "precision": "place",
+      "coordinates": [
+        35.21633,
+        31.76904
+      ],
+      "bounds": null,
+      "uncertainty": "",
+      "reasoning": "Explicitly supported as his own birth city, not merely his father's episcopal city. Use the app's established Jerusalem convention for present-day country display.",
+      "papalName": "Theodore I",
+      "sourceRefs": [
+        "vatican-theodore-i",
+        "treccani-theodore-i",
+        "east-geonames"
+      ],
+      "confidence": "high",
+      "supportingPassage": "Nascita | Gerusalemme | da Gerusalemme, dove era nato",
+      "disagreements": [],
+      "origin": {
+        "label": "Historical Palestine",
+        "evidenceType": "birthplace",
+        "sourceRefs": [
+          "vatican-theodore-i",
+          "treccani-theodore-i"
+        ]
+      },
+      "rejectedCandidates": [],
+      "geonamesRecord": {
+        "name": "Jerusalem",
+        "lat": "31.76904",
+        "lng": "35.21633",
+        "country": "IL",
+        "admin1": "06",
+        "admin2": ""
+      },
+      "countryCode": "IL",
+      "coordinateSourceRefs": [
+        "east-geonames"
+      ],
+      "placeId": "place-il-jerusalem",
+      "summary": "Theodore I came from Jerusalem. He succeeded John IV as Bishop of Rome."
+    },
+    {
+      "label": "Volterra",
+      "country": "Italy",
+      "countryCode": "IT",
+      "precision": "place",
+      "coordinates": [
+        10.86152,
+        43.40251
+      ],
+      "bounds": null,
+      "placeId": "place-it-volterra",
+      "geonamesRecord": {
+        "name": "Volterra",
+        "lat": "43.40251",
+        "lng": "10.86152",
+        "country": "IT",
+        "admin1": "16",
+        "admin2": "PI"
+      },
+      "papalName": "Linus",
+      "sourceRefs": [
+        "bp-west-001",
+        "bp-west-002"
+      ],
+      "confidence": "refine-traditional-place",
+      "supportingPassage": "san Lino mártir, originario de Volterra según la antigua tradición | Linus's home was in Tuscany",
+      "reasoning": "The official papal letter explicitly attributes Volterra to ancient tradition. This is a traditional town attribution rather than independently documented first-century birth evidence; keep that distinction internally. Coordinates identify the modern town, not a birth house.",
+      "uncertainty": "",
+      "disagreements": [
+        {
+          "text": "The Vatican roster gives only Tuscia; CE says the origin of the Tuscan assertion cannot be discovered. Do not present Volterra as independently proven from Liber Pontificalis.",
+          "sourceRefs": [
+            "bp-west-001",
+            "bp-west-002"
+          ]
+        }
+      ],
+      "coordinateSourceRefs": [
+        "east-geonames"
+      ],
+      "summary": "Linus came from Volterra. He succeeded Peter as Bishop of Rome."
+    },
+    {
+      "label": "North Africa",
+      "country": "",
+      "countryCode": null,
+      "precision": "region",
+      "coordinates": null,
+      "bounds": [
+        [
+          -8,
+          30
+        ],
+        [
+          26,
+          37.6
+        ]
+      ],
+      "placeId": "region-africa-broad-origin",
+      "papalName": "Victor I",
+      "sourceRefs": [
+        "bp-west-003",
+        "bp-west-004"
+      ],
+      "confidence": "refine-region",
+      "supportingPassage": "Nascido numa província romana, na atual Tunísia | The Liber Pontificalis makes him a native of Africa",
+      "reasoning": "A North African region is supported; the exact town is unknown. The proposed Mediterranean North Africa envelope is cartographic navigation geometry, not a historical provincial border or a documented birth point.",
+      "uncertainty": "",
+      "disagreements": [
+        {
+          "text": "Vatican News identifies the province with present Tunisia; the Catholic Church of Algeria article identifies Victor with present Libya. Do not assign a modern country or invent Carthage/Leptis Magna.",
+          "sourceRefs": [
+            "bp-west-003",
+            "bp-west-004"
+          ]
+        },
+        {
+          "text": "Source: https://eglise-catholique-algerie.org/victor-miltiade-et-gelase-les-trois-papes-originaires-du-nord-de-lafrique/",
+          "sourceRefs": [
+            "bp-west-003",
+            "bp-west-004"
+          ]
+        }
+      ],
+      "coordinateSourceRefs": [],
+      "summary": "Victor I came from North Africa. He succeeded Eleutherius as Bishop of Rome."
+    },
+    {
+      "label": "North Africa",
+      "country": "",
+      "countryCode": null,
+      "precision": "region",
+      "coordinates": null,
+      "bounds": [
+        [
+          -8,
+          30
+        ],
+        [
+          26,
+          37.6
+        ]
+      ],
+      "placeId": "region-africa-broad-origin",
+      "papalName": "Miltiades or Melchiades",
+      "sourceRefs": [
+        "bp-west-003",
+        "bp-west-005"
+      ],
+      "confidence": "refine-region",
+      "supportingPassage": "originário do norte da África | a native of Africa",
+      "reasoning": "North African origin supports regional placement only. Coordinates remain null; bounds are indicative Mediterranean North Africa, replacing the inappropriate whole-continent envelope.",
+      "uncertainty": "",
+      "disagreements": [
+        {
+          "text": "The Catholic Church of Algeria article says born in Rome to an African family, whereas CE calls him a native of Africa. The Vatican roster is retained as the main origin account; do not silently turn ethnic/family origin into a precise birthplace.",
+          "sourceRefs": [
+            "bp-west-003",
+            "bp-west-005"
+          ]
+        }
+      ],
+      "coordinateSourceRefs": [],
+      "summary": "Miltiades or Melchiades came from North Africa. He succeeded Eusebius as Bishop of Rome."
+    },
+    {
+      "label": "Campania",
+      "country": "Italy",
+      "countryCode": null,
+      "precision": "region",
+      "coordinates": null,
+      "bounds": [
+        [
+          13.7,
+          39.9
+        ],
+        [
+          15.9,
+          41.6
+        ]
+      ],
+      "placeId": "region-campania-approximate",
+      "papalName": "Celestine I",
+      "sourceRefs": [
+        "bp-west-006"
+      ],
+      "confidence": "keep-region",
+      "supportingPassage": "Il Liber pontificalis lo dice figlio di un certo Prisco e originario della Campania",
+      "reasoning": "The consulted scholarly full biography supplies Campanian origin, not a precise town. No unsupported Campagna or Rome point should be added.",
+      "uncertainty": "",
+      "disagreements": [],
+      "coordinateSourceRefs": [],
+      "summary": "Celestine I came from Campania. He succeeded Boniface I as Bishop of Rome."
+    },
+    {
+      "label": "Tuscany",
+      "country": "Italy",
+      "countryCode": null,
+      "precision": "region",
+      "coordinates": null,
+      "bounds": [
+        [
+          9.6,
+          42.2
+        ],
+        [
+          12.4,
+          44.5
+        ]
+      ],
+      "placeId": "region-tuscany-northern-lazio-approximate",
+      "papalName": "Leo I",
+      "sourceRefs": [
+        "bp-west-007",
+        "bp-west-008"
+      ],
+      "confidence": "keep-region",
+      "supportingPassage": "Place and date of birth unknown | Birth | Tuscia",
+      "reasoning": "The exact town is not established. Retain the roster’s Tuscan origin without choosing Volterra or Rome.",
+      "uncertainty": "",
+      "disagreements": [
+        {
+          "text": "Rome may be his birthplace with Tuscan family origin; the Clerus-hosted introduction explicitly distinguishes these interpretations. Volterra cannot safely be inferred from ancestry or an ancient local cult.",
+          "sourceRefs": [
+            "bp-west-007",
+            "bp-west-008"
+          ]
+        },
+        {
+          "text": "Public label can simply read Tuscany; no parenthetical is needed to retain regional geometry.",
+          "sourceRefs": [
+            "bp-west-007",
+            "bp-west-008"
+          ]
+        }
+      ],
+      "coordinateSourceRefs": [],
+      "summary": "Leo the Great united theological teaching with pastoral care and diplomacy as the Western Roman Empire weakened."
+    },
+    {
+      "label": "Sardinia",
+      "country": "Italy",
+      "countryCode": null,
+      "precision": "region",
+      "coordinates": null,
+      "bounds": [
+        [
+          8,
+          38.8
+        ],
+        [
+          9.9,
+          41.4
+        ]
+      ],
+      "placeId": "region-sardinia-approximate",
+      "papalName": "Hilarius",
+      "sourceRefs": [
+        "bp-west-009"
+      ],
+      "confidence": "keep-region",
+      "supportingPassage": "Nacque in Sardegna, da Crispino, in data sconosciuta",
+      "reasoning": "Birth on Sardinia is supported, but a precise town was not verified in the requested official or scholarly sources.",
+      "uncertainty": "",
+      "disagreements": [
+        {
+          "text": "Calagonis/Maracalagonis appears in modern newspaper and popular retellings, but was not verified in the consulted Vatican/Treccani full biographies. Do not silently promote it to a documented birthtown.",
+          "sourceRefs": [
+            "bp-west-009"
+          ]
+        }
+      ],
+      "coordinateSourceRefs": [],
+      "summary": "Hilarius came from Sardinia. He succeeded Leo I as Bishop of Rome."
+    },
+    {
+      "label": "North Africa",
+      "country": "",
+      "countryCode": null,
+      "precision": "region",
+      "coordinates": null,
+      "bounds": [
+        [
+          -8,
+          30
+        ],
+        [
+          26,
+          37.6
+        ]
+      ],
+      "placeId": "region-africa-broad-origin",
+      "papalName": "Gelasius I",
+      "sourceRefs": [
+        "bp-west-003",
+        "bp-west-010",
+        "bp-west-011"
+      ],
+      "confidence": "refine-region-with-disagreement",
+      "supportingPassage": "tinha suas origens no norte da África | Others, however, interpreting natione Afer as \"African by birth\", explain Romanus natus as \"born a Roman citizen\". | L'espressione può infatti alludere tanto a una sua origine propriamente romana",
+      "reasoning": "The roster gives Africa; Vatican News narrows the origin to North Africa. Birthplace remains historically disputed between Rome and Africa. No exact city or modern country is established. The polygon envelope shows origin geography, not a certain birth site.",
+      "uncertainty": "",
+      "disagreements": [
+        {
+          "text": "Romanus natus can mean Roman-born, a Roman citizen, or cultural/political Roman identity; do not use it alone to add a Rome birth pin.",
+          "sourceRefs": [
+            "bp-west-003",
+            "bp-west-010",
+            "bp-west-011"
+          ]
+        }
+      ],
+      "coordinateSourceRefs": [],
+      "summary": "Gelasius I came from North Africa. He succeeded Felix III as Bishop of Rome."
+    },
+    {
+      "label": "Sardinia",
+      "country": "Italy",
+      "countryCode": null,
+      "precision": "region",
+      "coordinates": null,
+      "bounds": [
+        [
+          8,
+          38.8
+        ],
+        [
+          9.9,
+          41.4
+        ]
+      ],
+      "placeId": "region-sardinia-approximate",
+      "papalName": "Symmachus",
+      "sourceRefs": [
+        "bp-west-012",
+        "bp-west-013"
+      ],
+      "confidence": "keep-region",
+      "supportingPassage": "Birth | Sardinia | papa Simmaco di Simaxis",
+      "reasoning": "Simaxis has an ecclesiastically acknowledged local association, but the tourism message does not explicitly establish birth. Retain Sardinia as the secure birthplace region.",
+      "uncertainty": "",
+      "disagreements": [
+        {
+          "text": "The Simaxis hometown claim is a local tradition associated with a supposed paternal house and resemblance of the place/person names. It should not be promoted to a certain birth point from an origin adjective alone.",
+          "sourceRefs": [
+            "bp-west-012",
+            "bp-west-013"
+          ]
+        }
+      ],
+      "coordinateSourceRefs": [],
+      "summary": "Symmachus came from Sardinia. He succeeded Anastasius II as Bishop of Rome."
+    },
+    {
+      "label": "Frosinone",
+      "country": "Italy",
+      "countryCode": "IT",
+      "precision": "place",
+      "coordinates": [
+        13.34109,
+        41.63976
+      ],
+      "bounds": null,
+      "placeId": "place-it-frosinone",
+      "geonamesRecord": {
+        "name": "Frosinone",
+        "lat": "41.63976",
+        "lng": "13.34109",
+        "country": "IT",
+        "admin1": "07",
+        "admin2": "FR"
+      },
+      "papalName": "Hormisdas",
+      "sourceRefs": [
+        "bp-west-014",
+        "bp-west-015"
+      ],
+      "confidence": "refine-place",
+      "supportingPassage": "Figlio di Giusto, nacque a Frosinone. | 52 S. Ormisda",
+      "reasoning": "The English roster leaves origin blank; the older Vatican table and modern Treccani biography independently supply Frosinone. Coordinates identify the modern town centre.",
+      "uncertainty": "",
+      "disagreements": [],
+      "coordinateSourceRefs": [
+        "east-geonames"
+      ],
+      "summary": "Hormisdas came from Frosinone. He succeeded Symmachus as Bishop of Rome."
+    },
+    {
+      "label": "Tuscany",
+      "country": "Italy",
+      "countryCode": null,
+      "precision": "region",
+      "coordinates": null,
+      "bounds": [
+        [
+          9.5,
+          41.5
+        ],
+        [
+          13.3,
+          44.8
+        ]
+      ],
+      "placeId": "region-tuscany-northern-lazio-approximate",
+      "papalName": "John I",
+      "sourceRefs": [
+        "bp-west-016"
+      ],
+      "confidence": "keep-region",
+      "supportingPassage": "Nato in Toscana, figlio di Costanzio",
+      "reasoning": "The source supplies only Tuscany. A specific birthplace was not verified.",
+      "uncertainty": "",
+      "disagreements": [
+        {
+          "text": "Siena and the castle of Serena near Chiusdino appear as alternative later attributions. Do not select either without an adequate source explaining the tradition.",
+          "sourceRefs": [
+            "bp-west-016"
+          ]
+        }
+      ],
+      "coordinateSourceRefs": [],
+      "summary": "John I came from Tuscany. He succeeded Hormisdas as Bishop of Rome."
+    },
+    {
+      "label": "Benevento",
+      "country": "Italy",
+      "countryCode": "IT",
+      "precision": "place",
+      "coordinates": [
+        14.77816,
+        41.1307
+      ],
+      "bounds": null,
+      "placeId": "place-it-benevento",
+      "geonamesRecord": {
+        "name": "Benevento",
+        "lat": "41.1307",
+        "lng": "14.77816",
+        "country": "IT",
+        "admin1": "04",
+        "admin2": "BN"
+      },
+      "papalName": "Felix IV",
+      "sourceRefs": [
+        "bp-west-017",
+        "bp-west-018"
+      ],
+      "confidence": "refine-place",
+      "supportingPassage": "Popes Felix IV, Victor III (Dauferio), and Gregory VIII (Alberto di Morra) who were natives of Benevento | Questa vostra terra ha dato i natali a tre Papi. Il primo, san Felice IV",
+      "reasoning": "The roster and CE individual biography are less specific (Samnium); the CE city article explicitly names Benevento, and the papal visit recalls Felix IV among the three popes born in this land. Coordinates are city-level, not a birth building.",
+      "uncertainty": "",
+      "disagreements": [
+        {
+          "text": "Samnium is retained as the raw source origin; Benevento is a sourced refinement rather than a silent translation of the region.",
+          "sourceRefs": [
+            "bp-west-017",
+            "bp-west-018"
+          ]
+        }
+      ],
+      "coordinateSourceRefs": [
+        "east-geonames"
+      ],
+      "summary": "Felix IV came from Benevento. He succeeded John I as Bishop of Rome."
+    },
+    {
+      "label": "Marsican territory",
+      "country": "Italy",
+      "countryCode": null,
+      "precision": "region",
+      "coordinates": null,
+      "bounds": [
+        [
+          13,
+          41.3
+        ],
+        [
+          14,
+          42.1
+        ]
+      ],
+      "placeId": "region-marsican-territory-approximate",
+      "papalName": "Boniface IV",
+      "sourceRefs": [
+        "bp-west-019",
+        "bp-west-020"
+      ],
+      "confidence": "keep-region",
+      "supportingPassage": "a Marsian from the province and town of Valeria | Marso della Valeria",
+      "reasoning": "Valeria is a historical locality/provincial wording whose exact modern identification is not established here. Retain Marsican regional placement rather than invent a Valeria town-centre pin.",
+      "uncertainty": "",
+      "disagreements": [
+        {
+          "text": "Modern popular accounts identify Valeria with San Benedetto dei Marsi, while other historical readings treat civitate Valeria as a corrupted provincial description. No precise modern alias is adopted.",
+          "sourceRefs": [
+            "bp-west-019",
+            "bp-west-020"
+          ]
+        }
+      ],
+      "coordinateSourceRefs": [],
+      "summary": "Boniface IV came from Marsican territory. He succeeded Boniface III as Bishop of Rome."
+    },
+    {
+      "label": "Campania",
+      "country": "Italy",
+      "countryCode": null,
+      "precision": "region",
+      "coordinates": null,
+      "bounds": [
+        [
+          13.7,
+          39.9
+        ],
+        [
+          15.9,
+          41.6
+        ]
+      ],
+      "placeId": "region-campania-approximate",
+      "papalName": "Honorius I",
+      "sourceRefs": [
+        "bp-west-021",
+        "bp-west-022"
+      ],
+      "confidence": "keep-region",
+      "supportingPassage": "a Campanian | Nativo della Campania",
+      "reasoning": "The consulted CE and Treccani full texts give Campanian origin, not Capua.",
+      "uncertainty": "",
+      "disagreements": [
+        {
+          "text": "Capua appears in tertiary and old general histories but is not supported by the cited full biographies. Do not infer the city from Campanian identity or his father Petronius.",
+          "sourceRefs": [
+            "bp-west-021",
+            "bp-west-022"
+          ]
+        }
+      ],
+      "coordinateSourceRefs": [],
+      "summary": "Honorius I came from Campania. He succeeded Boniface V as Bishop of Rome."
+    },
+    {
+      "label": "Historical Saxony",
+      "country": "Germany",
+      "precision": "region",
+      "coordinates": null,
+      "bounds": [
+        [
+          7,
+          50.2
+        ],
+        [
+          14.5,
+          54.6
+        ]
+      ],
+      "placeId": "region-historical-saxony-approximate",
+      "papalName": "Gregory V",
+      "sourceRefs": [
+        "bp-west-023",
+        "bp-west-024"
+      ],
+      "confidence": "keep-region",
+      "supportingPassage": "Birth | Saxony | Bruno fu educato nella scuola cattedrale di Worms",
+      "reasoning": "Official birth/origin is regional. Treccani identifies his father as count of Worms and his education at Worms; neither statement establishes a birthplace. No precise birthtown verified in the full biographies. Retained bounds are the existing approximate navigation envelope, not historical boundaries.",
+      "uncertainty": "",
+      "disagreements": [
+        {
+          "text": "Stainach appears in tertiary search results but was not verified as a birthplace in the requested full authoritative biographies. Do not infer birth in Worms from father or schooling.",
+          "sourceRefs": [
+            "bp-west-023",
+            "bp-west-024"
+          ]
+        }
+      ],
+      "coordinateSourceRefs": [],
+      "summary": "Gregory V came from Historical Saxony. He succeeded John XV as Bishop of Rome."
+    },
+    {
+      "label": "Aurillac area",
+      "country": "France",
+      "countryCode": null,
+      "precision": "region",
+      "coordinates": null,
+      "bounds": [
+        [
+          2.15,
+          44.7
+        ],
+        [
+          2.75,
+          45.15
+        ]
+      ],
+      "placeId": "region-aquitaine-approximate",
+      "papalName": "Sylvester II",
+      "sourceRefs": [
+        "bp-west-025"
+      ],
+      "confidence": "refine-region",
+      "supportingPassage": "Born at or near Aurillac, Auvergne, France",
+      "reasoning": "The source explicitly includes near Aurillac, so this is a named local region rather than an exact town birthplace. The envelope is cartographic orientation only.",
+      "uncertainty": "",
+      "disagreements": [
+        {
+          "text": "The roster says Aquitaine; CE supplies the substantially narrower Aurillac/Auvergne area. Belliac is not independently verified here.",
+          "sourceRefs": [
+            "bp-west-025"
+          ]
+        }
+      ],
+      "coordinateSourceRefs": [],
+      "summary": "Sylvester II came from Aurillac area. He succeeded Gregory V as Bishop of Rome."
+    },
+    {
+      "label": "Historical Saxony",
+      "country": "Germany",
+      "precision": "region",
+      "coordinates": null,
+      "bounds": [
+        [
+          7,
+          50.2
+        ],
+        [
+          14.5,
+          54.6
+        ]
+      ],
+      "placeId": "region-historical-saxony-approximate",
+      "papalName": "Clement II",
+      "sourceRefs": [
+        "bp-west-026",
+        "bp-west-027"
+      ],
+      "confidence": "keep-region",
+      "supportingPassage": "He was born in Saxony of noble parentage | Suidger (è questo il suo nome di battesimo) apparteneva a una famiglia dell'alta nobiltà sassone",
+      "reasoning": "Full CE supports Saxony but no town. Treccani gives the father Konrad Morsleben von Horneburg, which does not itself establish either town as the birth location. Retained bounds are existing approximate navigation geometry.",
+      "uncertainty": "",
+      "disagreements": [
+        {
+          "text": "Hornburg is a common tertiary attribution; not adopted from the family name or an uncited derivative birth field.",
+          "sourceRefs": [
+            "bp-west-026",
+            "bp-west-027"
+          ]
+        }
+      ],
+      "coordinateSourceRefs": [],
+      "summary": "Clement II came from Historical Saxony. He succeeded Gregory VI as Bishop of Rome."
+    },
+    {
+      "label": "Tyrol",
+      "country": "Austria / Italy",
+      "precision": "region",
+      "coordinates": null,
+      "bounds": [
+        [
+          10.1,
+          46.4
+        ],
+        [
+          13,
+          47.8
+        ]
+      ],
+      "placeId": "region-tyrol-approximate",
+      "papalName": "Damasus II",
+      "sourceRefs": [
+        "bp-west-028",
+        "bp-west-029",
+        "bp-west-030"
+      ],
+      "confidence": "keep-region-with-source-difference",
+      "supportingPassage": "Birth | Tyrol | A native of Bavaria and the third German to be elevated to the See of Peter. | Tirolese di origine",
+      "reasoning": "No verified birthtown. Brixen/Bressanone is a documented bishopric, not a birthplace statement. Retain the Holy See/Treccani regional attribution with the existing broad Tyrol envelope; the competing Bavarian attribution must remain visible in research.",
+      "uncertainty": "",
+      "disagreements": [
+        {
+          "text": "CE calls him native of Bavaria; Vatican says Tyrol; Treccani calls him Tirolese and cites Liber pontificalis natione Noricus ... Baguurarius. Historical Bavaria/Noric usage does not establish modern administrative Bavaria or one specific town.",
+          "sourceRefs": [
+            "bp-west-028",
+            "bp-west-029",
+            "bp-west-030"
+          ]
+        },
+        {
+          "text": "Pildenau/Ering was not verified in the requested authoritative full biographies.",
+          "sourceRefs": [
+            "bp-west-028",
+            "bp-west-029",
+            "bp-west-030"
+          ]
+        }
+      ],
+      "coordinateSourceRefs": [],
+      "summary": "Damasus II came from Tyrol. He succeeded Benedict IX as Bishop of Rome."
+    },
+    {
+      "label": "Eguisheim",
+      "country": "France",
+      "precision": "place",
+      "coordinates": [
+        7.30617,
+        48.0428
+      ],
+      "bounds": null,
+      "placeId": "place-fr-eguisheim",
+      "papalName": "Leo IX",
+      "sourceRefs": [
+        "bp-west-031",
+        "bp-west-032"
+      ],
+      "confidence": "refine-city",
+      "supportingPassage": "b. at Egisheim, near Colmar, on the borders of Alsace, 21 June, 1002 | Al secolo Brunone dei conti di Egisheim-Dagsburg (Egisheim, Alsazia, 1002 - Roma 1054)",
+      "reasoning": "City-level attribution in CE and Treccani online. Egisheim is the source spelling of modern Eguisheim. Coordinates are the modern town centre, not a known building/site of birth; exact name and France match local GeoNames cities.json. The long Treccani 2000 biography states Alsace only.",
+      "uncertainty": "",
+      "disagreements": [
+        {
+          "text": "The modern scholarly full Treccani biography is less geographically specific; it does not explicitly contradict Egisheim. Do not infer Dabo from the family name or possible maternal association.",
+          "sourceRefs": [
+            "bp-west-031",
+            "bp-west-032"
+          ]
+        }
+      ],
+      "geonamesRecord": {
+        "name": "Eguisheim",
+        "lat": "48.0428",
+        "lng": "7.30617",
+        "country": "FR",
+        "admin1": "44",
+        "admin2": "68"
+      },
+      "countryCode": "FR",
+      "coordinateSourceRefs": [
+        "east-geonames"
+      ],
+      "summary": "Leo IX came from Eguisheim. He succeeded Damasus II as Bishop of Rome."
+    },
+    {
+      "label": "Swabia",
+      "country": "Germany",
+      "precision": "region",
+      "coordinates": null,
+      "bounds": [
+        [
+          7.7,
+          47.4
+        ],
+        [
+          11.1,
+          49.5
+        ]
+      ],
+      "placeId": "region-swabia-approximate",
+      "papalName": "Victor II",
+      "sourceRefs": [
+        "bp-west-033",
+        "bp-west-034"
+      ],
+      "confidence": "keep-region-with-source-difference",
+      "supportingPassage": "The papal catalogues make him a native of the Bavarian Nordgau, while most German sources designate Swabia as his birthplace. | Al secolo Gebhard, nacque in Svevia",
+      "reasoning": "Modern scholarly Treccani explicitly supports Swabia; no town verified. Counts of Calw/Tollenstein/Hirschberg and family connection to Kuehbach are titles or ancestry and cannot establish birthtown. Retained bounds are existing approximate navigation geometry.",
+      "uncertainty": "",
+      "disagreements": [
+        {
+          "text": "CE explicitly records a historical disagreement between Bavarian Nordgau in papal catalogues and Swabia in most German sources.",
+          "sourceRefs": [
+            "bp-west-033",
+            "bp-west-034"
+          ]
+        }
+      ],
+      "coordinateSourceRefs": [],
+      "summary": "Victor II came from Swabia. He succeeded Leo IX as Bishop of Rome."
+    },
+    {
+      "label": "Diocese of Liège, Lotharingia",
+      "country": "Belgium / Netherlands",
+      "precision": "region",
+      "coordinates": null,
+      "bounds": [
+        [
+          4.3,
+          49.5
+        ],
+        [
+          6.2,
+          51.8
+        ]
+      ],
+      "placeId": "region-medieval-diocese-liege-probable",
+      "papalName": "Stephen IX",
+      "sourceRefs": [
+        "bp-west-035"
+      ],
+      "confidence": "refine-probable-region",
+      "supportingPassage": "nacque probabilmente nel secondo decennio dell’XI secolo nella diocesi di Liegi, in Lotaringia",
+      "reasoning": "Treccani explicitly supplies a probable birth region, the historical diocese of Liège in Lotharingia, not Liège city. Current app record is unknown, despite the subtask shorthand Lorraine. Coordinates deliberately null. Bounds are a newly proposed broad orientation envelope for the historical Liège/Lotharingian area, not surveyed diocesan boundaries or a probability distribution; modern-country labels are geographic navigation only.",
+      "uncertainty": "",
+      "disagreements": [
+        {
+          "text": "Historical Lotharingia is not equivalent to the modern French Lorraine region. Do not turn his father’s duchy or his studies/canonry at Liège into a city birth claim.",
+          "sourceRefs": [
+            "bp-west-035"
+          ]
+        }
+      ],
+      "coordinateSourceRefs": [],
+      "summary": "Stephen IX came from Diocese of Liège, Lotharingia. He succeeded Victor II as Bishop of Rome."
+    },
+    {
+      "label": "Chevron, Savoy",
+      "country": "France",
+      "precision": "place",
+      "coordinates": [
+        6.3372568,
+        45.6746571
+      ],
+      "bounds": null,
+      "placeId": "place-fr-chevron",
+      "papalName": "Nicholas II",
+      "sourceRefs": [
+        "bp-west-036",
+        "bp-west-037",
+        "bp-west-038"
+      ],
+      "confidence": "sourced-locality-with-verified-coordinate",
+      "supportingPassage": "Nicholas was born at Chevron, in what is now Savoy | Francese (Chevron, Savoia, 980 circa - Firenze 1061), di nome Gerardo | veniva dalla Borgogna",
+      "reasoning": "The source locates a separately named Chevron hamlet inside the Mercury commune; this is not a replacement with the generic Mercury gazetteer point. CE/Treccani already support Chevron in Savoy as the birthplace name. The point represents the named modern settlement, not a birthhouse or Château de Chevron. The surviving château is later than Nicholas II and must not be identified as his birthplace. Medieval Chevron covered a locality around the modern hamlet; retain historical-source qualifications internally. This geographic lookup does not infer birth from a family seat.",
+      "uncertainty": "",
+      "disagreements": [
+        {
+          "text": "CE and Treccani online place Chevron in Savoy; Treccani 1933 calls it Chevron-enBourgogne (Isère). The 2013 scholarly biography provides no town. This is differing specificity/historical geography, not proof that Chevron is false.",
+          "sourceRefs": [
+            "bp-west-036",
+            "bp-west-037",
+            "bp-west-038"
+          ]
+        }
+      ],
+      "coordinateSourceRefs": [
+        "bp-geo-chevron-savoy"
+      ],
+      "historicalName": "Chevron",
+      "summary": "Nicholas II came from Chevron, Savoy. He succeeded Stephen IX as Bishop of Rome."
+    },
+    {
+      "label": "Sovana",
+      "country": "Italy",
+      "countryCode": null,
+      "precision": "place",
+      "coordinates": [
+        11.64505,
+        42.65718
+      ],
+      "bounds": null,
+      "placeId": "place-it-sovana",
+      "papalName": "Gregory VII",
+      "sourceRefs": [
+        "bp-west-039",
+        "bp-west-040"
+      ],
+      "confidence": "sourced-locality-with-verified-coordinate",
+      "supportingPassage": "la sua città natale Sovana, nella provincia toscana di Grosseto | nato forse a Soana (oggi Sovana, in provincia di Grosseto)",
+      "reasoning": "GeoNames identifies Sovana as its own populated place and Sorano as the parent commune. The point belongs to Sovana, not Sorano. Town reference point only. The historical birthplace attribution and scholarly qualification remain as documented in the Western review. This coordinate does not identify a known birth building. The small settlement is absent from the local cities-over-1000 gazetteer but present in the full GeoNames web database.",
+      "uncertainty": "",
+      "disagreements": [
+        {
+          "text": "CE gives Soana or Ravacum and describes obscure early life; retain this historical qualification internally. The selected modern label is Sovana.",
+          "sourceRefs": [
+            "bp-west-039",
+            "bp-west-040"
+          ]
+        }
+      ],
+      "coordinateSourceRefs": [
+        "bp-geo-sovana"
+      ],
+      "historicalName": "Soana",
+      "summary": "Gregory VII came from Sovana. He succeeded Alexander II as Bishop of Rome."
+    },
+    {
+      "label": "Birthplace unknown",
+      "country": null,
+      "precision": "unknown",
+      "coordinates": null,
+      "bounds": null,
+      "placeId": null,
+      "papalName": "Callixtus II",
+      "sourceRefs": [
+        "bp-west-041",
+        "bp-west-042"
+      ],
+      "confidence": "keep-unknown",
+      "supportingPassage": "Guido, as he was called before his elevation to the papacy, was the son of Count William of Burgundy | Figlio di Guglielmo conte di Borgogna",
+      "reasoning": "Reviewed full CE, full Treccani Enciclopedia dei Papi, and Treccani online entry. None verified Quingey or another place as birthplace. Burgundy is his father’s county and family association here, not an explicit birth statement. Keep unknown. Quingey does exist in local GeoNames, but a coordinate lookup cannot establish the historical birth claim.",
+      "uncertainty": "",
+      "disagreements": [
+        {
+          "text": "Quingey appears in tertiary/search-derived records and Wikidata, including records that cite a Treccani online page whose actual text does not state Quingey. Do not transfer the unsupported infobox value.",
+          "sourceRefs": [
+            "bp-west-041",
+            "bp-west-042"
+          ]
+        }
+      ],
+      "coordinateSourceRefs": []
+    },
+    {
+      "label": "Tarentaise",
+      "country": "France",
+      "countryCode": null,
+      "precision": "region",
+      "coordinates": null,
+      "bounds": [
+        [
+          6.2,
+          45.25
+        ],
+        [
+          7.15,
+          45.85
+        ]
+      ],
+      "placeId": "region-savoy-approximate",
+      "papalName": "Innocent V",
+      "sourceRefs": [
+        "bp-west-043"
+      ],
+      "confidence": "refine-region",
+      "supportingPassage": "Pietro di Tarantasia nacque intorno al 1224 nella Tarantasia propriamente detta, nell'alta valle dell'Isère.",
+      "reasoning": "The scholarly biography supports the upper Isère/Tarentaise region, a narrower label than Savoy. No specific commune is certain; bounds are indicative navigation geometry.",
+      "uncertainty": "",
+      "disagreements": [
+        {
+          "text": "Champagny-en-Vanoise and Écours/La Salle are alternative later attributions. Do not select one as documented birthtown.",
+          "sourceRefs": [
+            "bp-west-043"
+          ]
+        }
+      ],
+      "coordinateSourceRefs": [],
+      "summary": "Innocent V came from Tarentaise. He succeeded Gregory X as Bishop of Rome."
+    },
+    {
+      "label": "France",
+      "country": "France",
+      "countryCode": null,
+      "precision": "region",
+      "coordinates": null,
+      "bounds": [
+        [
+          -5.5,
+          41.3
+        ],
+        [
+          9.8,
+          51.2
+        ]
+      ],
+      "placeId": "region-france-approximate-origin",
+      "papalName": "Martin IV",
+      "sourceRefs": [
+        "bp-west-044",
+        "bp-west-045"
+      ],
+      "confidence": "keep-region-with-disagreement",
+      "supportingPassage": "Born at the castle of Montpensier in the old French province of Touraine | Simon de Brie (o di Brion o di Mainpincien)",
+      "reasoning": "CE identifies Montpensier/Touraine, but this conflicts with the commonly repeated Mainpincien/Andrezel/Brie account. Modern Treccani supplies name variants without confirming a birthtown. Retain France rather than choose an unresolved castle.",
+      "uncertainty": "",
+      "disagreements": [
+        {
+          "text": "The secular-name variant Mainpincien is not itself a birth statement. The older CE location must not be silently equated with Mainpincien.",
+          "sourceRefs": [
+            "bp-west-044",
+            "bp-west-045"
+          ]
+        }
+      ],
+      "coordinateSourceRefs": [],
+      "summary": "Martin IV came from France. He succeeded Nicholas III as Bishop of Rome."
+    },
+    {
+      "label": "Molise",
+      "country": "Italy",
+      "countryCode": null,
+      "precision": "region",
+      "coordinates": null,
+      "bounds": [
+        [
+          13.9,
+          41.3
+        ],
+        [
+          15.2,
+          42.2
+        ]
+      ],
+      "placeId": "region-molise-approximate",
+      "papalName": "Celestine V",
+      "sourceRefs": [
+        "bp-west-046"
+      ],
+      "confidence": "keep-region-with-disagreement",
+      "supportingPassage": "non si è potuto stabilire con piena certezza il luogo di nascita",
+      "reasoning": "The scholarly account finds the birthtown unresolved and gives stronger evidence for Sant’Angelo Limosano than Isernia, but not certainty. Molise remains the defensible map region.",
+      "uncertainty": "",
+      "disagreements": [
+        {
+          "text": "Isernia is supported by two documents of doubtful authenticity; Sant’Angelo Limosano has a later literary tradition and circumstantial support. Do not silently promote either to certain birthplace.",
+          "sourceRefs": [
+            "bp-west-046"
+          ]
+        }
+      ],
+      "coordinateSourceRefs": [],
+      "summary": "Celestine V came from Molise. He succeeded Nicholas IV as Bishop of Rome."
+    },
+    {
+      "label": "Gravina in Puglia",
+      "country": "Italy",
+      "countryCode": "IT",
+      "precision": "place",
+      "coordinates": [
+        16.41915,
+        40.81748
+      ],
+      "bounds": null,
+      "placeId": "place-it-gravina-in-puglia",
+      "geonamesRecord": {
+        "name": "Gravina in Puglia",
+        "lat": "40.81748",
+        "lng": "16.41915",
+        "country": "IT",
+        "admin1": "13",
+        "admin2": "BA"
+      },
+      "papalName": "Benedict XIII",
+      "sourceRefs": [
+        "bp-west-047",
+        "bp-west-048"
+      ],
+      "confidence": "refine-place",
+      "supportingPassage": "Pierfrancesco Orsini nacque a Gravina | Nato nel 1650 a Gravina in Puglia",
+      "reasoning": "The source name Gravina is geographically disambiguated to Gravina in Puglia; this avoids same-name towns and supplies a unique GeoNames match. This research does not revise the separately disputed birth year.",
+      "uncertainty": "",
+      "disagreements": [],
+      "coordinateSourceRefs": [
+        "east-geonames"
+      ],
+      "summary": "Benedict XIII came from Gravina in Puglia. He succeeded Innocent XIII as Bishop of Rome."
+    },
+    {
+      "label": "Genoa",
+      "country": "Italy",
+      "countryCode": "IT",
+      "precision": "place",
+      "coordinates": [
+        8.94439,
+        44.40478
+      ],
+      "bounds": null,
+      "placeId": "place-it-genoa",
+      "geonamesRecord": {
+        "name": "Genoa",
+        "lat": "44.40478",
+        "lng": "8.94439",
+        "country": "IT",
+        "admin1": "08",
+        "admin2": "GE"
+      },
+      "papalName": "Benedict XV",
+      "sourceRefs": [
+        "bp-west-049",
+        "bp-west-050"
+      ],
+      "confidence": "refine-place",
+      "supportingPassage": "was born in Genoa on 21 November 1854 | Nascita | Genova",
+      "reasoning": "The English roster omits the birthplace, while both the Italian Holy See profile and the Pontifical Academy biography explicitly give Genoa. City-level gazetteer coordinates are appropriate; no specific district or house is inferred.",
+      "uncertainty": "",
+      "disagreements": [],
+      "coordinateSourceRefs": [
+        "east-geonames"
+      ],
+      "summary": "Benedict XV came from Genoa. He succeeded Pius X as Bishop of Rome."
+    }
+  ]
+}

@@ -3,29 +3,61 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>Pope Map</title>
-  <meta name="description" content="A map tour of places connected to the popes, with the history of the papacy.">
-  <style>
-    :root { --bg: #faf7f0; --fg: #2b2622; --muted: #6b625a; --accent: #a8842c; }
-    @media (prefers-color-scheme: dark) {
-      :root { --bg: #1c1a17; --fg: #f1ece3; --muted: #a9a094; --accent: #d4b25a; }
-    }
-    * { box-sizing: border-box; }
-    body {
-      margin: 0; min-height: 100vh; display: grid; place-items: center;
-      padding: 16px; background: var(--bg); color: var(--fg);
-      font-family: Georgia, "Times New Roman", serif; text-align: center;
-    }
-    h1 { font-size: clamp(2rem, 6vw, 3.25rem); margin: 0 0 .5rem; }
-    .rule { width: 64px; height: 2px; background: var(--accent); margin: 1rem auto; border: 0; }
-    p { color: var(--muted); font-size: 1.125rem; max-width: 32rem; margin: 0 auto; line-height: 1.5; }
-  </style>
+  <meta name="theme-color" content="#F7F2EA">
+  <title>Pope placeness — a place in history</title>
+  <meta name="description" content="Explore the birthplaces and stories of the popes, from St Peter to Leo XIV, on an interactive historical map.">
+  <link rel="stylesheet" href="./assets/fonts/fonts.css">
+  <link rel="stylesheet" href="./src/styles.css">
+  <link rel="stylesheet" href="./src/map.css">
+  <script type="module" src="./src/app.js"></script>
 </head>
 <body>
-  <main>
-    <h1>Pope Map</h1>
-    <hr class="rule">
-    <p>A map tour of the places connected to the popes, with the history of the papacy. Coming soon.</p>
+  <a class="skip-link" href="#main-content">Skip to the map and content</a>
+  <header class="site-header">
+    <button class="brand" type="button" data-action="map" aria-label="Pope placeness home"><img src="./assets/artwork/logo-header.webp" alt="Pope placeness" width="230" height="65"></button>
+    <nav class="primary-nav" aria-label="Main navigation">
+      <button class="nav-button is-active" type="button" data-action="map"><svg class="nav-map-icon" viewBox="0 0 24 24" width="15" height="15" fill="none" stroke="currentColor" stroke-width="1.6" aria-hidden="true"><path d="m3 6 6-3 6 3 6-3v15l-6 3-6-3-6 3V6Z M9 3v15m6-12v15"></path></svg> Explore map</button>
+      <button class="nav-button" type="button" data-action="list">List of popes</button>
+      <button class="nav-button" type="button" data-action="overview">What is a pope?</button>
+    </nav>
+    <button class="button button-gold header-tour" type="button" data-action="tour"><span aria-hidden="true">→</span> Take the pope tour</button>
+  </header>
+  <main id="main-content" class="map-stage" tabindex="-1">
+    <div id="map" aria-label="Interactive map of papal birthplaces"></div>
+    <div class="map-heading" aria-hidden="true"><span class="mini-rule"></span> The world of the popes</div>
+    <section class="welcome-card" id="welcome-card" aria-labelledby="welcome-title">
+      <div class="welcome-eyebrow">From St Peter to Leo XIV</div>
+      <h1 id="welcome-title">Every pope.<br>A place in history.</h1>
+      <div class="drawn-rule" aria-hidden="true"></div>
+      <p>Follow the places and people behind centuries of papal history.</p>
+      <button class="button button-navy" type="button" data-action="tour">Take the pope tour <span aria-hidden="true">→</span></button>
+      <button class="text-button welcome-list" type="button" data-action="list">Or explore the list of popes <span aria-hidden="true">→</span></button>
+      <img class="welcome-art" src="./assets/artwork/st-peter-map.webp" alt="Hand-drawn illustration of St Peter holding keys, with a map of Europe" width="290" height="200">
+      <p class="welcome-footnote">Choose a pin to discover a story.</p>
+    </section>
+    <div class="map-toolbar" aria-label="Map controls">
+      <button class="world-button" type="button" data-action="world-map" aria-label="Show the world" title="Show the world"><svg viewBox="0 0 24 24" width="19" height="19" fill="none" stroke="currentColor" stroke-width="1.4" aria-hidden="true"><circle cx="12" cy="12" r="9"></circle><ellipse cx="12" cy="12" rx="4" ry="9"></ellipse><path d="M3 12h18M5 7h14M5 17h14"></path></svg></button>
+      <button type="button" data-action="reset-map" aria-label="Reset map view" title="Reset map view"><svg viewBox="0 0 24 24" width="19" height="19" fill="none" stroke="currentColor" stroke-width="1.5" aria-hidden="true"><circle cx="12" cy="12" r="6"></circle><path d="M12 2v5m0 10v5M2 12h5m10 0h5"></path></svg></button>
+      <div class="zoom-buttons"><button type="button" data-action="zoom-in" aria-label="Zoom in" title="Zoom in">+</button><button type="button" data-action="zoom-out" aria-label="Zoom out" title="Zoom out">−</button></div>
+    </div>
+    <aside id="content-panel" class="content-panel" hidden aria-label="Pope information"></aside>
+    <div id="selection-card" class="selection-card" hidden></div>
+    <div class="map-key">
+      <section class="americas-card" aria-label="Two American popes" hidden>
+        <span class="americas-heading">Across the Atlantic <span>· Two American popes</span></span>
+        <div class="americas-links">
+          <button type="button" data-action="american-pope" data-person="pope-francis" aria-label="Francis, Buenos Aires"><span><strong>Francis</strong><small>Buenos Aires</small></span><svg class="americas-arrow" viewBox="0 0 20 20" width="18" height="18" fill="none" stroke="currentColor" stroke-width="1.4" aria-hidden="true"><path d="M5 15 15 5M5 5h10v10"></path></svg></button>
+          <button type="button" data-action="american-pope" data-person="pope-leo-xiv" aria-label="Leo XIV, Chicago"><span><strong>Leo XIV</strong><small>Chicago</small></span><svg class="americas-arrow" viewBox="0 0 20 20" width="18" height="18" fill="none" stroke="currentColor" stroke-width="1.4" aria-hidden="true"><path d="M5 15 15 5M5 5h10v10"></path></svg></button>
+        </div>
+      </section>
+      <section class="era-legend" aria-label="Papacy era legend"><span class="legend-title">Five chapters of history</span><div id="legend-items" class="legend-items"></div></section>
+    </div>
+    <p class="map-hint">Drag to explore <span>·</span> Scroll to zoom</p>
+    <section id="tour-rail" class="tour-rail" hidden aria-label="Pope tour"></section>
+    <div id="app-status" class="app-status" role="status" aria-live="polite">Preparing the map…</div>
   </main>
+  <footer class="site-footer"><span>A journey through the papacy</span><div class="footer-links"><button type="button" class="text-button" data-action="resources">Resources <span aria-hidden="true">→</span></button><a href="https://www.geonames.org/" target="_blank" rel="noopener noreferrer">Places: GeoNames</a><a href="https://www.etsy.com/shop/PrintAndPraise" target="_blank" rel="noopener noreferrer">Art: Print &amp; Praise</a></div></footer>
+  <dialog id="resources-dialog" class="resources-dialog" aria-labelledby="resources-title"><div class="dialog-top"><h2 id="resources-title">A little further</h2><button type="button" class="icon-button" data-action="close-resources" aria-label="Close resources">×</button></div><p>Useful places for prayer, reading, and finding your next Mass.</p><div id="resource-links"></div><a class="art-resource" href="https://www.etsy.com/shop/PrintAndPraise" target="_blank" rel="noopener noreferrer">Discover the illustrations at Print &amp; Praise <span aria-hidden="true">→</span></a><p class="geodata-credit">Ancient place coordinates: <a href="https://pleiades.stoa.org/" target="_blank" rel="noopener noreferrer">Pleiades contributors</a>, © Ancient World Mapping Center and Institute for the Study of the Ancient World; <a href="https://creativecommons.org/licenses/by/3.0/us/" target="_blank" rel="noopener noreferrer">CC BY 3.0 US</a>. Representative points via <a href="https://github.com/ryanfb/pleiades-geojson" target="_blank" rel="noopener noreferrer">Ryan Baumann’s export</a>, used unchanged. Settlement coordinates: <a href="https://www.openstreetmap.org/copyright" target="_blank" rel="noopener noreferrer">© OpenStreetMap contributors</a>.</p></dialog>
+  <noscript><div class="noscript-message">This interactive map needs JavaScript. You can still <a href="https://www.vatican.va/content/vatican/en/holy-father.html">browse the official Vatican roster of popes</a>.</div></noscript>
 </body>
 </html>

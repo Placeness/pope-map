@@ -1,0 +1,2720 @@
+{
+  "retrievedAt": "2026-10-10",
+  "verificationHierarchy": [
+    "Vatican Pontiffs roster for inclusion, numbering and main dates",
+    "Official individual Vatican biographies and papal audiences for supported biographical facts",
+    "Dicastery for the Causes of Saints and liturgical acts for recognition milestones",
+    "Vatican historical publications, with their explicit uncertainty retained",
+    "Treccani Enciclopedia dei Papi and historical Catholic Encyclopedia as supplementary scholarship"
+  ],
+  "sources": [
+    {
+      "id": "ex-roster",
+      "title": "Pontiffs — official Vatican roster",
+      "url": "https://www.vatican.va/content/vatican/en/holy-father.html",
+      "author": "Holy See",
+      "publication": "Live Vatican roster",
+      "accessedAt": "2026-10-10",
+      "section": "Rows for named pontiffs; Benedict IX rows 145, 147, 150; Dionysius row 25",
+      "supportingPassageSummary": "Authoritative sequence, repeated pontificates, source dates and birthplace/origin labels.",
+      "verificationHierarchy": "official-vatican"
+    },
+    {
+      "id": "ex-old-roster",
+      "title": "I Sommi Pontefici Romani",
+      "url": "https://www.vatican.va/holy_father/archivio_papi/documents/elencopapi_it.html",
+      "author": "Holy See",
+      "publication": "Vatican chronological table citing Annuario Pontificio 2014",
+      "accessedAt": "2026-10-10",
+      "section": "Rows 1, 4, 16–21, 25, 45, 64",
+      "supportingPassageSummary": "Positive saint designations and traditional origins; missing titles are not proof of no recognized status.",
+      "verificationHierarchy": "official-vatican"
+    },
+    {
+      "id": "ex-peter",
+      "title": "General Audience: Peter, the fisherman",
+      "url": "https://www.vatican.va/content/benedict-xvi/en/audiences/2006/documents/hf_ben-xvi_aud_20060517.html",
+      "author": "Benedict XVI",
+      "publication": "17 May 2006; Libreria Editrice Vaticana",
+      "accessedAt": "2026-10-10",
+      "section": "Paragraphs beginning Son of John, The Gospels, and Peter was to live",
+      "supportingPassageSummary": "Simon/Cephas/Peter came from Bethsaida; fisherman, disciple and spokesman in the Gospel accounts.",
+      "verificationHierarchy": "official-vatican"
+    },
+    {
+      "id": "ex-clement",
+      "title": "General Audience: Saint Clement, Bishop of Rome",
+      "url": "https://www.vatican.va/content/benedict-xvi/en/audiences/2007/documents/hf_ben-xvi_aud_20070307.html",
+      "author": "Benedict XVI",
+      "publication": "7 March 2007; Libreria Editrice Vaticana",
+      "accessedAt": "2026-10-10",
+      "section": "Paragraphs on Irenaeus, later martyr testimony, Letter to Corinthians and succession",
+      "supportingPassageSummary": "Third successor of Peter; Letter to Corinthians after 96; martyr title from later testimony.",
+      "verificationHierarchy": "official-vatican"
+    },
+    {
+      "id": "ex-leo-i",
+      "title": "General Audience: Saint Leo the Great",
+      "url": "https://www.vatican.va/content/benedict-xvi/en/audiences/2008/documents/hf_ben-xvi_aud_20080305.html",
+      "author": "Benedict XVI",
+      "publication": "5 March 2008; Libreria Editrice Vaticana",
+      "accessedAt": "2026-10-10",
+      "section": "Paragraphs on Tuscan origin, Gaul, Attila, Vandals and Chalcedon",
+      "supportingPassageSummary": "Tuscan native; diplomatic missions and Christological teaching; Doctor of Church in 1754.",
+      "verificationHierarchy": "official-vatican"
+    },
+    {
+      "id": "ex-gregory-i",
+      "title": "General Audience: Saint Gregory the Great(1)",
+      "url": "https://www.vatican.va/content/benedict-xvi/en/audiences/2008/documents/hf_ben-xvi_aud_20080528.html",
+      "author": "Benedict XVI",
+      "publication": "28 May 2008; Libreria Editrice Vaticana",
+      "accessedAt": "2026-10-10",
+      "section": "Paragraphs on birth, prefecture, monasteries, Lombards, English mission and relief",
+      "supportingPassageSummary": "Born Rome circa 540; administrator, monk and diplomat; aid and peacemaking as pope.",
+      "verificationHierarchy": "official-vatican"
+    },
+    {
+      "id": "ex-catacombs",
+      "title": "The catacombs, destination of the Great Jubilee",
+      "url": "https://www.vatican.va/content/dam/wss/jubilee_2000/magazine/documents/ju_mag_01091997_p-70_en.html",
+      "author": "Enrico dal Covolo",
+      "publication": "Vatican Jubilee 2000 magazine, 1 September 1997",
+      "accessedAt": "2026-10-10",
+      "section": "The history of Callistus; The question of Hippolytus",
+      "supportingPassageSummary": "Roman Trastevere tradition for Callistus; exile and reconciliation narrative; Hippolytus identity explicitly uncertain.",
+      "verificationHierarchy": "official-vatican-historical-publication"
+    },
+    {
+      "id": "ex-callistus",
+      "title": "Pope Callistus I",
+      "url": "https://www.newadvent.org/cathen/03183d.htm",
+      "author": "John Chapman",
+      "publication": "Catholic Encyclopedia vol 3, 1908, Robert Appleton Company",
+      "accessedAt": "2026-10-10",
+      "section": "Opening martyr evidence and paragraphs on cemetery, penance and polemical testimony",
+      "supportingPassageSummary": "Callistus managed cemetery, permitted reconciliation after penance and was opposed by hostile writers.",
+      "verificationHierarchy": "historical-catholic-encyclopedia"
+    },
+    {
+      "id": "ex-pontian",
+      "title": "Pope Saint Pontian",
+      "url": "https://www.newadvent.org/cathen/12229b.htm",
+      "author": "Johann Peter Kirsch",
+      "publication": "Catholic Encyclopedia vol 12, 1911, Robert Appleton Company",
+      "accessedAt": "2026-10-10",
+      "section": "Birth; exile; resignation; epitaph paragraphs",
+      "supportingPassageSummary": "Birth date unknown, traditional Roman origin; Sardinian exile, resignation and martyr commemoration.",
+      "verificationHierarchy": "historical-catholic-encyclopedia"
+    },
+    {
+      "id": "ex-urban",
+      "title": "Pope Urban I",
+      "url": "https://www.newadvent.org/cathen/15209a.htm",
+      "author": "Johann Peter Kirsch",
+      "publication": "Catholic Encyclopedia vol 15, 1912, Robert Appleton Company",
+      "accessedAt": "2026-10-10",
+      "section": "Paragraphs on Roman origin, Hippolytus, Severus and legendary Acts",
+      "supportingPassageSummary": "Birth date unknown; schism persisted amid relative peace; detailed Cecilia/martyr narratives unreliable.",
+      "verificationHierarchy": "historical-catholic-encyclopedia"
+    },
+    {
+      "id": "ex-anterus",
+      "title": "Pope Saint Anterus",
+      "url": "https://www.newadvent.org/cathen/01553a.htm",
+      "author": "Thomas Shahan",
+      "publication": "Catholic Encyclopedia vol 1, 1907, Robert Appleton Company",
+      "accessedAt": "2026-10-10",
+      "section": "Whole short article, especially limits of certain information",
+      "supportingPassageSummary": "Brief pontificate, catacomb tomb and Greek epitaph; martyr-record collecting story insufficiently secured.",
+      "verificationHierarchy": "historical-catholic-encyclopedia"
+    },
+    {
+      "id": "ex-fabian",
+      "title": "Pope Saint Fabian",
+      "url": "https://www.newadvent.org/cathen/05742d.htm",
+      "author": "Gabriel Meier",
+      "publication": "Catholic Encyclopedia vol 5, 1909, Robert Appleton Company",
+      "accessedAt": "2026-10-10",
+      "section": "Election account, organization, Pontian relics and death paragraphs",
+      "supportingPassageSummary": "Eusebius election story; administration traditions; transfer of Pontian remains; martyrdom under Decius.",
+      "verificationHierarchy": "historical-catholic-encyclopedia"
+    },
+    {
+      "id": "ex-cornelius",
+      "title": "Pope Cornelius",
+      "url": "https://www.newadvent.org/cathen/04375c.htm",
+      "author": "John Chapman",
+      "publication": "Catholic Encyclopedia vol 4, 1908, Robert Appleton Company",
+      "accessedAt": "2026-10-10",
+      "section": "Election; Novatian schism; lapsed Christians; exile paragraphs",
+      "supportingPassageSummary": "Cornelius elected after persecution, supported penitential readmission and faced Novatian rival claim.",
+      "verificationHierarchy": "historical-catholic-encyclopedia"
+    },
+    {
+      "id": "ex-dionysius",
+      "title": "Pope Saint Dionysius",
+      "url": "https://www.newadvent.org/cathen/05009b.htm",
+      "author": "Johann Peter Kirsch",
+      "publication": "Catholic Encyclopedia vol 5, 1909, Robert Appleton Company",
+      "accessedAt": "2026-10-10",
+      "section": "Election under persecution, Gallienus, doctrinal correspondence and Cappadocia",
+      "supportingPassageSummary": "Birth date unknown; restoration after persecution, Trinitarian controversy and relief to Cappadocia.",
+      "verificationHierarchy": "historical-catholic-encyclopedia"
+    },
+    {
+      "id": "ex-benedict-ix",
+      "title": "Benedetto IX",
+      "url": "https://www.treccani.it/enciclopedia/benedetto-ix_(Enciclopedia-dei-Papi)/",
+      "author": "Ovidio Capitani",
+      "publication": "Enciclopedia dei Papi, 2000, Treccani",
+      "accessedAt": "2026-10-10",
+      "section": "Opening family paragraphs and discussion beginning Incerta la data di nascita",
+      "supportingPassageSummary": "Teofilatto of Tusculan family; birth date uncertain and reported ages polemical; political conflict.",
+      "verificationHierarchy": "scholarly-secondary"
+    },
+    {
+      "id": "ex-benedict-ix-ce",
+      "title": "Pope Benedict IX",
+      "url": "https://www.newadvent.org/cathen/02429a.htm",
+      "author": "Horace Mann",
+      "publication": "Catholic Encyclopedia vol 2, 1907, Robert Appleton Company",
+      "accessedAt": "2026-10-10",
+      "section": "Disputed age; expulsion, resignation, Sutri, return and uncertain end",
+      "supportingPassageSummary": "Repeated restorations and disputed historical dates; Sylvester III antipope label differs from Vatican inclusion.",
+      "verificationHierarchy": "historical-catholic-encyclopedia"
+    },
+    {
+      "id": "ex-benedict-xi",
+      "title": "Pope Benedict XI",
+      "url": "https://www.newadvent.org/cathen/02429c.htm",
+      "author": "Martin Augustine Waldron",
+      "publication": "Catholic Encyclopedia vol 2, 1907, Robert Appleton Company",
+      "accessedAt": "2026-10-10",
+      "section": "Birth, Dominican leadership, election and final paragraph",
+      "supportingPassageSummary": "Treviso birth 1240; Dominican leader, diplomacy, recognized Blessed; this source gives 1773 recognition year.",
+      "verificationHierarchy": "historical-catholic-encyclopedia"
+    },
+    {
+      "id": "ex-antipope-list",
+      "title": "Antipope",
+      "url": "https://www.newadvent.org/cathen/01582a.htm",
+      "author": null,
+      "publication": "Catholic Encyclopedia vol 1, 1907, Robert Appleton Company",
+      "accessedAt": "2026-10-10",
+      "section": "Definition and historical list",
+      "supportingPassageSummary": "Rival claimants; Hippolytus marked with question mark; some classifications differ from current Vatican roster.",
+      "verificationHierarchy": "historical-catholic-encyclopedia"
+    },
+    {
+      "id": "ex-ce-list",
+      "title": "The List of Popes",
+      "url": "https://www.newadvent.org/cathen/12272b.htm",
+      "author": null,
+      "publication": "Catholic Encyclopedia vol 12, 1911; later online additions",
+      "accessedAt": "2026-10-10",
+      "section": "Rows 16–19 and 194",
+      "supportingPassageSummary": "Traditional Hippolytus links across four pontificates and positive Blessed Benedict XI title.",
+      "verificationHierarchy": "historical-catholic-encyclopedia"
+    },
+    {
+      "id": "ex-john-xxiii",
+      "title": "Biographical Profile of John XXIII",
+      "url": "https://www.vatican.va/special/canonizzazione-27042014/documents/biografia_gxxiii_canonizzazione_en.html",
+      "author": "Holy See",
+      "publication": "Canonization materials, 27 April 2014",
+      "accessedAt": "2026-10-10",
+      "section": "Birth, wartime diplomatic work, pontificate and concluding beatification paragraph",
+      "supportingPassageSummary": "Sotto il Monte birth 1881-11-25; Vatican II, social encyclicals, dialogue; beatification 2000-09-03.",
+      "verificationHierarchy": "official-vatican"
+    },
+    {
+      "id": "ex-john-paul-ii",
+      "title": "Biographical Profile of John Paul II",
+      "url": "https://www.vatican.va/special/canonizzazione-27042014/documents/biografia_gpii_canonizzazione_en.html",
+      "author": "Holy See",
+      "publication": "Canonization materials, 27 April 2014",
+      "accessedAt": "2026-10-10",
+      "section": "Birth, clandestine seminary, Vatican II, journeys, documents and death",
+      "supportingPassageSummary": "Wadowice birth 1920-05-18; formation under Nazi occupation, worldwide ministry, Catechism and World Youth Day.",
+      "verificationHierarchy": "official-vatican"
+    },
+    {
+      "id": "ex-2014-canonization",
+      "title": "Holy Mass and Canonization of Blesseds John XXIII and John Paul II",
+      "url": "https://www.vatican.va/content/francesco/en/homilies/2014/documents/papa-francesco_20140427_omelia-canonizzazioni.html",
+      "author": "Francis",
+      "publication": "27 April 2014; Libreria Editrice Vaticana",
+      "accessedAt": "2026-10-10",
+      "section": "Celebration title/date and homily on two saint popes",
+      "supportingPassageSummary": "Official celebration verifies both canonizations on 2014-04-27.",
+      "verificationHierarchy": "official-vatican"
+    },
+    {
+      "id": "ex-john-paul-ii-cause",
+      "title": "Giovanni Paolo II",
+      "url": "https://www.causesanti.va/it/santi-e-beati/giovanni-paolo-ii.html",
+      "author": "Dicastery for the Causes of Saints",
+      "publication": "Official cause profile, live page",
+      "accessedAt": "2026-10-10",
+      "section": "Beatificazione and Canonizzazione headings",
+      "supportingPassageSummary": "Beatified 2011-05-01 by Benedict XVI; canonized 2014-04-27 by Francis.",
+      "verificationHierarchy": "official-cause-record"
+    },
+    {
+      "id": "ex-paul-vi",
+      "title": "Paolo VI",
+      "url": "https://www.causesanti.va/it/santi-e-beati/paolo-vi.html",
+      "author": "Dicastery for the Causes of Saints",
+      "publication": "Official cause profile, live page",
+      "accessedAt": "2026-10-10",
+      "section": "Recognition headings; Vita e opere: Formazione, Pontificato",
+      "supportingPassageSummary": "Concesio birth 1897-09-26; concluded Vatican II and implemented reforms; canonized 2018-10-14.",
+      "verificationHierarchy": "official-cause-record"
+    },
+    {
+      "id": "ex-2018-canonization",
+      "title": "Holy Mass and Canonizations",
+      "url": "https://www.vatican.va/content/francesco/en/homilies/2018/documents/papa-francesco_20181014_omelia-canonizzazione.html",
+      "author": "Francis",
+      "publication": "14 October 2018; Libreria Editrice Vaticana",
+      "accessedAt": "2026-10-10",
+      "section": "Celebration heading and concluding Paul VI paragraph",
+      "supportingPassageSummary": "Canonization celebration names Paul VI among the new saints.",
+      "verificationHierarchy": "official-vatican"
+    },
+    {
+      "id": "ex-john-paul-i",
+      "title": "Biography of His Holiness John Paul I",
+      "url": "https://www.vatican.va/content/john-paul-i/en/biography/documents/hf_jp-i_bio_01021997_biography.html",
+      "author": "Holy See",
+      "publication": "1 February 1997, biographical chronology",
+      "accessedAt": "2026-10-10",
+      "section": "1912 birth row; episcopal ministry;1978 chronology",
+      "supportingPassageSummary": "Forno di Canale, now Canale d’Agordo, birth 1912-10-17; Vatican II; Venice; election and death 1978.",
+      "verificationHierarchy": "official-vatican"
+    },
+    {
+      "id": "ex-john-paul-i-beatification",
+      "title": "Holy Mass and Beatification of the Servant of God,Pope John Paul I",
+      "url": "https://www.vatican.va/content/francesco/en/homilies/2022/documents/20220904-omelia-beatificazione-gpi.html",
+      "author": "Francis",
+      "publication": "4 September 2022; Libreria Editrice Vaticana",
+      "accessedAt": "2026-10-10",
+      "section": "Celebration title/date and final paragraphs on smiling pope",
+      "supportingPassageSummary": "Official beatification celebration verifies Blessed status as of 2022-09-04.",
+      "verificationHierarchy": "official-vatican"
+    },
+    {
+      "id": "ex-benedict-xvi",
+      "title": "Biographical Notes of His Holiness Pope Benedict XVI",
+      "url": "https://www.vatican.va/content/benedict-xvi/en/biography/documents/hf_ben-xvi_bio_20050419_short-biography_old.html",
+      "author": "Holy See / L’Osservatore Romano",
+      "publication": "2005 official biography",
+      "accessedAt": "2026-10-10",
+      "section": "Birth; Priest, professor, Vatican Council; Catechism; Habemus Papam",
+      "supportingPassageSummary": "Marktl birth 1927-04-16; theologian, Vatican II advisor, doctrinal prefect and Catechism commission head.",
+      "verificationHierarchy": "official-vatican"
+    },
+    {
+      "id": "ex-benedict-xvi-resignation",
+      "title": "Declaratio",
+      "url": "https://www.vatican.va/content/benedict-xvi/en/speeches/2013/february/documents/hf_ben-xvi_spe_20130211_declaratio.html",
+      "author": "Benedict XVI",
+      "publication": "11 February 2013; Libreria Editrice Vaticana",
+      "accessedAt": "2026-10-10",
+      "section": "Declaration of renunciation",
+      "supportingPassageSummary": "Renunciation made freely, effective 2013-02-28 at 20:00.",
+      "verificationHierarchy": "official-vatican"
+    },
+    {
+      "id": "ex-francis",
+      "title": "Biography of the Holy Father Francis",
+      "url": "https://www.vatican.va/content/francesco/en/biography/documents/papa-francesco-biografia-bergoglio.html",
+      "author": "Holy See",
+      "publication": "Official biography updated after 2025 death",
+      "accessedAt": "2026-10-10",
+      "section": "Opening birth paragraph, election, works, pontificate conclusion",
+      "supportingPassageSummary": "Buenos Aires birth 1936-12-17; Jesuit and archbishop; elected 2013-03-13; ministry to poor and creation.",
+      "verificationHierarchy": "official-vatican"
+    },
+    {
+      "id": "ex-francis-death",
+      "title": "Declaration of the Death of His Holiness Francis",
+      "url": "https://press.vatican.va/content/salastampa/en/bollettino/pubblico/2025/04/21/250421d.html",
+      "author": "Andrea Arcangeli,Director of Health and Hygiene",
+      "publication": "Holy See Press Office, 21 April 2025",
+      "accessedAt": "2026-10-10",
+      "section": "Declaration of death",
+      "supportingPassageSummary": "Francis died 2025-04-21 at 07:35 in Vatican City.",
+      "verificationHierarchy": "official-vatican"
+    },
+    {
+      "id": "ex-leo-xiv",
+      "title": "Biography of the Holy Father Leo XIV",
+      "url": "https://www.vatican.va/content/leo-xiv/en/biography/documents/biografia_leone-xiv.html",
+      "author": "Holy See",
+      "publication": "Live official biography",
+      "accessedAt": "2026-10-10",
+      "section": "Birth; Missionary Ministry in Peru; Episcopal Ministry; Election to Apostolic See",
+      "supportingPassageSummary": "Chicago birth 1955-09-14; Augustinian, Peruvian missionary, bishop of Chiclayo, curial prefect, elected 2025-05-08.",
+      "verificationHierarchy": "official-vatican"
+    },
+    {
+      "id": "ex-ccc-office",
+      "title": "Catechism of the Catholic Church, §§880–887",
+      "url": "https://www.vatican.va/archive/ENG0015/__P2A.HTM",
+      "author": "Holy See",
+      "publication": "Catechism of the Catholic Church",
+      "accessedAt": "2026-10-10",
+      "section": "The episcopal college and its head, the Pope; §§880–887",
+      "supportingPassageSummary": "Pope is Bishop of Rome, successor of Peter, pastor of entire Church and visible foundation of unity in communion with bishops.",
+      "verificationHierarchy": "official-vatican"
+    },
+    {
+      "id": "ex-canon-law",
+      "title": "Code of Canon Law, canons330–367",
+      "url": "https://www.vatican.va/archive/cod-iuris-canonici/eng/documents/cic_lib2-cann330-367_en.html",
+      "author": "Holy See",
+      "publication": "Code of Canon Law, 1983",
+      "accessedAt": "2026-10-10",
+      "section": "Canons 331–332 and 335",
+      "supportingPassageSummary": "Papal office, accession by election acceptance and episcopal consecration, free manifested resignation and vacancy.",
+      "verificationHierarchy": "official-vatican"
+    },
+    {
+      "id": "ex-udg",
+      "title": "Universi Dominici Gregis",
+      "url": "https://www.vatican.va/content/john-paul-ii/en/apost_constitutions/documents/hf_jp-ii_apc_22021996_universi-dominici-gregis.html",
+      "author": "John PaulII",
+      "publication": "22 February 1996; consolidated online text with 2013 amendments",
+      "accessedAt": "2026-10-10",
+      "section": "PartTwo, chapterI, no 33; voting provisions",
+      "supportingPassageSummary": "Eligible cardinals elect pope; those who reached 80 before vacancy are excluded from voting; law regulates conclave.",
+      "verificationHierarchy": "official-vatican"
+    },
+    {
+      "id": "ex-ccc-saints",
+      "title": "Catechism of the Catholic Church, §828",
+      "url": "https://www.vatican.va/content/catechism/en/part_one/section_two/chapter_three/article_9/paragraph_3_the_church_is_one,_holy,_catholic,_and_apostolic.html",
+      "author": "Holy See",
+      "publication": "Catechism of the Catholic Church",
+      "accessedAt": "2026-10-10",
+      "section": "The Church is holy, §828",
+      "supportingPassageSummary": "Canonization recognizes holiness and proposes saints to believers as models and intercessors.",
+      "verificationHierarchy": "official-vatican"
+    },
+    {
+      "id": "ex-divinus",
+      "title": "Divinus Perfectionis Magister",
+      "url": "https://www.vatican.va/content/john-paul-ii/en/apost_constitutions/documents/hf_jp-ii_apc_25011983_divinus-perfectionis-magister.html",
+      "author": "John PaulII",
+      "publication": "25 January 1983",
+      "accessedAt": "2026-10-10",
+      "section": "Introduction and I:Inquiries to be made by bishops, 1–2",
+      "supportingPassageSummary": "Early veneration of apostles and martyrs; modern inquiry examines life, virtues or martyrdom, writings, witnesses and miracles before Roman review.",
+      "verificationHierarchy": "official-vatican"
+    },
+    {
+      "id": "ex-schism-vatican",
+      "title": "Gli Anni Santi del 1423 e 1450",
+      "url": "https://www.vatican.va/jubilee_2000/pilgrim/documents/ju_gp_06042000_p-7_it.html",
+      "author": "Mario Sensi",
+      "publication": "Vatican Jubilee 2000 historical publication, 6 April 2000",
+      "accessedAt": "2026-10-10",
+      "section": "Opening paragraphs: Alexander V, Martin V and the Council of Constance",
+      "supportingPassageSummary": "Alexander V was elected at Pisa; Constance deposed John XXIII and Benedict XIII; Gregory XII resigned; Martin V elected in 1417.",
+      "verificationHierarchy": "official-vatican-historical-publication"
+    },
+    {
+      "id": "ex-clement-vii-claimant",
+      "title": "Robert of Geneva",
+      "url": "https://www.newadvent.org/cathen/13096c.htm",
+      "author": "William Turner",
+      "publication": "Catholic Encyclopedia, volume 13, 1912",
+      "accessedAt": "2026-10-10",
+      "section": "Opening birth/election dates and Avignon paragraphs",
+      "supportingPassageSummary": "Clement VII claimant born Geneva, elected at Fondi in opposition to Urban VI in 1378; died at Avignon in 1394.",
+      "verificationHierarchy": "historical-catholic-encyclopedia"
+    },
+    {
+      "id": "ex-benedict-xiii-claimant",
+      "title": "Pedro de Luna",
+      "url": "https://www.newadvent.org/cathen/09431c.htm",
+      "author": "Johann Peter Kirsch",
+      "publication": "Catholic Encyclopedia, volume 9, 1910",
+      "accessedAt": "2026-10-10",
+      "section": "Election, dealings with Boniface IX, Innocent VII, Gregory XII; Constance and final claim",
+      "supportingPassageSummary": "Benedict XIII elected in 1394; rival to three successive Roman popes; deposed July 1417, continued claim after Martin V election.",
+      "verificationHierarchy": "historical-catholic-encyclopedia"
+    },
+    {
+      "id": "ex-alexander-v-claimant",
+      "title": "Alexander V",
+      "url": "https://www.newadvent.org/cathen/01288a.htm",
+      "author": "John Bertram Peterson",
+      "publication": "Catholic Encyclopedia, volume 1, 1907",
+      "accessedAt": "2026-10-10",
+      "section": "Opening dates and Council of Pisa paragraphs; final discussion of legitimacy",
+      "supportingPassageSummary": "Peter of Candia elected in June 1409; died May 1410; Pisan election added a third claimant alongside Gregory XII and Benedict XIII.",
+      "verificationHierarchy": "historical-catholic-encyclopedia"
+    },
+    {
+      "id": "ex-john-xxiii-claimant",
+      "title": "John XXIII (Pisan claimant)",
+      "url": "https://www.newadvent.org/cathen/08434a.htm",
+      "author": "Johann Peter Kirsch",
+      "publication": "Catholic Encyclopedia, volume 8, 1910",
+      "accessedAt": "2026-10-10",
+      "section": "Election paragraph (17 May 1410); Gregory XII relations; Constance deposition (29 May 1415)",
+      "supportingPassageSummary": "Baldassare Cossa succeeded Alexander V in 1410; rival to Gregory XII and Benedict XIII; deposed 1415; later submitted to Martin V.",
+      "verificationHierarchy": "historical-catholic-encyclopedia"
+    },
+    {
+      "id": "ex-pius-ix-cause",
+      "title": "Pio IX — official cause profile",
+      "url": "https://www.causesanti.va/it/santi-e-beati/pio-ix.html",
+      "author": "Dicastery for the Causes of Saints",
+      "publication": "Official biography and cause record",
+      "accessedAt": "2026-10-10",
+      "section": "Beatificazione; biography paragraphs on birth, Vatican I and Rome",
+      "supportingPassageSummary": "Born Senigallia13May1792; beatified3September2000; convened VaticanI; Rome taken1870.",
+      "verificationHierarchy": "official-vatican"
+    },
+    {
+      "id": "ex-clement-vii-treccani",
+      "title": "Mark Dykmans, Clemente VII, antipapa — Enciclopedia dei Papi",
+      "url": "https://www.treccani.it/enciclopedia/antipapa-clemente-vii_%28Enciclopedia-dei-Papi%29/",
+      "author": "Mark Dykmans",
+      "publication": "Treccani,2000",
+      "accessedAt": "2026-10-10",
+      "section": "Opening biography",
+      "supportingPassageSummary": "Robert of Geneva was born at the castle of Annecy in1342; differs from older CE Geneva origin.",
+      "verificationHierarchy": "supplementary-scholarly",
+      "approval": "Vatican approval not established."
+    }
+  ],
+  "profiles": [
+    {
+      "papalName": "Peter",
+      "aliases": {
+        "text": [
+          "Simon",
+          "Symeon",
+          "Cephas"
+        ],
+        "sourceRefs": [
+          "ex-peter",
+          "ex-roster"
+        ]
+      },
+      "birthDate": {
+        "value": null,
+        "precision": "unknown",
+        "display": "Unknown",
+        "sourceRefs": [
+          "ex-peter"
+        ]
+      },
+      "birthplace": {
+        "label": "Bethsaida of Galilee — approximate historical location",
+        "precision": "approximate",
+        "country": null,
+        "historicalName": "Bethsaida",
+        "coordinates": null,
+        "extent": null,
+        "sourceRefs": [
+          "ex-peter",
+          "ex-roster"
+        ],
+        "reasoning": "Origin town is documented, but identifying the ancient settlement with a precise archaeological site requires further geographic verification; do not pin Capernaum as his birthplace."
+      },
+      "saintStatus": {
+        "label": "Saint",
+        "sourceRefs": [
+          "ex-peter",
+          "ex-old-roster"
+        ],
+        "recognitionDate": null,
+        "beatificationDate": null,
+        "context": "Recognized in the early Christian tradition; no modern canonization date is assigned."
+      },
+      "bioShort": {
+        "text": "A fisherman from Bethsaida, Simon became an apostle of Jesus and received the name Peter. Catholic tradition recognizes him as the first pope.",
+        "sourceRefs": [
+          "ex-peter",
+          "ex-roster"
+        ]
+      },
+      "bioLong": {
+        "text": "The Gospels portray Peter as an early disciple, a spokesman for the Twelve and a person whose courage coexisted with fear and repentance. His confession of Jesus as the Messiah became central to the Church’s understanding of his mission.",
+        "sourceRefs": [
+          "ex-peter",
+          "ex-roster"
+        ]
+      },
+      "actions": [
+        {
+          "text": "Answered Jesus’ question about his identity on behalf of the disciples.",
+          "sourceRefs": [
+            "ex-peter",
+            "ex-roster"
+          ]
+        }
+      ],
+      "context": {
+        "text": "Peter’s story begins in the Jewish communities around the Sea of Galilee; his later ministry in Rome must be distinguished from his place of origin.",
+        "sourceRefs": [
+          "ex-peter",
+          "ex-roster"
+        ]
+      },
+      "image": null,
+      "researchNotes": [
+        {
+          "text": "The Vatican roster gives the end as 64 or 67 and leaves the beginning unspecified; retain those qualifications.",
+          "sourceRefs": [
+            "ex-roster"
+          ]
+        }
+      ],
+      "relatedAntipopeIds": []
+    },
+    {
+      "papalName": "Clement",
+      "aliases": {
+        "text": [
+          "Clement I",
+          "Clemens"
+        ],
+        "sourceRefs": [
+          "ex-clement"
+        ]
+      },
+      "birthDate": {
+        "value": null,
+        "precision": "unknown",
+        "display": "Unknown",
+        "sourceRefs": [
+          "ex-clement"
+        ]
+      },
+      "birthplace": {
+        "label": "Rome, Italy",
+        "precision": "city",
+        "country": "Italy",
+        "historicalName": null,
+        "coordinates": null,
+        "extent": null,
+        "sourceRefs": [
+          "ex-roster",
+          "ex-old-roster"
+        ],
+        "reasoning": "The roster records Rome; the older table describes him as Roman. This is traditional origin evidence, not a documented birth address."
+      },
+      "saintStatus": {
+        "label": "Saint",
+        "sourceRefs": [
+          "ex-clement",
+          "ex-old-roster"
+        ],
+        "recognitionDate": null,
+        "beatificationDate": null,
+        "context": "Early veneration; later fourth–sixth-century sources call him a martyr."
+      },
+      "bioShort": {
+        "text": "Clement led the Church of Rome near the end of the first century. His letter to the Christians of Corinth called a divided community back to peace.",
+        "sourceRefs": [
+          "ex-clement"
+        ]
+      },
+      "bioLong": {
+        "text": "Benedict XVI presents Clement as the third successor of Peter. The securely attributed Letter to the Corinthians responded to the removal of community elders and explained apostolic succession. Its teaching joined humility, charity and orderly ministry.",
+        "sourceRefs": [
+          "ex-clement"
+        ]
+      },
+      "actions": [
+        {
+          "text": "Wrote to Corinth on the Church of Rome’s behalf.",
+          "sourceRefs": [
+            "ex-clement"
+          ]
+        }
+      ],
+      "context": {
+        "text": "The letter followed the troubles associated with Domitian’s persecution, around the end of the first century.",
+        "sourceRefs": [
+          "ex-clement"
+        ]
+      },
+      "image": null,
+      "researchNotes": [
+        {
+          "text": "Do not present the later martyr tradition as a contemporary eyewitness account. Birth date is unsupported.",
+          "sourceRefs": [
+            "ex-clement"
+          ]
+        }
+      ],
+      "relatedAntipopeIds": []
+    },
+    {
+      "papalName": "Callistus I",
+      "aliases": {
+        "text": [
+          "Callixtus",
+          "Calixtus"
+        ],
+        "sourceRefs": [
+          "ex-callistus"
+        ]
+      },
+      "birthDate": {
+        "value": null,
+        "precision": "unknown",
+        "display": "Unknown",
+        "sourceRefs": [
+          "ex-roster"
+        ]
+      },
+      "birthplace": {
+        "label": "Rome, Italy",
+        "precision": "city",
+        "country": "Italy",
+        "historicalName": "Trastevere",
+        "coordinates": null,
+        "extent": null,
+        "sourceRefs": [
+          "ex-catacombs",
+          "ex-old-roster"
+        ],
+        "reasoning": "Vatican historical article connects the traditional origin with Trastevere, citing the sixth-century Liber Pontificalis; retain Rome at city level."
+      },
+      "saintStatus": {
+        "label": "Saint",
+        "sourceRefs": [
+          "ex-old-roster",
+          "ex-callistus"
+        ],
+        "recognitionDate": null,
+        "beatificationDate": null,
+        "context": "Ancient martyr veneration is supported; the detailed story of his death is later tradition."
+      },
+      "bioShort": {
+        "text": "Callistus managed Rome’s Christian cemetery before becoming pope. His approach to penance sought to reconcile sinners, and provoked fierce opposition.",
+        "sourceRefs": [
+          "ex-callistus"
+        ]
+      },
+      "bioLong": {
+        "text": "Accounts of his earlier enslavement and punishment survive chiefly through hostile writers. As pope he allowed those guilty of serious sexual sins to return to communion after penance, defending the Church’s authority to reconcile.",
+        "sourceRefs": [
+          "ex-callistus"
+        ]
+      },
+      "actions": [
+        {
+          "text": "Oversaw the cemetery that came to bear his name.",
+          "sourceRefs": [
+            "ex-callistus"
+          ]
+        },
+        {
+          "text": "Supported reconciliation after penance.",
+          "sourceRefs": [
+            "ex-callistus"
+          ]
+        }
+      ],
+      "context": {
+        "text": "Early third-century Roman Christians debated both doctrine and moral discipline. The polemical accounts require careful interpretation.",
+        "sourceRefs": [
+          "ex-callistus"
+        ]
+      },
+      "image": null,
+      "researchNotes": [
+        {
+          "text": "Official historical article warns about biased and legendary testimony; use the traditional Trastevere origin cautiously.",
+          "sourceRefs": [
+            "ex-catacombs"
+          ]
+        }
+      ],
+      "relatedAntipopeIds": [
+        "ex-hippolytus"
+      ]
+    },
+    {
+      "papalName": "Urban I",
+      "aliases": {
+        "text": [
+          "Urbanus"
+        ],
+        "sourceRefs": [
+          "ex-urban"
+        ]
+      },
+      "birthDate": {
+        "value": null,
+        "precision": "unknown",
+        "display": "Unknown",
+        "sourceRefs": [
+          "ex-urban"
+        ]
+      },
+      "birthplace": {
+        "label": "Rome, Italy",
+        "precision": "city",
+        "country": "Italy",
+        "historicalName": null,
+        "coordinates": null,
+        "extent": null,
+        "sourceRefs": [
+          "ex-old-roster",
+          "ex-urban"
+        ],
+        "reasoning": "Traditional Roman origin in the Liber Pontificalis; no known street or birth house."
+      },
+      "saintStatus": {
+        "label": "Saint",
+        "sourceRefs": [
+          "ex-old-roster"
+        ],
+        "recognitionDate": null,
+        "beatificationDate": null,
+        "context": "Recognized saint; detailed martyrdom accounts are historically uncertain."
+      },
+      "bioShort": {
+        "text": "Urban led Rome’s Christians during a period of relative peace under Emperor Alexander Severus. The dispute associated with Hippolytus continued.",
+        "sourceRefs": [
+          "ex-urban"
+        ]
+      },
+      "bioLong": {
+        "text": "Historical evidence for Urban’s personal actions is sparse. Later stories linking him with Saint Cecilia and describing his martyrdom cannot be treated as secure biography. His pontificate belongs to a time when the Roman Christian community and its burial places were growing.",
+        "sourceRefs": [
+          "ex-urban"
+        ]
+      },
+      "actions": [
+        {
+          "text": "Maintained the Roman Church’s position during the continuing schism.",
+          "sourceRefs": [
+            "ex-urban"
+          ]
+        }
+      ],
+      "context": {
+        "text": "Alexander Severus tolerated Christians, although their legal position remained insecure.",
+        "sourceRefs": [
+          "ex-urban"
+        ]
+      },
+      "image": null,
+      "researchNotes": [
+        {
+          "text": "Do not repeat the legendary silver-vessel decree or Cecilia baptism story as established acts.",
+          "sourceRefs": [
+            "ex-urban"
+          ]
+        }
+      ],
+      "relatedAntipopeIds": [
+        "ex-hippolytus"
+      ]
+    },
+    {
+      "papalName": "Pontian",
+      "aliases": {
+        "text": [
+          "Pontianus"
+        ],
+        "sourceRefs": [
+          "ex-pontian"
+        ]
+      },
+      "birthDate": {
+        "value": null,
+        "precision": "unknown",
+        "display": "Unknown",
+        "sourceRefs": [
+          "ex-pontian"
+        ]
+      },
+      "birthplace": {
+        "label": "Rome, Italy",
+        "precision": "city",
+        "country": "Italy",
+        "historicalName": null,
+        "coordinates": null,
+        "extent": null,
+        "sourceRefs": [
+          "ex-old-roster",
+          "ex-pontian"
+        ],
+        "reasoning": "Traditional native city given in Liber Pontificalis, retained at city precision."
+      },
+      "saintStatus": {
+        "label": "Saint",
+        "sourceRefs": [
+          "ex-old-roster",
+          "ex-pontian"
+        ],
+        "recognitionDate": null,
+        "beatificationDate": null,
+        "context": "Ancient martyr recognition and papal epitaph; no modern canonization date."
+      },
+      "bioShort": {
+        "text": "Pontian was exiled to Sardinia during persecution and resigned so that Rome could elect a successor. He is venerated as a martyr.",
+        "sourceRefs": [
+          "ex-pontian"
+        ]
+      },
+      "bioLong": {
+        "text": "The persecution under Maximinus removed Pontian from Rome together with Hippolytus. Pontian’s resignation is recorded on 28 September 235. The tradition connects their exile with reconciliation, and his remains were later returned to Rome by Fabian.",
+        "sourceRefs": [
+          "ex-pontian"
+        ]
+      },
+      "actions": [
+        {
+          "text": "Resigned during exile, allowing a new election.",
+          "sourceRefs": [
+            "ex-pontian"
+          ]
+        }
+      ],
+      "context": {
+        "text": "Imperial persecution targeted Church leaders. The details of Hippolytus’ identity and reconciliation remain debated.",
+        "sourceRefs": [
+          "ex-pontian"
+        ]
+      },
+      "image": null,
+      "researchNotes": [
+        {
+          "text": "Hippolytus narrative should carry the qualification given in the Vatican historical article.",
+          "sourceRefs": [
+            "ex-catacombs"
+          ]
+        }
+      ],
+      "relatedAntipopeIds": [
+        "ex-hippolytus"
+      ]
+    },
+    {
+      "papalName": "Anterus",
+      "aliases": {
+        "text": [
+          "Anteros"
+        ],
+        "sourceRefs": [
+          "ex-anterus"
+        ]
+      },
+      "birthDate": {
+        "value": null,
+        "precision": "unknown",
+        "display": "Unknown",
+        "sourceRefs": [
+          "ex-anterus"
+        ]
+      },
+      "birthplace": {
+        "label": "Greece — approximate origin",
+        "precision": "region",
+        "country": "Greece",
+        "historicalName": null,
+        "coordinates": null,
+        "extent": null,
+        "sourceRefs": [
+          "ex-roster"
+        ],
+        "reasoning": "Current Vatican English roster says Greece; older Italian table says Greek. No town is supported, and the label must remain an approximate origin."
+      },
+      "saintStatus": {
+        "label": "Saint",
+        "sourceRefs": [
+          "ex-old-roster"
+        ],
+        "recognitionDate": null,
+        "beatificationDate": null,
+        "context": "Early recognized saint; martyrdom circumstances are uncertain."
+      },
+      "bioShort": {
+        "text": "Anterus succeeded Pontian and held a very brief pontificate. His tomb in Rome’s papal crypt preserves part of a Greek epitaph.",
+        "sourceRefs": [
+          "ex-anterus"
+        ]
+      },
+      "bioLong": {
+        "text": "His burial is among the better-established facts of a poorly documented life. A later tradition says he collected records of martyrs, but the Catholic Encyclopedia cautions that this account rests on insufficient evidence.",
+        "sourceRefs": [
+          "ex-anterus"
+        ]
+      },
+      "actions": [
+        {
+          "text": "Later tradition associates him with preservation of martyr records.",
+          "sourceRefs": [
+            "ex-anterus"
+          ]
+        }
+      ],
+      "context": {
+        "text": "The Roman Church was recovering from the removal of Pontian during Maximinus’ persecution.",
+        "sourceRefs": [
+          "ex-anterus"
+        ]
+      },
+      "image": null,
+      "researchNotes": [
+        {
+          "text": "Treat martyr-record collection as tradition, not a verified decree. The Greek epitaph does not identify a birth town.",
+          "sourceRefs": [
+            "ex-anterus"
+          ]
+        }
+      ],
+      "relatedAntipopeIds": []
+    },
+    {
+      "papalName": "Fabian",
+      "aliases": {
+        "text": [
+          "Fabianus"
+        ],
+        "sourceRefs": [
+          "ex-fabian"
+        ]
+      },
+      "birthDate": {
+        "value": null,
+        "precision": "unknown",
+        "display": "Unknown",
+        "sourceRefs": [
+          "ex-roster"
+        ]
+      },
+      "birthplace": {
+        "label": "Rome, Italy",
+        "precision": "city",
+        "country": "Italy",
+        "historicalName": null,
+        "coordinates": null,
+        "extent": null,
+        "sourceRefs": [
+          "ex-old-roster",
+          "ex-roster"
+        ],
+        "reasoning": "Vatican roster gives Rome. Eusebius’ story says he came to Rome from a farm, which is not evidence for a precise alternative birthplace."
+      },
+      "saintStatus": {
+        "label": "Saint",
+        "sourceRefs": [
+          "ex-old-roster",
+          "ex-fabian"
+        ],
+        "recognitionDate": null,
+        "beatificationDate": null,
+        "context": "Venerated as a martyr; epitaph identifies bishop and martyr."
+      },
+      "bioShort": {
+        "text": "Fabian led the Roman Church during a relatively peaceful interval before dying as a martyr in the persecution of Decius.",
+        "sourceRefs": [
+          "ex-fabian"
+        ]
+      },
+      "bioLong": {
+        "text": "Eusebius tells an extraordinary story of a dove settling on Fabian during his election. Later sources associate him with Rome’s ecclesiastical districts and the preservation of martyr records. He arranged the return of Pontian’s remains from Sardinia.",
+        "sourceRefs": [
+          "ex-fabian"
+        ]
+      },
+      "actions": [
+        {
+          "text": "Returned Pontian’s remains to Rome.",
+          "sourceRefs": [
+            "ex-fabian"
+          ]
+        }
+      ],
+      "context": {
+        "text": "The relative peace of much of his pontificate ended with the persecution under Decius in 250.",
+        "sourceRefs": [
+          "ex-fabian"
+        ]
+      },
+      "image": null,
+      "researchNotes": [
+        {
+          "text": "Eusebius’ dove account is presented as a transmitted story; later administrative acts must retain their traditional attribution.",
+          "sourceRefs": [
+            "ex-fabian"
+          ]
+        }
+      ],
+      "relatedAntipopeIds": []
+    },
+    {
+      "papalName": "Cornelius",
+      "aliases": {
+        "text": [
+          "Cornelius"
+        ],
+        "sourceRefs": [
+          "ex-cornelius"
+        ]
+      },
+      "birthDate": {
+        "value": null,
+        "precision": "unknown",
+        "display": "Unknown",
+        "sourceRefs": [
+          "ex-roster"
+        ]
+      },
+      "birthplace": {
+        "label": "Rome, Italy",
+        "precision": "city",
+        "country": "Italy",
+        "historicalName": null,
+        "coordinates": null,
+        "extent": null,
+        "sourceRefs": [
+          "ex-roster",
+          "ex-old-roster"
+        ],
+        "reasoning": "Roster-supported Roman origin; exact birth site unknown."
+      },
+      "saintStatus": {
+        "label": "Saint",
+        "sourceRefs": [
+          "ex-old-roster",
+          "ex-cornelius"
+        ],
+        "recognitionDate": null,
+        "beatificationDate": null,
+        "context": "Ancient martyr recognition."
+      },
+      "bioShort": {
+        "text": "Cornelius supported restoring Christians who had fallen away during persecution through penance. Novatian’s rival claim divided the Roman Church.",
+        "sourceRefs": [
+          "ex-cornelius"
+        ]
+      },
+      "bioLong": {
+        "text": "Elected after the persecution eased, Cornelius received support from Cyprian of Carthage and other bishops. He endorsed graduated penance for those seeking return to communion. New persecution brought exile to Centumcellae, now Civitavecchia.",
+        "sourceRefs": [
+          "ex-cornelius"
+        ]
+      },
+      "actions": [
+        {
+          "text": "Supported penitential readmission of those who had lapsed.",
+          "sourceRefs": [
+            "ex-cornelius"
+          ]
+        }
+      ],
+      "context": {
+        "text": "The Church debated how to reconcile believers who had sacrificed or otherwise compromised under Decius.",
+        "sourceRefs": [
+          "ex-cornelius"
+        ]
+      },
+      "image": null,
+      "researchNotes": [],
+      "relatedAntipopeIds": [
+        "ex-novatian"
+      ]
+    },
+    {
+      "papalName": "Dionysius",
+      "aliases": {
+        "text": [
+          "Dionysius of Rome"
+        ],
+        "sourceRefs": [
+          "ex-dionysius"
+        ]
+      },
+      "birthDate": {
+        "value": null,
+        "precision": "unknown",
+        "display": "Unknown",
+        "sourceRefs": [
+          "ex-dionysius"
+        ]
+      },
+      "birthplace": {
+        "label": "Birthplace unknown",
+        "precision": "unknown",
+        "country": null,
+        "historicalName": null,
+        "coordinates": null,
+        "extent": null,
+        "sourceRefs": [
+          "ex-roster",
+          "ex-old-roster"
+        ],
+        "reasoning": "The Vatican roster explicitly records Unknown/patria ignota. Rome was his place of ministry and burial, not a supported birthplace."
+      },
+      "saintStatus": {
+        "label": "Saint",
+        "sourceRefs": [
+          "ex-old-roster"
+        ],
+        "recognitionDate": null,
+        "beatificationDate": null,
+        "context": "Ancient saint recognition."
+      },
+      "bioShort": {
+        "text": "Dionysius helped restore Rome’s Church after persecution and addressed debates about the Trinity. His birthplace is unknown.",
+        "sourceRefs": [
+          "ex-dionysius"
+        ]
+      },
+      "bioLong": {
+        "text": "Gallienus’ toleration allowed Christians to recover their buildings, cemeteries and other property. Dionysius corresponded with his namesake in Alexandria about the relationship of Father and Son, and sent aid to Christians in Cappadocia.",
+        "sourceRefs": [
+          "ex-dionysius"
+        ]
+      },
+      "actions": [
+        {
+          "text": "Supported the ransom of Christians enslaved during Gothic incursions.",
+          "sourceRefs": [
+            "ex-dionysius"
+          ]
+        }
+      ],
+      "context": {
+        "text": "His election followed a long vacancy caused by persecution. Rebuilding and doctrinal clarification marked the new period of peace.",
+        "sourceRefs": [
+          "ex-dionysius"
+        ]
+      },
+      "image": null,
+      "researchNotes": [],
+      "relatedAntipopeIds": []
+    },
+    {
+      "papalName": "Leo I",
+      "aliases": {
+        "text": [
+          "Leo the Great",
+          "Leo Magnus"
+        ],
+        "sourceRefs": [
+          "ex-leo-i"
+        ]
+      },
+      "birthDate": {
+        "value": null,
+        "precision": "unknown",
+        "display": "Unknown",
+        "sourceRefs": [
+          "ex-leo-i"
+        ]
+      },
+      "birthplace": {
+        "label": "Tuscany, Italy — approximate origin",
+        "precision": "region",
+        "country": "Italy",
+        "historicalName": "Tuscia",
+        "coordinates": null,
+        "extent": [
+          9.6,
+          42.2,
+          12.4,
+          44.5
+        ],
+        "sourceRefs": [
+          "ex-leo-i",
+          "ex-roster"
+        ],
+        "reasoning": "Official audience calls him a Tuscan native; no town or date is established by this source. Do not silently select Volterra or Rome."
+      },
+      "saintStatus": {
+        "label": "Saint",
+        "sourceRefs": [
+          "ex-leo-i",
+          "ex-old-roster"
+        ],
+        "recognitionDate": null,
+        "beatificationDate": null,
+        "context": "Early veneration; proclaimed Doctor of the Church in 1754."
+      },
+      "bioShort": {
+        "text": "Leo the Great united theological teaching with pastoral care and diplomacy as the Western Roman Empire weakened. His origins are traced broadly to Tuscany.",
+        "sourceRefs": [
+          "ex-leo-i"
+        ]
+      },
+      "bioLong": {
+        "text": "His Tome to Flavian articulated Christ’s humanity and divinity and was received at Chalcedon in 451. He also negotiated during invasions: a delegation met Attila in 452, and Leo appealed to the Vandals when Rome was attacked in 455.",
+        "sourceRefs": [
+          "ex-leo-i"
+        ]
+      },
+      "actions": [
+        {
+          "text": "Taught on Christ’s two natures in the Tome to Flavian.",
+          "sourceRefs": [
+            "ex-leo-i"
+          ]
+        }
+      ],
+      "context": {
+        "text": "Invasions, poverty and weakening imperial authority expanded the bishop of Rome’s civic responsibilities.",
+        "sourceRefs": [
+          "ex-leo-i"
+        ]
+      },
+      "image": null,
+      "researchNotes": [
+        {
+          "text": "Regional extent is a prototype visualization of modern Tuscany, not proof of an exact birthplace or exact ancient boundary.",
+          "sourceRefs": [
+            "ex-leo-i"
+          ]
+        }
+      ],
+      "relatedAntipopeIds": []
+    },
+    {
+      "papalName": "Gregory I",
+      "aliases": {
+        "text": [
+          "Gregory the Great",
+          "Gregorius Magnus"
+        ],
+        "sourceRefs": [
+          "ex-gregory-i"
+        ]
+      },
+      "birthDate": {
+        "value": "0540",
+        "precision": "circa-year",
+        "display": "Circa 540",
+        "sourceRefs": [
+          "ex-gregory-i"
+        ]
+      },
+      "birthplace": {
+        "label": "Rome, Italy",
+        "precision": "city",
+        "country": "Italy",
+        "historicalName": null,
+        "coordinates": null,
+        "extent": null,
+        "sourceRefs": [
+          "ex-gregory-i"
+        ],
+        "reasoning": "The named birthplace is supported at town/city level; a map reference point must not imply a known birth house."
+      },
+      "saintStatus": {
+        "label": "Saint",
+        "sourceRefs": [
+          "ex-gregory-i",
+          "ex-old-roster"
+        ],
+        "recognitionDate": null,
+        "beatificationDate": null,
+        "context": "Early saint and Doctor of the Church."
+      },
+      "bioShort": {
+        "text": "Gregory the Great moved from civic administration to monastic life before becoming pope. He organized relief, negotiated peace and sent missionaries to England.",
+        "sourceRefs": [
+          "ex-gregory-i"
+        ]
+      },
+      "bioLong": {
+        "text": "Born in Rome around 540, Gregory became city prefect and then converted his home into a monastery. Diplomatic service in Constantinople prepared him for papal responsibilities. As pope he sought agreements with Lombard rulers while using Church resources to feed the hungry and ransom captives.",
+        "sourceRefs": [
+          "ex-gregory-i"
+        ]
+      },
+      "actions": [
+        {
+          "text": "Sent Augustine and monks to evangelize England.",
+          "sourceRefs": [
+            "ex-gregory-i"
+          ]
+        }
+      ],
+      "context": {
+        "text": "Flooding, famine, plague and Lombard expansion shaped Rome’s needs. Gregory combined pastoral leadership with civil negotiation.",
+        "sourceRefs": [
+          "ex-gregory-i"
+        ]
+      },
+      "image": null,
+      "researchNotes": [],
+      "relatedAntipopeIds": []
+    },
+    {
+      "papalName": "Benedict IX",
+      "aliases": {
+        "text": [
+          "Theophylactus of Tusculum",
+          "Teofilatto"
+        ],
+        "sourceRefs": [
+          "ex-benedict-ix",
+          "ex-benedict-ix-ce",
+          "ex-roster"
+        ]
+      },
+      "birthDate": {
+        "value": null,
+        "precision": "unknown",
+        "display": "Unknown",
+        "sourceRefs": [
+          "ex-benedict-ix"
+        ],
+        "note": "Reported ages at accession differ and may be polemical; no inferred birth year is adopted."
+      },
+      "birthplace": {
+        "label": "Birthplace unknown",
+        "precision": "unknown",
+        "country": null,
+        "historicalName": null,
+        "coordinates": null,
+        "extent": null,
+        "sourceRefs": [
+          "ex-roster",
+          "ex-benedict-ix"
+        ],
+        "reasoning": "The Vatican roster leaves his birthplace empty. Tusculan family membership and the name of a family county do not establish a documented birth town."
+      },
+      "saintStatus": {
+        "label": "Not designated",
+        "sourceRefs": [
+          "ex-old-roster"
+        ],
+        "recognitionDate": null,
+        "beatificationDate": null,
+        "context": "No positive saint/blessed designation in the consulted roster; absence alone is not a verified negative."
+      },
+      "bioShort": {
+        "text": "Benedict IX belonged to Rome’s powerful Tusculan family. He appears three times in the Vatican sequence, reflecting interrupted and restored pontificates.",
+        "sourceRefs": [
+          "ex-benedict-ix",
+          "ex-benedict-ix-ce",
+          "ex-roster"
+        ]
+      },
+      "bioLong": {
+        "text": "His troubled tenure unfolded amid rival Roman factions, a disputed succession and intervention by Henry III. After leaving office in 1045, he returned after Clement II’s death. Reports about his age, motives and final years differ, so the profile retains an unknown birth date and birthplace.",
+        "sourceRefs": [
+          "ex-benedict-ix",
+          "ex-benedict-ix-ce",
+          "ex-roster"
+        ]
+      },
+      "actions": [
+        {
+          "text": "Held synods and granted privileges to churches and monasteries.",
+          "sourceRefs": [
+            "ex-benedict-ix",
+            "ex-benedict-ix-ce",
+            "ex-roster"
+          ]
+        }
+      ],
+      "context": {
+        "text": "Control of Rome and the papacy by aristocratic families helped provoke the movement for ecclesiastical reform.",
+        "sourceRefs": [
+          "ex-benedict-ix",
+          "ex-benedict-ix-ce",
+          "ex-roster"
+        ]
+      },
+      "image": null,
+      "researchNotes": [
+        {
+          "text": "Use official roster positions 145, 147, 150 as distinct tour entries for one person. Third period is approximately October 1047–August 1048 in English roster; Italian table ends July 1048.",
+          "sourceRefs": [
+            "ex-roster"
+          ]
+        },
+        {
+          "text": "CE calls Sylvester III an antipope; the official roster includes him as Pope 146. Preserve this disagreement without creating a duplicate antipope person.",
+          "sourceRefs": [
+            "ex-benedict-ix-ce",
+            "ex-roster"
+          ]
+        }
+      ],
+      "relatedAntipopeIds": []
+    },
+    {
+      "papalName": "Benedict XI",
+      "aliases": {
+        "text": [
+          "Niccolò Boccasini",
+          "Nicholas Boccasini"
+        ],
+        "sourceRefs": [
+          "ex-benedict-xi"
+        ]
+      },
+      "birthDate": {
+        "value": "1240",
+        "precision": "year",
+        "display": "1240",
+        "sourceRefs": [
+          "ex-benedict-xi"
+        ]
+      },
+      "birthplace": {
+        "label": "Treviso, Italy",
+        "precision": "city",
+        "country": "Italy",
+        "historicalName": null,
+        "coordinates": null,
+        "extent": null,
+        "sourceRefs": [
+          "ex-benedict-xi",
+          "ex-roster"
+        ],
+        "reasoning": "The named birthplace is supported at town/city level; a map reference point must not imply a known birth house."
+      },
+      "saintStatus": {
+        "label": "Blessed",
+        "sourceRefs": [
+          "ex-benedict-xi",
+          "ex-ce-list"
+        ],
+        "recognitionDate": null,
+        "beatificationDate": null,
+        "context": "Positive Blessed designation is supported. Recognition year omitted because selected sources disagree."
+      },
+      "bioShort": {
+        "text": "A Dominican scholar and former head of his order, Benedict XI worked to restore relations with the French crown after the conflict of Boniface VIII.",
+        "sourceRefs": [
+          "ex-benedict-xi"
+        ]
+      },
+      "bioLong": {
+        "text": "Niccolò Boccasini entered the Dominican Order as a teenager and became its master general. His papacy sought reconciliation with Philip IV while preserving the dignity of the Holy See. He died at Perugia after a short pontificate.",
+        "sourceRefs": [
+          "ex-benedict-xi"
+        ]
+      },
+      "actions": [
+        {
+          "text": "Lifted censures to restore relations with France.",
+          "sourceRefs": [
+            "ex-benedict-xi"
+          ]
+        }
+      ],
+      "context": {
+        "text": "The aftermath of the attack at Anagni shaped relations between the papacy, French monarchy and Roman families.",
+        "sourceRefs": [
+          "ex-benedict-xi"
+        ]
+      },
+      "image": null,
+      "researchNotes": [
+        {
+          "text": "Older Vatican table omits Blessed title. CE says beatification 1773; many modern accounts cite confirmation of cult 1736. Keep status and leave recognition date unset pending primary-record reconciliation.",
+          "sourceRefs": [
+            "ex-benedict-xi",
+            "ex-ce-list"
+          ]
+        }
+      ],
+      "relatedAntipopeIds": []
+    },
+    {
+      "papalName": "John XXIII",
+      "aliases": {
+        "text": [
+          "Angelo Giuseppe Roncalli"
+        ],
+        "sourceRefs": [
+          "ex-john-xxiii"
+        ]
+      },
+      "birthDate": {
+        "value": "1881-11-25",
+        "precision": "day",
+        "display": "1881-11-25",
+        "sourceRefs": [
+          "ex-john-xxiii"
+        ]
+      },
+      "birthplace": {
+        "label": "Sotto il Monte Giovanni XXIII, Italy",
+        "precision": "town",
+        "country": "Italy",
+        "historicalName": "Sotto il Monte",
+        "coordinates": null,
+        "extent": null,
+        "sourceRefs": [
+          "ex-john-xxiii"
+        ],
+        "reasoning": "The named birthplace is supported at town/city level; a map reference point must not imply a known birth house."
+      },
+      "saintStatus": {
+        "label": "Saint",
+        "sourceRefs": [
+          "ex-2014-canonization",
+          "ex-john-xxiii"
+        ],
+        "recognitionDate": "2014-04-27",
+        "beatificationDate": "2000-09-03",
+        "context": "Canonized by Francis with John Paul II."
+      },
+      "bioShort": {
+        "text": "John XXIII opened the Second Vatican Council and made dialogue and peace central to his papal ministry. He was born in Sotto il Monte.",
+        "sourceRefs": [
+          "ex-john-xxiii"
+        ]
+      },
+      "bioLong": {
+        "text": "Roncalli served as a military chaplain and papal diplomat before becoming patriarch of Venice and pope. During the Second World War his diplomatic work included assistance to Jews seeking transit. His social teaching appeared in Mater et Magistra and Pacem in Terris.",
+        "sourceRefs": [
+          "ex-john-xxiii"
+        ]
+      },
+      "actions": [
+        {
+          "text": "Convened the Second Vatican Council.",
+          "sourceRefs": [
+            "ex-john-xxiii"
+          ]
+        }
+      ],
+      "context": {
+        "text": "His brief pontificate initiated a major period of renewal and encouraged encounters across Christian traditions and religions.",
+        "sourceRefs": [
+          "ex-john-xxiii"
+        ]
+      },
+      "image": null,
+      "researchNotes": [],
+      "relatedAntipopeIds": []
+    },
+    {
+      "papalName": "Paul VI",
+      "aliases": {
+        "text": [
+          "Giovanni Battista Montini"
+        ],
+        "sourceRefs": [
+          "ex-paul-vi"
+        ]
+      },
+      "birthDate": {
+        "value": "1897-09-26",
+        "precision": "day",
+        "display": "1897-09-26",
+        "sourceRefs": [
+          "ex-paul-vi"
+        ]
+      },
+      "birthplace": {
+        "label": "Concesio, Italy",
+        "precision": "town",
+        "country": "Italy",
+        "historicalName": null,
+        "coordinates": null,
+        "extent": null,
+        "sourceRefs": [
+          "ex-paul-vi"
+        ],
+        "reasoning": "The named birthplace is supported at town/city level; a map reference point must not imply a known birth house."
+      },
+      "saintStatus": {
+        "label": "Saint",
+        "sourceRefs": [
+          "ex-paul-vi",
+          "ex-2018-canonization"
+        ],
+        "recognitionDate": "2018-10-14",
+        "beatificationDate": "2014-10-19",
+        "context": "Canonized by Francis."
+      },
+      "bioShort": {
+        "text": "Paul VI brought the Second Vatican Council to its conclusion and guided its implementation. He was born in Concesio near Brescia.",
+        "sourceRefs": [
+          "ex-paul-vi"
+        ]
+      },
+      "bioLong": {
+        "text": "Montini’s pontificate saw reforms of the liturgy and Roman Curia alongside debate over the Church’s relationship with contemporary society. His teaching addressed development, evangelization and married life in Populorum Progressio, Evangelii Nuntiandi and Humanae Vitae.",
+        "sourceRefs": [
+          "ex-paul-vi"
+        ]
+      },
+      "actions": [
+        {
+          "text": "Concluded Vatican II and implemented its decisions.",
+          "sourceRefs": [
+            "ex-paul-vi"
+          ]
+        }
+      ],
+      "context": {
+        "text": "Social and political upheaval, changing family life and tensions within the Church made reform a demanding pastoral task.",
+        "sourceRefs": [
+          "ex-paul-vi"
+        ]
+      },
+      "image": null,
+      "researchNotes": [],
+      "relatedAntipopeIds": []
+    },
+    {
+      "papalName": "John Paul I",
+      "aliases": {
+        "text": [
+          "Albino Luciani"
+        ],
+        "sourceRefs": [
+          "ex-john-paul-i"
+        ]
+      },
+      "birthDate": {
+        "value": "1912-10-17",
+        "precision": "day",
+        "display": "1912-10-17",
+        "sourceRefs": [
+          "ex-john-paul-i"
+        ]
+      },
+      "birthplace": {
+        "label": "Canale d’Agordo, Italy",
+        "precision": "town",
+        "country": "Italy",
+        "historicalName": "Forno di Canale",
+        "coordinates": null,
+        "extent": null,
+        "sourceRefs": [
+          "ex-john-paul-i"
+        ],
+        "reasoning": "The named birthplace is supported at town/city level; a map reference point must not imply a known birth house."
+      },
+      "saintStatus": {
+        "label": "Blessed",
+        "sourceRefs": [
+          "ex-john-paul-i-beatification"
+        ],
+        "recognitionDate": "2022-09-04",
+        "beatificationDate": null,
+        "context": "Beatified by Francis; older Venerable designation is outdated."
+      },
+      "bioShort": {
+        "text": "John Paul I came from a mountain town in northern Italy and served as bishop and patriarch before his brief papacy in 1978.",
+        "sourceRefs": [
+          "ex-john-paul-i"
+        ]
+      },
+      "bioLong": {
+        "text": "Albino Luciani worked in parish and seminary ministry, became bishop of Vittorio Veneto, and attended all four sessions of Vatican II. Paul VI appointed him patriarch of Venice. He was elected pope on 26 August 1978 and died on 28 September.",
+        "sourceRefs": [
+          "ex-john-paul-i"
+        ]
+      },
+      "actions": [
+        {
+          "text": "Served in catechetical and diocesan leadership before election.",
+          "sourceRefs": [
+            "ex-john-paul-i"
+          ]
+        }
+      ],
+      "context": {
+        "text": "His election followed Paul VI’s death; his own death led to another conclave within the same year.",
+        "sourceRefs": [
+          "ex-john-paul-i"
+        ]
+      },
+      "image": null,
+      "researchNotes": [
+        {
+          "text": "English Vatican chronology has a spelling error d’Argordo; Italian chronology and subsequent entries support modern Canale d’Agordo.",
+          "sourceRefs": [
+            "ex-john-paul-i"
+          ]
+        },
+        {
+          "text": "Use Blessed from 2022 celebration; do not copy Venerabile from older Vatican table.",
+          "sourceRefs": [
+            "ex-john-paul-i-beatification"
+          ]
+        }
+      ],
+      "relatedAntipopeIds": []
+    },
+    {
+      "papalName": "John Paul II",
+      "aliases": {
+        "text": [
+          "Karol Józef Wojtyła"
+        ],
+        "sourceRefs": [
+          "ex-john-paul-ii"
+        ]
+      },
+      "birthDate": {
+        "value": "1920-05-18",
+        "precision": "day",
+        "display": "1920-05-18",
+        "sourceRefs": [
+          "ex-john-paul-ii"
+        ]
+      },
+      "birthplace": {
+        "label": "Wadowice, Poland",
+        "precision": "town",
+        "country": "Poland",
+        "historicalName": null,
+        "coordinates": null,
+        "extent": null,
+        "sourceRefs": [
+          "ex-john-paul-ii"
+        ],
+        "reasoning": "The named birthplace is supported at town/city level; a map reference point must not imply a known birth house."
+      },
+      "saintStatus": {
+        "label": "Saint",
+        "sourceRefs": [
+          "ex-john-paul-ii-cause",
+          "ex-2014-canonization"
+        ],
+        "recognitionDate": "2014-04-27",
+        "beatificationDate": "2011-05-01",
+        "context": "Canonized by Francis with John XXIII."
+      },
+      "bioShort": {
+        "text": "John Paul II grew up in Wadowice and trained for priesthood during Nazi occupation. His long pontificate brought the pope to communities around the world.",
+        "sourceRefs": [
+          "ex-john-paul-ii"
+        ]
+      },
+      "bioLong": {
+        "text": "Wojtyła studied in a clandestine seminary, later becoming archbishop of Kraków and a participant in Vatican II. As pope he undertook 104 international apostolic journeys, developed World Youth Day and promulgated the Catechism and revised codes of canon law.",
+        "sourceRefs": [
+          "ex-john-paul-ii"
+        ]
+      },
+      "actions": [
+        {
+          "text": "Promulgated the Catechism of the Catholic Church.",
+          "sourceRefs": [
+            "ex-john-paul-ii"
+          ]
+        }
+      ],
+      "context": {
+        "text": "War and occupied Poland shaped his formation. His worldwide pastoral ministry emphasized encounter with young people and local Churches.",
+        "sourceRefs": [
+          "ex-john-paul-ii"
+        ]
+      },
+      "image": null,
+      "researchNotes": [
+        {
+          "text": "The English 2014 biography has an apparent assassination-date typo:3 May 1981. Avoid reproducing it without reconciliation; official chronology gives 13 May 1981.",
+          "sourceRefs": [
+            "ex-john-paul-ii"
+          ]
+        }
+      ],
+      "relatedAntipopeIds": []
+    },
+    {
+      "papalName": "Benedict XVI",
+      "aliases": {
+        "text": [
+          "Joseph Ratzinger"
+        ],
+        "sourceRefs": [
+          "ex-benedict-xvi",
+          "ex-benedict-xvi-resignation"
+        ]
+      },
+      "birthDate": {
+        "value": "1927-04-16",
+        "precision": "day",
+        "display": "1927-04-16",
+        "sourceRefs": [
+          "ex-benedict-xvi"
+        ]
+      },
+      "birthplace": {
+        "label": "Marktl am Inn, Germany",
+        "precision": "town",
+        "country": "Germany",
+        "historicalName": null,
+        "coordinates": null,
+        "extent": null,
+        "sourceRefs": [
+          "ex-benedict-xvi"
+        ],
+        "reasoning": "The named birthplace is supported at town/city level; a map reference point must not imply a known birth house."
+      },
+      "saintStatus": {
+        "label": "Not designated",
+        "sourceRefs": [
+          "ex-roster"
+        ],
+        "recognitionDate": null,
+        "beatificationDate": null,
+        "context": "No positive recognition claim is made by these research records."
+      },
+      "bioShort": {
+        "text": "A theologian from Bavaria, Benedict XVI served at Vatican II and led the Church’s doctrinal congregation before election. He resigned from the papal ministry in 2013.",
+        "sourceRefs": [
+          "ex-benedict-xvi",
+          "ex-benedict-xvi-resignation"
+        ]
+      },
+      "bioLong": {
+        "text": "Joseph Ratzinger grew up under the Nazi regime and became a priest, professor and council advisor. He led the commission preparing the Catechism. In a freely made declaration he announced that his papal ministry would end on 28 February 2013.",
+        "sourceRefs": [
+          "ex-benedict-xvi",
+          "ex-benedict-xvi-resignation"
+        ]
+      },
+      "actions": [
+        {
+          "text": "Presided over the commission drafting the Catechism.",
+          "sourceRefs": [
+            "ex-benedict-xvi",
+            "ex-benedict-xvi-resignation"
+          ]
+        },
+        {
+          "text": "Renounced the papal ministry effective 28 February 2013.",
+          "sourceRefs": [
+            "ex-benedict-xvi",
+            "ex-benedict-xvi-resignation"
+          ]
+        }
+      ],
+      "context": {
+        "text": "His work joined scholarship with Church governance. The resignation made a new conclave necessary while he continued life as pope emeritus.",
+        "sourceRefs": [
+          "ex-benedict-xvi",
+          "ex-benedict-xvi-resignation"
+        ]
+      },
+      "image": null,
+      "researchNotes": [],
+      "relatedAntipopeIds": []
+    },
+    {
+      "papalName": "Francis",
+      "aliases": {
+        "text": [
+          "Jorge Mario Bergoglio"
+        ],
+        "sourceRefs": [
+          "ex-francis",
+          "ex-francis-death"
+        ]
+      },
+      "birthDate": {
+        "value": "1936-12-17",
+        "precision": "day",
+        "display": "1936-12-17",
+        "sourceRefs": [
+          "ex-francis"
+        ]
+      },
+      "birthplace": {
+        "label": "Buenos Aires, Argentina",
+        "precision": "city",
+        "country": "Argentina",
+        "historicalName": null,
+        "coordinates": null,
+        "extent": null,
+        "sourceRefs": [
+          "ex-francis"
+        ],
+        "reasoning": "The named birthplace is supported at town/city level; a map reference point must not imply a known birth house."
+      },
+      "saintStatus": {
+        "label": "Not designated",
+        "sourceRefs": [
+          "ex-roster"
+        ],
+        "recognitionDate": null,
+        "beatificationDate": null,
+        "context": "No positive recognition claim is made by these research records."
+      },
+      "bioShort": {
+        "text": "The Argentine Jesuit Jorge Mario Bergoglio became the first pope from the Americas. His papacy emphasized mercy, care for the poor and protection of creation.",
+        "sourceRefs": [
+          "ex-francis",
+          "ex-francis-death"
+        ]
+      },
+      "bioLong": {
+        "text": "After serving as Jesuit provincial and archbishop of Buenos Aires, he was elected on 13 March 2013. His pastoral initiatives included the World Day of the Poor and an extraordinary Jubilee of Mercy. He died in Vatican City on 21 April 2025.",
+        "sourceRefs": [
+          "ex-francis",
+          "ex-francis-death"
+        ]
+      },
+      "actions": [
+        {
+          "text": "Established the World Day of the Poor.",
+          "sourceRefs": [
+            "ex-francis",
+            "ex-francis-death"
+          ]
+        },
+        {
+          "text": "Proclaimed the Jubilee of Mercy.",
+          "sourceRefs": [
+            "ex-francis",
+            "ex-francis-death"
+          ]
+        }
+      ],
+      "context": {
+        "text": "His choice of name recalled Francis of Assisi’s poverty, peace and care for creation.",
+        "sourceRefs": [
+          "ex-francis",
+          "ex-francis-death"
+        ]
+      },
+      "image": null,
+      "researchNotes": [],
+      "relatedAntipopeIds": []
+    },
+    {
+      "papalName": "Leo XIV",
+      "aliases": {
+        "text": [
+          "Robert Francis Prevost"
+        ],
+        "sourceRefs": [
+          "ex-leo-xiv"
+        ]
+      },
+      "birthDate": {
+        "value": "1955-09-14",
+        "precision": "day",
+        "display": "1955-09-14",
+        "sourceRefs": [
+          "ex-leo-xiv"
+        ]
+      },
+      "birthplace": {
+        "label": "Chicago, United States",
+        "precision": "city",
+        "country": "United States",
+        "historicalName": null,
+        "coordinates": null,
+        "extent": null,
+        "sourceRefs": [
+          "ex-leo-xiv"
+        ],
+        "reasoning": "The named birthplace is supported at town/city level; a map reference point must not imply a known birth house."
+      },
+      "saintStatus": {
+        "label": "Not designated",
+        "sourceRefs": [
+          "ex-roster"
+        ],
+        "recognitionDate": null,
+        "beatificationDate": null,
+        "context": "Living incumbent; no sainthood or beatification claim."
+      },
+      "bioShort": {
+        "text": "Born in Chicago, Leo XIV is an Augustinian who spent many years in ministry in Peru. He was elected pope on 8 May 2025.",
+        "sourceRefs": [
+          "ex-leo-xiv"
+        ]
+      },
+      "bioLong": {
+        "text": "Robert Prevost served in missions at Chulucanas and Trujillo, led the Augustinian Order, and became bishop of Chiclayo. Francis later appointed him prefect of the Dicastery for Bishops. His election made him the first pope from the United States and the first Augustinian pope.",
+        "sourceRefs": [
+          "ex-leo-xiv"
+        ]
+      },
+      "actions": [
+        {
+          "text": "Led the Augustinian Order before episcopal and curial service.",
+          "sourceRefs": [
+            "ex-leo-xiv"
+          ]
+        }
+      ],
+      "context": {
+        "text": "His formation and ministry connect the United States, Rome and Peru. Chicago is the documented birthplace; later Peruvian ministry and citizenship must not replace it on the map.",
+        "sourceRefs": [
+          "ex-leo-xiv"
+        ]
+      },
+      "image": null,
+      "researchNotes": [
+        {
+          "text": "Election was 8 May 2025; inauguration 18 May 2025. The current pontificate has no end date.",
+          "sourceRefs": [
+            "ex-leo-xiv",
+            "ex-roster"
+          ]
+        }
+      ],
+      "relatedAntipopeIds": []
+    },
+    {
+      "papalName": "Gregory XII",
+      "aliases": {
+        "text": [
+          "Angelo Correr"
+        ],
+        "sourceRefs": [
+          "ex-roster"
+        ]
+      },
+      "birthDate": {
+        "value": null,
+        "precision": "unknown",
+        "display": "Unknown",
+        "sourceRefs": [
+          "ex-roster"
+        ]
+      },
+      "birthplace": {
+        "label": "Venice, Italy",
+        "precision": "city",
+        "country": "Italy",
+        "coordinates": null,
+        "sourceRefs": [
+          "ex-roster"
+        ],
+        "reasoning": "Named origin from selected source; no birth house coordinate supplied."
+      },
+      "saintStatus": {
+        "label": "Not designated",
+        "sourceRefs": [
+          "ex-old-roster"
+        ],
+        "recognitionDate": null,
+        "context": "No positive recognition claim is made by the consulted records."
+      },
+      "bioShort": {
+        "text": "Gregory XII resigned during the Council of Constance to help end the Western Schism. His pontificate faced rival claims from Avignon and Pisa.",
+        "sourceRefs": [
+          "ex-schism-vatican",
+          "ex-benedict-xiii-claimant"
+        ]
+      },
+      "bioLong": {
+        "text": "Efforts to reunite the Church through agreement with Benedict XIII failed. The Council of Pisa elected Alexander V, whose successor John XXIII maintained a third obedience. At Constance, Gregory’s resignation became part of the process that led to Martin V’s election.",
+        "sourceRefs": [
+          "ex-schism-vatican",
+          "ex-benedict-xiii-claimant",
+          "ex-john-xxiii-claimant"
+        ]
+      },
+      "actions": [
+        {
+          "text": "Resigned in 1415 to support restoration of unity.",
+          "sourceRefs": [
+            "ex-schism-vatican",
+            "ex-roster"
+          ]
+        }
+      ],
+      "context": {
+        "text": "The Western Schism divided allegiance across kingdoms, church leaders and rival courts. Councils at Pisa and Constance tried different routes toward reunion.",
+        "sourceRefs": [
+          "ex-schism-vatican",
+          "ex-alexander-v-claimant"
+        ]
+      },
+      "image": null,
+      "researchNotes": [
+        {
+          "text": "Alexander V and John XXIII were successive Pisan claimants; Benedict XIII overlapped both. Keep separate claimant records and relevant date ranges.",
+          "sourceRefs": [
+            "ex-alexander-v-claimant",
+            "ex-john-xxiii-claimant",
+            "ex-benedict-xiii-claimant"
+          ]
+        }
+      ],
+      "relatedAntipopeIds": [
+        "ex-benedict-xiii-claimant",
+        "ex-alexander-v-claimant",
+        "ex-john-xxiii-claimant"
+      ]
+    },
+    {
+      "papalName": "Pius IX",
+      "aliases": {
+        "text": [
+          "Giovanni Maria Mastai Ferretti"
+        ],
+        "sourceRefs": [
+          "ex-pius-ix-cause"
+        ]
+      },
+      "birthDate": {
+        "value": "1792-05-13",
+        "display": "13 May 1792",
+        "precision": "day",
+        "sourceRefs": [
+          "ex-pius-ix-cause"
+        ]
+      },
+      "birthplace": {
+        "label": "Senigallia, Italy",
+        "precision": "city",
+        "country": "Italy",
+        "sourceRefs": [
+          "ex-pius-ix-cause"
+        ],
+        "reasoning": "Official cause biography names Senigallia as birthplace; coordinates are town reference only."
+      },
+      "saintStatus": {
+        "label": "Blessed",
+        "sourceRefs": [
+          "ex-pius-ix-cause"
+        ],
+        "recognitionDate": "2000-09-03",
+        "beatificationDate": "2000-09-03",
+        "context": "Beatified by John Paul II on 3 September 2000."
+      },
+      "bioShort": {
+        "text": "Born in Senigallia, Pius IX convened the First Vatican Council. His long pontificate unfolded amid the political upheavals of nineteenth-century Italy.",
+        "sourceRefs": [
+          "ex-pius-ix-cause"
+        ]
+      },
+      "bioLong": {
+        "text": "Giovanni Maria Mastai Ferretti was elected pope in 1846. He proclaimed the dogma of the Immaculate Conception in 1854 and opened the First Vatican Council in 1869. The capture of Rome in 1870 changed the political setting of his final years.",
+        "sourceRefs": [
+          "ex-pius-ix-cause"
+        ]
+      },
+      "actions": [
+        {
+          "text": "Convened the First Vatican Council.",
+          "sourceRefs": [
+            "ex-pius-ix-cause"
+          ]
+        },
+        {
+          "text": "Proclaimed the dogma of the Immaculate Conception.",
+          "sourceRefs": [
+            "ex-pius-ix-cause"
+          ]
+        }
+      ],
+      "context": {
+        "text": "The loss of the Papal States and the capture of Rome in 1870 transformed relations between the papacy and the new Italian state.",
+        "sourceRefs": [
+          "ex-pius-ix-cause"
+        ]
+      },
+      "researchNotes": []
+    }
+  ],
+  "antipopes": [
+    {
+      "id": "ex-hippolytus",
+      "name": "Hippolytus",
+      "dates": {
+        "text": "Traditionally circa 217–235/236",
+        "sourceRefs": [
+          "ex-catacombs",
+          "ex-ce-list"
+        ]
+      },
+      "classification": {
+        "text": "Traditional antipope identification; historical identity disputed",
+        "sourceRefs": [
+          "ex-catacombs",
+          "ex-antipope-list"
+        ]
+      },
+      "birthplace": {
+        "label": "Birthplace unknown",
+        "precision": "unknown",
+        "country": null,
+        "historicalName": null,
+        "coordinates": null,
+        "extent": null,
+        "sourceRefs": [
+          "ex-catacombs"
+        ],
+        "reasoning": "The article distinguishes possible Asian and Roman homonyms; neither is a documented birthplace for a settled individual."
+      },
+      "relatedPapalNames": [
+        "Callistus I",
+        "Urban I",
+        "Pontian"
+      ],
+      "relationNotes": [
+        {
+          "text": "Vatican article discusses Callistus and Pontian; Urban biography explicitly describes continuing schism. CE list includes Anterus, although Pontian narrative places reconciliation in 235.",
+          "sourceRefs": [
+            "ex-catacombs",
+            "ex-urban",
+            "ex-pontian",
+            "ex-ce-list"
+          ]
+        }
+      ],
+      "intro": {
+        "text": "A rival community is traditionally associated with Hippolytus; the identity behind the story is debated.",
+        "sourceRefs": [
+          "ex-catacombs"
+        ]
+      },
+      "explanation": {
+        "text": "The traditional account links the schism with doctrinal and disciplinary disagreement, exile alongside Pontian and eventual reconciliation. Vatican historical scholarship warns that the writer, bishop and martyr called Hippolytus may be different people. The narrative remains qualified.",
+        "sourceRefs": [
+          "ex-catacombs"
+        ]
+      },
+      "sourceRefs": [
+        "ex-catacombs",
+        "ex-ce-list",
+        "ex-antipope-list"
+      ],
+      "historicalCoverageDisagreement": {
+        "papalName": "Anterus",
+        "reason": "The Catholic Encyclopedia list extends traditional Hippolytus coverage through Anterus, but the official historical article and Pontian biography place reconciliation during Pontian’s reign. Anterus is not an active claimant link.",
+        "sourceRefs": [
+          "ex-ce-list",
+          "ex-catacombs",
+          "ex-pontian"
+        ]
+      }
+    },
+    {
+      "id": "ex-novatian",
+      "name": "Novatian",
+      "dates": {
+        "text": "Rival claim began 251",
+        "sourceRefs": [
+          "ex-antipope-list",
+          "ex-cornelius"
+        ]
+      },
+      "classification": {
+        "text": "Antipope",
+        "sourceRefs": [
+          "ex-antipope-list"
+        ]
+      },
+      "birthplace": {
+        "label": "Birthplace unknown",
+        "precision": "unknown",
+        "country": null,
+        "historicalName": null,
+        "coordinates": null,
+        "extent": null,
+        "sourceRefs": [
+          "ex-antipope-list"
+        ],
+        "reasoning": "The selected sources do not establish a birthplace."
+      },
+      "relatedPapalNames": [
+        "Cornelius"
+      ],
+      "intro": {
+        "text": "Novatian’s rival election divided Rome over how to treat Christians who had fallen away.",
+        "sourceRefs": [
+          "ex-cornelius"
+        ]
+      },
+      "explanation": {
+        "text": "Cornelius supported restoration after penance and gained support from bishops including Cyprian. Novatian formed a rival claim and a schismatic community. The dispute concerned Church unity and reconciliation after persecution.",
+        "sourceRefs": [
+          "ex-cornelius"
+        ]
+      },
+      "sourceRefs": [
+        "ex-cornelius",
+        "ex-antipope-list"
+      ]
+    },
+    {
+      "id": "ex-clement-vii-claimant",
+      "name": "Clement VII (Avignon claimant)",
+      "aliases": {
+        "text": [
+          "Robert of Geneva"
+        ],
+        "sourceRefs": [
+          "ex-clement-vii-claimant",
+          "ex-ce-list",
+          "ex-roster"
+        ]
+      },
+      "dates": {
+        "text": "20 September 1378–16 September 1394",
+        "sourceRefs": [
+          "ex-clement-vii-claimant",
+          "ex-ce-list",
+          "ex-roster"
+        ]
+      },
+      "classification": {
+        "text": "Antipope; distinct from recognized Pope Clement VII (1523–1534)",
+        "sourceRefs": [
+          "ex-clement-vii-claimant",
+          "ex-ce-list",
+          "ex-roster"
+        ]
+      },
+      "birthplace": {
+        "label": "Annecy, France (older source gives Geneva)",
+        "precision": "place",
+        "country": "France",
+        "coordinates": null,
+        "sourceRefs": [
+          "ex-clement-vii-treccani",
+          "ex-clement-vii-claimant"
+        ],
+        "reasoning": "Prefer modern Treccani biography for birth at castle of Annecy; retain conflicting older Catholic Encyclopedia Geneva account."
+      },
+      "relatedPapalNames": [
+        "Urban VI",
+        "Boniface IX"
+      ],
+      "intro": {
+        "text": "A second election in 1378 divided the Church between Roman and Avignon obediences.",
+        "sourceRefs": [
+          "ex-clement-vii-claimant",
+          "ex-ce-list",
+          "ex-roster"
+        ]
+      },
+      "explanation": {
+        "text": "Robert of Geneva was elected at Fondi in opposition to Urban VI. He later settled at Avignon, gaining the allegiance of several kingdoms. His claim continued into the pontificate of Boniface IX.",
+        "sourceRefs": [
+          "ex-clement-vii-claimant",
+          "ex-ce-list",
+          "ex-roster"
+        ]
+      },
+      "sourceRefs": [
+        "ex-clement-vii-claimant",
+        "ex-ce-list",
+        "ex-roster"
+      ],
+      "researchNotes": [
+        {
+          "text": "Birthplace conflict: Treccani(2000)Annecy versus older Catholic Encyclopedia Geneva. Birthplace is not displayed in the initial claimant note.",
+          "sourceRefs": [
+            "ex-clement-vii-treccani",
+            "ex-clement-vii-claimant"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ex-benedict-xiii-claimant",
+      "name": "Benedict XIII (Avignon claimant)",
+      "aliases": {
+        "text": [
+          "Pedro de Luna"
+        ],
+        "sourceRefs": [
+          "ex-benedict-xiii-claimant",
+          "ex-schism-vatican"
+        ]
+      },
+      "dates": {
+        "text": "28 September 1394–July 1417; continued claim until death in 1422 or 1423",
+        "sourceRefs": [
+          "ex-benedict-xiii-claimant",
+          "ex-schism-vatican"
+        ]
+      },
+      "classification": {
+        "text": "Antipope; distinct from recognized Pope Benedict XIII (1724–1730)",
+        "sourceRefs": [
+          "ex-benedict-xiii-claimant",
+          "ex-schism-vatican"
+        ]
+      },
+      "birthplace": {
+        "label": "Illueca, Spain",
+        "precision": "town",
+        "country": "Spain",
+        "coordinates": null,
+        "sourceRefs": [
+          "ex-benedict-xiii-claimant"
+        ],
+        "reasoning": "Named origin from selected source; no birth house coordinate supplied."
+      },
+      "relatedPapalNames": [
+        "Boniface IX",
+        "Innocent VII",
+        "Gregory XII",
+        "Martin V"
+      ],
+      "intro": {
+        "text": "Benedict XIII succeeded the Avignon claimant and remained in dispute with successive Roman popes.",
+        "sourceRefs": [
+          "ex-benedict-xiii-claimant",
+          "ex-schism-vatican"
+        ]
+      },
+      "explanation": {
+        "text": "Pedro de Luna negotiated with Boniface IX, Innocent VII and Gregory XII, but proposed mutual resignations did not end the division. Constance deposed him in July 1417. He retained his claim at Peñíscola after Martin V’s election.",
+        "sourceRefs": [
+          "ex-benedict-xiii-claimant",
+          "ex-schism-vatican"
+        ]
+      },
+      "sourceRefs": [
+        "ex-benedict-xiii-claimant",
+        "ex-schism-vatican"
+      ],
+      "researchNotes": [
+        {
+          "text": "CE gives both 26 and 27 July 1417 for deposition, and alternative death dates in 1422/1423. The prototype preserves the month and alternatives.",
+          "sourceRefs": [
+            "ex-benedict-xiii-claimant"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ex-alexander-v-claimant",
+      "name": "Alexander V (Pisan claimant)",
+      "aliases": {
+        "text": [
+          "Pietro Philarghi",
+          "Peter of Candia"
+        ],
+        "sourceRefs": [
+          "ex-alexander-v-claimant",
+          "ex-schism-vatican",
+          "ex-roster"
+        ]
+      },
+      "dates": {
+        "text": "26 June 1409–3 May 1410",
+        "sourceRefs": [
+          "ex-alexander-v-claimant",
+          "ex-schism-vatican",
+          "ex-roster"
+        ]
+      },
+      "classification": {
+        "text": "Pisan claimant excluded from current Vatican sequence; older sources discuss legitimacy",
+        "sourceRefs": [
+          "ex-alexander-v-claimant",
+          "ex-schism-vatican",
+          "ex-roster"
+        ]
+      },
+      "birthplace": {
+        "label": "Crete, Greece — approximate origin",
+        "precision": "region",
+        "country": "Greece",
+        "coordinates": null,
+        "sourceRefs": [
+          "ex-alexander-v-claimant"
+        ],
+        "reasoning": "Named origin from selected source; no birth house coordinate supplied."
+      },
+      "relatedPapalNames": [
+        "Gregory XII"
+      ],
+      "intro": {
+        "text": "The Council of Pisa attempted to heal the division by electing Alexander V, but added a third claimant.",
+        "sourceRefs": [
+          "ex-alexander-v-claimant",
+          "ex-schism-vatican",
+          "ex-roster"
+        ]
+      },
+      "explanation": {
+        "text": "The election followed Pisa’s attempted deposition of Gregory XII and Benedict XIII. Neither abandoned his claim. Alexander died at Bologna in 1410 and was succeeded by Baldassare Cossa, who took the name John XXIII.",
+        "sourceRefs": [
+          "ex-alexander-v-claimant",
+          "ex-schism-vatican",
+          "ex-roster"
+        ]
+      },
+      "sourceRefs": [
+        "ex-alexander-v-claimant",
+        "ex-schism-vatican",
+        "ex-roster"
+      ],
+      "researchNotes": [
+        {
+          "text": "The 1907 encyclopedia discusses unresolved legitimacy. Use current Vatican inclusion for the recognized sequence and preserve this historical classification discussion.",
+          "sourceRefs": [
+            "ex-alexander-v-claimant",
+            "ex-roster"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ex-john-xxiii-claimant",
+      "name": "John XXIII (Pisan claimant)",
+      "aliases": {
+        "text": [
+          "Baldassare Cossa"
+        ],
+        "sourceRefs": [
+          "ex-john-xxiii-claimant",
+          "ex-schism-vatican"
+        ]
+      },
+      "dates": {
+        "text": "17 May 1410–29 May 1415",
+        "sourceRefs": [
+          "ex-john-xxiii-claimant",
+          "ex-schism-vatican"
+        ]
+      },
+      "classification": {
+        "text": "Antipope; distinct from Saint John XXIII (1958–1963)",
+        "sourceRefs": [
+          "ex-john-xxiii-claimant",
+          "ex-schism-vatican"
+        ]
+      },
+      "birthplace": {
+        "label": "Birthplace unknown",
+        "precision": "unknown",
+        "country": null,
+        "coordinates": null,
+        "sourceRefs": [
+          "ex-john-xxiii-claimant"
+        ],
+        "reasoning": "Source establishes a Neapolitan family, not a precise birthplace."
+      },
+      "relatedPapalNames": [
+        "Gregory XII"
+      ],
+      "intro": {
+        "text": "John XXIII continued the Pisan claim during Gregory XII’s pontificate and helped convene the Council of Constance.",
+        "sourceRefs": [
+          "ex-john-xxiii-claimant",
+          "ex-schism-vatican"
+        ]
+      },
+      "explanation": {
+        "text": "Baldassare Cossa succeeded Alexander V in 1410. The council met with three competing claims before it. John was deposed in May 1415; Gregory XII resigned, and Benedict XIII was later deposed. Martin V’s election restored the recognized succession.",
+        "sourceRefs": [
+          "ex-john-xxiii-claimant",
+          "ex-schism-vatican"
+        ]
+      },
+      "sourceRefs": [
+        "ex-john-xxiii-claimant",
+        "ex-schism-vatican"
+      ],
+      "researchNotes": [
+        {
+          "text": "CE opening says 1400–15, but its detailed election paragraph gives 17 May 1410. Use the explicit event paragraph; the opening is an apparent typographical error.",
+          "sourceRefs": [
+            "ex-john-xxiii-claimant"
+          ]
+        }
+      ]
+    }
+  ],
+  "corrections": [
+    {
+      "text": "John XXIII and John Paul II are Saints from 27 April 2014, Paul VI from 14 October 2018, and John PaulI is Blessed from 4 September 2022. Prefer individual causes and acts over older roster titles.",
+      "sourceRefs": [
+        "ex-2014-canonization",
+        "ex-paul-vi",
+        "ex-john-paul-i-beatification"
+      ]
+    },
+    {
+      "text": "Leo I requires a regional Tuscany marker; no precise town is supported by the official audience.",
+      "sourceRefs": [
+        "ex-leo-i"
+      ]
+    },
+    {
+      "text": "Benedict IX has one person profile and three Vatican pontificate entries; birth date and birthplace remain unknown.",
+      "sourceRefs": [
+        "ex-benedict-ix",
+        "ex-roster"
+      ]
+    },
+    {
+      "text": "Benedict XI must show Blessed although the older Vatican table omits that designation. Omit unresolved recognition date.",
+      "sourceRefs": [
+        "ex-benedict-xi",
+        "ex-ce-list"
+      ]
+    },
+    {
+      "text": "Anterus current Vatican roster gives Greece; mark approximate region rather than an invented town.",
+      "sourceRefs": [
+        "ex-roster"
+      ]
+    },
+    {
+      "text": "Dionysius must remain available with Birthplace unknown and no map coordinate; Rome is his ministry and burial location.",
+      "sourceRefs": [
+        "ex-roster",
+        "ex-dionysius"
+      ]
+    }
+  ],
+  "geographyNote": "Coordinates intentionally omitted for root integration with a geographic source. Any city point is a reference point for the named birthplace, not a precise birth-house assertion; region extents are approximate display aids.",
+  "overview": {
+    "intro": {
+      "text": "The pope is the Bishop of Rome and the Catholic Church’s chief pastor. Catholics understand him as the successor of Saint Peter, the apostle entrusted by Jesus with a special responsibility for the Church. Working in communion with the bishops, the pope teaches, governs and serves the unity of the worldwide Church.",
+      "sourceRefs": [
+        "ex-ccc-office",
+        "ex-canon-law"
+      ],
+      "sourceSection": "CCC880–887;canon331"
+    },
+    "succession": {
+      "text": "Today, eligible cardinals elect a pope in a conclave. A bishop becomes pope when he accepts a legitimate election; an elected man who is not yet a bishop must receive episcopal ordination. A pope may resign freely through a properly declared act. Earlier elections involved different combinations of clergy, people and political authorities, as the historical profiles show.",
+      "sourceRefs": [
+        "ex-udg",
+        "ex-canon-law",
+        "ex-cornelius"
+      ],
+      "sourceSection": "UDG33;canon332;Cornelius election account"
+    },
+    "saints": {
+      "text": "A saint is someone whom the Church recognizes as a model of holiness and an intercessor. Canonization makes that recognition solemnly and publicly. Each profile records supported saint or beatification status separately from the papal office. A missing title in an old list does not settle a person’s status.",
+      "sourceRefs": [
+        "ex-ccc-saints",
+        "ex-old-roster"
+      ]
+    },
+    "canonization": {
+      "text": "Early Christians venerated apostles, martyrs and other witnesses of faith before today’s procedures developed. Modern causes investigate a person’s life, virtues or martyrdom, writings and testimony; alleged miracles are examined separately. Diocesan inquiries and study in Rome support the Church’s decision. Early saint profiles therefore need historical context rather than an invented modern canonization date.",
+      "sourceRefs": [
+        "ex-divinus"
+      ]
+    },
+    "antipopes": {
+      "text": "An antipope is a rival claimant to the papacy whose claim is not recognized in the official sequence. Such disputes could grow from divided elections, political pressure or conflict within the Church. Some ancient identities and historical classifications remain debated; the profiles explain those uncertainties.",
+      "sourceRefs": [
+        "ex-antipope-list",
+        "ex-catacombs",
+        "ex-roster"
+      ]
+    }
+  },
+  "antipopeCoverageNote": "Selected, sourced examples for the prototype, not a complete catalogue of all historical antipope claimants."
+}

@@ -1,0 +1,72 @@
+# Prototype validation
+
+Initial review in Chromium on 10 October 2026; birthplace, map density, portrait/world and full-sequence research revisions reviewed on 17 October 2026. This is evidence for the prototype branch, not approval or verification of a deployed release.
+
+## Run and review
+
+Run `npm run dev` at the repository root and open `http://localhost:4173/`. No dependency installation is required. Alternatively, open [preview.html](preview.html), the self-contained review artifact. The exported preview was exercised over a local server with no remote requests; the managed Chromium environment blocks direct `file://` navigation, so direct disk navigation was not exercised here.
+
+Run `npm run check` for syntax and data/map regressions. For the optional browser check, install Python Playwright and supply a Chromium executable if it is not `/usr/bin/chromium`:
+
+```sh
+python3 scripts/browser-review.py --browser /path/to/chromium
+python3 scripts/browser-review.py --url http://localhost:4173/docs/qa/preview.html --browser /path/to/chromium
+python3 scripts/content-review.py --browser /path/to/chromium
+python3 scripts/content-review.py --url http://localhost:4173/docs/qa/preview.html --browser /path/to/chromium
+```
+
+## Verified behavior
+
+- All 267 ordered Vatican entries link to 265 shared people. Benedict IX retains positions 145, 147 and 150, one profile, one era and three independently selectable tour stops. Source date strings are preserved; Peter's blank start stays unknown and Leo XIV's endpoint stays present.
+- Exact shared birthplaces count unique people, select the earliest first and expose every name. Nearby groups contain at most four locations, span no more than three geographic degrees, and have a maximum 34px member-to-member distance. Chains of nearby towns cannot grow into a country-wide group. Substantial shared birthplaces such as Rome retain their own names and counts. The supplied illustrated pins have small rectangular count tabs and collision-filtered place captions. Separate 44px targets use modest offsets with thin geographic connectors; crowded places appear as zoom permits. Selected, hovered and focused labels avoid the pins, captions and controls. Each member retains his own birthplace and geographic precision.
+- The closer opening view prioritizes Italy, central Europe and the Mediterranean. Portrait framing caps the northern edge and positions Rome in the space between the introduction and bottom cards, including short phones. The opening “Across the Atlantic” card links directly to Francis in Buenos Aires and Leo XIV in Chicago. Reset restores that introduction without losing saved tour progress. “Show the world” adds a selectable Americas inset. Northern, western and eastern birthplaces remain reachable through list selection and panning. Pointer selection, reset and both American profiles were checked on desktop, 390px and 320px screens. Covered markers leave the keyboard tab order. Unknown and supported-but-unmapped origins retain the current view; selecting them also stops any previous movement. Mobile Back to map retains selection and view. Back to list restores its scroll position.
+- Manual Previous/Next, desktop timeline jumps, focus/hover previews, mobile direct selection, exit, continue and restart were exercised. A new tour starts with Peter; continuing restores its own saved position even after browsing. The final entry disables Next. All 267 timeline stops remain available.
+- Full-width mobile panels prevent keyboard focus on the covered map and toolbar. Closing or changing to desktop restores access without resetting selection. Rotating an open profile updates its Back controls while preserving scroll, expanded notes and focus. Arrow-key pan, plus/minus zoom, Home reset, Tab and Enter on markers, profile controls and the native Resources dialog were exercised. Reduced motion suppresses animated map movement and UI transitions.
+- Every one of the 265 unique people has an introduction, fuller biography, actions and historical context. The mobile content check selects each person, opens those sections and checks that the expected recognition and rival accounts are exposed without numbered research citations. Paragraph-level supporting references and individual field reviews pass the strict research audit.
+- The 41 rival accounts distinguish repeated names, span relevant pontificates and retain classification uncertainty. Gregory XII exposes three separate claimant histories. Recognized disputed popes remain in the official sequence. Early cults, formal canonization and modern causes are distinguished: Leo III’s 1673 cult recognition is not printed as a canonization, Pius VII is Servant of God, Pius XII Venerable and John Paul I Blessed.
+- All 267 list birthplace labels omit repetitive approximation qualifiers. Evaristus shows Bethlehem, Hyginus Athens and Telesphorus Calabria; 45 targeted records have reviewed birthplace evidence, followed by 13 small-place resolutions. North African records no longer use a whole-continent extent. Source precision, traditional accounts and disagreements remain internal. See [birthplace review](../internal/birthplace-review.md).
+- Overview, saint explanation, election explanation, Holy See/prayer-intentions/MassTimes links and Print & Praise credit are present. Geographic attribution includes Pleiades and OpenStreetMap. Missing portraits use the person's text profile; era artwork remains a map illustration.
+- Forcing the map module to fail leaves the complete list, profiles and tour usable. Normal and exported browsing generated no uncaught JavaScript errors or remote requests.
+
+The automated suite contains 14 data regressions and 10 map regressions across two test files. The strict research audit covers all 265 profiles; normal and exported content checks traverse every person’s expanded sections, recognition and relevant rival accounts. Source extraction and data compilation reproduce identical `data/popes.json` bytes from the checked-in inputs.
+
+## Visual review
+
+The research pass adds rendered examples for early, ancient, medieval, schism, modern and current profiles. Desktop and mobile screenshots cover the introduction, expanded biography and historical context. Recognition badges and long paragraphs remain readable. A separate complete-profile browser pass exercises every person rather than sampling only the initial example cards.
+
+The supplied PDF was rendered and the supplied illustrations were unpacked and inspected before implementation. Actual screenshots were inspected after coherent shell, map, profile/content, regional-marker, mobile, keyboard and short-landscape changes. Review addressed region-label clutter, regional/exact pin collisions, historical-label spacing, missing arrow glyphs, mobile welcome height, covered keyboard targets, duplicated claimant prose, and short-screen clipping.
+
+The follow-up review simplified dense locations to illustrated pins with quiet count tabs, tightened local grouping and moved the opening composition closer to the Mediterranean. It also added direct American pope links, retained the interactive inset, cleaned place labels and integrated new birthplace sources. Actual desktop/mobile screenshots caught overly busy pin fans, short-screen obstruction of Rome, missing arrow glyphs, overlapping touch targets, transparent card-wrapper click interception and a missing Rome caption. These were corrected and the affected views inspected again.
+
+Phones use a compact welcome title while retaining the tour button in the header. Short screens also use a shorter era key with full era names. The repeatable browser check requires a visible, named Rome marker, several distinct local groups, illustrated artwork, nonoverlapping 44px targets and successful pointer hit tests. It also checks the portrait northern extent, both direct American links and access to Adrian IV's northern birthplace. These checks do not reward combining unrelated towns into one large count.
+
+Final review sizes: 1440×900 desktop, 390×844 mobile, 320×568 small mobile, 844×390 landscape, and 568×320 small landscape. At the smallest landscape size the page scrolls to keep its footer and tour reachable. This was a Chromium review with emulated viewports, not a physical-device or Safari/Firefox review.
+
+| State | Evidence |
+| --- | --- |
+| Map landing | [Desktop](preview-desktop.png), [mobile](preview-mobile.png) |
+| World overview | [Desktop](preview-world-desktop.png), [mobile](preview-world-mobile.png) |
+| Small world overview | [320px screen](preview-world-small-mobile.png) |
+| Small default overview | [320×568](preview-small-mobile.png), [320×844](default-small-320x844.png), [390×568](default-small-390x568.png) |
+| Dense Italy selection | [Desktop](revision-review-italy-final-1440.png), [mobile](revision-review-italy-final-390.png), [narrow tall screen](density-italy-320.png) |
+| Manual tour and profile | [Desktop](preview-tour-desktop.png), [mobile](preview-tour-mobile.png) |
+| Researched early profile | [Desktop](research-early-desktop.png), [mobile](research-early-mobile.png), [context](research-early-context-mobile.png) |
+| Ancient doctrinal dispute | [Honorius I desktop](research-ancient-desktop.png), [mobile context](research-ancient-context-mobile.png) |
+| Medieval and schism histories | [John XII](research-medieval-mobile.png), [Gregory XII context](research-schism-context-desktop.png) |
+| Early modern suppression | [Clement XIV](research-early-modern-desktop.png), [mobile context](research-early-modern-context-mobile.png) |
+| Qualified rival classification | [Heraclius desktop](research-rival-desktop.png), [mobile](research-rival-mobile.png) |
+| Modern and current histories | [Pius XII](research-modern-mobile.png), [Leo XIV context](research-current-context-mobile.png) |
+| Refined birthplace | [Evaristus desktop](revised-evaristus-desktop.png), [mobile](revised-evaristus-mobile.png) |
+| Regional birthplace label | [Telesphorus desktop](revised-telesphorus-desktop.png), [mobile](revised-telesphorus-mobile.png) |
+| Resources and attribution | [Mobile](revised-resources-mobile.png), [small mobile](revised-resources-small.png) |
+| Short landscape | [844×390 landing](final-landscape-844x390.png), [tour](final-landscape-tour-844x390.png) |
+| Small landscape | [568×320 landing](final-landscape-568x320.png), [tour](final-landscape-tour-568x320.png) |
+
+## Remaining work
+
+- The full-sequence narrative pass is populated. Final historical/editorial verification for release remains open, including the individual conflict notes in the research ledger. Structural checks and source-reading metadata do not establish that every historical interpretation is settled.
+- 219 people have named-place reference coordinates, 36 have regional origins and 10 have unknown birthplaces. All supported named origins are mapped; the records explain rejected homonyms and unsuitable nearby points. A settlement or estate reference point is not a verified birth building.
+- Portraits have not been independently sourced and licensed; complete text profiles supply the permitted fallback. Unverified recognition is not evidence of non-sainthood, and current causes may require future updates.
+- DNS, current live routing, GitHub Pages publishing settings and origin TLS remain unverified because these checks were blocked or unsupported in the managed environment. The existing CNAME and Pages metadata alone do not verify a release. See [domain-check.md](../internal/domain-check.md) for exact evidence and post-approval checks.
+
+No merge, deployment, DNS change or public-site publication was performed.
