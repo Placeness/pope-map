@@ -12,6 +12,7 @@ def read(name, fallback=None):
 roster = read('vatican-roster.json')
 locations = read('locations.json', {})
 examples = read('examples.json', {})
+birthplace_research = read('birthplaces.json', {})
 sources = [
     {'id': 1, 'title': 'Pontiffs — official Vatican roster', 'url': roster['sources']['english']['url'], 'kind': 'official-vatican', 'passage': 'Numbered table rows 1–267. Each record retains its row and source-exact strings.', 'retrievedAt': roster['retrievedAt']},
     {'id': 2, 'title': 'I Sommi Pontefici Romani — older Vatican table', 'url': roster['sources']['italian']['url'], 'kind': 'official-vatican', 'passage': 'Individual positive S./B. designations and endnotes explaining alternative dates and election, consecration and coronation. Modern changes verified separately.', 'retrievedAt': roster['retrievedAt']},
@@ -50,6 +51,10 @@ era_sources = [
 ]
 for key, item in era_sources:
     add_source(key, item)
+
+# Append the later geographic review after existing sources to keep their IDs stable.
+for item in birthplace_research.get('sources', []):
+    add_source(item['id'], item)
 
 eras = [
     {'id': 'early', 'label': 'Early papacy', 'color': '#E8B04B', 'marker': 'assets/artwork/pin-early.webp', 'startOrder': 1, 'endOrder': 63, 'rationale': 'Ends before Gregory I; Gregory bridges late antiquity and medieval European missions. This is a project grouping, not an official classification.', 'sourceRefs': [1, source_keys['E2'], source_keys['E3']]},
@@ -170,6 +175,52 @@ for profile in examples.get('profiles', []):
     person['sourceRefs'] = list(dict.fromkeys(n for nums in person['claims'].values() for n in nums))
     person['research'].update(biographyCoverage='sourced-initial-profile',birthDate=birth['precision'],saintStatus='positive-verified' if status!='unverified' else 'no-positive-claim',antipopeCoverage='selected-example-only')
     person['research']['notes'] += [{**n,'sourceRefs':references(n)} for n in profile.get('researchNotes',[])]
+
+for review in birthplace_research.get('people', []):
+    person = roster_person(review['papalName'])
+    if not person:
+        raise ValueError(f'Birthplace review has no roster person: {review["papalName"]}')
+    previous = dict(person['birthplace'])
+    location = {**previous, **{key:review[key] for key in ('label','country','countryCode','precision','coordinates','bounds','placeId','historicalName','reasoning') if key in review}}
+    location['sourceRefs'] = references(review)
+    location['uncertainty'] = review.get('uncertainty', '')
+    if location['precision'] == 'region':
+        location['coordinates'] = None
+        if not location.get('bounds'):
+            raise ValueError(f'Reviewed region has no extent: {person["name"]}')
+    elif location['precision'] == 'place' and location.get('coordinates'):
+        location['bounds'] = None
+        location['sourceRefs'] = list(dict.fromkeys(location['sourceRefs'] + references({'sourceRefs':review.get('coordinateSourceRefs', [])})))
+    elif location['precision'] == 'unknown':
+        location.update(coordinates=None,bounds=None,placeId=None)
+    location['sourceUrls'] = list(dict.fromkeys(source['url'] for number in location['sourceRefs'] for source in sources if source['id']==number))
+    person['birthplace'] = location
+    person['claims']['birthplace'] = location['sourceRefs']
+    person['sourceRefs'] = list(dict.fromkeys(person['sourceRefs'] + location['sourceRefs']))
+    person['research']['birthplaceReview'] = {
+        'reviewedAt':birthplace_research.get('reviewedAt'),
+        'supportingPassage':review.get('supportingPassage',''),
+        'confidence':review.get('confidence',''),
+        'sourceRefs':references(review),
+        'previousRecord':previous,
+        'disagreements':resolve_research(review.get('disagreements', [])),
+        'origin':resolve_research(review.get('origin')),
+        'rejectedCandidates':resolve_research(review.get('rejectedCandidates', [])),
+        'geonamesRecord':review.get('geonamesRecord'),
+    }
+    if review.get('summary'):
+        person['summary'] = review['summary']
+        person['claims']['summary'] = list(dict.fromkeys(person['claims']['summary'] + location['sourceRefs']))
+
+# Labels are place names. Precision, disputed accounts and navigation envelopes
+# remain in the research records instead of repeated parenthetical UI disclaimers.
+def place_label(value):
+    value = re.sub(r'\s*\((?:approximate(?: origin)?|broad origin|birthplace uncertain)\)', '', value, flags=re.I)
+    value = re.sub(r'\s*[—–-]\s*approximate(?: historical location| origin)?\s*$', '', value, flags=re.I)
+    return value.strip()
+
+for person in people:
+    person['birthplace']['label'] = place_label(person['birthplace']['label'])
 
 antipopes = []
 for claimant in examples.get('antipopes', []):

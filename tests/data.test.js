@@ -87,3 +87,43 @@ test('multiple claimants and spanning relationships remain distinct from recogni
   assert.ok(claimant.relationships.length>=4);
   assert.notEqual(claimant.id,data.people.find(p=>p.name==='Benedict XIII').id);
 });
+
+test('reviewed birthplaces distinguish a named birthplace from ancestry', () => {
+  const find = name => data.people.find(person => person.name === name);
+  assert.equal(find('Evaristus').birthplace.label,'Bethlehem');
+  assert.deepEqual(find('Evaristus').birthplace.coordinates,[35.20376,31.70487]);
+  assert.ok(find('Evaristus').research.birthplaceReview.disagreements.length);
+  assert.equal(find('Hyginus').birthplace.label,'Athens');
+  assert.equal(find('Telesphorus').birthplace.label,'Calabria');
+  assert.equal(find('Telesphorus').birthplace.precision,'region');
+  assert.equal(find('Telesphorus').birthplace.coordinates,null);
+  for (const name of ['Sisinnius','Constantine']) {
+    assert.equal(find(name).birthplace.precision,'unknown');
+    assert.equal(find(name).birthplace.coordinates,null);
+    assert.match(find(name).research.birthplaceReview.origin.label,/Syria/);
+  }
+  assert.equal(find('John VII').birthplace.label,'Rossano');
+  assert.ok(find('John VI').research.birthplaceReview.disagreements.length);
+});
+
+test('North African origins use Mediterranean bounds rather than a continental center', () => {
+  for (const name of ['Victor I','Miltiades or Melchiades','Gelasius I']) {
+    const b=data.people.find(person=>person.name===name).birthplace;
+    assert.equal(b.label,'North Africa');
+    assert.equal(b.precision,'region');
+    assert.equal(b.coordinates,null);
+    assert.ok(b.bounds[0][1]>=25);
+    assert.ok(b.bounds[1][1]<=38);
+  }
+});
+
+test('place labels stay concise while source precision and coordinate attribution remain available', () => {
+  for (const person of data.people) assert.doesNotMatch(person.birthplace.label,/approximate|broad origin|birthplace uncertain/i);
+  const find=name=>data.people.find(person=>person.name===name);
+  assert.deepEqual(find('Eleutherius').birthplace.coordinates,[20.7360035,39.0157]);
+  assert.deepEqual(find('Gregory VII').birthplace.coordinates,[11.64505,42.65718]);
+  assert.deepEqual(find('Nicholas II').birthplace.coordinates,[6.3372568,45.6746571]);
+  const sourceMap=new Map(data.sources.map(source=>[source.id,source]));
+  assert.ok(find('Eleutherius').birthplace.sourceRefs.some(id=>sourceMap.get(id).url.includes('pleiades-geojson')));
+  assert.ok(find('Nicholas II').birthplace.sourceRefs.some(id=>sourceMap.get(id).url==='https://www.openstreetmap.org/node/11766436919'));
+});
